@@ -1,4 +1,15 @@
 * text=auto !eol
+demos/LPC214x-GCC/buzzer.c -text
+demos/LPC214x-GCC/buzzer.h -text
+demos/LPC214x-GCC/ch.ld -text
+demos/LPC214x-GCC/chconf.h -text
+demos/LPC214x-GCC/chcore.c -text
+demos/LPC214x-GCC/chcore.h -text
+demos/LPC214x-GCC/chcore2.s -text
+demos/LPC214x-GCC/chtypes.h -text
+demos/LPC214x-GCC/crt0.s -text
+demos/LPC214x-GCC/main.c -text
+demos/LPC214x-GCC/makefile -text
 docs/Doxyfile -text
 docs/ch.txt -text
 /license.txt -text
