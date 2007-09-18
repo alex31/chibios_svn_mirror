@@ -27,4 +27,8 @@ demos/Win32-MinGW/makefile -text
 docs/Doxyfile -text
 docs/ch.txt -text
 /license.txt -text
+ports/ARM7-LPC214x/GCC/lpc214x.h -text
+ports/ARM7-LPC214x/GCC/lpc214x_serial.c -text
+ports/ARM7-LPC214x/GCC/lpc214x_serial.h -text
+ports/Win32/simcom.c -text
 /readme.txt -text
