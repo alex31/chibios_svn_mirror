@@ -1,3 +1,5 @@
 * text=auto !eol
+docs/Doxyfile -text
+docs/ch.txt -text
 /license.txt -text
 /readme.txt -text
