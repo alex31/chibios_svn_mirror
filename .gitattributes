@@ -9,7 +9,7 @@ demos/LPC214x-GCC/chcore2.s -text
 demos/LPC214x-GCC/chtypes.h -text
 demos/LPC214x-GCC/crt0.s -text
 demos/LPC214x-GCC/main.c -text
-demos/LPC214x-GCC/makefile -text
+demos/LPC214x-GCC/makefile_ -text
 demos/LPC214x-GCC/readme.txt -text
 demos/Win32-MSVS/ch.sln -text
 demos/Win32-MSVS/ch.vcproj -text
@@ -25,7 +25,7 @@ demos/Win32-MinGW/chcore.h -text
 demos/Win32-MinGW/chcore2.s -text
 demos/Win32-MinGW/chtypes.h -text
 demos/Win32-MinGW/demo.c -text
-demos/Win32-MinGW/makefile -text
+demos/Win32-MinGW/makefile_ -text
 demos/Win32-MinGW/readme.txt -text
 docs/Doxyfile -text
 docs/ch.txt -text
