@@ -40,6 +40,7 @@ ports/Win32/simcom.c -text
 src/chdelta.c -text
 src/chevents.c -text
 src/chinit.c -text
+src/chlists.c -text
 src/chmsg.c -text
 src/chqueues.c -text
 src/chschd.c -text
@@ -50,6 +51,7 @@ src/chthreads.c -text
 src/include/ch.h -text
 src/include/delta.h -text
 src/include/events.h -text
+src/include/lists.h -text
 src/include/messages.h -text
 src/include/queues.h -text
 src/include/scheduler.h -text
