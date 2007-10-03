@@ -64,3 +64,4 @@ src/templates/chcore.c -text
 src/templates/chcore.h -text
 src/templates/chtypes.h -text
 src/templates/readme.txt -text
+test/test.c -text
