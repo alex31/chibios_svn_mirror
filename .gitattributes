@@ -1,4 +1,16 @@
 * text=auto !eol
+demos/ARM7-LPC214x-GCC/Makefile -text
+demos/ARM7-LPC214x-GCC/buzzer.c -text
+demos/ARM7-LPC214x-GCC/buzzer.h -text
+demos/ARM7-LPC214x-GCC/ch.ld -text
+demos/ARM7-LPC214x-GCC/chconf.h -text
+demos/ARM7-LPC214x-GCC/chcore.c -text
+demos/ARM7-LPC214x-GCC/chcore.h -text
+demos/ARM7-LPC214x-GCC/chcore2.s -text
+demos/ARM7-LPC214x-GCC/chtypes.h -text
+demos/ARM7-LPC214x-GCC/crt0.s -text
+demos/ARM7-LPC214x-GCC/main.c -text
+demos/ARM7-LPC214x-GCC/readme.txt -text
 demos/LPC214x-GCC/Makefile -text
 demos/LPC214x-GCC/buzzer.c -text
 demos/LPC214x-GCC/buzzer.h -text
