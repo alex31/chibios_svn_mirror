@@ -11,6 +11,13 @@ demos/ARM7-LPC214x-GCC/chtypes.h -text
 demos/ARM7-LPC214x-GCC/crt0.s -text
 demos/ARM7-LPC214x-GCC/main.c -text
 demos/ARM7-LPC214x-GCC/readme.txt -text
+demos/AVR-AT90CANx-GCC/Makefile -text
+demos/AVR-AT90CANx-GCC/chconf.h -text
+demos/AVR-AT90CANx-GCC/chcore.c -text
+demos/AVR-AT90CANx-GCC/chcore.h -text
+demos/AVR-AT90CANx-GCC/chcore2.S -text
+demos/AVR-AT90CANx-GCC/chtypes.h -text
+demos/AVR-AT90CANx-GCC/main.c -text
 demos/LPC214x-GCC/Makefile -text
 demos/LPC214x-GCC/buzzer.c -text
 demos/LPC214x-GCC/buzzer.h -text
