@@ -58,6 +58,7 @@ src/chthreads.c -text
 src/include/ch.h -text
 src/include/delta.h -text
 src/include/events.h -text
+src/include/inline.h -text
 src/include/lists.h -text
 src/include/messages.h -text
 src/include/queues.h -text
