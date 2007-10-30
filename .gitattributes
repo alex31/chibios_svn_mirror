@@ -42,6 +42,8 @@ docs/img/workspace.png -text
 ports/ARM7-LPC214x/GCC/lpc214x.h -text
 ports/ARM7-LPC214x/GCC/lpc214x_serial.c -text
 ports/ARM7-LPC214x/GCC/lpc214x_serial.h -text
+ports/ARM7-LPC214x/GCC/lpc214x_ssp.c -text
+ports/ARM7-LPC214x/GCC/lpc214x_ssp.h -text
 ports/ARM7-LPC214x/GCC/vic.c -text
 ports/ARM7-LPC214x/GCC/vic.h -text
 ports/Win32/simcom.c -text
