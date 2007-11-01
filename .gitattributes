@@ -40,8 +40,8 @@ docs/img/readylist.png -text
 docs/img/workspace.png -text
 /license.txt -text
 ports/ARM7-LPC214x/GCC/lpc214x.h -text
-ports/ARM7-LPC214x/GCC/lpc214x_SPI1.c -text
-ports/ARM7-LPC214x/GCC/lpc214x_SPI1.h -text
+ports/ARM7-LPC214x/GCC/lpc214x_SSP.c -text
+ports/ARM7-LPC214x/GCC/lpc214x_SSP.h -text
 ports/ARM7-LPC214x/GCC/lpc214x_serial.c -text
 ports/ARM7-LPC214x/GCC/lpc214x_serial.h -text
 ports/ARM7-LPC214x/GCC/vic.c -text
