@@ -10,6 +10,8 @@ demos/ARM7-LPC214x-GCC/chcore2.s -text
 demos/ARM7-LPC214x-GCC/chtypes.h -text
 demos/ARM7-LPC214x-GCC/crt0.s -text
 demos/ARM7-LPC214x-GCC/main.c -text
+demos/ARM7-LPC214x-GCC/mmcsd.c -text
+demos/ARM7-LPC214x-GCC/mmcsd.h -text
 demos/ARM7-LPC214x-GCC/readme.txt -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
