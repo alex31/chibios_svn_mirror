@@ -50,6 +50,7 @@ ports/ARM7-LPC214x/GCC/vic.c -text
 ports/ARM7-LPC214x/GCC/vic.h -text
 ports/Win32/simcom.c -text
 /readme.txt -text
+src/chdebug.c -text
 src/chdelta.c -text
 src/chevents.c -text
 src/chinit.c -text
@@ -62,6 +63,7 @@ src/chserial.c -text
 src/chsleep.c -text
 src/chthreads.c -text
 src/include/ch.h -text
+src/include/debug.h -text
 src/include/delta.h -text
 src/include/events.h -text
 src/include/inline.h -text
