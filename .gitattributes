@@ -53,6 +53,7 @@ docs/Performance.ods -text
 docs/ch.txt -text
 docs/img/readylist.png -text
 docs/img/workspace.png -text
+docs/index.html -text
 /license.txt -text
 ports/ARM7-LPC214x/GCC/lpc214x.h -text
 ports/ARM7-LPC214x/GCC/lpc214x_serial.c -text
