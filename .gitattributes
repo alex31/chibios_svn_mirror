@@ -70,6 +70,7 @@ src/chevents.c -text
 src/chinit.c -text
 src/chlists.c -text
 src/chmsg.c -text
+src/chmtx.c -text
 src/chqueues.c -text
 src/chschd.c -text
 src/chsem.c -text
@@ -83,6 +84,7 @@ src/include/events.h -text
 src/include/inline.h -text
 src/include/lists.h -text
 src/include/messages.h -text
+src/include/mutexes.h -text
 src/include/queues.h -text
 src/include/scheduler.h -text
 src/include/semaphores.h -text
