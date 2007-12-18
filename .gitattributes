@@ -3,11 +3,6 @@ demos/ARM7-LPC214x-GCC-minimal/Makefile -text
 demos/ARM7-LPC214x-GCC-minimal/Makefile.thumb -text
 demos/ARM7-LPC214x-GCC-minimal/ch.ld -text
 demos/ARM7-LPC214x-GCC-minimal/chconf.h -text
-demos/ARM7-LPC214x-GCC-minimal/chcore.c -text
-demos/ARM7-LPC214x-GCC-minimal/chcore.h -text
-demos/ARM7-LPC214x-GCC-minimal/chcore2.s -text
-demos/ARM7-LPC214x-GCC-minimal/chtypes.h -text
-demos/ARM7-LPC214x-GCC-minimal/crt0.s -text
 demos/ARM7-LPC214x-GCC-minimal/main.c -text
 demos/ARM7-LPC214x-GCC-minimal/readme.txt -text
 demos/ARM7-LPC214x-GCC/Makefile -text
@@ -18,7 +13,6 @@ demos/ARM7-LPC214x-GCC/buzzer.c -text
 demos/ARM7-LPC214x-GCC/buzzer.h -text
 demos/ARM7-LPC214x-GCC/ch.ld -text
 demos/ARM7-LPC214x-GCC/chconf.h -text
-demos/ARM7-LPC214x-GCC/chtypes.h -text
 demos/ARM7-LPC214x-GCC/main.c -text
 demos/ARM7-LPC214x-GCC/mmcsd.c -text
 demos/ARM7-LPC214x-GCC/mmcsd.h -text
@@ -55,6 +49,7 @@ docs/index.html -text
 /license.txt -text
 ports/ARM7-LPC214x/GCC/chcore.c -text
 ports/ARM7-LPC214x/GCC/chcore.h -text
+ports/ARM7-LPC214x/GCC/chtypes.h -text
 ports/ARM7-LPC214x/GCC/crt0.s -text
 ports/ARM7-LPC214x/GCC/lpc214x.h -text
 ports/ARM7-LPC214x/GCC/lpc214x_serial.c -text
