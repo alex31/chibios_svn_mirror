@@ -55,7 +55,6 @@ docs/index.html -text
 /license.txt -text
 ports/ARM7-LPC214x/GCC/chcore.c -text
 ports/ARM7-LPC214x/GCC/chcore.h -text
-ports/ARM7-LPC214x/GCC/chcore2.s -text
 ports/ARM7-LPC214x/GCC/crt0.s -text
 ports/ARM7-LPC214x/GCC/lpc214x.h -text
 ports/ARM7-LPC214x/GCC/lpc214x_serial.c -text
