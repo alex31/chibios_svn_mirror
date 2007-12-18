@@ -1,6 +1,8 @@
 * text=auto !eol
 demos/ARM7-LPC214x-GCC-minimal/Makefile -text
 demos/ARM7-LPC214x-GCC-minimal/Makefile.thumb -text
+demos/ARM7-LPC214x-GCC-minimal/board.c -text
+demos/ARM7-LPC214x-GCC-minimal/board.h -text
 demos/ARM7-LPC214x-GCC-minimal/ch.ld -text
 demos/ARM7-LPC214x-GCC-minimal/chconf.h -text
 demos/ARM7-LPC214x-GCC-minimal/main.c -text
