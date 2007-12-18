@@ -12,6 +12,8 @@ demos/ARM7-LPC214x-GCC-minimal/main.c -text
 demos/ARM7-LPC214x-GCC-minimal/readme.txt -text
 demos/ARM7-LPC214x-GCC/Makefile -text
 demos/ARM7-LPC214x-GCC/Makefile.thumb -text
+demos/ARM7-LPC214x-GCC/board.c -text
+demos/ARM7-LPC214x-GCC/board.h -text
 demos/ARM7-LPC214x-GCC/buzzer.c -text
 demos/ARM7-LPC214x-GCC/buzzer.h -text
 demos/ARM7-LPC214x-GCC/ch.ld -text
