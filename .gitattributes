@@ -1,5 +1,6 @@
 * text=auto !eol
 demos/ARM7-AT91SAM7X-GCC/Makefile -text
+demos/ARM7-AT91SAM7X-GCC/Makefile.thumb -text
 demos/ARM7-AT91SAM7X-GCC/at91lib/AT91SAM7X256.h -text
 demos/ARM7-AT91SAM7X-GCC/at91lib/aic.c -text
 demos/ARM7-AT91SAM7X-GCC/at91lib/aic.h -text
