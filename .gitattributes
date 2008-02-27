@@ -37,6 +37,11 @@ demos/AVR-AT90CANx-GCC/chcore.h -text
 demos/AVR-AT90CANx-GCC/chcore2.S -text
 demos/AVR-AT90CANx-GCC/chtypes.h -text
 demos/AVR-AT90CANx-GCC/main.c -text
+demos/AVR-ATmega128-GCC/Makefile -text
+demos/AVR-ATmega128-GCC/board.c -text
+demos/AVR-ATmega128-GCC/board.h -text
+demos/AVR-ATmega128-GCC/chconf.h -text
+demos/AVR-ATmega128-GCC/main.c -text
 demos/Win32-MSVS/ch.sln -text
 demos/Win32-MSVS/ch.vcproj -text
 demos/Win32-MSVS/chconf.h -text
@@ -76,6 +81,9 @@ ports/ARM7-LPC214x/vic.h -text
 ports/ARM7/chcore.h -text
 ports/ARM7/chsys.s -text
 ports/ARM7/chtypes.h -text
+ports/AVR/chcore.c -text
+ports/AVR/chcore.h -text
+ports/AVR/chtypes.h -text
 ports/Win32/simcom.c -text
 /readme.txt -text
 src/chdebug.c -text
