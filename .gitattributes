@@ -74,6 +74,8 @@ ports/ARM7-LPC214x/vic.h -text
 ports/ARM7/chcore.h -text
 ports/ARM7/chsys.s -text
 ports/ARM7/chtypes.h -text
+ports/AVR/avr_serial.c -text
+ports/AVR/avr_serial.h -text
 ports/AVR/chcore.c -text
 ports/AVR/chcore.h -text
 ports/AVR/chtypes.h -text
