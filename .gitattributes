@@ -43,14 +43,6 @@ demos/AVR-ATmega128-GCC/board.h -text
 demos/AVR-ATmega128-GCC/chconf.h -text
 demos/AVR-ATmega128-GCC/main.c -text
 demos/AVR-ATmega128-GCC/readme.txt -text
-demos/Win32-MSVS/ch.sln -text
-demos/Win32-MSVS/ch.vcproj -text
-demos/Win32-MSVS/chconf.h -text
-demos/Win32-MSVS/chcore.c -text
-demos/Win32-MSVS/chcore.h -text
-demos/Win32-MSVS/chtypes.h -text
-demos/Win32-MSVS/demo.c -text
-demos/Win32-MSVS/readme.txt -text
 demos/Win32-MinGW/Makefile -text
 demos/Win32-MinGW/chconf.h -text
 demos/Win32-MinGW/chcore.c -text
