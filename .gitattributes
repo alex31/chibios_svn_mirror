@@ -31,12 +31,11 @@ demos/ARM7-LPC214x-GCC/mmcsd.c -text
 demos/ARM7-LPC214x-GCC/mmcsd.h -text
 demos/ARM7-LPC214x-GCC/readme.txt -text
 demos/AVR-AT90CANx-GCC/Makefile -text
+demos/AVR-AT90CANx-GCC/board.c -text
+demos/AVR-AT90CANx-GCC/board.h -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
-demos/AVR-AT90CANx-GCC/chcore.c -text
-demos/AVR-AT90CANx-GCC/chcore.h -text
-demos/AVR-AT90CANx-GCC/chcore2.S -text
-demos/AVR-AT90CANx-GCC/chtypes.h -text
 demos/AVR-AT90CANx-GCC/main.c -text
+demos/AVR-AT90CANx-GCC/readme.txt -text
 demos/AVR-ATmega128-GCC/Makefile -text
 demos/AVR-ATmega128-GCC/board.c -text
 demos/AVR-ATmega128-GCC/board.h -text
