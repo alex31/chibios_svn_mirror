@@ -40,6 +40,8 @@ demos/AVR-ATmega128-GCC/Makefile -text
 demos/AVR-ATmega128-GCC/board.c -text
 demos/AVR-ATmega128-GCC/board.h -text
 demos/AVR-ATmega128-GCC/chconf.h -text
+demos/AVR-ATmega128-GCC/lcd.c -text
+demos/AVR-ATmega128-GCC/lcd.h -text
 demos/AVR-ATmega128-GCC/main.c -text
 demos/AVR-ATmega128-GCC/readme.txt -text
 demos/Win32-MinGW/Makefile -text
