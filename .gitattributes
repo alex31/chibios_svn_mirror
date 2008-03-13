@@ -30,6 +30,11 @@ demos/ARM7-LPC214x-GCC/main.c -text
 demos/ARM7-LPC214x-GCC/mmcsd.c -text
 demos/ARM7-LPC214x-GCC/mmcsd.h -text
 demos/ARM7-LPC214x-GCC/readme.txt -text
+demos/ARMCM3-STM32F103-GCC/Makefile -text
+demos/ARMCM3-STM32F103-GCC/board.c -text
+demos/ARMCM3-STM32F103-GCC/board.h -text
+demos/ARMCM3-STM32F103-GCC/chconf.h -text
+demos/ARMCM3-STM32F103-GCC/main.c -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/board.c -text
 demos/AVR-AT90CANx-GCC/board.h -text
@@ -75,6 +80,10 @@ ports/ARM7-LPC214x/vic.h -text
 ports/ARM7/chcore.h -text
 ports/ARM7/chsys.s -text
 ports/ARM7/chtypes.h -text
+ports/ARMCM3/chcore.c -text
+ports/ARMCM3/chcore.h -text
+ports/ARMCM3/chtypes.h -text
+ports/ARMCM3/crt0.s -text
 ports/AVR/avr_serial.c -text
 ports/AVR/avr_serial.h -text
 ports/AVR/chcore.c -text
