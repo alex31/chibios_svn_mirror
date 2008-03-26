@@ -126,6 +126,8 @@ src/include/semaphores.h -text
 src/include/serial.h -text
 src/include/sleep.h -text
 src/include/threads.h -text
+src/lib/ch.cpp -text
+src/lib/ch.hpp -text
 src/lib/evtimer.c -text
 src/lib/evtimer.h -text
 src/templates/chconf.h -text
