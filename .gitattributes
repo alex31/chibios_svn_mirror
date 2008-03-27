@@ -10,6 +10,14 @@ demos/ARM7-AT91SAM7X-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-GCC/chconf.h -text
 demos/ARM7-AT91SAM7X-GCC/main.c -text
 demos/ARM7-AT91SAM7X-GCC/readme.txt -text
+demos/ARM7-LPC214x-G++/Makefile -text
+demos/ARM7-LPC214x-G++/Makefile.thumb -text
+demos/ARM7-LPC214x-G++/board.c -text
+demos/ARM7-LPC214x-G++/board.h -text
+demos/ARM7-LPC214x-G++/ch.ld -text
+demos/ARM7-LPC214x-G++/chconf.h -text
+demos/ARM7-LPC214x-G++/main.cpp -text
+demos/ARM7-LPC214x-G++/readme.txt -text
 demos/ARM7-LPC214x-GCC-minimal/Makefile -text
 demos/ARM7-LPC214x-GCC-minimal/Makefile.thumb -text
 demos/ARM7-LPC214x-GCC-minimal/board.c -text
