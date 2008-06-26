@@ -171,6 +171,7 @@ src/include/semaphores.h -text
 src/include/serial.h -text
 src/include/sleep.h -text
 src/include/threads.h -text
+src/kernel.mk -text
 src/lib/ch.cpp -text
 src/lib/ch.hpp -text
 src/lib/evtimer.c -text
@@ -182,6 +183,7 @@ src/templates/chtypes.h -text
 src/templates/readme.txt -text
 test/test.c -text
 test/test.h -text
+test/test.mk -text
 test/testbmk.c -text
 test/testbmk.h -text
 test/testmsg.c -text
