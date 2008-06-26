@@ -182,6 +182,8 @@ src/templates/chtypes.h -text
 src/templates/readme.txt -text
 test/test.c -text
 test/test.h -text
+test/testbmk.c -text
+test/testbmk.h -text
 test/testmsg.c -text
 test/testmsg.h -text
 test/testmtx.c -text
