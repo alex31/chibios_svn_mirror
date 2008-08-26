@@ -149,9 +149,9 @@ src/chdelta.c -text
 src/chevents.c -text
 src/chinit.c -text
 src/chlists.c -text
+src/chmempools.c -text
 src/chmsg.c -text
 src/chmtx.c -text
-src/chpools.c -text
 src/chqueues.c -text
 src/chschd.c -text
 src/chsem.c -text
@@ -192,6 +192,8 @@ test/testmsg.c -text
 test/testmsg.h -text
 test/testmtx.c -text
 test/testmtx.h -text
+test/testpools.c -text
+test/testpools.h -text
 test/testrdy.c -text
 test/testrdy.h -text
 test/testsem.c -text
