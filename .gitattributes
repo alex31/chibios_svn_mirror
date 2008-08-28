@@ -147,6 +147,7 @@ ports/Win32/simcom.c -text
 src/chdebug.c -text
 src/chdelta.c -text
 src/chevents.c -text
+src/chheap.c -text
 src/chinit.c -text
 src/chlists.c -text
 src/chmempools.c -text
@@ -162,6 +163,7 @@ src/include/ch.h -text
 src/include/debug.h -text
 src/include/delta.h -text
 src/include/events.h -text
+src/include/heap.h -text
 src/include/inline.h -text
 src/include/lists.h -text
 src/include/mempools.h -text
