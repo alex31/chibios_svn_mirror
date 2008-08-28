@@ -190,6 +190,8 @@ test/test.h -text
 test/test.mk -text
 test/testbmk.c -text
 test/testbmk.h -text
+test/testheap.c -text
+test/testheap.h -text
 test/testmsg.c -text
 test/testmsg.h -text
 test/testmtx.c -text
