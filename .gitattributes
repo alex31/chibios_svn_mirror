@@ -107,7 +107,6 @@ ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
 /license.txt -text
 ports/ARM7-AT91SAM7X/chcore.c -text
-ports/ARM7-AT91SAM7X/crt0.s -text
 ports/ARM7-AT91SAM7X/mii.h -text
 ports/ARM7-AT91SAM7X/sam7x_emac.c -text
 ports/ARM7-AT91SAM7X/sam7x_emac.h -text
