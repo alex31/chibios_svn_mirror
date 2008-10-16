@@ -98,8 +98,11 @@ demos/Win32-MinGW/readme.txt -text
 docs/Doxyfile -text
 docs/Performance.ods -text
 docs/ch.txt -text
+docs/img/readylist.png -text
 docs/img/readylist.svg -text
+docs/img/states.png -text
 docs/img/states.svg -text
+docs/img/workspace.png -text
 docs/img/workspace.svg -text
 docs/index.html -text
 ext/readme.txt -text
