@@ -96,7 +96,6 @@ demos/Win32-MinGW/chtypes.h -text
 demos/Win32-MinGW/demo.c -text
 demos/Win32-MinGW/readme.txt -text
 docs/Doxyfile -text
-docs/Performance.ods -text
 docs/ch.txt -text
 docs/img/readylist.png -text
 docs/img/readylist.svg -text
@@ -106,6 +105,13 @@ docs/img/workspace.png -text
 docs/img/workspace.svg -text
 docs/index.html -text
 docs/readme.txt -text
+docs/reports/AT91SAM7X-48-ARM.txt -text
+docs/reports/AT91SAM7X-48-THUMB.txt -text
+docs/reports/LPC2148-48-ARM.txt -text
+docs/reports/LPC2148-48-THUMB.txt -text
+docs/reports/MSP430F1611-0.75.txt -text
+docs/reports/STM32F103-48.txt -text
+docs/reports/STM32F103-72.txt -text
 ext/readme.txt -text
 ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
