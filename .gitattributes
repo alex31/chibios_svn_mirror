@@ -158,7 +158,6 @@ ports/MSP430/msp430_serial.h -text
 ports/Win32/simcom.c -text
 /readme.txt -text
 src/chdebug.c -text
-src/chdelta.c -text
 src/chevents.c -text
 src/chheap.c -text
 src/chinit.c -text
@@ -170,11 +169,10 @@ src/chqueues.c -text
 src/chschd.c -text
 src/chsem.c -text
 src/chserial.c -text
-src/chsleep.c -text
 src/chthreads.c -text
+src/chvt.c -text
 src/include/ch.h -text
 src/include/debug.h -text
-src/include/delta.h -text
 src/include/events.h -text
 src/include/heap.h -text
 src/include/inline.h -text
@@ -186,8 +184,8 @@ src/include/queues.h -text
 src/include/scheduler.h -text
 src/include/semaphores.h -text
 src/include/serial.h -text
-src/include/sleep.h -text
 src/include/threads.h -text
+src/include/vt.h -text
 src/kernel.mk -text
 src/lib/ch.cpp -text
 src/lib/ch.hpp -text
