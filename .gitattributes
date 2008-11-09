@@ -204,6 +204,8 @@ test/test.h -text
 test/test.mk -text
 test/testbmk.c -text
 test/testbmk.h -text
+test/testcond.c -text
+test/testcond.h -text
 test/testdyn.c -text
 test/testdyn.h -text
 test/testheap.c -text
