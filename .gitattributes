@@ -208,6 +208,8 @@ test/testcond.c -text
 test/testcond.h -text
 test/testdyn.c -text
 test/testdyn.h -text
+test/testevt.c -text
+test/testevt.h -text
 test/testheap.c -text
 test/testheap.h -text
 test/testmsg.c -text
