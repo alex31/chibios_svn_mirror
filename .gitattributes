@@ -162,7 +162,6 @@ src/chcond.c -text
 src/chdebug.c -text
 src/chevents.c -text
 src/chheap.c -text
-src/chinit.c -text
 src/chlists.c -text
 src/chmempools.c -text
 src/chmsg.c -text
@@ -171,6 +170,7 @@ src/chqueues.c -text
 src/chschd.c -text
 src/chsem.c -text
 src/chserial.c -text
+src/chsys.c -text
 src/chthreads.c -text
 src/chvt.c -text
 src/include/ch.h -text
@@ -187,6 +187,7 @@ src/include/queues.h -text
 src/include/scheduler.h -text
 src/include/semaphores.h -text
 src/include/serial.h -text
+src/include/sys.h -text
 src/include/threads.h -text
 src/include/vt.h -text
 src/kernel.mk -text
