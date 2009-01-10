@@ -91,7 +91,6 @@ demos/Win32-MinGW/Makefile -text
 demos/Win32-MinGW/chconf.h -text
 demos/Win32-MinGW/chcore.c -text
 demos/Win32-MinGW/chcore.h -text
-demos/Win32-MinGW/chcore2.s -text
 demos/Win32-MinGW/chtypes.h -text
 demos/Win32-MinGW/main.c -text
 demos/Win32-MinGW/readme.txt -text
