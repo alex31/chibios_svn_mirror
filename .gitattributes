@@ -134,6 +134,7 @@ ports/ARM7-LPC214x/vic.c -text
 ports/ARM7-LPC214x/vic.h -text
 ports/ARM7/chcore.h -text
 ports/ARM7/chsys.s -text
+ports/ARM7/chsysasm.s -text
 ports/ARM7/chtypes.h -text
 ports/ARM7/crt0.s -text
 ports/ARMCM3-STM32F103/stm32_serial.c -text
