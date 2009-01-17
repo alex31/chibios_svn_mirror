@@ -136,6 +136,7 @@ ports/ARM7/chcore.h -text
 ports/ARM7/chcoreasm.s -text
 ports/ARM7/chtypes.h -text
 ports/ARM7/crt0.s -text
+ports/ARM7/port.dox -text
 ports/ARMCM3-STM32F103/stm32_serial.c -text
 ports/ARMCM3-STM32F103/stm32_serial.h -text
 ports/ARMCM3-STM32F103/vectors.s -text
