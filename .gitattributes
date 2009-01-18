@@ -153,6 +153,7 @@ ports/AVR/avr_serial.h -text
 ports/AVR/chcore.c -text
 ports/AVR/chcore.h -text
 ports/AVR/chtypes.h -text
+ports/AVR/port.dox -text
 ports/MSP430/chcore.c -text
 ports/MSP430/chcore.h -text
 ports/MSP430/chtypes.h -text
