@@ -147,6 +147,7 @@ ports/ARMCM3/chtypes.h -text
 ports/ARMCM3/crt0.s -text
 ports/ARMCM3/nvic.c -text
 ports/ARMCM3/nvic.h -text
+ports/ARMCM3/port.dox -text
 ports/AVR/avr_serial.c -text
 ports/AVR/avr_serial.h -text
 ports/AVR/chcore.c -text
