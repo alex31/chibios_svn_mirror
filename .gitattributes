@@ -123,7 +123,6 @@ ports/ARM7-AT91SAM7X/sam7x_emac.h -text
 ports/ARM7-AT91SAM7X/sam7x_serial.c -text
 ports/ARM7-AT91SAM7X/sam7x_serial.h -text
 ports/ARM7-AT91SAM7X/vectors.s -text
-ports/ARM7-LPC214x/chcore.c -text
 ports/ARM7-LPC214x/lpc214x.h -text
 ports/ARM7-LPC214x/lpc214x_serial.c -text
 ports/ARM7-LPC214x/lpc214x_serial.h -text
@@ -132,6 +131,7 @@ ports/ARM7-LPC214x/lpc214x_ssp.h -text
 ports/ARM7-LPC214x/vectors.s -text
 ports/ARM7-LPC214x/vic.c -text
 ports/ARM7-LPC214x/vic.h -text
+ports/ARM7/chcore.c -text
 ports/ARM7/chcore.h -text
 ports/ARM7/chcoreasm.s -text
 ports/ARM7/chtypes.h -text
