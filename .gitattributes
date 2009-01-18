@@ -158,6 +158,7 @@ ports/MSP430/chcore.h -text
 ports/MSP430/chtypes.h -text
 ports/MSP430/msp430_serial.c -text
 ports/MSP430/msp430_serial.h -text
+ports/MSP430/port.dox -text
 ports/Win32/simcom.c -text
 /readme.txt -text
 src/chcond.c -text
