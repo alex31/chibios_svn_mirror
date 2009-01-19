@@ -112,6 +112,8 @@ docs/reports/LPC2148-48-THUMB.txt -text
 docs/reports/MSP430F1611-0.75.txt -text
 docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72.txt -text
+docs/src/atomic.dox -text
+docs/src/saveram.dox -text
 ext/readme.txt -text
 ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
