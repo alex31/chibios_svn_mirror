@@ -114,6 +114,7 @@ docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72.txt -text
 docs/src/atomic.dox -text
 docs/src/interrupts.dox -text
+docs/src/jitter.dox -text
 docs/src/saveram.dox -text
 docs/src/timing.dox -text
 ext/readme.txt -text
