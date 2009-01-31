@@ -115,6 +115,7 @@ docs/src/atomic.dox -text
 docs/src/concepts.dox -text
 docs/src/interrupts.dox -text
 docs/src/jitter.dox -text
+docs/src/licfaq.dox -text
 docs/src/saveram.dox -text
 docs/src/timing.dox -text
 ext/readme.txt -text
