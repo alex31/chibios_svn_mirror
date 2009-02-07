@@ -237,3 +237,4 @@ test/testrdy.c -text
 test/testrdy.h -text
 test/testsem.c -text
 test/testsem.h -text
+/todo.txt -text
