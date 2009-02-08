@@ -61,11 +61,11 @@ demos/ARMCM3-STM32F103-GCC/ch.ld -text
 demos/ARMCM3-STM32F103-GCC/chconf.h -text
 demos/ARMCM3-STM32F103-GCC/main.c -text
 demos/ARMCM3-STM32F103-GCC/readme.txt -text
-demos/ARMCM3-STM32F103-GCC/stm32lib/cortexm3_macro.h -text
-demos/ARMCM3-STM32F103-GCC/stm32lib/stm32f10x_conf.h -text
-demos/ARMCM3-STM32F103-GCC/stm32lib/stm32f10x_map.h -text
-demos/ARMCM3-STM32F103-GCC/stm32lib/stm32f10x_nvic.h -text
-demos/ARMCM3-STM32F103-GCC/stm32lib/stm32f10x_type.h -text
+demos/ARMCM3-STM32F103-GCC/stm32lib/inc/cortexm3_macro.h -text
+demos/ARMCM3-STM32F103-GCC/stm32lib/inc/stm32f10x_conf.h -text
+demos/ARMCM3-STM32F103-GCC/stm32lib/inc/stm32f10x_map.h -text
+demos/ARMCM3-STM32F103-GCC/stm32lib/inc/stm32f10x_nvic.h -text
+demos/ARMCM3-STM32F103-GCC/stm32lib/inc/stm32f10x_type.h -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/board.c -text
 demos/AVR-AT90CANx-GCC/board.h -text
