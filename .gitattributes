@@ -114,9 +114,11 @@ docs/reports/STM32F103-72.txt -text
 docs/src/articles.dox -text
 docs/src/atomic.dox -text
 docs/src/concepts.dox -text
+docs/src/goals.dox -text
 docs/src/interrupts.dox -text
 docs/src/jitter.dox -text
 docs/src/licfaq.dox -text
+docs/src/mutualexcl.dox -text
 docs/src/portguide.dox -text
 docs/src/saveram.dox -text
 docs/src/timing.dox -text
