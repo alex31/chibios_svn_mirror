@@ -1,6 +1,5 @@
 * text=auto !eol
 demos/ARM7-AT91SAM7X-GCC/Makefile -text
-demos/ARM7-AT91SAM7X-GCC/Makefile.thumb -text
 demos/ARM7-AT91SAM7X-GCC/at91lib/AT91SAM7X256.h -text
 demos/ARM7-AT91SAM7X-GCC/at91lib/aic.c -text
 demos/ARM7-AT91SAM7X-GCC/at91lib/aic.h -text
@@ -11,7 +10,6 @@ demos/ARM7-AT91SAM7X-GCC/chconf.h -text
 demos/ARM7-AT91SAM7X-GCC/main.c -text
 demos/ARM7-AT91SAM7X-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-WEB-GCC/Makefile -text
-demos/ARM7-AT91SAM7X-WEB-GCC/Makefile.thumb -text
 demos/ARM7-AT91SAM7X-WEB-GCC/at91lib/AT91SAM7X256.h -text
 demos/ARM7-AT91SAM7X-WEB-GCC/at91lib/aic.c -text
 demos/ARM7-AT91SAM7X-WEB-GCC/at91lib/aic.h -text
@@ -35,7 +33,6 @@ demos/ARM7-LPC214x-G++/chconf.h -text
 demos/ARM7-LPC214x-G++/main.cpp -text
 demos/ARM7-LPC214x-G++/readme.txt -text
 demos/ARM7-LPC214x-GCC-minimal/Makefile -text
-demos/ARM7-LPC214x-GCC-minimal/Makefile.thumb -text
 demos/ARM7-LPC214x-GCC-minimal/board.c -text
 demos/ARM7-LPC214x-GCC-minimal/board.h -text
 demos/ARM7-LPC214x-GCC-minimal/ch.ld -text
@@ -43,7 +40,6 @@ demos/ARM7-LPC214x-GCC-minimal/chconf.h -text
 demos/ARM7-LPC214x-GCC-minimal/main.c -text
 demos/ARM7-LPC214x-GCC-minimal/readme.txt -text
 demos/ARM7-LPC214x-GCC/Makefile -text
-demos/ARM7-LPC214x-GCC/Makefile.thumb -text
 demos/ARM7-LPC214x-GCC/board.c -text
 demos/ARM7-LPC214x-GCC/board.h -text
 demos/ARM7-LPC214x-GCC/buzzer.c -text
