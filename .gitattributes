@@ -25,7 +25,6 @@ demos/ARM7-AT91SAM7X-WEB-GCC/web/uip-conf.h -text
 demos/ARM7-AT91SAM7X-WEB-GCC/web/webthread.c -text
 demos/ARM7-AT91SAM7X-WEB-GCC/web/webthread.h -text
 demos/ARM7-LPC214x-G++/Makefile -text
-demos/ARM7-LPC214x-G++/Makefile.thumb -text
 demos/ARM7-LPC214x-G++/board.c -text
 demos/ARM7-LPC214x-G++/board.h -text
 demos/ARM7-LPC214x-G++/ch.ld -text
