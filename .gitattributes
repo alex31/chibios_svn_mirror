@@ -122,6 +122,7 @@ ext/readme.txt -text
 ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
 /license.txt -text
+ports/ARM/rules.mk -text
 ports/ARM7-AT91SAM7X/mii.h -text
 ports/ARM7-AT91SAM7X/port.dox -text
 ports/ARM7-AT91SAM7X/sam7x_emac.c -text
@@ -146,7 +147,6 @@ ports/ARM7/chcoreasm.s -text
 ports/ARM7/chtypes.h -text
 ports/ARM7/crt0.s -text
 ports/ARM7/port.dox -text
-ports/ARM7/rules.mk -text
 ports/ARMCM3-STM32F103/port.dox -text
 ports/ARMCM3-STM32F103/stm32_serial.c -text
 ports/ARMCM3-STM32F103/stm32_serial.h -text
@@ -158,7 +158,6 @@ ports/ARMCM3/crt0.s -text
 ports/ARMCM3/nvic.c -text
 ports/ARMCM3/nvic.h -text
 ports/ARMCM3/port.dox -text
-ports/ARMCM3/rules.mk -text
 ports/AVR/avr_serial.c -text
 ports/AVR/avr_serial.h -text
 ports/AVR/chcore.c -text
