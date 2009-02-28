@@ -122,7 +122,6 @@ docs/src/timing.dox -text
 ext/readme.txt -text
 ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
-/io_channels.txt -text
 /license.txt -text
 ports/ARM/rules.mk -text
 ports/ARM7-AT91SAM7X/mii.h -text
