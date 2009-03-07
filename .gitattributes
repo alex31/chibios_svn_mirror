@@ -119,6 +119,7 @@ docs/src/goals.dox -text
 docs/src/interrupts.dox -text
 docs/src/jitter.dox -text
 docs/src/licfaq.dox -text
+docs/src/main.dox -text
 docs/src/mutualexcl.dox -text
 docs/src/portguide.dox -text
 docs/src/saveram.dox -text
