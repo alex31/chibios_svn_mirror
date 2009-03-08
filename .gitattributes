@@ -102,6 +102,7 @@ docs/reports/LPC2148-48-THUMB.txt -text
 docs/reports/MSP430F1611-0.75.txt -text
 docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72.txt -text
+docs/reports/build.txt -text
 docs/reports/kernel.txt -text
 docs/rsc/custom.css -text
 docs/rsc/footer.html -text
