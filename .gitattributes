@@ -227,6 +227,14 @@ src/templates/chconf.h -text
 src/templates/chcore.c -text
 src/templates/chcore.h -text
 src/templates/chtypes.h -text
+test/coverage/Makefile -text
+test/coverage/chconf.h -text
+test/coverage/chcore.c -text
+test/coverage/chcore.h -text
+test/coverage/chtypes.h -text
+test/coverage/main.c -text
+test/coverage/readme.txt -text
+test/coverage/simcom.c -text
 test/test.c -text
 test/test.h -text
 test/test.mk -text
