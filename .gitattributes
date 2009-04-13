@@ -254,8 +254,8 @@ test/testmtx.c -text
 test/testmtx.h -text
 test/testpools.c -text
 test/testpools.h -text
-test/testrdy.c -text
-test/testrdy.h -text
 test/testsem.c -text
 test/testsem.h -text
+test/testthd.c -text
+test/testthd.h -text
 /todo.txt -text
