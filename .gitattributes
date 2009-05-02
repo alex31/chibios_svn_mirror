@@ -201,6 +201,7 @@ src/chsys.c -text
 src/chthreads.c -text
 src/chvt.c -text
 src/include/ch.h -text
+src/include/channels.h -text
 src/include/condvars.h -text
 src/include/debug.h -text
 src/include/events.h -text
