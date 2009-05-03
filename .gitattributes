@@ -255,6 +255,8 @@ test/testmtx.c -text
 test/testmtx.h -text
 test/testpools.c -text
 test/testpools.h -text
+test/testqueues.c -text
+test/testqueues.h -text
 test/testsem.c -text
 test/testsem.h -text
 test/testthd.c -text
