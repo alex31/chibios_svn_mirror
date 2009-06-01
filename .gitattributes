@@ -236,6 +236,7 @@ src/templates/chconf.h -text
 src/templates/chcore.c -text
 src/templates/chcore.h -text
 src/templates/chtypes.h -text
+src/templates/ioports_lld.h -text
 test/coverage/Makefile -text
 test/coverage/chconf.h -text
 test/coverage/chcore.c -text
