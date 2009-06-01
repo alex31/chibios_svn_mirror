@@ -214,6 +214,7 @@ src/include/debug.h -text
 src/include/events.h -text
 src/include/heap.h -text
 src/include/inline.h -text
+src/include/ioports.h -text
 src/include/lists.h -text
 src/include/mailboxes.h -text
 src/include/mempools.h -text
