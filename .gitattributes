@@ -166,7 +166,7 @@ ports/ARM7/chcoreasm.s -text
 ports/ARM7/chtypes.h -text
 ports/ARM7/crt0.s -text
 ports/ARM7/port.dox -text
-ports/ARMCM3-STM32F103/ioports_lld.h -text
+ports/ARMCM3-STM32F103/pal_lld.h -text
 ports/ARMCM3-STM32F103/port.dox -text
 ports/ARMCM3-STM32F103/stm32_serial.c -text
 ports/ARMCM3-STM32F103/stm32_serial.h -text
@@ -216,7 +216,6 @@ src/include/debug.h -text
 src/include/events.h -text
 src/include/heap.h -text
 src/include/inline.h -text
-src/include/ioports.h -text
 src/include/lists.h -text
 src/include/mailboxes.h -text
 src/include/mempools.h -text
@@ -234,6 +233,8 @@ src/lib/ch.cpp -text
 src/lib/ch.hpp -text
 src/lib/evtimer.c -text
 src/lib/evtimer.h -text
+src/lib/pal.c -text
+src/lib/pal.h -text
 src/templates/chconf.h -text
 src/templates/chcore.c -text
 src/templates/chcore.h -text
