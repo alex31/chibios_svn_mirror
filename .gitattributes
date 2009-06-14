@@ -190,6 +190,7 @@ ports/MSP430/chcore.h -text
 ports/MSP430/chtypes.h -text
 ports/MSP430/msp430_serial.c -text
 ports/MSP430/msp430_serial.h -text
+ports/MSP430/pal_lld.h -text
 ports/MSP430/port.dox -text
 ports/MSP430/rules.mk -text
 ports/Win32/simcom.c -text
