@@ -142,6 +142,7 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 ports/ARM/rules.mk -text
 ports/ARM7-AT91SAM7X/mii.h -text
+ports/ARM7-AT91SAM7X/pal_lld.c -text
 ports/ARM7-AT91SAM7X/pal_lld.h -text
 ports/ARM7-AT91SAM7X/port.dox -text
 ports/ARM7-AT91SAM7X/sam7x_emac.c -text
