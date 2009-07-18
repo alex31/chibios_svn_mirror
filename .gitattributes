@@ -169,6 +169,7 @@ ports/ARMCM3-STM32F103/pal_lld.h -text
 ports/ARMCM3-STM32F103/port.dox -text
 ports/ARMCM3-STM32F103/stm32_serial.c -text
 ports/ARMCM3-STM32F103/stm32_serial.h -text
+ports/ARMCM3-STM32F103/stm32f10x.h -text
 ports/ARMCM3-STM32F103/vectors.s -text
 ports/ARMCM3/chcore.c -text
 ports/ARMCM3/chcore.h -text
