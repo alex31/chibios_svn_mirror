@@ -174,6 +174,8 @@ ports/ARMCM3-STM32F103/vectors.s -text
 ports/ARMCM3/chcore.c -text
 ports/ARMCM3/chcore.h -text
 ports/ARMCM3/chtypes.h -text
+ports/ARMCM3/core_cm3.c -text
+ports/ARMCM3/core_cm3.h -text
 ports/ARMCM3/crt0.s -text
 ports/ARMCM3/nvic.c -text
 ports/ARMCM3/nvic.h -text
