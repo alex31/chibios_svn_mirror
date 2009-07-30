@@ -211,6 +211,8 @@ ports/ARM7/port.dox -text
 ports/ARMCM3-STM32F103/pal_lld.c -text
 ports/ARMCM3-STM32F103/pal_lld.h -text
 ports/ARMCM3-STM32F103/port.dox -text
+ports/ARMCM3-STM32F103/stm32_can.c -text
+ports/ARMCM3-STM32F103/stm32_can.h -text
 ports/ARMCM3-STM32F103/stm32_serial.c -text
 ports/ARMCM3-STM32F103/stm32_serial.h -text
 ports/ARMCM3-STM32F103/stm32f10x.h -text
