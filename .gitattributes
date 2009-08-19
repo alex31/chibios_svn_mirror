@@ -219,7 +219,6 @@ os/kernel/src/chmtx.c -text
 os/kernel/src/chqueues.c -text
 os/kernel/src/chschd.c -text
 os/kernel/src/chsem.c -text
-os/kernel/src/chserial.c -text
 os/kernel/src/chsys.c -text
 os/kernel/src/chthreads.c -text
 os/kernel/src/chvt.c -text
