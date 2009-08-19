@@ -202,7 +202,6 @@ os/kernel/include/mutexes.h -text
 os/kernel/include/queues.h -text
 os/kernel/include/scheduler.h -text
 os/kernel/include/semaphores.h -text
-os/kernel/include/serial.h -text
 os/kernel/include/sys.h -text
 os/kernel/include/threads.h -text
 os/kernel/include/vt.h -text
