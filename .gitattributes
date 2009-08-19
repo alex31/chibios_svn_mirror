@@ -298,11 +298,6 @@ os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
 os/ports/GCC/Win32/simcom.c -text
 os/ports/GCC/Win32/simio.c -text
-os/templates/chconf.h -text
-os/templates/chcore.c -text
-os/templates/chcore.h -text
-os/templates/chtypes.h -text
-os/templates/pal_lld.h -text
 os/various/ch.cpp -text
 os/various/ch.hpp -text
 os/various/evtimer.c -text
