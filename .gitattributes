@@ -182,6 +182,8 @@ ext/uip-1.0.tar.gz -text
 os/io/pal.c -text
 os/io/pal.h -text
 os/io/readme.txt -text
+os/io/serial.c -text
+os/io/serial.h -text
 os/kernel/include/ch.h -text
 os/kernel/include/channels.h -text
 os/kernel/include/condvars.h -text
