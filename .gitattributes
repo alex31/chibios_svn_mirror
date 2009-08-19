@@ -442,8 +442,6 @@ test/testqueues.c -text
 test/testqueues.h -text
 test/testsem.c -text
 test/testsem.h -text
-test/testserial.c -text
-test/testserial.h -text
 test/testthd.c -text
 test/testthd.h -text
 /todo.txt -text
