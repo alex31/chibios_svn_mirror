@@ -184,6 +184,9 @@ os/io/pal.h -text
 os/io/readme.txt -text
 os/io/serial.c -text
 os/io/serial.h -text
+os/io/templates/pal_lld.h -text
+os/io/templates/serial_lld.c -text
+os/io/templates/serial_lld.h -text
 os/kernel/include/ch.h -text
 os/kernel/include/channels.h -text
 os/kernel/include/condvars.h -text
