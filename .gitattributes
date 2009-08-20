@@ -181,6 +181,17 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 os/io/pal.c -text
 os/io/pal.h -text
+os/io/platforms/LPC214x/lpc214x.h -text
+os/io/platforms/LPC214x/lpc214x_ssp.c -text
+os/io/platforms/LPC214x/lpc214x_ssp.h -text
+os/io/platforms/LPC214x/pal_lld.c -text
+os/io/platforms/LPC214x/pal_lld.h -text
+os/io/platforms/LPC214x/platform.dox -text
+os/io/platforms/LPC214x/serial_lld.c -text
+os/io/platforms/LPC214x/serial_lld.h -text
+os/io/platforms/LPC214x/vic.c -text
+os/io/platforms/LPC214x/vic.h -text
+os/io/platforms/LPC214x/wfi.h -text
 os/io/platforms/STM32F103/pal_lld.c -text
 os/io/platforms/STM32F103/pal_lld.h -text
 os/io/platforms/STM32F103/platform.dox -text
