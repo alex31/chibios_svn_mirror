@@ -263,14 +263,6 @@ os/ports/GCC/ARM7/crt0.lst -text
 os/ports/GCC/ARM7/crt0.s -text
 os/ports/GCC/ARM7/port.dox -text
 os/ports/GCC/ARM7/port.mk -text
-os/ports/GCC/ARMCM3/STM32F103/pal_lld.c -text
-os/ports/GCC/ARMCM3/STM32F103/pal_lld.h -text
-os/ports/GCC/ARMCM3/STM32F103/port.dox -text
-os/ports/GCC/ARMCM3/STM32F103/serial_lld.c -text
-os/ports/GCC/ARMCM3/STM32F103/serial_lld.h -text
-os/ports/GCC/ARMCM3/STM32F103/stm32_can.c -text
-os/ports/GCC/ARMCM3/STM32F103/stm32_can.h -text
-os/ports/GCC/ARMCM3/STM32F103/stm32f10x.h -text
 os/ports/GCC/ARMCM3/STM32F103/vectors.s -text
 os/ports/GCC/ARMCM3/chcore.c -text
 os/ports/GCC/ARMCM3/chcore.h -text
