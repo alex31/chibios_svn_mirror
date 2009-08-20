@@ -181,6 +181,14 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 os/io/pal.c -text
 os/io/pal.h -text
+os/io/platforms/STM32F103/pal_lld.c -text
+os/io/platforms/STM32F103/pal_lld.h -text
+os/io/platforms/STM32F103/platform.dox -text
+os/io/platforms/STM32F103/serial_lld.c -text
+os/io/platforms/STM32F103/serial_lld.h -text
+os/io/platforms/STM32F103/stm32_can.c -text
+os/io/platforms/STM32F103/stm32_can.h -text
+os/io/platforms/STM32F103/stm32f10x.h -text
 os/io/readme.txt -text
 os/io/serial.c -text
 os/io/serial.h -text
