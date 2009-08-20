@@ -191,7 +191,6 @@ os/io/platforms/LPC214x/serial_lld.c -text
 os/io/platforms/LPC214x/serial_lld.h -text
 os/io/platforms/LPC214x/vic.c -text
 os/io/platforms/LPC214x/vic.h -text
-os/io/platforms/LPC214x/wfi.h -text
 os/io/platforms/STM32F103/pal_lld.c -text
 os/io/platforms/STM32F103/pal_lld.h -text
 os/io/platforms/STM32F103/platform.dox -text
@@ -253,17 +252,7 @@ os/ports/GCC/ARM7/AT91SAM7X/sam7x_serial.c -text
 os/ports/GCC/ARM7/AT91SAM7X/sam7x_serial.h -text
 os/ports/GCC/ARM7/AT91SAM7X/vectors.s -text
 os/ports/GCC/ARM7/AT91SAM7X/wfi.h -text
-os/ports/GCC/ARM7/LPC214x/lpc214x.h -text
-os/ports/GCC/ARM7/LPC214x/lpc214x_serial.c -text
-os/ports/GCC/ARM7/LPC214x/lpc214x_serial.h -text
-os/ports/GCC/ARM7/LPC214x/lpc214x_ssp.c -text
-os/ports/GCC/ARM7/LPC214x/lpc214x_ssp.h -text
-os/ports/GCC/ARM7/LPC214x/pal_lld.c -text
-os/ports/GCC/ARM7/LPC214x/pal_lld.h -text
-os/ports/GCC/ARM7/LPC214x/port.dox -text
 os/ports/GCC/ARM7/LPC214x/vectors.s -text
-os/ports/GCC/ARM7/LPC214x/vic.c -text
-os/ports/GCC/ARM7/LPC214x/vic.h -text
 os/ports/GCC/ARM7/LPC214x/wfi.h -text
 os/ports/GCC/ARM7/chcore.c -text
 os/ports/GCC/ARM7/chcore.h -text
