@@ -181,6 +181,8 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 os/io/pal.c -text
 os/io/pal.h -text
+os/io/platforms/AT91SAM7X/serial_lld.c -text
+os/io/platforms/AT91SAM7X/serial_lld.h -text
 os/io/platforms/LPC214x/lpc214x.h -text
 os/io/platforms/LPC214x/lpc214x_ssp.c -text
 os/io/platforms/LPC214x/lpc214x_ssp.h -text
