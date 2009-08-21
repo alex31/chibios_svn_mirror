@@ -196,6 +196,11 @@ os/io/platforms/LPC214x/serial_lld.c -text
 os/io/platforms/LPC214x/serial_lld.h -text
 os/io/platforms/LPC214x/vic.c -text
 os/io/platforms/LPC214x/vic.h -text
+os/io/platforms/MSP430/pal_lld.c -text
+os/io/platforms/MSP430/pal_lld.h -text
+os/io/platforms/MSP430/platform.dox -text
+os/io/platforms/MSP430/serial_lld.c -text
+os/io/platforms/MSP430/serial_lld.h -text
 os/io/platforms/STM32F103/pal_lld.c -text
 os/io/platforms/STM32F103/pal_lld.h -text
 os/io/platforms/STM32F103/platform.dox -text
@@ -279,11 +284,6 @@ os/ports/GCC/AVR/port.mk -text
 os/ports/GCC/MSP430/chcore.c -text
 os/ports/GCC/MSP430/chcore.h -text
 os/ports/GCC/MSP430/chtypes.h -text
-os/ports/GCC/MSP430/msp430_serial.c -text
-os/ports/GCC/MSP430/msp430_serial.h -text
-os/ports/GCC/MSP430/pal_lld.c -text
-os/ports/GCC/MSP430/pal_lld.h -text
-os/ports/GCC/MSP430/port.dox -text
 os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
 os/ports/GCC/Win32/simcom.c -text
