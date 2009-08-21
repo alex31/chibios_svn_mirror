@@ -1,8 +1,5 @@
 * text=auto !eol
 demos/ARM7-AT91SAM7X-GCC/Makefile -text
-demos/ARM7-AT91SAM7X-GCC/at91lib/AT91SAM7X256.h -text
-demos/ARM7-AT91SAM7X-GCC/at91lib/aic.c -text
-demos/ARM7-AT91SAM7X-GCC/at91lib/aic.h -text
 demos/ARM7-AT91SAM7X-GCC/board.c -text
 demos/ARM7-AT91SAM7X-GCC/board.h -text
 demos/ARM7-AT91SAM7X-GCC/ch.ld -text
@@ -10,9 +7,6 @@ demos/ARM7-AT91SAM7X-GCC/chconf.h -text
 demos/ARM7-AT91SAM7X-GCC/main.c -text
 demos/ARM7-AT91SAM7X-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-WEB-GCC/Makefile -text
-demos/ARM7-AT91SAM7X-WEB-GCC/at91lib/AT91SAM7X256.h -text
-demos/ARM7-AT91SAM7X-WEB-GCC/at91lib/aic.c -text
-demos/ARM7-AT91SAM7X-WEB-GCC/at91lib/aic.h -text
 demos/ARM7-AT91SAM7X-WEB-GCC/board.c -text
 demos/ARM7-AT91SAM7X-WEB-GCC/board.h -text
 demos/ARM7-AT91SAM7X-WEB-GCC/ch.ld -text
@@ -181,6 +175,9 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 os/io/pal.c -text
 os/io/pal.h -text
+os/io/platforms/AT91SAM7X/at91lib/AT91SAM7X256.h -text
+os/io/platforms/AT91SAM7X/at91lib/aic.c -text
+os/io/platforms/AT91SAM7X/at91lib/aic.h -text
 os/io/platforms/AT91SAM7X/mii.h -text
 os/io/platforms/AT91SAM7X/pal_lld.c -text
 os/io/platforms/AT91SAM7X/pal_lld.h -text
