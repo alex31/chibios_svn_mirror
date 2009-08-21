@@ -256,10 +256,8 @@ os/ports/GCC/ARM7/LPC214x/vectors.s -text
 os/ports/GCC/ARM7/LPC214x/wfi.h -text
 os/ports/GCC/ARM7/chcore.c -text
 os/ports/GCC/ARM7/chcore.h -text
-os/ports/GCC/ARM7/chcore.lst -text
 os/ports/GCC/ARM7/chcoreasm.s -text
 os/ports/GCC/ARM7/chtypes.h -text
-os/ports/GCC/ARM7/crt0.lst -text
 os/ports/GCC/ARM7/crt0.s -text
 os/ports/GCC/ARM7/port.dox -text
 os/ports/GCC/ARM7/port.mk -text
