@@ -181,6 +181,12 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 os/io/pal.c -text
 os/io/pal.h -text
+os/io/platforms/AT91SAM7X/mii.h -text
+os/io/platforms/AT91SAM7X/pal_lld.c -text
+os/io/platforms/AT91SAM7X/pal_lld.h -text
+os/io/platforms/AT91SAM7X/platform.dox -text
+os/io/platforms/AT91SAM7X/sam7x_emac.c -text
+os/io/platforms/AT91SAM7X/sam7x_emac.h -text
 os/io/platforms/AT91SAM7X/serial_lld.c -text
 os/io/platforms/AT91SAM7X/serial_lld.h -text
 os/io/platforms/LPC214x/lpc214x.h -text
@@ -244,14 +250,6 @@ os/kernel/src/chsys.c -text
 os/kernel/src/chthreads.c -text
 os/kernel/src/chvt.c -text
 os/ports/GCC/ARM/rules.mk -text
-os/ports/GCC/ARM7/AT91SAM7X/mii.h -text
-os/ports/GCC/ARM7/AT91SAM7X/pal_lld.c -text
-os/ports/GCC/ARM7/AT91SAM7X/pal_lld.h -text
-os/ports/GCC/ARM7/AT91SAM7X/port.dox -text
-os/ports/GCC/ARM7/AT91SAM7X/sam7x_emac.c -text
-os/ports/GCC/ARM7/AT91SAM7X/sam7x_emac.h -text
-os/ports/GCC/ARM7/AT91SAM7X/sam7x_serial.c -text
-os/ports/GCC/ARM7/AT91SAM7X/sam7x_serial.h -text
 os/ports/GCC/ARM7/AT91SAM7X/vectors.s -text
 os/ports/GCC/ARM7/AT91SAM7X/wfi.h -text
 os/ports/GCC/ARM7/LPC214x/vectors.s -text
