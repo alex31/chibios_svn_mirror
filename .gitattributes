@@ -186,6 +186,9 @@ os/io/platforms/AT91SAM7X/sam7x_emac.c -text
 os/io/platforms/AT91SAM7X/sam7x_emac.h -text
 os/io/platforms/AT91SAM7X/serial_lld.c -text
 os/io/platforms/AT91SAM7X/serial_lld.h -text
+os/io/platforms/AVR/platform.dox -text
+os/io/platforms/AVR/serial_lld.c -text
+os/io/platforms/AVR/serial_lld.h -text
 os/io/platforms/LPC214x/lpc214x.h -text
 os/io/platforms/LPC214x/lpc214x_ssp.c -text
 os/io/platforms/LPC214x/lpc214x_ssp.h -text
@@ -274,12 +277,9 @@ os/ports/GCC/ARMCM3/nvic.c -text
 os/ports/GCC/ARMCM3/nvic.h -text
 os/ports/GCC/ARMCM3/port.dox -text
 os/ports/GCC/ARMCM3/port.mk -text
-os/ports/GCC/AVR/avr_serial.c -text
-os/ports/GCC/AVR/avr_serial.h -text
 os/ports/GCC/AVR/chcore.c -text
 os/ports/GCC/AVR/chcore.h -text
 os/ports/GCC/AVR/chtypes.h -text
-os/ports/GCC/AVR/port.dox -text
 os/ports/GCC/AVR/port.mk -text
 os/ports/GCC/MSP430/chcore.c -text
 os/ports/GCC/MSP430/chcore.h -text
