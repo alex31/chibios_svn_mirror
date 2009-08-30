@@ -294,8 +294,6 @@ os/ports/GCC/MSP430/chtypes.h -text
 os/ports/GCC/MSP430/port.dox -text
 os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
-os/ports/GCC/Win32/simcom.c -text
-os/ports/GCC/Win32/simio.c -text
 os/ports/ports.dox -text
 os/various/ch.cpp -text
 os/various/ch.hpp -text
