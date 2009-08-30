@@ -254,6 +254,10 @@ os/kernel/src/chsem.c -text
 os/kernel/src/chsys.c -text
 os/kernel/src/chthreads.c -text
 os/kernel/src/chvt.c -text
+os/kernel/templates/chconf.h -text
+os/kernel/templates/chcore.c -text
+os/kernel/templates/chcore.h -text
+os/kernel/templates/chtypes.h -text
 os/ports/GCC/ARM/rules.mk -text
 os/ports/GCC/ARM7/AT91SAM7X/vectors.s -text
 os/ports/GCC/ARM7/AT91SAM7X/wfi.h -text
