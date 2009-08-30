@@ -420,7 +420,8 @@ test/coverage/chcore.h -text
 test/coverage/chtypes.h -text
 test/coverage/main.c -text
 test/coverage/readme.txt -text
-test/coverage/simcom.c -text
+test/coverage/serial_lld.c -text
+test/coverage/serial_lld.h -text
 test/test.c -text
 test/test.dox -text
 test/test.h -text
