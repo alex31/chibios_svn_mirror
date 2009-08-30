@@ -237,6 +237,7 @@ os/kernel/include/semaphores.h -text
 os/kernel/include/sys.h -text
 os/kernel/include/threads.h -text
 os/kernel/include/vt.h -text
+os/kernel/kernel.dox -text
 os/kernel/kernel.mk -text
 os/kernel/readme.txt -text
 os/kernel/src/chcond.c -text
@@ -292,10 +293,12 @@ os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
 os/ports/GCC/Win32/simcom.c -text
 os/ports/GCC/Win32/simio.c -text
+os/ports/ports.dox -text
 os/various/ch.cpp -text
 os/various/ch.hpp -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
+os/various/various.dox -text
 ports/ARM/rules.mk -text
 ports/ARM7-AT91SAM7X/mii.h -text
 ports/ARM7-AT91SAM7X/pal_lld.c -text
