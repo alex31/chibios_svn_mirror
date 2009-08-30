@@ -285,10 +285,12 @@ os/ports/GCC/ARMCM3/port.mk -text
 os/ports/GCC/AVR/chcore.c -text
 os/ports/GCC/AVR/chcore.h -text
 os/ports/GCC/AVR/chtypes.h -text
+os/ports/GCC/AVR/port.dox -text
 os/ports/GCC/AVR/port.mk -text
 os/ports/GCC/MSP430/chcore.c -text
 os/ports/GCC/MSP430/chcore.h -text
 os/ports/GCC/MSP430/chtypes.h -text
+os/ports/GCC/MSP430/port.dox -text
 os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
 os/ports/GCC/Win32/simcom.c -text
