@@ -50,6 +50,7 @@ demos/ARMCM3-STM32F103-GCC/ch.ld -text
 demos/ARMCM3-STM32F103-GCC/chconf.h -text
 demos/ARMCM3-STM32F103-GCC/main.c -text
 demos/ARMCM3-STM32F103-GCC/readme.txt -text
+demos/ARMCM3-STM32F103-GCC/stm32f10x.h -text
 demos/ARMCM3-STM32F103-GCC/stm32lib/inc/misc.h -text
 demos/ARMCM3-STM32F103-GCC/stm32lib/inc/stm32f10x_adc.h -text
 demos/ARMCM3-STM32F103-GCC/stm32lib/inc/stm32f10x_bkp.h -text
@@ -210,9 +211,6 @@ os/io/platforms/STM32/pal_lld.h -text
 os/io/platforms/STM32/platform.dox -text
 os/io/platforms/STM32/serial_lld.c -text
 os/io/platforms/STM32/serial_lld.h -text
-os/io/platforms/STM32/stm32_can.c -text
-os/io/platforms/STM32/stm32_can.h -text
-os/io/platforms/STM32/stm32f10x.h -text
 os/io/platforms/Win32/serial_lld.c -text
 os/io/platforms/Win32/serial_lld.h -text
 os/io/readme.txt -text
