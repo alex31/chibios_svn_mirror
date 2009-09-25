@@ -193,6 +193,8 @@ os/io/mac.c -text
 os/io/mac.h -text
 os/io/pal.c -text
 os/io/pal.h -text
+os/io/phy.c -text
+os/io/phy.h -text
 os/io/platforms/AT91SAM7X/at91lib/AT91SAM7X256.h -text
 os/io/platforms/AT91SAM7X/at91lib/aic.c -text
 os/io/platforms/AT91SAM7X/at91lib/aic.h -text
