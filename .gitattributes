@@ -201,6 +201,8 @@ os/io/platforms/AT91SAM7X/at91lib/aic.h -text
 os/io/platforms/AT91SAM7X/mii.h -text
 os/io/platforms/AT91SAM7X/pal_lld.c -text
 os/io/platforms/AT91SAM7X/pal_lld.h -text
+os/io/platforms/AT91SAM7X/phy_lld.c -text
+os/io/platforms/AT91SAM7X/phy_lld.h -text
 os/io/platforms/AT91SAM7X/platform.dox -text
 os/io/platforms/AT91SAM7X/sam7x_emac.c -text
 os/io/platforms/AT91SAM7X/sam7x_emac.h -text
@@ -238,6 +240,8 @@ os/io/templates/mac_lld.c -text
 os/io/templates/mac_lld.h -text
 os/io/templates/pal_lld.c -text
 os/io/templates/pal_lld.h -text
+os/io/templates/phy_lld.c -text
+os/io/templates/phy_lld.h -text
 os/io/templates/serial_lld.c -text
 os/io/templates/serial_lld.h -text
 os/kernel/include/ch.h -text
