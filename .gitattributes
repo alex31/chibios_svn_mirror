@@ -191,6 +191,8 @@ ext/uip-1.0.tar.gz -text
 os/io/io.dox -text
 os/io/mac.c -text
 os/io/mac.h -text
+os/io/mii.c -text
+os/io/mii.h -text
 os/io/pal.c -text
 os/io/pal.h -text
 os/io/phy.c -text
@@ -201,6 +203,8 @@ os/io/platforms/AT91SAM7X/at91lib/aic.h -text
 os/io/platforms/AT91SAM7X/mac_lld.c -text
 os/io/platforms/AT91SAM7X/mac_lld.h -text
 os/io/platforms/AT91SAM7X/mii.h -text
+os/io/platforms/AT91SAM7X/mii_lld.c -text
+os/io/platforms/AT91SAM7X/mii_lld.h -text
 os/io/platforms/AT91SAM7X/pal_lld.c -text
 os/io/platforms/AT91SAM7X/pal_lld.h -text
 os/io/platforms/AT91SAM7X/phy_lld.c -text
@@ -240,6 +244,8 @@ os/io/serial.c -text
 os/io/serial.h -text
 os/io/templates/mac_lld.c -text
 os/io/templates/mac_lld.h -text
+os/io/templates/mii_lld.c -text
+os/io/templates/mii_lld.h -text
 os/io/templates/pal_lld.c -text
 os/io/templates/pal_lld.h -text
 os/io/templates/phy_lld.c -text
