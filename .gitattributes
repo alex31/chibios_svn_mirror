@@ -256,6 +256,7 @@ os/kernel/include/heap.h -text
 os/kernel/include/inline.h -text
 os/kernel/include/lists.h -text
 os/kernel/include/mailboxes.h -text
+os/kernel/include/mem.h -text
 os/kernel/include/mempools.h -text
 os/kernel/include/messages.h -text
 os/kernel/include/mutexes.h -text
@@ -274,6 +275,7 @@ os/kernel/src/chevents.c -text
 os/kernel/src/chheap.c -text
 os/kernel/src/chlists.c -text
 os/kernel/src/chmboxes.c -text
+os/kernel/src/chmem.c -text
 os/kernel/src/chmempools.c -text
 os/kernel/src/chmsg.c -text
 os/kernel/src/chmtx.c -text
