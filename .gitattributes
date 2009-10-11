@@ -21,6 +21,8 @@ demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/lwipthread.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwipopts.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/main.c -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/readme.txt -text
+demos/ARM7-AT91SAM7X-LWIP-GCC/web/web.c -text
+demos/ARM7-AT91SAM7X-LWIP-GCC/web/web.h -text
 demos/ARM7-AT91SAM7X-WEB-GCC/Makefile -text
 demos/ARM7-AT91SAM7X-WEB-GCC/board.c -text
 demos/ARM7-AT91SAM7X-WEB-GCC/board.h -text
@@ -185,6 +187,7 @@ docs/src/portguide.dox -text
 docs/src/saveram.dox -text
 docs/src/stacks.dox -text
 docs/src/timing.dox -text
+ext/lwip-1.3.1.zip -text
 ext/readme.txt -text
 ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
