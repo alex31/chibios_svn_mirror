@@ -177,6 +177,7 @@ docs/rsc/workspace.svg -text
 docs/src/articles.dox -text
 docs/src/atomic.dox -text
 docs/src/concepts.dox -text
+docs/src/createthread.dox -text
 docs/src/design.dox -text
 docs/src/goals.dox -text
 docs/src/interrupts.dox -text
