@@ -242,6 +242,8 @@ os/io/platforms/Win32/serial_lld.h -text
 os/io/readme.txt -text
 os/io/serial.c -text
 os/io/serial.h -text
+os/io/spi.c -text
+os/io/spi.h -text
 os/io/templates/mac_lld.c -text
 os/io/templates/mac_lld.h -text
 os/io/templates/mii_lld.c -text
