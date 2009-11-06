@@ -250,6 +250,7 @@ os/io/serial.c -text
 os/io/serial.h -text
 os/io/spi.c -text
 os/io/spi.h -text
+os/io/templates/adc_lld.c -text
 os/io/templates/adc_lld.h -text
 os/io/templates/mac_lld.c -text
 os/io/templates/mac_lld.h -text
