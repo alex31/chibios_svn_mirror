@@ -234,6 +234,8 @@ os/io/platforms/MSP430/pal_lld.h -text
 os/io/platforms/MSP430/platform.dox -text
 os/io/platforms/MSP430/serial_lld.c -text
 os/io/platforms/MSP430/serial_lld.h -text
+os/io/platforms/STM32/adc_lld.c -text
+os/io/platforms/STM32/adc_lld.h -text
 os/io/platforms/STM32/pal_lld.c -text
 os/io/platforms/STM32/pal_lld.h -text
 os/io/platforms/STM32/platform.dox -text
