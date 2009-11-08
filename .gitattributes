@@ -202,6 +202,8 @@ os/io/mac.c -text
 os/io/mac.h -text
 os/io/mii.c -text
 os/io/mii.h -text
+os/io/mmc_spi.c -text
+os/io/mmc_spi.h -text
 os/io/pal.c -text
 os/io/pal.h -text
 os/io/platforms/AT91SAM7X/at91lib/AT91SAM7X256.h -text
