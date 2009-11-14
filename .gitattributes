@@ -67,7 +67,6 @@ demos/ARMCM3-STM32F103-GCC/ch.ld -text
 demos/ARMCM3-STM32F103-GCC/chconf.h -text
 demos/ARMCM3-STM32F103-GCC/main.c -text
 demos/ARMCM3-STM32F103-GCC/readme.txt -text
-demos/ARMCM3-STM32F103-GCC/stm32f10x.h -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/board.c -text
 demos/AVR-AT90CANx-GCC/board.h -text
@@ -203,6 +202,7 @@ os/io/platforms/STM32/spi_lld.c -text
 os/io/platforms/STM32/spi_lld.h -text
 os/io/platforms/STM32/stm32_dma.c -text
 os/io/platforms/STM32/stm32_dma.h -text
+os/io/platforms/STM32/stm32f10x.h -text
 os/io/platforms/Win32/serial_lld.c -text
 os/io/platforms/Win32/serial_lld.h -text
 os/io/readme.txt -text
