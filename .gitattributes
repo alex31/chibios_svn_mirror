@@ -151,6 +151,7 @@ docs/src/portguide.dox -text
 docs/src/saveram.dox -text
 docs/src/stacks.dox -text
 docs/src/timing.dox -text
+ext/ff007e-patched.zip -text
 ext/lwip-1.3.1.zip -text
 ext/readme.txt -text
 ext/stm32lib-3.1.2.zip -text
