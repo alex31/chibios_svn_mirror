@@ -160,6 +160,8 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 os/io/adc.c -text
 os/io/adc.h -text
+os/io/can.c -text
+os/io/can.h -text
 os/io/io.dox -text
 os/io/mac.c -text
 os/io/mac.h -text
@@ -220,6 +222,8 @@ os/io/spi.c -text
 os/io/spi.h -text
 os/io/templates/adc_lld.c -text
 os/io/templates/adc_lld.h -text
+os/io/templates/can_lld.c -text
+os/io/templates/can_lld.h -text
 os/io/templates/mac_lld.c -text
 os/io/templates/mac_lld.h -text
 os/io/templates/mii_lld.c -text
