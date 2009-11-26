@@ -284,8 +284,6 @@ os/kernel/templates/chcore.c -text
 os/kernel/templates/chcore.h -text
 os/kernel/templates/chtypes.h -text
 os/ports/GCC/ARM/rules.mk -text
-os/ports/GCC/ARM7/AT91SAM7X/vectors.s -text
-os/ports/GCC/ARM7/AT91SAM7X/wfi.h -text
 os/ports/GCC/ARM7/LPC214x/vectors.s -text
 os/ports/GCC/ARM7/LPC214x/wfi.h -text
 os/ports/GCC/ARM7/chcore.c -text
