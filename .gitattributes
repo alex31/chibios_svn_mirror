@@ -72,6 +72,7 @@ demos/ARMCM3-STM32F103-GCC/board.c -text
 demos/ARMCM3-STM32F103-GCC/board.h -text
 demos/ARMCM3-STM32F103-GCC/ch.ld -text
 demos/ARMCM3-STM32F103-GCC/chconf.h -text
+demos/ARMCM3-STM32F103-GCC/halconf.h -text
 demos/ARMCM3-STM32F103-GCC/main.c -text
 demos/ARMCM3-STM32F103-GCC/readme.txt -text
 demos/AVR-AT90CANx-GCC/Makefile -text
