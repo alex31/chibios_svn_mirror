@@ -210,6 +210,8 @@ os/hal/platforms/STM32/adc_lld.c -text
 os/hal/platforms/STM32/adc_lld.h -text
 os/hal/platforms/STM32/can_lld.c -text
 os/hal/platforms/STM32/can_lld.h -text
+os/hal/platforms/STM32/hal_lld.c -text
+os/hal/platforms/STM32/hal_lld.h -text
 os/hal/platforms/STM32/pal_lld.c -text
 os/hal/platforms/STM32/pal_lld.h -text
 os/hal/platforms/STM32/platform.dox -text
@@ -237,9 +239,15 @@ os/hal/templates/adc_lld.c -text
 os/hal/templates/adc_lld.h -text
 os/hal/templates/can_lld.c -text
 os/hal/templates/can_lld.h -text
+os/hal/templates/hal_lld.c -text
+os/hal/templates/hal_lld.h -text
 os/hal/templates/halconf.h -text
 os/hal/templates/mac_lld.c -text
 os/hal/templates/mac_lld.h -text
+os/hal/templates/meta/driver.c -text
+os/hal/templates/meta/driver.h -text
+os/hal/templates/meta/driver_lld.c -text
+os/hal/templates/meta/driver_lld.h -text
 os/hal/templates/mii_lld.c -text
 os/hal/templates/pal_lld.c -text
 os/hal/templates/pal_lld.h -text
