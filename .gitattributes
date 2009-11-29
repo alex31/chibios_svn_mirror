@@ -336,8 +336,15 @@ os/io/templates/adc_lld.c -text
 os/io/templates/adc_lld.h -text
 os/io/templates/can_lld.c -text
 os/io/templates/can_lld.h -text
+os/io/templates/hal_lld.c -text
+os/io/templates/hal_lld.h -text
+os/io/templates/halconf.h -text
 os/io/templates/mac_lld.c -text
 os/io/templates/mac_lld.h -text
+os/io/templates/meta/driver.c -text
+os/io/templates/meta/driver.h -text
+os/io/templates/meta/driver_lld.c -text
+os/io/templates/meta/driver_lld.h -text
 os/io/templates/mii_lld.c -text
 os/io/templates/mii_lld.h -text
 os/io/templates/pal_lld.c -text
