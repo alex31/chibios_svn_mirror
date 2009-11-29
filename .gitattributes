@@ -12,6 +12,7 @@ demos/ARM7-AT91SAM7X-LWIP-GCC/board.c -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/board.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/chconf.h -text
+demos/ARM7-AT91SAM7X-LWIP-GCC/halconf.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/arch/cc.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/arch/perf.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/arch/sys_arch.c -text
@@ -29,6 +30,7 @@ demos/ARM7-AT91SAM7X-UIP-GCC/board.c -text
 demos/ARM7-AT91SAM7X-UIP-GCC/board.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-UIP-GCC/chconf.h -text
+demos/ARM7-AT91SAM7X-UIP-GCC/halconf.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/main.c -text
 demos/ARM7-AT91SAM7X-UIP-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-UIP-GCC/web/cc-arch.h -text
