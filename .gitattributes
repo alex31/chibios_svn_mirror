@@ -184,12 +184,12 @@ os/hal/platforms/AT91SAM7/at91lib/AT91SAM7X512.h -text
 os/hal/platforms/AT91SAM7/at91lib/aic.c -text
 os/hal/platforms/AT91SAM7/at91lib/aic.h -text
 os/hal/platforms/AT91SAM7/at91sam7.h -text
+os/hal/platforms/AT91SAM7/at91sam7_mii.c -text
+os/hal/platforms/AT91SAM7/at91sam7_mii.h -text
 os/hal/platforms/AT91SAM7/hal_lld.c -text
 os/hal/platforms/AT91SAM7/hal_lld.h -text
 os/hal/platforms/AT91SAM7/mac_lld.c -text
 os/hal/platforms/AT91SAM7/mac_lld.h -text
-os/hal/platforms/AT91SAM7/mii_lld.c -text
-os/hal/platforms/AT91SAM7/mii_lld.h -text
 os/hal/platforms/AT91SAM7/pal_lld.c -text
 os/hal/platforms/AT91SAM7/pal_lld.h -text
 os/hal/platforms/AT91SAM7/platform.dox -text
@@ -238,7 +238,6 @@ os/hal/src/adc.c -text
 os/hal/src/can.c -text
 os/hal/src/hal.c -text
 os/hal/src/mac.c -text
-os/hal/src/mii.c -text
 os/hal/src/mmc_spi.c -text
 os/hal/src/pal.c -text
 os/hal/src/serial.c -text
