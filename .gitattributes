@@ -255,8 +255,6 @@ os/hal/templates/meta/driver.c -text
 os/hal/templates/meta/driver.h -text
 os/hal/templates/meta/driver_lld.c -text
 os/hal/templates/meta/driver_lld.h -text
-os/hal/templates/mii_lld.c -text
-os/hal/templates/mii_lld.h -text
 os/hal/templates/pal_lld.c -text
 os/hal/templates/pal_lld.h -text
 os/hal/templates/serial_lld.c -text
