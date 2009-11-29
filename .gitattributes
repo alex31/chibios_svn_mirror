@@ -4,6 +4,7 @@ demos/ARM7-AT91SAM7X-GCC/board.c -text
 demos/ARM7-AT91SAM7X-GCC/board.h -text
 demos/ARM7-AT91SAM7X-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-GCC/chconf.h -text
+demos/ARM7-AT91SAM7X-GCC/halconf.h -text
 demos/ARM7-AT91SAM7X-GCC/main.c -text
 demos/ARM7-AT91SAM7X-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/Makefile -text
@@ -181,6 +182,8 @@ os/hal/platforms/AT91SAM7/at91lib/AT91SAM7X512.h -text
 os/hal/platforms/AT91SAM7/at91lib/aic.c -text
 os/hal/platforms/AT91SAM7/at91lib/aic.h -text
 os/hal/platforms/AT91SAM7/at91sam7.h -text
+os/hal/platforms/AT91SAM7/hal_lld.c -text
+os/hal/platforms/AT91SAM7/hal_lld.h -text
 os/hal/platforms/AT91SAM7/mac_lld.c -text
 os/hal/platforms/AT91SAM7/mac_lld.h -text
 os/hal/platforms/AT91SAM7/mii_lld.c -text
@@ -188,6 +191,7 @@ os/hal/platforms/AT91SAM7/mii_lld.h -text
 os/hal/platforms/AT91SAM7/pal_lld.c -text
 os/hal/platforms/AT91SAM7/pal_lld.h -text
 os/hal/platforms/AT91SAM7/platform.dox -text
+os/hal/platforms/AT91SAM7/platform.mk -text
 os/hal/platforms/AT91SAM7/serial_lld.c -text
 os/hal/platforms/AT91SAM7/serial_lld.h -text
 os/hal/platforms/AVR/platform.dox -text
