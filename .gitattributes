@@ -258,6 +258,7 @@ os/haltmp/templates/serial_lld.h -text
 os/haltmp/templates/spi_lld.c -text
 os/haltmp/templates/spi_lld.h -text
 os/io/hal.dox -text
+os/io/hal.mk -text
 os/io/include/adc.h -text
 os/io/include/can.h -text
 os/io/include/mac.h -text
@@ -305,9 +306,14 @@ os/io/platforms/MSP430/serial_lld.c -text
 os/io/platforms/MSP430/serial_lld.h -text
 os/io/platforms/STM32/adc_lld.c -text
 os/io/platforms/STM32/adc_lld.h -text
+os/io/platforms/STM32/can_lld.c -text
+os/io/platforms/STM32/can_lld.h -text
+os/io/platforms/STM32/hal_lld.c -text
+os/io/platforms/STM32/hal_lld.h -text
 os/io/platforms/STM32/pal_lld.c -text
 os/io/platforms/STM32/pal_lld.h -text
 os/io/platforms/STM32/platform.dox -text
+os/io/platforms/STM32/platform.mk -text
 os/io/platforms/STM32/serial_lld.c -text
 os/io/platforms/STM32/serial_lld.h -text
 os/io/platforms/STM32/spi_lld.c -text
