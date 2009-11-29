@@ -257,6 +257,7 @@ os/haltmp/templates/serial_lld.c -text
 os/haltmp/templates/serial_lld.h -text
 os/haltmp/templates/spi_lld.c -text
 os/haltmp/templates/spi_lld.h -text
+os/io/hal.dox -text
 os/io/include/adc.h -text
 os/io/include/can.h -text
 os/io/include/mac.h -text
@@ -265,7 +266,6 @@ os/io/include/mmc_spi.h -text
 os/io/include/pal.h -text
 os/io/include/serial.h -text
 os/io/include/spi.h -text
-os/io/io.dox -text
 os/io/platforms/AT91SAM7/at91lib/AT91SAM7S128.h -text
 os/io/platforms/AT91SAM7/at91lib/AT91SAM7S256.h -text
 os/io/platforms/AT91SAM7/at91lib/AT91SAM7S512.h -text
