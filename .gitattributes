@@ -383,4 +383,14 @@ test/testsem.c -text
 test/testsem.h -text
 test/testthd.c -text
 test/testthd.h -text
+testio/STM32/Makefile -text
+testio/STM32/board.c -text
+testio/STM32/board.h -text
+testio/STM32/ch.ld -text
+testio/STM32/chconf.h -text
+testio/STM32/halconf.h -text
+testio/STM32/main.c -text
+testio/STM32/readme.txt -text
+testio/STM32/settings.c -text
+testio/STM32/settings.h -text
 /todo.txt -text
