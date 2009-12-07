@@ -173,6 +173,7 @@ os/hal/include/mac.h -text
 os/hal/include/mii.h -text
 os/hal/include/mmc_spi.h -text
 os/hal/include/pal.h -text
+os/hal/include/pwm.h -text
 os/hal/include/serial.h -text
 os/hal/include/spi.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S128.h -text
@@ -243,6 +244,7 @@ os/hal/src/hal.c -text
 os/hal/src/mac.c -text
 os/hal/src/mmc_spi.c -text
 os/hal/src/pal.c -text
+os/hal/src/pwm.c -text
 os/hal/src/serial.c -text
 os/hal/src/spi.c -text
 os/hal/templates/adc_lld.c -text
@@ -260,6 +262,8 @@ os/hal/templates/meta/driver_lld.c -text
 os/hal/templates/meta/driver_lld.h -text
 os/hal/templates/pal_lld.c -text
 os/hal/templates/pal_lld.h -text
+os/hal/templates/pwm_lld.c -text
+os/hal/templates/pwm_lld.h -text
 os/hal/templates/serial_lld.c -text
 os/hal/templates/serial_lld.h -text
 os/hal/templates/spi_lld.c -text
