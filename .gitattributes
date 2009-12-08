@@ -86,12 +86,14 @@ demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/board.c -text
 demos/AVR-AT90CANx-GCC/board.h -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
+demos/AVR-AT90CANx-GCC/halconf.h -text
 demos/AVR-AT90CANx-GCC/main.c -text
 demos/AVR-AT90CANx-GCC/readme.txt -text
 demos/AVR-ATmega128-GCC/Makefile -text
 demos/AVR-ATmega128-GCC/board.c -text
 demos/AVR-ATmega128-GCC/board.h -text
 demos/AVR-ATmega128-GCC/chconf.h -text
+demos/AVR-ATmega128-GCC/halconf.h -text
 demos/AVR-ATmega128-GCC/lcd.c -text
 demos/AVR-ATmega128-GCC/lcd.h -text
 demos/AVR-ATmega128-GCC/main.c -text
@@ -201,7 +203,10 @@ os/hal/platforms/AT91SAM7/platform.dox -text
 os/hal/platforms/AT91SAM7/platform.mk -text
 os/hal/platforms/AT91SAM7/serial_lld.c -text
 os/hal/platforms/AT91SAM7/serial_lld.h -text
+os/hal/platforms/AVR/hal_lld.c -text
+os/hal/platforms/AVR/hal_lld.h -text
 os/hal/platforms/AVR/platform.dox -text
+os/hal/platforms/AVR/platform.mk -text
 os/hal/platforms/AVR/serial_lld.c -text
 os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/LPC214x/hal_lld.c -text
