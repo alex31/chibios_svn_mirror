@@ -109,6 +109,7 @@ demos/MSP430-MSP430x1611-GCC/Makefile -text
 demos/MSP430-MSP430x1611-GCC/board.c -text
 demos/MSP430-MSP430x1611-GCC/board.h -text
 demos/MSP430-MSP430x1611-GCC/chconf.h -text
+demos/MSP430-MSP430x1611-GCC/halconf.h -text
 demos/MSP430-MSP430x1611-GCC/main.c -text
 demos/MSP430-MSP430x1611-GCC/mspgcc/msp430x1611.x -text
 demos/MSP430-MSP430x1611-GCC/readme.txt -text
