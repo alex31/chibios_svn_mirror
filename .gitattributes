@@ -114,10 +114,9 @@ demos/MSP430-MSP430x1611-GCC/main.c -text
 demos/MSP430-MSP430x1611-GCC/mspgcc/msp430x1611.x -text
 demos/MSP430-MSP430x1611-GCC/readme.txt -text
 demos/Win32-MinGW/Makefile -text
+demos/Win32-MinGW/board.h -text
 demos/Win32-MinGW/chconf.h -text
-demos/Win32-MinGW/chcore.c -text
-demos/Win32-MinGW/chcore.h -text
-demos/Win32-MinGW/chtypes.h -text
+demos/Win32-MinGW/halconf.h -text
 demos/Win32-MinGW/main.c -text
 demos/Win32-MinGW/readme.txt -text
 docs/Doxyfile -text
