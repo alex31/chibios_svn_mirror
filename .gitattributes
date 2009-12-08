@@ -43,6 +43,7 @@ demos/ARM7-LPC214x-G++/board.c -text
 demos/ARM7-LPC214x-G++/board.h -text
 demos/ARM7-LPC214x-G++/ch.ld -text
 demos/ARM7-LPC214x-G++/chconf.h -text
+demos/ARM7-LPC214x-G++/halconf.h -text
 demos/ARM7-LPC214x-G++/main.cpp -text
 demos/ARM7-LPC214x-G++/readme.txt -text
 demos/ARM7-LPC214x-GCC-minimal/Makefile -text
@@ -50,6 +51,7 @@ demos/ARM7-LPC214x-GCC-minimal/board.c -text
 demos/ARM7-LPC214x-GCC-minimal/board.h -text
 demos/ARM7-LPC214x-GCC-minimal/ch.ld -text
 demos/ARM7-LPC214x-GCC-minimal/chconf.h -text
+demos/ARM7-LPC214x-GCC-minimal/halconf.h -text
 demos/ARM7-LPC214x-GCC-minimal/main.c -text
 demos/ARM7-LPC214x-GCC-minimal/readme.txt -text
 demos/ARM7-LPC214x-GCC/Makefile -text
@@ -59,6 +61,7 @@ demos/ARM7-LPC214x-GCC/buzzer.c -text
 demos/ARM7-LPC214x-GCC/buzzer.h -text
 demos/ARM7-LPC214x-GCC/ch.ld -text
 demos/ARM7-LPC214x-GCC/chconf.h -text
+demos/ARM7-LPC214x-GCC/halconf.h -text
 demos/ARM7-LPC214x-GCC/main.c -text
 demos/ARM7-LPC214x-GCC/mmcsd.c -text
 demos/ARM7-LPC214x-GCC/mmcsd.h -text
