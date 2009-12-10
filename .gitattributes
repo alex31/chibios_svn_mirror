@@ -369,6 +369,8 @@ os/various/ch.cpp -text
 os/various/ch.hpp -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
+os/various/shell.c -text
+os/various/shell.h -text
 os/various/syscalls.c -text
 os/various/various.dox -text
 /readme.txt -text
