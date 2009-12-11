@@ -239,8 +239,6 @@ os/hal/platforms/STM32/pal_lld.c -text
 os/hal/platforms/STM32/pal_lld.h -text
 os/hal/platforms/STM32/platform.dox -text
 os/hal/platforms/STM32/platform.mk -text
-os/hal/platforms/STM32/pwm_lld.c -text
-os/hal/platforms/STM32/pwm_lld.h -text
 os/hal/platforms/STM32/serial_lld.c -text
 os/hal/platforms/STM32/serial_lld.h -text
 os/hal/platforms/STM32/spi_lld.c -text
