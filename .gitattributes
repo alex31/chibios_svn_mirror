@@ -248,6 +248,8 @@ os/hal/platforms/STM32/spi_lld.h -text
 os/hal/platforms/STM32/stm32_dma.c -text
 os/hal/platforms/STM32/stm32_dma.h -text
 os/hal/platforms/STM32/stm32f10x.h -text
+os/hal/platforms/Win32/console.c -text
+os/hal/platforms/Win32/console.h -text
 os/hal/platforms/Win32/hal_lld.c -text
 os/hal/platforms/Win32/hal_lld.h -text
 os/hal/platforms/Win32/platform.mk -text
@@ -377,8 +379,6 @@ os/various/various.dox -text
 test/coverage/Makefile -text
 test/coverage/board.h -text
 test/coverage/chconf.h -text
-test/coverage/console.c -text
-test/coverage/console.h -text
 test/coverage/halconf.h -text
 test/coverage/main.c -text
 test/coverage/readme.txt -text
