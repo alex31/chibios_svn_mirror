@@ -1,4 +1,10 @@
 * text=auto !eol
+boards/OLIMEX_AVR_CAN/board.c -text
+boards/OLIMEX_AVR_CAN/board.h -text
+boards/OLIMEX_AVR_CAN/board.mk -text
+boards/OLIMEX_AVR_MT_128/board.c -text
+boards/OLIMEX_AVR_MT_128/board.h -text
+boards/OLIMEX_AVR_MT_128/board.mk -text
 boards/OLIMEX_LPC_P2148/board.c -text
 boards/OLIMEX_LPC_P2148/board.h -text
 boards/OLIMEX_LPC_P2148/board.mk -text
@@ -82,15 +88,11 @@ demos/ARMCM3-STM32F103-GCC/halconf.h -text
 demos/ARMCM3-STM32F103-GCC/main.c -text
 demos/ARMCM3-STM32F103-GCC/readme.txt -text
 demos/AVR-AT90CANx-GCC/Makefile -text
-demos/AVR-AT90CANx-GCC/board.c -text
-demos/AVR-AT90CANx-GCC/board.h -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
 demos/AVR-AT90CANx-GCC/halconf.h -text
 demos/AVR-AT90CANx-GCC/main.c -text
 demos/AVR-AT90CANx-GCC/readme.txt -text
 demos/AVR-ATmega128-GCC/Makefile -text
-demos/AVR-ATmega128-GCC/board.c -text
-demos/AVR-ATmega128-GCC/board.h -text
 demos/AVR-ATmega128-GCC/chconf.h -text
 demos/AVR-ATmega128-GCC/halconf.h -text
 demos/AVR-ATmega128-GCC/lcd.c -text
