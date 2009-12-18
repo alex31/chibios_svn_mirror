@@ -1,18 +1,18 @@
 * text=auto !eol
+boards/OLIMEX_SAM7_EX256/board.c -text
+boards/OLIMEX_SAM7_EX256/board.h -text
+boards/OLIMEX_SAM7_EX256/board.mk -text
 boards/OLIMEX_STM32_P103/board.c -text
 boards/OLIMEX_STM32_P103/board.h -text
 boards/OLIMEX_STM32_P103/board.mk -text
+boards/readme.txt -text
 demos/ARM7-AT91SAM7X-GCC/Makefile -text
-demos/ARM7-AT91SAM7X-GCC/board.c -text
-demos/ARM7-AT91SAM7X-GCC/board.h -text
 demos/ARM7-AT91SAM7X-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-GCC/chconf.h -text
 demos/ARM7-AT91SAM7X-GCC/halconf.h -text
 demos/ARM7-AT91SAM7X-GCC/main.c -text
 demos/ARM7-AT91SAM7X-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/Makefile -text
-demos/ARM7-AT91SAM7X-LWIP-GCC/board.c -text
-demos/ARM7-AT91SAM7X-LWIP-GCC/board.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/chconf.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/halconf.h -text
@@ -29,8 +29,6 @@ demos/ARM7-AT91SAM7X-LWIP-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/web/web.c -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/web/web.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/Makefile -text
-demos/ARM7-AT91SAM7X-UIP-GCC/board.c -text
-demos/ARM7-AT91SAM7X-UIP-GCC/board.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-UIP-GCC/chconf.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/halconf.h -text
