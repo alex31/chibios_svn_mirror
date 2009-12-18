@@ -1,4 +1,7 @@
 * text=auto !eol
+boards/OLIMEX_STM32_P103/board.c -text
+boards/OLIMEX_STM32_P103/board.h -text
+boards/OLIMEX_STM32_P103/board.mk -text
 demos/ARM7-AT91SAM7X-GCC/Makefile -text
 demos/ARM7-AT91SAM7X-GCC/board.c -text
 demos/ARM7-AT91SAM7X-GCC/board.h -text
@@ -75,8 +78,6 @@ demos/ARMCM3-STM32F103-FATFS-GCC/halconf.h -text
 demos/ARMCM3-STM32F103-FATFS-GCC/main.c -text
 demos/ARMCM3-STM32F103-FATFS-GCC/readme.txt -text
 demos/ARMCM3-STM32F103-GCC/Makefile -text
-demos/ARMCM3-STM32F103-GCC/board.c -text
-demos/ARMCM3-STM32F103-GCC/board.h -text
 demos/ARMCM3-STM32F103-GCC/ch.ld -text
 demos/ARMCM3-STM32F103-GCC/chconf.h -text
 demos/ARMCM3-STM32F103-GCC/halconf.h -text
