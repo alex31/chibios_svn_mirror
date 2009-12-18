@@ -1,4 +1,7 @@
 * text=auto !eol
+boards/OLIMEX_LPC_P2148/board.c -text
+boards/OLIMEX_LPC_P2148/board.h -text
+boards/OLIMEX_LPC_P2148/board.mk -text
 boards/OLIMEX_MSP430_P1611/board.c -text
 boards/OLIMEX_MSP430_P1611/board.h -text
 boards/OLIMEX_MSP430_P1611/board.mk -text
