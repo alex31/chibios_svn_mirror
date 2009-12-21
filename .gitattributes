@@ -207,8 +207,6 @@ os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/LPC214x/hal_lld.c -text
 os/hal/platforms/LPC214x/hal_lld.h -text
 os/hal/platforms/LPC214x/lpc214x.h -text
-os/hal/platforms/LPC214x/lpc214x_ssp.c -text
-os/hal/platforms/LPC214x/lpc214x_ssp.h -text
 os/hal/platforms/LPC214x/pal_lld.c -text
 os/hal/platforms/LPC214x/pal_lld.h -text
 os/hal/platforms/LPC214x/platform.dox -text
