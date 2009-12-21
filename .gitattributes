@@ -404,8 +404,6 @@ test/testsem.h -text
 test/testthd.c -text
 test/testthd.h -text
 testhal/STM32/Makefile -text
-testhal/STM32/board.c -text
-testhal/STM32/board.h -text
 testhal/STM32/ch.ld -text
 testhal/STM32/chconf.h -text
 testhal/STM32/halconf.h -text
