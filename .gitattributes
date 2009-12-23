@@ -96,10 +96,12 @@ demos/AVR-ATmega128-GCC/lcd.h -text
 demos/AVR-ATmega128-GCC/main.c -text
 demos/AVR-ATmega128-GCC/readme.txt -text
 demos/GNU-Linux-GCC/Makefile -text
+demos/GNU-Linux-GCC/board.h -text
 demos/GNU-Linux-GCC/chconf.h -text
 demos/GNU-Linux-GCC/chcore.c -text
 demos/GNU-Linux-GCC/chcore.h -text
 demos/GNU-Linux-GCC/chtypes.h -text
+demos/GNU-Linux-GCC/halconf.h -text
 demos/GNU-Linux-GCC/main.c -text
 demos/GNU-Linux-GCC/readme.txt -text
 demos/MSP430-MSP430x1611-GCC/Makefile -text
