@@ -25,6 +25,7 @@ demos/ARM7-AT91SAM7X-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-GCC/chconf.h -text
 demos/ARM7-AT91SAM7X-GCC/halconf.h -text
 demos/ARM7-AT91SAM7X-GCC/main.c -text
+demos/ARM7-AT91SAM7X-GCC/mcuconf.h -text
 demos/ARM7-AT91SAM7X-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/Makefile -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/ch.ld -text
@@ -39,6 +40,7 @@ demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/lwipthread.c -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/lwipthread.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwipopts.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/main.c -text
+demos/ARM7-AT91SAM7X-LWIP-GCC/mcuconf.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/web/web.c -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/web/web.h -text
@@ -47,6 +49,7 @@ demos/ARM7-AT91SAM7X-UIP-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-UIP-GCC/chconf.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/halconf.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/main.c -text
+demos/ARM7-AT91SAM7X-UIP-GCC/mcuconf.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-UIP-GCC/web/cc-arch.h -text
 demos/ARM7-AT91SAM7X-UIP-GCC/web/clock-arch.h -text
