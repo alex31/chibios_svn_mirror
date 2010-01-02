@@ -425,6 +425,7 @@ testhal/STM32/ch.ld -text
 testhal/STM32/chconf.h -text
 testhal/STM32/halconf.h -text
 testhal/STM32/main.c -text
+testhal/STM32/mcuconf.h -text
 testhal/STM32/readme.txt -text
 testhal/STM32/settings.c -text
 testhal/STM32/settings.h -text
