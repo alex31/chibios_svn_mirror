@@ -240,6 +240,7 @@ os/hal/platforms/MSP430/hal_lld.h -text
 os/hal/platforms/MSP430/pal_lld.c -text
 os/hal/platforms/MSP430/pal_lld.h -text
 os/hal/platforms/MSP430/platform.dox -text
+os/hal/platforms/MSP430/platform.mk -text
 os/hal/platforms/MSP430/serial_lld.c -text
 os/hal/platforms/MSP430/serial_lld.h -text
 os/hal/platforms/STM32/adc_lld.c -text
