@@ -313,6 +313,7 @@ os/kernel/include/mempools.h -text
 os/kernel/include/messages.h -text
 os/kernel/include/mutexes.h -text
 os/kernel/include/queues.h -text
+os/kernel/include/registry.h -text
 os/kernel/include/scheduler.h -text
 os/kernel/include/semaphores.h -text
 os/kernel/include/streams.h -text
@@ -332,6 +333,7 @@ os/kernel/src/chmempools.c -text
 os/kernel/src/chmsg.c -text
 os/kernel/src/chmtx.c -text
 os/kernel/src/chqueues.c -text
+os/kernel/src/chregistry.c -text
 os/kernel/src/chschd.c -text
 os/kernel/src/chsem.c -text
 os/kernel/src/chsys.c -text
