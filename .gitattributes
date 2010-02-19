@@ -1,4 +1,7 @@
 * text=auto !eol
+boards/GENERIC_SPC563/board.c -text
+boards/GENERIC_SPC563/board.h -text
+boards/GENERIC_SPC563/board.mk -text
 boards/OLIMEX_AVR_CAN/board.c -text
 boards/OLIMEX_AVR_CAN/board.h -text
 boards/OLIMEX_AVR_CAN/board.mk -text
@@ -118,6 +121,11 @@ demos/MSP430-MSP430x1611-GCC/main.c -text
 demos/MSP430-MSP430x1611-GCC/mcuconf.h -text
 demos/MSP430-MSP430x1611-GCC/mspgcc/msp430x1611.x -text
 demos/MSP430-MSP430x1611-GCC/readme.txt -text
+demos/PPC-SPC563-GCC/Makefile -text
+demos/PPC-SPC563-GCC/ch.ld -text
+demos/PPC-SPC563-GCC/chconf.h -text
+demos/PPC-SPC563-GCC/halconf.h -text
+demos/PPC-SPC563-GCC/main.c -text
 demos/Win32-MinGW/Makefile -text
 demos/Win32-MinGW/board.h -text
 demos/Win32-MinGW/chconf.h -text
@@ -135,6 +143,7 @@ docs/reports/LPC2148-48-ARM.txt -text
 docs/reports/LPC2148-48-THUMB.txt -text
 docs/reports/MSP430F1611-0.75.txt -text
 docs/reports/MSP430F1611-8.txt -text
+docs/reports/SPC563M64-80.txt -text
 docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72.txt -text
 docs/reports/build.txt -text
@@ -243,6 +252,13 @@ os/hal/platforms/MSP430/platform.dox -text
 os/hal/platforms/MSP430/platform.mk -text
 os/hal/platforms/MSP430/serial_lld.c -text
 os/hal/platforms/MSP430/serial_lld.h -text
+os/hal/platforms/SPC563/hal_lld.c -text
+os/hal/platforms/SPC563/hal_lld.h -text
+os/hal/platforms/SPC563/mpc563m.h -text
+os/hal/platforms/SPC563/platform.mk -text
+os/hal/platforms/SPC563/serial_lld.c -text
+os/hal/platforms/SPC563/serial_lld.h -text
+os/hal/platforms/SPC563/typedefs.h -text
 os/hal/platforms/STM32/adc_lld.c -text
 os/hal/platforms/STM32/adc_lld.h -text
 os/hal/platforms/STM32/can_lld.c -text
@@ -377,6 +393,14 @@ os/ports/GCC/MSP430/chtypes.h -text
 os/ports/GCC/MSP430/port.dox -text
 os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
+os/ports/GCC/PPC/SPC56x/ivor.s -text
+os/ports/GCC/PPC/SPC56x/vectors.s -text
+os/ports/GCC/PPC/chcore.c -text
+os/ports/GCC/PPC/chcore.h -text
+os/ports/GCC/PPC/chtypes.h -text
+os/ports/GCC/PPC/crt0.s -text
+os/ports/GCC/PPC/port.mk -text
+os/ports/GCC/PPC/rules.mk -text
 os/ports/GCC/SIMIA32/chcore.c -text
 os/ports/GCC/SIMIA32/chcore.h -text
 os/ports/GCC/SIMIA32/chtypes.h -text
@@ -386,6 +410,8 @@ os/various/ch.cpp -text
 os/various/ch.hpp -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
+os/various/memstreams.c -text
+os/various/memstreams.h -text
 os/various/shell.c -text
 os/various/shell.h -text
 os/various/syscalls.c -text
