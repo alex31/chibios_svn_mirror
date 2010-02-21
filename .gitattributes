@@ -254,6 +254,15 @@ os/hal/platforms/MSP430/platform.dox -text
 os/hal/platforms/MSP430/platform.mk -text
 os/hal/platforms/MSP430/serial_lld.c -text
 os/hal/platforms/MSP430/serial_lld.h -text
+os/hal/platforms/Posix/console.c -text
+os/hal/platforms/Posix/console.h -text
+os/hal/platforms/Posix/hal_lld.c -text
+os/hal/platforms/Posix/hal_lld.h -text
+os/hal/platforms/Posix/pal_lld.c -text
+os/hal/platforms/Posix/pal_lld.h -text
+os/hal/platforms/Posix/platform.mk -text
+os/hal/platforms/Posix/serial_lld.c -text
+os/hal/platforms/Posix/serial_lld.h -text
 os/hal/platforms/SPC563/hal_lld.c -text
 os/hal/platforms/SPC563/hal_lld.h -text
 os/hal/platforms/SPC563/mpc563m.h -text
