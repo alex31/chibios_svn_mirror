@@ -241,6 +241,8 @@ os/hal/platforms/Linux/console.c -text
 os/hal/platforms/Linux/console.h -text
 os/hal/platforms/Linux/hal_lld.c -text
 os/hal/platforms/Linux/hal_lld.h -text
+os/hal/platforms/Linux/pal_lld.c -text
+os/hal/platforms/Linux/pal_lld.h -text
 os/hal/platforms/Linux/platform.mk -text
 os/hal/platforms/Linux/serial_lld.c -text
 os/hal/platforms/Linux/serial_lld.h -text
@@ -282,6 +284,8 @@ os/hal/platforms/Win32/console.c -text
 os/hal/platforms/Win32/console.h -text
 os/hal/platforms/Win32/hal_lld.c -text
 os/hal/platforms/Win32/hal_lld.h -text
+os/hal/platforms/Win32/pal_lld.c -text
+os/hal/platforms/Win32/pal_lld.h -text
 os/hal/platforms/Win32/platform.mk -text
 os/hal/platforms/Win32/serial_lld.c -text
 os/hal/platforms/Win32/serial_lld.h -text
