@@ -399,6 +399,7 @@ os/ports/GCC/PPC/chcore.c -text
 os/ports/GCC/PPC/chcore.h -text
 os/ports/GCC/PPC/chtypes.h -text
 os/ports/GCC/PPC/crt0.s -text
+os/ports/GCC/PPC/port.dox -text
 os/ports/GCC/PPC/port.mk -text
 os/ports/GCC/PPC/rules.mk -text
 os/ports/GCC/SIMIA32/chcore.c -text
