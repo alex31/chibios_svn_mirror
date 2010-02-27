@@ -327,6 +327,7 @@ os/kernel/include/chcond.h -text
 os/kernel/include/chdebug.h -text
 os/kernel/include/chevents.h -text
 os/kernel/include/chheap.h -text
+os/kernel/include/chinline.h -text
 os/kernel/include/chioch.h -text
 os/kernel/include/chlists.h -text
 os/kernel/include/chmboxes.h -text
@@ -342,7 +343,6 @@ os/kernel/include/chstreams.h -text
 os/kernel/include/chsys.h -text
 os/kernel/include/chthreads.h -text
 os/kernel/include/chvt.h -text
-os/kernel/include/inline.h -text
 os/kernel/kernel.dox -text
 os/kernel/kernel.mk -text
 os/kernel/src/chcond.c -text
