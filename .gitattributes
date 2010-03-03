@@ -177,6 +177,7 @@ docs/src/mutualexcl.dox -text
 docs/src/portguide.dox -text
 docs/src/saveram.dox -text
 docs/src/stacks.dox -text
+docs/src/target.dox -text
 docs/src/timing.dox -text
 docs/src/wakeup.dox -text
 ext/ext.dox -text
