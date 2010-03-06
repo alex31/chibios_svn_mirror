@@ -134,6 +134,7 @@ demos/STM8S-STM8S208-RC/chconf.h -text
 demos/STM8S-STM8S208-RC/halconf.h -text
 demos/STM8S-STM8S208-RC/main.c -text
 demos/STM8S-STM8S208-RC/mcuconf.h -text
+demos/STM8S-STM8S208-RC/readme.txt -text
 demos/Win32-MinGW/Makefile -text
 demos/Win32-MinGW/board.h -text
 demos/Win32-MinGW/chconf.h -text
