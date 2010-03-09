@@ -161,14 +161,10 @@ docs/reports/STM8S208-16.txt -text
 docs/reports/build.txt -text
 docs/reports/coverage.txt -text
 docs/reports/kernel.txt -text
-docs/rsc/arch.png -text
-docs/rsc/arch.svg -text
 docs/rsc/custom.css -text
 docs/rsc/footer.html -text
 docs/rsc/header.html -text
 docs/rsc/logo.png -text
-docs/rsc/readylist.png -text
-docs/rsc/readylist.svg -text
 docs/rsc/tabs.css -text
 docs/rsc/workspace.png -text
 docs/rsc/workspace.svg -text
@@ -436,7 +432,6 @@ os/ports/GCC/SIMIA32/chtypes.h -text
 os/ports/GCC/SIMIA32/port.mk -text
 os/ports/RC/STM8/chcore.c -text
 os/ports/RC/STM8/chcore.h -text
-os/ports/RC/STM8/chcoreasm.asm -text
 os/ports/RC/STM8/chtypes.h -text
 os/ports/RC/STM8/port.dox -text
 os/ports/ports.dox -text
