@@ -96,6 +96,8 @@ demos/ARMCM3-STM32F103-GCC/halconf.h -text
 demos/ARMCM3-STM32F103-GCC/main.c -text
 demos/ARMCM3-STM32F103-GCC/mcuconf.h -text
 demos/ARMCM3-STM32F103-GCC/readme.txt -text
+demos/ARMCM3-STM32F103-GCC/ride7/ch.rapp -text
+demos/ARMCM3-STM32F103-GCC/ride7/ch.rprj -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
 demos/AVR-AT90CANx-GCC/halconf.h -text
