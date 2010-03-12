@@ -183,6 +183,7 @@ docs/src/main.dox -text
 docs/src/memory.dox -text
 docs/src/mutualexcl.dox -text
 docs/src/portguide.dox -text
+docs/src/roundrobin.dox -text
 docs/src/saveram.dox -text
 docs/src/stacks.dox -text
 docs/src/target.dox -text
