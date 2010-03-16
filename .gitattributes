@@ -164,6 +164,7 @@ docs/reports/kernel.txt -text
 docs/rsc/custom.css -text
 docs/rsc/footer.html -text
 docs/rsc/header.html -text
+docs/rsc/layout.xml -text
 docs/rsc/logo.png -text
 docs/rsc/tabs.css -text
 docs/rsc/workspace.png -text
