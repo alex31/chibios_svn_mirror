@@ -167,6 +167,8 @@ docs/rsc/header.html -text
 docs/rsc/layout.xml -text
 docs/rsc/logo.png -text
 docs/rsc/tabs.css -text
+docs/rsc/tool001.jpg -text
+docs/rsc/tool002.jpg -text
 docs/rsc/workspace.png -text
 docs/rsc/workspace.svg -text
 docs/src/architecture.dox -text
@@ -175,6 +177,7 @@ docs/src/atomic.dox -text
 docs/src/concepts.dox -text
 docs/src/createthread.dox -text
 docs/src/design.dox -text
+docs/src/eclipse.dox -text
 docs/src/goals.dox -text
 docs/src/interrupts.dox -text
 docs/src/jitter.dox -text
