@@ -274,6 +274,7 @@ os/hal/platforms/Posix/serial_lld.h -text
 os/hal/platforms/SPC56x/hal_lld.c -text
 os/hal/platforms/SPC56x/hal_lld.h -text
 os/hal/platforms/SPC56x/mpc563m.h -text
+os/hal/platforms/SPC56x/platform.dox -text
 os/hal/platforms/SPC56x/platform.mk -text
 os/hal/platforms/SPC56x/serial_lld.c -text
 os/hal/platforms/SPC56x/serial_lld.h -text
