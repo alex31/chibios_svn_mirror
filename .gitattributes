@@ -400,6 +400,8 @@ os/ports/GCC/ARM7/chtypes.h -text
 os/ports/GCC/ARM7/crt0.s -text
 os/ports/GCC/ARM7/port.dox -text
 os/ports/GCC/ARM7/port.mk -text
+os/ports/GCC/ARMCM3/STM32F103/cmparams.h -text
+os/ports/GCC/ARMCM3/STM32F103/port.mk -text
 os/ports/GCC/ARMCM3/STM32F103/vectors.s -text
 os/ports/GCC/ARMCM3/chcore.c -text
 os/ports/GCC/ARMCM3/chcore.h -text
@@ -410,7 +412,6 @@ os/ports/GCC/ARMCM3/crt0.s -text
 os/ports/GCC/ARMCM3/nvic.c -text
 os/ports/GCC/ARMCM3/nvic.h -text
 os/ports/GCC/ARMCM3/port.dox -text
-os/ports/GCC/ARMCM3/port.mk -text
 os/ports/GCC/AVR/chcore.c -text
 os/ports/GCC/AVR/chcore.h -text
 os/ports/GCC/AVR/chtypes.h -text
