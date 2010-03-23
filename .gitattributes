@@ -162,6 +162,9 @@ docs/reports/build.txt -text
 docs/reports/coverage.txt -text
 docs/reports/kernel.txt -text
 docs/rsc/custom.css -text
+docs/rsc/eclipse003.jpg -text
+docs/rsc/eclipse004.jpg -text
+docs/rsc/eclipse005.jpg -text
 docs/rsc/footer.html -text
 docs/rsc/header.html -text
 docs/rsc/layout.xml -text
@@ -178,6 +181,7 @@ docs/src/concepts.dox -text
 docs/src/createthread.dox -text
 docs/src/design.dox -text
 docs/src/eclipse.dox -text
+docs/src/eclipse2.dox -text
 docs/src/goals.dox -text
 docs/src/interrupts.dox -text
 docs/src/jitter.dox -text
