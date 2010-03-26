@@ -1,4 +1,7 @@
 * text=auto !eol
+boards/EA_LPCXPRESSO_BB_1114/board.c -text
+boards/EA_LPCXPRESSO_BB_1114/board.h -text
+boards/EA_LPCXPRESSO_BB_1114/board.mk -text
 boards/GENERIC_SPC563/board.c -text
 boards/GENERIC_SPC563/board.h -text
 boards/GENERIC_SPC563/board.mk -text
@@ -262,6 +265,7 @@ os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/LPC111x/LPC11xx.h -text
 os/hal/platforms/LPC111x/hal_lld.c -text
 os/hal/platforms/LPC111x/hal_lld.h -text
+os/hal/platforms/LPC111x/platform.mk -text
 os/hal/platforms/LPC214x/hal_lld.c -text
 os/hal/platforms/LPC214x/hal_lld.h -text
 os/hal/platforms/LPC214x/lpc214x.h -text
