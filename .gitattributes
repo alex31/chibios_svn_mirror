@@ -266,6 +266,7 @@ os/hal/platforms/LPC11xx/LPC11xx.h -text
 os/hal/platforms/LPC11xx/hal_lld.c -text
 os/hal/platforms/LPC11xx/hal_lld.h -text
 os/hal/platforms/LPC11xx/platform.mk -text
+os/hal/platforms/LPC11xx/system_LPC11xx.h -text
 os/hal/platforms/LPC214x/hal_lld.c -text
 os/hal/platforms/LPC214x/hal_lld.h -text
 os/hal/platforms/LPC214x/lpc214x.h -text
@@ -435,6 +436,8 @@ os/ports/GCC/ARMCMx/STM32F103/vectors.s -text
 os/ports/GCC/ARMCMx/chcore.c -text
 os/ports/GCC/ARMCMx/chcore.h -text
 os/ports/GCC/ARMCMx/chtypes.h -text
+os/ports/GCC/ARMCMx/cmsis/core_cm0.c -text
+os/ports/GCC/ARMCMx/cmsis/core_cm0.h -text
 os/ports/GCC/ARMCMx/cmsis/core_cm3.c -text
 os/ports/GCC/ARMCMx/cmsis/core_cm3.h -text
 os/ports/GCC/ARMCMx/crt0.s -text
