@@ -442,6 +442,9 @@ os/ports/GCC/ARMCM3/port.dox -text
 os/ports/GCC/ARMCMx/LPC11xx/cmparams.h -text
 os/ports/GCC/ARMCMx/LPC11xx/port.mk -text
 os/ports/GCC/ARMCMx/LPC11xx/vectors.s -text
+os/ports/GCC/ARMCMx/STM32F10x/cmparams.h -text
+os/ports/GCC/ARMCMx/STM32F10x/port.mk -text
+os/ports/GCC/ARMCMx/STM32F10x/vectors.s -text
 os/ports/GCC/ARMCMx/chcore.c -text
 os/ports/GCC/ARMCMx/chcore.h -text
 os/ports/GCC/ARMCMx/chtypes.h -text
