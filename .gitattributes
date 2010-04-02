@@ -427,9 +427,9 @@ os/ports/GCC/ARM7/chtypes.h -text
 os/ports/GCC/ARM7/crt0.s -text
 os/ports/GCC/ARM7/port.dox -text
 os/ports/GCC/ARM7/port.mk -text
-os/ports/GCC/ARMCMx/LPC11xx/cmparams.h -text
-os/ports/GCC/ARMCMx/LPC11xx/port.mk -text
-os/ports/GCC/ARMCMx/LPC11xx/vectors.s -text
+os/ports/GCC/ARMCMx/LPC111x/cmparams.h -text
+os/ports/GCC/ARMCMx/LPC111x/port.mk -text
+os/ports/GCC/ARMCMx/LPC111x/vectors.s -text
 os/ports/GCC/ARMCMx/STM32F10x/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32F10x/port.mk -text
 os/ports/GCC/ARMCMx/STM32F10x/vectors.s -text
