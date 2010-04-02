@@ -98,13 +98,6 @@ demos/ARMCM3-STM32F103-FATFS-GCC/halconf.h -text
 demos/ARMCM3-STM32F103-FATFS-GCC/main.c -text
 demos/ARMCM3-STM32F103-FATFS-GCC/mcuconf.h -text
 demos/ARMCM3-STM32F103-FATFS-GCC/readme.txt -text
-demos/ARMCM3-STM32F103-GCC-ALT/Makefile -text
-demos/ARMCM3-STM32F103-GCC-ALT/ch.ld -text
-demos/ARMCM3-STM32F103-GCC-ALT/chconf.h -text
-demos/ARMCM3-STM32F103-GCC-ALT/halconf.h -text
-demos/ARMCM3-STM32F103-GCC-ALT/main.c -text
-demos/ARMCM3-STM32F103-GCC-ALT/mcuconf.h -text
-demos/ARMCM3-STM32F103-GCC-ALT/readme.txt -text
 demos/ARMCM3-STM32F103-GCC/Makefile -text
 demos/ARMCM3-STM32F103-GCC/ch.ld -text
 demos/ARMCM3-STM32F103-GCC/chconf.h -text
@@ -172,7 +165,6 @@ docs/reports/MSP430F1611-0.75.txt -text
 docs/reports/MSP430F1611-8.txt -text
 docs/reports/SPC563M64-80.txt -text
 docs/reports/STM32F103-48.txt -text
-docs/reports/STM32F103-72-ALT.txt -text
 docs/reports/STM32F103-72.txt -text
 docs/reports/STM8S208-16.txt -text
 docs/reports/build.txt -text
@@ -455,6 +447,10 @@ os/ports/GCC/ARMCMx/STM32F10x/port.mk -text
 os/ports/GCC/ARMCMx/STM32F10x/vectors.s -text
 os/ports/GCC/ARMCMx/chcore.c -text
 os/ports/GCC/ARMCMx/chcore.h -text
+os/ports/GCC/ARMCMx/chcore_v6m.c -text
+os/ports/GCC/ARMCMx/chcore_v6m.h -text
+os/ports/GCC/ARMCMx/chcore_v7m.c -text
+os/ports/GCC/ARMCMx/chcore_v7m.h -text
 os/ports/GCC/ARMCMx/chtypes.h -text
 os/ports/GCC/ARMCMx/cmsis/core_cm0.c -text
 os/ports/GCC/ARMCMx/cmsis/core_cm0.h -text
