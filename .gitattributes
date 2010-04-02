@@ -265,6 +265,8 @@ os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/LPC111x/LPC11xx.h -text
 os/hal/platforms/LPC111x/hal_lld.c -text
 os/hal/platforms/LPC111x/hal_lld.h -text
+os/hal/platforms/LPC111x/pal_lld.c -text
+os/hal/platforms/LPC111x/pal_lld.h -text
 os/hal/platforms/LPC111x/platform.mk -text
 os/hal/platforms/LPC111x/system_LPC11xx.h -text
 os/hal/platforms/LPC214x/hal_lld.c -text
