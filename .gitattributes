@@ -159,6 +159,7 @@ docs/readme.txt -text
 docs/reports/AT91SAM7X-48-ARM.txt -text
 docs/reports/AT91SAM7X-48-THUMB.txt -text
 docs/reports/ATmega128-16.txt -text
+docs/reports/LPC1114-48.txt -text
 docs/reports/LPC2148-48-ARM.txt -text
 docs/reports/LPC2148-48-THUMB.txt -text
 docs/reports/MSP430F1611-0.75.txt -text
