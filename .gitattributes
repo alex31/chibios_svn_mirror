@@ -273,6 +273,16 @@ os/hal/platforms/LPC111x/platform.mk -text
 os/hal/platforms/LPC111x/serial_lld.c -text
 os/hal/platforms/LPC111x/serial_lld.h -text
 os/hal/platforms/LPC111x/system_LPC11xx.h -text
+os/hal/platforms/LPC13xx/LPC13xx.h -text
+os/hal/platforms/LPC13xx/hal_lld.c -text
+os/hal/platforms/LPC13xx/hal_lld.h -text
+os/hal/platforms/LPC13xx/pal_lld.c -text
+os/hal/platforms/LPC13xx/pal_lld.h -text
+os/hal/platforms/LPC13xx/platform.dox -text
+os/hal/platforms/LPC13xx/platform.mk -text
+os/hal/platforms/LPC13xx/serial_lld.c -text
+os/hal/platforms/LPC13xx/serial_lld.h -text
+os/hal/platforms/LPC13xx/system_LPC13xx.h -text
 os/hal/platforms/LPC214x/hal_lld.c -text
 os/hal/platforms/LPC214x/hal_lld.h -text
 os/hal/platforms/LPC214x/lpc214x.h -text
