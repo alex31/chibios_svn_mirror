@@ -2,6 +2,9 @@
 boards/EA_LPCXPRESSO_BB_1114/board.c -text
 boards/EA_LPCXPRESSO_BB_1114/board.h -text
 boards/EA_LPCXPRESSO_BB_1114/board.mk -text
+boards/EA_LPCXPRESSO_BB_1343/board.c -text
+boards/EA_LPCXPRESSO_BB_1343/board.h -text
+boards/EA_LPCXPRESSO_BB_1343/board.mk -text
 boards/GENERIC_SPC563/board.c -text
 boards/GENERIC_SPC563/board.h -text
 boards/GENERIC_SPC563/board.mk -text
@@ -91,6 +94,12 @@ demos/ARMCM0-LPC1114-GCC/chconf.h -text
 demos/ARMCM0-LPC1114-GCC/halconf.h -text
 demos/ARMCM0-LPC1114-GCC/main.c -text
 demos/ARMCM0-LPC1114-GCC/mcuconf.h -text
+demos/ARMCM3-LPC1343-GCC/Makefile -text
+demos/ARMCM3-LPC1343-GCC/ch.ld -text
+demos/ARMCM3-LPC1343-GCC/chconf.h -text
+demos/ARMCM3-LPC1343-GCC/halconf.h -text
+demos/ARMCM3-LPC1343-GCC/main.c -text
+demos/ARMCM3-LPC1343-GCC/mcuconf.h -text
 demos/ARMCM3-STM32F103-FATFS-GCC/Makefile -text
 demos/ARMCM3-STM32F103-FATFS-GCC/ch.ld -text
 demos/ARMCM3-STM32F103-FATFS-GCC/chconf.h -text
