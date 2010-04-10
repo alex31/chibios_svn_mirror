@@ -468,6 +468,8 @@ os/ports/GCC/ARMCMx/chcore_v6m.c -text
 os/ports/GCC/ARMCMx/chcore_v6m.h -text
 os/ports/GCC/ARMCMx/chcore_v7m.c -text
 os/ports/GCC/ARMCMx/chcore_v7m.h -text
+os/ports/GCC/ARMCMx/chcore_v7m_test.c -text
+os/ports/GCC/ARMCMx/chcore_v7m_test.h -text
 os/ports/GCC/ARMCMx/chtypes.h -text
 os/ports/GCC/ARMCMx/cmsis/core_cm0.c -text
 os/ports/GCC/ARMCMx/cmsis/core_cm0.h -text
