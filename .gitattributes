@@ -207,6 +207,7 @@ docs/src/articles.dox -text
 docs/src/atomic.dox -text
 docs/src/concepts.dox -text
 docs/src/createthread.dox -text
+docs/src/debug.dox -text
 docs/src/design.dox -text
 docs/src/eclipse.dox -text
 docs/src/eclipse2.dox -text
