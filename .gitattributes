@@ -212,6 +212,7 @@ docs/src/design.dox -text
 docs/src/eclipse.dox -text
 docs/src/eclipse2.dox -text
 docs/src/goals.dox -text
+docs/src/integrationguide.dox -text
 docs/src/interrupts.dox -text
 docs/src/jitter.dox -text
 docs/src/licfaq.dox -text
@@ -223,6 +224,7 @@ docs/src/portguide.dox -text
 docs/src/roundrobin.dox -text
 docs/src/saveram.dox -text
 docs/src/stacks.dox -text
+docs/src/stop_os.dox -text
 docs/src/target.dox -text
 docs/src/timing.dox -text
 docs/src/wakeup.dox -text
