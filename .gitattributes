@@ -340,6 +340,7 @@ os/hal/platforms/STM32/can_lld.c -text
 os/hal/platforms/STM32/can_lld.h -text
 os/hal/platforms/STM32/hal_lld.c -text
 os/hal/platforms/STM32/hal_lld.h -text
+os/hal/platforms/STM32/hal_lld_F10x.h -text
 os/hal/platforms/STM32/pal_lld.c -text
 os/hal/platforms/STM32/pal_lld.h -text
 os/hal/platforms/STM32/platform.dox -text
