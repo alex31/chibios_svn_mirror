@@ -30,6 +30,9 @@ boards/OLIMEX_STM32_P103/board.h -text
 boards/OLIMEX_STM32_P103/board.mk -text
 boards/RAISONANCE_REVA_STM8S/board.c -text
 boards/RAISONANCE_REVA_STM8S/board.h -text
+boards/ST_STM3210C_EVAL/board.c -text
+boards/ST_STM3210C_EVAL/board.h -text
+boards/ST_STM3210C_EVAL/board.mk -text
 boards/readme.txt -text
 demos/ARM7-AT91SAM7X-GCC/Makefile -text
 demos/ARM7-AT91SAM7X-GCC/ch.ld -text
@@ -116,6 +119,13 @@ demos/ARMCM3-STM32F103-GCC/mcuconf.h -text
 demos/ARMCM3-STM32F103-GCC/readme.txt -text
 demos/ARMCM3-STM32F103-GCC/ride7/ch.rapp -text
 demos/ARMCM3-STM32F103-GCC/ride7/ch.rprj -text
+demos/ARMCM3-STM32F107-GCC/Makefile -text
+demos/ARMCM3-STM32F107-GCC/ch.ld -text
+demos/ARMCM3-STM32F107-GCC/chconf.h -text
+demos/ARMCM3-STM32F107-GCC/halconf.h -text
+demos/ARMCM3-STM32F107-GCC/main.c -text
+demos/ARMCM3-STM32F107-GCC/mcuconf.h -text
+demos/ARMCM3-STM32F107-GCC/readme.txt -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
 demos/AVR-AT90CANx-GCC/halconf.h -text
