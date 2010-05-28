@@ -222,6 +222,7 @@ docs/src/debug.dox -text
 docs/src/design.dox -text
 docs/src/eclipse.dox -text
 docs/src/eclipse2.dox -text
+docs/src/events.dox -text
 docs/src/goals.dox -text
 docs/src/integrationguide.dox -text
 docs/src/interrupts.dox -text
