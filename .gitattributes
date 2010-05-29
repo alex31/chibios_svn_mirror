@@ -25,6 +25,9 @@ boards/OLIMEX_MSP430_P1611/board.mk -text
 boards/OLIMEX_SAM7_EX256/board.c -text
 boards/OLIMEX_SAM7_EX256/board.h -text
 boards/OLIMEX_SAM7_EX256/board.mk -text
+boards/OLIMEX_SAM7_P256/board.c -text
+boards/OLIMEX_SAM7_P256/board.h -text
+boards/OLIMEX_SAM7_P256/board.mk -text
 boards/OLIMEX_STM32_P103/board.c -text
 boards/OLIMEX_STM32_P103/board.h -text
 boards/OLIMEX_STM32_P103/board.mk -text
@@ -34,6 +37,13 @@ boards/ST_STM3210C_EVAL/board.c -text
 boards/ST_STM3210C_EVAL/board.h -text
 boards/ST_STM3210C_EVAL/board.mk -text
 boards/readme.txt -text
+demos/ARM7-AT91SAM7S-GCC/Makefile -text
+demos/ARM7-AT91SAM7S-GCC/ch.ld -text
+demos/ARM7-AT91SAM7S-GCC/chconf.h -text
+demos/ARM7-AT91SAM7S-GCC/halconf.h -text
+demos/ARM7-AT91SAM7S-GCC/main.c -text
+demos/ARM7-AT91SAM7S-GCC/mcuconf.h -text
+demos/ARM7-AT91SAM7S-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-GCC/Makefile -text
 demos/ARM7-AT91SAM7X-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-GCC/chconf.h -text
