@@ -36,6 +36,8 @@ boards/RAISONANCE_REVA_STM8S/board.h -text
 boards/ST_STM3210C_EVAL/board.c -text
 boards/ST_STM3210C_EVAL/board.h -text
 boards/ST_STM3210C_EVAL/board.mk -text
+boards/ST_STM8S_DISCOVERY/board.c -text
+boards/ST_STM8S_DISCOVERY/board.h -text
 boards/readme.txt -text
 demos/ARM7-AT91SAM7S-GCC/Makefile -text
 demos/ARM7-AT91SAM7S-GCC/ch.ld -text
@@ -168,6 +170,14 @@ demos/Posix-GCC/chconf.h -text
 demos/Posix-GCC/halconf.h -text
 demos/Posix-GCC/main.c -text
 demos/Posix-GCC/readme.txt -text
+demos/STM8S-STM8S105-DISCOVERY-STVD/ChibiOS-RT.stw -text
+demos/STM8S-STM8S105-DISCOVERY-STVD/cosmic/cosmic.stp -text
+demos/STM8S-STM8S105-DISCOVERY-STVD/cosmic/vectors.c -text
+demos/STM8S-STM8S105-DISCOVERY-STVD/demo/chconf.h -text
+demos/STM8S-STM8S105-DISCOVERY-STVD/demo/halconf.h -text
+demos/STM8S-STM8S105-DISCOVERY-STVD/demo/main.c -text
+demos/STM8S-STM8S105-DISCOVERY-STVD/demo/mcuconf.h -text
+demos/STM8S-STM8S105-DISCOVERY-STVD/raisonance/raisonance.stp -text
 demos/STM8S-STM8S208-RC/ch.rapp -text
 demos/STM8S-STM8S208-RC/ch.rprj -text
 demos/STM8S-STM8S208-RC/chconf.h -text
@@ -197,6 +207,8 @@ docs/reports/MSP430F1611-8.txt -text
 docs/reports/SPC563M64-80.txt -text
 docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72.txt -text
+docs/reports/STM8S105-16-Cosmic.txt -text
+docs/reports/STM8S105-16-Raisonance.txt -text
 docs/reports/STM8S208-16.txt -text
 docs/reports/build.txt -text
 docs/reports/coverage.txt -text
@@ -385,6 +397,8 @@ os/hal/platforms/STM8/platform.dox -text
 os/hal/platforms/STM8/serial_lld.c -text
 os/hal/platforms/STM8/serial_lld.h -text
 os/hal/platforms/STM8/stm8.h -text
+os/hal/platforms/STM8/stm8s.h -text
+os/hal/platforms/STM8/stm8s_type.h -text
 os/hal/platforms/Win32/console.c -text
 os/hal/platforms/Win32/console.h -text
 os/hal/platforms/Win32/hal_lld.c -text
@@ -535,6 +549,10 @@ os/ports/RC/STM8/chcore.c -text
 os/ports/RC/STM8/chcore.h -text
 os/ports/RC/STM8/chtypes.h -text
 os/ports/RC/STM8/port.dox -text
+os/ports/cosmic/STM8/chcore.c -text
+os/ports/cosmic/STM8/chcore.h -text
+os/ports/cosmic/STM8/chtypes.h -text
+os/ports/cosmic/STM8/port.dox -text
 os/ports/ports.dox -text
 os/various/ch.cpp -text
 os/various/ch.hpp -text
