@@ -39,6 +39,13 @@ boards/ST_STM3210C_EVAL/board.mk -text
 boards/ST_STM8S_DISCOVERY/board.c -text
 boards/ST_STM8S_DISCOVERY/board.h -text
 boards/readme.txt -text
+demos/ARM7-AT91SAM7S-FATFS-GCC/Makefile -text
+demos/ARM7-AT91SAM7S-FATFS-GCC/ch.ld -text
+demos/ARM7-AT91SAM7S-FATFS-GCC/chconf.h -text
+demos/ARM7-AT91SAM7S-FATFS-GCC/halconf.h -text
+demos/ARM7-AT91SAM7S-FATFS-GCC/main.c -text
+demos/ARM7-AT91SAM7S-FATFS-GCC/mcuconf.h -text
+demos/ARM7-AT91SAM7S-FATFS-GCC/readme.txt -text
 demos/ARM7-AT91SAM7S-GCC/Makefile -text
 demos/ARM7-AT91SAM7S-GCC/ch.ld -text
 demos/ARM7-AT91SAM7S-GCC/chconf.h -text
@@ -46,6 +53,13 @@ demos/ARM7-AT91SAM7S-GCC/halconf.h -text
 demos/ARM7-AT91SAM7S-GCC/main.c -text
 demos/ARM7-AT91SAM7S-GCC/mcuconf.h -text
 demos/ARM7-AT91SAM7S-GCC/readme.txt -text
+demos/ARM7-AT91SAM7X-FATFS-GCC/Makefile -text
+demos/ARM7-AT91SAM7X-FATFS-GCC/ch.ld -text
+demos/ARM7-AT91SAM7X-FATFS-GCC/chconf.h -text
+demos/ARM7-AT91SAM7X-FATFS-GCC/halconf.h -text
+demos/ARM7-AT91SAM7X-FATFS-GCC/main.c -text
+demos/ARM7-AT91SAM7X-FATFS-GCC/mcuconf.h -text
+demos/ARM7-AT91SAM7X-FATFS-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-GCC/Makefile -text
 demos/ARM7-AT91SAM7X-GCC/ch.ld -text
 demos/ARM7-AT91SAM7X-GCC/chconf.h -text
