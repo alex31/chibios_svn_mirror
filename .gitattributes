@@ -209,7 +209,7 @@ docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72.txt -text
 docs/reports/STM8S105-16-Cosmic.txt -text
 docs/reports/STM8S105-16-Raisonance.txt -text
-docs/reports/STM8S208-16.txt -text
+docs/reports/STM8S208-16-Raisonance.txt -text
 docs/reports/build.txt -text
 docs/reports/coverage.txt -text
 docs/reports/kernel.txt -text
