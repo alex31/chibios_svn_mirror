@@ -406,6 +406,8 @@ os/hal/platforms/STM32/spi_lld.h -text
 os/hal/platforms/STM32/stm32_dma.c -text
 os/hal/platforms/STM32/stm32_dma.h -text
 os/hal/platforms/STM32/stm32f10x.h -text
+os/hal/platforms/STM32/uart_lld.c -text
+os/hal/platforms/STM32/uart_lld.h -text
 os/hal/platforms/STM8/hal_lld.c -text
 os/hal/platforms/STM8/hal_lld.h -text
 os/hal/platforms/STM8/pal_lld.c -text
