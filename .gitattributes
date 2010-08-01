@@ -619,6 +619,13 @@ test/testsem.c -text
 test/testsem.h -text
 test/testthd.c -text
 test/testthd.h -text
+testhal/STM32/ADC/Makefile -text
+testhal/STM32/ADC/ch.ld -text
+testhal/STM32/ADC/chconf.h -text
+testhal/STM32/ADC/halconf.h -text
+testhal/STM32/ADC/main.c -text
+testhal/STM32/ADC/mcuconf.h -text
+testhal/STM32/ADC/readme.txt -text
 testhal/STM32/UART/Makefile -text
 testhal/STM32/UART/ch.ld -text
 testhal/STM32/UART/chconf.h -text
