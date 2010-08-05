@@ -465,6 +465,7 @@ os/kernel/include/chbsem.h -text
 os/kernel/include/chcond.h -text
 os/kernel/include/chdebug.h -text
 os/kernel/include/chevents.h -text
+os/kernel/include/chfiles.h -text
 os/kernel/include/chheap.h -text
 os/kernel/include/chinline.h -text
 os/kernel/include/chioch.h -text
