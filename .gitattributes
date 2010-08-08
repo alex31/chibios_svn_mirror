@@ -641,6 +641,13 @@ testhal/STM32/PWM/halconf.h -text
 testhal/STM32/PWM/main.c -text
 testhal/STM32/PWM/mcuconf.h -text
 testhal/STM32/PWM/readme.txt -text
+testhal/STM32/SPI/Makefile -text
+testhal/STM32/SPI/ch.ld -text
+testhal/STM32/SPI/chconf.h -text
+testhal/STM32/SPI/halconf.h -text
+testhal/STM32/SPI/main.c -text
+testhal/STM32/SPI/mcuconf.h -text
+testhal/STM32/SPI/readme.txt -text
 testhal/STM32/UART/Makefile -text
 testhal/STM32/UART/ch.ld -text
 testhal/STM32/UART/chconf.h -text
