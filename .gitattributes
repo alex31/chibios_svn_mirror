@@ -251,6 +251,17 @@ ext/stm32lib-3.3.0.zip -text
 ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
 /license.txt -text
+os/hal/dox/adc.dox -text
+os/hal/dox/can.dox -text
+os/hal/dox/hal.dox -text
+os/hal/dox/i2c.dox -text
+os/hal/dox/mac.dox -text
+os/hal/dox/mmc_spi.dox -text
+os/hal/dox/pal.dox -text
+os/hal/dox/pwm.dox -text
+os/hal/dox/serial.dox -text
+os/hal/dox/spi.dox -text
+os/hal/dox/uart.dox -text
 os/hal/hal.dox -text
 os/hal/hal.mk -text
 os/hal/include/adc.h -text
