@@ -327,6 +327,8 @@ os/hal/platforms/LPC13xx/platform.dox -text
 os/hal/platforms/LPC13xx/platform.mk -text
 os/hal/platforms/LPC13xx/serial_lld.c -text
 os/hal/platforms/LPC13xx/serial_lld.h -text
+os/hal/platforms/LPC13xx/spi_lld.c -text
+os/hal/platforms/LPC13xx/spi_lld.h -text
 os/hal/platforms/LPC13xx/system_LPC13xx.h -text
 os/hal/platforms/LPC214x/hal_lld.c -text
 os/hal/platforms/LPC214x/hal_lld.h -text
