@@ -398,6 +398,8 @@ os/hal/platforms/STM8/pal_lld.h -text
 os/hal/platforms/STM8/platform.dox -text
 os/hal/platforms/STM8/serial_lld.c -text
 os/hal/platforms/STM8/serial_lld.h -text
+os/hal/platforms/STM8/spi_lld.c -text
+os/hal/platforms/STM8/spi_lld.h -text
 os/hal/platforms/STM8/stm8.h -text
 os/hal/platforms/STM8/stm8s.h -text
 os/hal/platforms/STM8/stm8s_type.h -text
