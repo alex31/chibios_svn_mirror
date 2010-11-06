@@ -515,7 +515,11 @@ os/ports/GCC/ARMCMx/LPC13xx/port.mk -text
 os/ports/GCC/ARMCMx/LPC13xx/vectors.s -text
 os/ports/GCC/ARMCMx/STM32F10x/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32F10x/port.mk -text
-os/ports/GCC/ARMCMx/STM32F10x/vectors.s -text
+os/ports/GCC/ARMCMx/STM32F10x/vectors_cl.s -text
+os/ports/GCC/ARMCMx/STM32F10x/vectors_hd.s -text
+os/ports/GCC/ARMCMx/STM32F10x/vectors_ld.s -text
+os/ports/GCC/ARMCMx/STM32F10x/vectors_lp.s -text
+os/ports/GCC/ARMCMx/STM32F10x/vectors_md.s -text
 os/ports/GCC/ARMCMx/chcore.c -text
 os/ports/GCC/ARMCMx/chcore.h -text
 os/ports/GCC/ARMCMx/chcore_v6m.c -text
@@ -527,7 +531,8 @@ os/ports/GCC/ARMCMx/cmsis/core_cm0.c -text
 os/ports/GCC/ARMCMx/cmsis/core_cm0.h -text
 os/ports/GCC/ARMCMx/cmsis/core_cm3.c -text
 os/ports/GCC/ARMCMx/cmsis/core_cm3.h -text
-os/ports/GCC/ARMCMx/crt0.s -text
+os/ports/GCC/ARMCMx/crt0_v6m.s -text
+os/ports/GCC/ARMCMx/crt0_v7m.s -text
 os/ports/GCC/ARMCMx/nvic.c -text
 os/ports/GCC/ARMCMx/nvic.h -text
 os/ports/GCC/ARMCMx/old/chcore_v7m.c -text
