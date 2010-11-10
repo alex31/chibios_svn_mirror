@@ -39,6 +39,8 @@ boards/RAISONANCE_REVA_STM8S/board.h -text
 boards/ST_STM3210C_EVAL/board.c -text
 boards/ST_STM3210C_EVAL/board.h -text
 boards/ST_STM3210C_EVAL/board.mk -text
+boards/ST_STM8L_DISCOVERY/board.c -text
+boards/ST_STM8L_DISCOVERY/board.h -text
 boards/ST_STM8S_DISCOVERY/board.c -text
 boards/ST_STM8S_DISCOVERY/board.h -text
 boards/readme.txt -text
@@ -403,6 +405,10 @@ os/hal/platforms/STM8/spi_lld.h -text
 os/hal/platforms/STM8/stm8.h -text
 os/hal/platforms/STM8/stm8s.h -text
 os/hal/platforms/STM8/stm8s_type.h -text
+os/hal/platforms/STM8L/hal_lld.c -text
+os/hal/platforms/STM8L/hal_lld.h -text
+os/hal/platforms/STM8L/platform.dox -text
+os/hal/platforms/STM8L/stm8l15x.h -text
 os/hal/platforms/Win32/console.c -text
 os/hal/platforms/Win32/console.h -text
 os/hal/platforms/Win32/hal_lld.c -text
