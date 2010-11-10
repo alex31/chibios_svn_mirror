@@ -191,6 +191,14 @@ demos/Posix-GCC/chconf.h -text
 demos/Posix-GCC/halconf.h -text
 demos/Posix-GCC/main.c -text
 demos/Posix-GCC/readme.txt -text
+demos/STM8L-STM8L152-DISCOVERY-STVD/ChibiOS-RT.stw -text
+demos/STM8L-STM8L152-DISCOVERY-STVD/cosmic/cosmic.stp -text
+demos/STM8L-STM8L152-DISCOVERY-STVD/cosmic/vectors.c -text
+demos/STM8L-STM8L152-DISCOVERY-STVD/demo/chconf.h -text
+demos/STM8L-STM8L152-DISCOVERY-STVD/demo/halconf.h -text
+demos/STM8L-STM8L152-DISCOVERY-STVD/demo/main.c -text
+demos/STM8L-STM8L152-DISCOVERY-STVD/demo/mcuconf.h -text
+demos/STM8L-STM8L152-DISCOVERY-STVD/raisonance/raisonance.stp -text
 demos/STM8S-STM8S105-DISCOVERY-STVD/ChibiOS-RT.stw -text
 demos/STM8S-STM8S105-DISCOVERY-STVD/cosmic/cosmic.stp -text
 demos/STM8S-STM8S105-DISCOVERY-STVD/cosmic/vectors.c -text
