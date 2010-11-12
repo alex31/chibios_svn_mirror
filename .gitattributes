@@ -415,6 +415,9 @@ os/hal/platforms/STM8/stm8s.h -text
 os/hal/platforms/STM8/stm8s_type.h -text
 os/hal/platforms/STM8L/hal_lld.c -text
 os/hal/platforms/STM8L/hal_lld.h -text
+os/hal/platforms/STM8L/hal_lld_stm8l_hd.h -text
+os/hal/platforms/STM8L/hal_lld_stm8l_md.h -text
+os/hal/platforms/STM8L/hal_lld_stm8l_mdp.h -text
 os/hal/platforms/STM8L/pal_lld.c -text
 os/hal/platforms/STM8L/pal_lld.h -text
 os/hal/platforms/STM8L/platform.dox -text
