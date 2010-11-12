@@ -472,6 +472,7 @@ os/kernel/include/ch.h -text
 os/kernel/include/chbsem.h -text
 os/kernel/include/chcond.h -text
 os/kernel/include/chdebug.h -text
+os/kernel/include/chdynamic.h -text
 os/kernel/include/chevents.h -text
 os/kernel/include/chfiles.h -text
 os/kernel/include/chheap.h -text
@@ -495,6 +496,7 @@ os/kernel/kernel.dox -text
 os/kernel/kernel.mk -text
 os/kernel/src/chcond.c -text
 os/kernel/src/chdebug.c -text
+os/kernel/src/chdynamic.c -text
 os/kernel/src/chevents.c -text
 os/kernel/src/chheap.c -text
 os/kernel/src/chlists.c -text
