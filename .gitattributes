@@ -542,6 +542,7 @@ os/ports/GCC/ARMCMx/LPC13xx/port.mk -text
 os/ports/GCC/ARMCMx/LPC13xx/vectors.s -text
 os/ports/GCC/ARMCMx/STM32/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32/port.mk -text
+os/ports/GCC/ARMCMx/STM32/vectors.c -text
 os/ports/GCC/ARMCMx/STM32/vectors_cl.s -text
 os/ports/GCC/ARMCMx/STM32/vectors_hd.s -text
 os/ports/GCC/ARMCMx/STM32/vectors_ld.s -text
