@@ -39,6 +39,9 @@ boards/RAISONANCE_REVA_STM8S/board.h -text
 boards/ST_STM3210C_EVAL/board.c -text
 boards/ST_STM3210C_EVAL/board.h -text
 boards/ST_STM3210C_EVAL/board.mk -text
+boards/ST_STM32VL_DISCOVERY/board.c -text
+boards/ST_STM32VL_DISCOVERY/board.h -text
+boards/ST_STM32VL_DISCOVERY/board.mk -text
 boards/ST_STM8L_DISCOVERY/board.c -text
 boards/ST_STM8L_DISCOVERY/board.h -text
 boards/ST_STM8S_DISCOVERY/board.c -text
@@ -134,6 +137,13 @@ demos/ARMCM3-LPC1343-GCC/chconf.h -text
 demos/ARMCM3-LPC1343-GCC/halconf.h -text
 demos/ARMCM3-LPC1343-GCC/main.c -text
 demos/ARMCM3-LPC1343-GCC/mcuconf.h -text
+demos/ARMCM3-STM32F100-DISCOVERY-GCC/Makefile -text
+demos/ARMCM3-STM32F100-DISCOVERY-GCC/ch.ld -text
+demos/ARMCM3-STM32F100-DISCOVERY-GCC/chconf.h -text
+demos/ARMCM3-STM32F100-DISCOVERY-GCC/halconf.h -text
+demos/ARMCM3-STM32F100-DISCOVERY-GCC/main.c -text
+demos/ARMCM3-STM32F100-DISCOVERY-GCC/mcuconf.h -text
+demos/ARMCM3-STM32F100-DISCOVERY-GCC/readme.txt -text
 demos/ARMCM3-STM32F103-FATFS-GCC/Makefile -text
 demos/ARMCM3-STM32F103-FATFS-GCC/ch.ld -text
 demos/ARMCM3-STM32F103-FATFS-GCC/chconf.h -text
@@ -234,6 +244,7 @@ docs/reports/LPC2148-48-THUMB.txt -text
 docs/reports/MSP430F1611-0.75.txt -text
 docs/reports/MSP430F1611-8.txt -text
 docs/reports/SPC563M64-80.txt -text
+docs/reports/STM32F100-24.txt -text
 docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72.txt -text
 docs/reports/STM8L152-16-Cosmic.txt -text
