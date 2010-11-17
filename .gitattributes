@@ -544,6 +544,7 @@ os/ports/GCC/ARM7/chtypes.h -text
 os/ports/GCC/ARM7/crt0.s -text
 os/ports/GCC/ARM7/port.dox -text
 os/ports/GCC/ARM7/port.mk -text
+os/ports/GCC/ARM7/rules.mk -text
 os/ports/GCC/ARMCMx/LPC11xx/cmparams.h -text
 os/ports/GCC/ARMCMx/LPC11xx/port.mk -text
 os/ports/GCC/ARMCMx/LPC11xx/vectors.s -text
@@ -571,6 +572,7 @@ os/ports/GCC/ARMCMx/nvic.h -text
 os/ports/GCC/ARMCMx/old/chcore_v7m.c -text
 os/ports/GCC/ARMCMx/old/chcore_v7m.h -text
 os/ports/GCC/ARMCMx/port.dox -text
+os/ports/GCC/ARMCMx/rules.mk -text
 os/ports/GCC/AVR/chcore.c -text
 os/ports/GCC/AVR/chcore.h -text
 os/ports/GCC/AVR/chtypes.h -text
