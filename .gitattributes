@@ -436,7 +436,6 @@ os/hal/platforms/STM8S/serial_lld.c -text
 os/hal/platforms/STM8S/serial_lld.h -text
 os/hal/platforms/STM8S/spi_lld.c -text
 os/hal/platforms/STM8S/spi_lld.h -text
-os/hal/platforms/STM8S/stm8.h -text
 os/hal/platforms/STM8S/stm8s.h -text
 os/hal/platforms/STM8S/stm8s_type.h -text
 os/hal/platforms/Win32/console.c -text
