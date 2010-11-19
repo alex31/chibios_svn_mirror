@@ -532,8 +532,10 @@ os/kernel/templates/chconf.h -text
 os/kernel/templates/chcore.c -text
 os/kernel/templates/chcore.h -text
 os/kernel/templates/chtypes.h -text
+os/ports/GCC/ARM/AT91SAM7/armparams.h -text
 os/ports/GCC/ARM/AT91SAM7/vectors.s -text
 os/ports/GCC/ARM/AT91SAM7/wfi.h -text
+os/ports/GCC/ARM/LPC214x/armparams.h -text
 os/ports/GCC/ARM/LPC214x/vectors.s -text
 os/ports/GCC/ARM/LPC214x/wfi.h -text
 os/ports/GCC/ARM/chcore.c -text
