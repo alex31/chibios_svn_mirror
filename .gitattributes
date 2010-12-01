@@ -548,10 +548,10 @@ os/ports/GCC/ARM/port.mk -text
 os/ports/GCC/ARM/rules.mk -text
 os/ports/GCC/ARMCMx/LPC11xx/cmparams.h -text
 os/ports/GCC/ARMCMx/LPC11xx/port.mk -text
-os/ports/GCC/ARMCMx/LPC11xx/vectors.s -text
+os/ports/GCC/ARMCMx/LPC11xx/vectors.c -text
 os/ports/GCC/ARMCMx/LPC13xx/cmparams.h -text
 os/ports/GCC/ARMCMx/LPC13xx/port.mk -text
-os/ports/GCC/ARMCMx/LPC13xx/vectors.s -text
+os/ports/GCC/ARMCMx/LPC13xx/vectors.c -text
 os/ports/GCC/ARMCMx/STM32/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32/port.mk -text
 os/ports/GCC/ARMCMx/STM32/vectors.c -text
