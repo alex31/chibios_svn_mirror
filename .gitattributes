@@ -330,6 +330,7 @@ os/hal/platforms/AVR/platform.mk -text
 os/hal/platforms/AVR/serial_lld.c -text
 os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/LPC11xx/LPC11xx.h -text
+os/hal/platforms/LPC11xx/core_cm0.h -text
 os/hal/platforms/LPC11xx/hal_lld.c -text
 os/hal/platforms/LPC11xx/hal_lld.h -text
 os/hal/platforms/LPC11xx/pal_lld.c -text
@@ -342,6 +343,7 @@ os/hal/platforms/LPC11xx/spi_lld.c -text
 os/hal/platforms/LPC11xx/spi_lld.h -text
 os/hal/platforms/LPC11xx/system_LPC11xx.h -text
 os/hal/platforms/LPC13xx/LPC13xx.h -text
+os/hal/platforms/LPC13xx/core_cm3.h -text
 os/hal/platforms/LPC13xx/hal_lld.c -text
 os/hal/platforms/LPC13xx/hal_lld.h -text
 os/hal/platforms/LPC13xx/pal_lld.c -text
@@ -395,6 +397,7 @@ os/hal/platforms/STM32/adc_lld.c -text
 os/hal/platforms/STM32/adc_lld.h -text
 os/hal/platforms/STM32/can_lld.c -text
 os/hal/platforms/STM32/can_lld.h -text
+os/hal/platforms/STM32/core_cm3.h -text
 os/hal/platforms/STM32/hal_lld.c -text
 os/hal/platforms/STM32/hal_lld.h -text
 os/hal/platforms/STM32/hal_lld_f100.h -text
@@ -562,10 +565,6 @@ os/ports/GCC/ARMCMx/chcore_v6m.h -text
 os/ports/GCC/ARMCMx/chcore_v7m.c -text
 os/ports/GCC/ARMCMx/chcore_v7m.h -text
 os/ports/GCC/ARMCMx/chtypes.h -text
-os/ports/GCC/ARMCMx/cmsis/core_cm0.c -text
-os/ports/GCC/ARMCMx/cmsis/core_cm0.h -text
-os/ports/GCC/ARMCMx/cmsis/core_cm3.c -text
-os/ports/GCC/ARMCMx/cmsis/core_cm3.h -text
 os/ports/GCC/ARMCMx/crt0_v6m.s -text
 os/ports/GCC/ARMCMx/crt0_v7m.s -text
 os/ports/GCC/ARMCMx/nvic.c -text
