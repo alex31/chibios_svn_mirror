@@ -566,8 +566,6 @@ os/ports/GCC/ARMCMx/cmsis/core_cm0.c -text
 os/ports/GCC/ARMCMx/cmsis/core_cm0.h -text
 os/ports/GCC/ARMCMx/cmsis/core_cm3.c -text
 os/ports/GCC/ARMCMx/cmsis/core_cm3.h -text
-os/ports/GCC/ARMCMx/cmsis/core_cmFunc.h -text
-os/ports/GCC/ARMCMx/cmsis/core_cmInstr.h -text
 os/ports/GCC/ARMCMx/crt0_v6m.s -text
 os/ports/GCC/ARMCMx/crt0_v7m.s -text
 os/ports/GCC/ARMCMx/nvic.c -text
