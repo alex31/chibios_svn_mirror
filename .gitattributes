@@ -47,6 +47,9 @@ boards/ST_STM8L_DISCOVERY/board.h -text
 boards/ST_STM8S_DISCOVERY/board.c -text
 boards/ST_STM8S_DISCOVERY/board.h -text
 boards/readme.txt -text
+boards/simulator/board.c -text
+boards/simulator/board.h -text
+boards/simulator/board.mk -text
 demos/ARM7-AT91SAM7S-FATFS-GCC/Makefile -text
 demos/ARM7-AT91SAM7S-FATFS-GCC/ch.ld -text
 demos/ARM7-AT91SAM7S-FATFS-GCC/chconf.h -text
@@ -233,7 +236,6 @@ demos/STM8S-STM8S208-RC/main.c -text
 demos/STM8S-STM8S208-RC/mcuconf.h -text
 demos/STM8S-STM8S208-RC/readme.txt -text
 demos/Win32-MinGW/Makefile -text
-demos/Win32-MinGW/board.h -text
 demos/Win32-MinGW/chconf.h -text
 demos/Win32-MinGW/halconf.h -text
 demos/Win32-MinGW/main.c -text
