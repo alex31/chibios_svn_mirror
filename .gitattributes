@@ -642,7 +642,6 @@ os/various/syscalls.c -text
 os/various/various.dox -text
 /readme.txt -text
 test/coverage/Makefile -text
-test/coverage/board.h -text
 test/coverage/chconf.h -text
 test/coverage/halconf.h -text
 test/coverage/main.c -text
