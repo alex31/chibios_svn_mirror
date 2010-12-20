@@ -620,6 +620,7 @@ os/ports/IAR/ARMCMx/chtypes.h -text
 os/ports/IAR/ARMCMx/cstartup.s -text
 os/ports/IAR/ARMCMx/nvic.c -text
 os/ports/IAR/ARMCMx/nvic.h -text
+os/ports/IAR/ARMCMx/port.dox -text
 os/ports/RC/STM8/chcore.c -text
 os/ports/RC/STM8/chcore.h -text
 os/ports/RC/STM8/chtypes.h -text
