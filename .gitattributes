@@ -258,6 +258,7 @@ docs/reports/SPC563M64-80.txt -text
 docs/reports/STM32F100-24.txt -text
 docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72-IAR.txt -text
+docs/reports/STM32F103-72-RVCT.txt -text
 docs/reports/STM32F103-72.txt -text
 docs/reports/STM8L152-16-Cosmic.txt -text
 docs/reports/STM8L152-16-Raisonance.txt -text
