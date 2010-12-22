@@ -160,6 +160,9 @@ demos/ARMCM3-STM32F103-GCC/chconf.h -text
 demos/ARMCM3-STM32F103-GCC/codeblocks/ch/ch.cbp -text
 demos/ARMCM3-STM32F103-GCC/codeblocks/ch/ch.workspace -text
 demos/ARMCM3-STM32F103-GCC/halconf.h -text
+demos/ARMCM3-STM32F103-GCC/iar/ch.ewp -text
+demos/ARMCM3-STM32F103-GCC/iar/ch.eww -text
+demos/ARMCM3-STM32F103-GCC/iar/ch.icf -text
 demos/ARMCM3-STM32F103-GCC/keil/ch.uvopt -text
 demos/ARMCM3-STM32F103-GCC/keil/ch.uvproj -text
 demos/ARMCM3-STM32F103-GCC/main.c -text
