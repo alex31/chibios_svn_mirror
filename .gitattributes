@@ -173,14 +173,6 @@ demos/ARMCM3-STM32F103-GCC/mcuconf.h -text
 demos/ARMCM3-STM32F103-GCC/readme.txt -text
 demos/ARMCM3-STM32F103-GCC/ride7/ch.rapp -text
 demos/ARMCM3-STM32F103-GCC/ride7/ch.rprj -text
-demos/ARMCM3-STM32F103-IAR/ch.ewd -text
-demos/ARMCM3-STM32F103-IAR/ch.ewp -text
-demos/ARMCM3-STM32F103-IAR/ch.eww -text
-demos/ARMCM3-STM32F103-IAR/ch.icf -text
-demos/ARMCM3-STM32F103-IAR/chconf.h -text
-demos/ARMCM3-STM32F103-IAR/halconf.h -text
-demos/ARMCM3-STM32F103-IAR/main.c -text
-demos/ARMCM3-STM32F103-IAR/mcuconf.h -text
 demos/ARMCM3-STM32F107-GCC/Makefile -text
 demos/ARMCM3-STM32F107-GCC/ch.ld -text
 demos/ARMCM3-STM32F107-GCC/chconf.h -text
