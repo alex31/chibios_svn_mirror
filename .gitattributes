@@ -138,6 +138,9 @@ demos/ARMCM3-LPC1343-GCC/Makefile -text
 demos/ARMCM3-LPC1343-GCC/ch.ld -text
 demos/ARMCM3-LPC1343-GCC/chconf.h -text
 demos/ARMCM3-LPC1343-GCC/halconf.h -text
+demos/ARMCM3-LPC1343-GCC/iar/ch.ewp -text
+demos/ARMCM3-LPC1343-GCC/iar/ch.eww -text
+demos/ARMCM3-LPC1343-GCC/iar/ch.icf -text
 demos/ARMCM3-LPC1343-GCC/main.c -text
 demos/ARMCM3-LPC1343-GCC/mcuconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/Makefile -text
@@ -608,6 +611,8 @@ os/ports/GCC/SIMIA32/chcore.c -text
 os/ports/GCC/SIMIA32/chcore.h -text
 os/ports/GCC/SIMIA32/chtypes.h -text
 os/ports/GCC/SIMIA32/port.mk -text
+os/ports/IAR/ARMCMx/LPC13xx/cmparams.h -text
+os/ports/IAR/ARMCMx/LPC13xx/vectors.s -text
 os/ports/IAR/ARMCMx/STM32/cmparams.h -text
 os/ports/IAR/ARMCMx/STM32/vectors.s -text
 os/ports/IAR/ARMCMx/chcore.c -text
