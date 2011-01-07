@@ -141,6 +141,8 @@ demos/ARMCM3-LPC1343-LPCXPRESSO/halconf.h -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/iar/ch.ewp -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/iar/ch.eww -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/iar/ch.icf -text
+demos/ARMCM3-LPC1343-LPCXPRESSO/keil/ch.uvopt -text
+demos/ARMCM3-LPC1343-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/main.c -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/mcuconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/Makefile -text
