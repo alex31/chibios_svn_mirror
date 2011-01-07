@@ -150,6 +150,8 @@ demos/ARMCM3-STM32F100-DISCOVERY/halconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/iar/ch.ewp -text
 demos/ARMCM3-STM32F100-DISCOVERY/iar/ch.eww -text
 demos/ARMCM3-STM32F100-DISCOVERY/iar/ch.icf -text
+demos/ARMCM3-STM32F100-DISCOVERY/keil/ch.uvopt -text
+demos/ARMCM3-STM32F100-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM3-STM32F100-DISCOVERY/main.c -text
 demos/ARMCM3-STM32F100-DISCOVERY/mcuconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/readme.txt -text
@@ -256,6 +258,8 @@ docs/reports/LPC2148-48-THUMB.txt -text
 docs/reports/MSP430F1611-0.75.txt -text
 docs/reports/MSP430F1611-8.txt -text
 docs/reports/SPC563M64-80.txt -text
+docs/reports/STM32F100-24-IAR.txt -text
+docs/reports/STM32F100-24-RVCT.txt -text
 docs/reports/STM32F100-24.txt -text
 docs/reports/STM32F103-48.txt -text
 docs/reports/STM32F103-72-IAR.txt -text
