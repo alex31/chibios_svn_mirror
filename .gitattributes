@@ -258,6 +258,7 @@ docs/readme.txt -text
 docs/reports/AT91SAM7X-48-ARM.txt -text
 docs/reports/AT91SAM7X-48-THUMB.txt -text
 docs/reports/ATmega128-16.txt -text
+docs/reports/LPC1114-48-RVCT.txt -text
 docs/reports/LPC1114-48.txt -text
 docs/reports/LPC1343-72-GCC.txt -text
 docs/reports/LPC1343-72-IAR.txt -text
