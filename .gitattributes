@@ -631,6 +631,7 @@ os/ports/IAR/ARMCMx/chcore_v6m.c -text
 os/ports/IAR/ARMCMx/chcore_v6m.h -text
 os/ports/IAR/ARMCMx/chcore_v7m.c -text
 os/ports/IAR/ARMCMx/chcore_v7m.h -text
+os/ports/IAR/ARMCMx/chcoreasm_v6m.s -text
 os/ports/IAR/ARMCMx/chcoreasm_v7m.s -text
 os/ports/IAR/ARMCMx/chtypes.h -text
 os/ports/IAR/ARMCMx/cstartup.s -text
