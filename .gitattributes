@@ -135,6 +135,8 @@ demos/ARMCM0-LPC1114-LPCXPRESSO/halconf.h -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.ewp -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.eww -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.icf -text
+demos/ARMCM0-LPC1114-LPCXPRESSO/keil/ch.uvopt -text
+demos/ARMCM0-LPC1114-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/main.c -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/mcuconf.h -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/Makefile -text
@@ -653,8 +655,11 @@ os/ports/RVCT/ARMCMx/STM32/cmparams.h -text
 os/ports/RVCT/ARMCMx/STM32/vectors.s -text
 os/ports/RVCT/ARMCMx/chcore.c -text
 os/ports/RVCT/ARMCMx/chcore.h -text
+os/ports/RVCT/ARMCMx/chcore_v6m.c -text
+os/ports/RVCT/ARMCMx/chcore_v6m.h -text
 os/ports/RVCT/ARMCMx/chcore_v7m.c -text
 os/ports/RVCT/ARMCMx/chcore_v7m.h -text
+os/ports/RVCT/ARMCMx/chcoreasm_v6m.s -text
 os/ports/RVCT/ARMCMx/chcoreasm_v7m.s -text
 os/ports/RVCT/ARMCMx/chtypes.h -text
 os/ports/RVCT/ARMCMx/cstartup.s -text
