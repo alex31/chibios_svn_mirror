@@ -135,7 +135,6 @@ demos/ARMCM0-LPC1114-LPCXPRESSO/halconf.h -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.ewp -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.eww -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.icf -text
-demos/ARMCM0-LPC1114-LPCXPRESSO/keil/ch.uvopt -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/main.c -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/mcuconf.h -text
@@ -146,7 +145,6 @@ demos/ARMCM3-LPC1343-LPCXPRESSO/halconf.h -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/iar/ch.ewp -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/iar/ch.eww -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/iar/ch.icf -text
-demos/ARMCM3-LPC1343-LPCXPRESSO/keil/ch.uvopt -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/main.c -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/mcuconf.h -text
@@ -157,7 +155,6 @@ demos/ARMCM3-STM32F100-DISCOVERY/halconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/iar/ch.ewp -text
 demos/ARMCM3-STM32F100-DISCOVERY/iar/ch.eww -text
 demos/ARMCM3-STM32F100-DISCOVERY/iar/ch.icf -text
-demos/ARMCM3-STM32F100-DISCOVERY/keil/ch.uvopt -text
 demos/ARMCM3-STM32F100-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM3-STM32F100-DISCOVERY/main.c -text
 demos/ARMCM3-STM32F100-DISCOVERY/mcuconf.h -text
@@ -178,7 +175,6 @@ demos/ARMCM3-STM32F103/halconf.h -text
 demos/ARMCM3-STM32F103/iar/ch.ewp -text
 demos/ARMCM3-STM32F103/iar/ch.eww -text
 demos/ARMCM3-STM32F103/iar/ch.icf -text
-demos/ARMCM3-STM32F103/keil/ch.uvopt -text
 demos/ARMCM3-STM32F103/keil/ch.uvproj -text
 demos/ARMCM3-STM32F103/main.c -text
 demos/ARMCM3-STM32F103/mcuconf.h -text
