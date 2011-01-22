@@ -169,8 +169,8 @@ demos/ARMCM3-STM32F103-FATFS-GCC/readme.txt -text
 demos/ARMCM3-STM32F103/Makefile -text
 demos/ARMCM3-STM32F103/ch.ld -text
 demos/ARMCM3-STM32F103/chconf.h -text
-demos/ARMCM3-STM32F103/codeblocks/ch/ch.cbp -text
-demos/ARMCM3-STM32F103/codeblocks/ch/ch.workspace -text
+demos/ARMCM3-STM32F103/codeblocks/ch.cbp -text
+demos/ARMCM3-STM32F103/codeblocks/ch.workspace -text
 demos/ARMCM3-STM32F103/halconf.h -text
 demos/ARMCM3-STM32F103/iar/ch.ewp -text
 demos/ARMCM3-STM32F103/iar/ch.eww -text
