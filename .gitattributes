@@ -321,8 +321,11 @@ os/hal/include/mmc_spi.h -text
 os/hal/include/pal.h -text
 os/hal/include/pwm.h -text
 os/hal/include/serial.h -text
+os/hal/include/serial_usb.h -text
 os/hal/include/spi.h -text
 os/hal/include/uart.h -text
+os/hal/include/usb.h -text
+os/hal/include/usb_cdc.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S128.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S256.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S512.h -text
@@ -439,9 +442,12 @@ os/hal/platforms/STM32/spi_lld.c -text
 os/hal/platforms/STM32/spi_lld.h -text
 os/hal/platforms/STM32/stm32_dma.c -text
 os/hal/platforms/STM32/stm32_dma.h -text
+os/hal/platforms/STM32/stm32_usb.h -text
 os/hal/platforms/STM32/stm32f10x.h -text
 os/hal/platforms/STM32/uart_lld.c -text
 os/hal/platforms/STM32/uart_lld.h -text
+os/hal/platforms/STM32/usb_lld.c -text
+os/hal/platforms/STM32/usb_lld.h -text
 os/hal/platforms/STM8L/hal_lld.c -text
 os/hal/platforms/STM8L/hal_lld.h -text
 os/hal/platforms/STM8L/hal_lld_stm8l_hd.h -text
@@ -484,8 +490,10 @@ os/hal/src/mmc_spi.c -text
 os/hal/src/pal.c -text
 os/hal/src/pwm.c -text
 os/hal/src/serial.c -text
+os/hal/src/serial_usb.c -text
 os/hal/src/spi.c -text
 os/hal/src/uart.c -text
+os/hal/src/usb.c -text
 os/hal/templates/adc_lld.c -text
 os/hal/templates/adc_lld.h -text
 os/hal/templates/can_lld.c -text
