@@ -753,6 +753,12 @@ testhal/STM32/UART/halconf.h -text
 testhal/STM32/UART/main.c -text
 testhal/STM32/UART/mcuconf.h -text
 testhal/STM32/UART/readme.txt -text
+testhal/STM32/USB_CDC/Makefile -text
+testhal/STM32/USB_CDC/ch.ld -text
+testhal/STM32/USB_CDC/chconf.h -text
+testhal/STM32/USB_CDC/halconf.h -text
+testhal/STM32/USB_CDC/main.c -text
+testhal/STM32/USB_CDC/mcuconf.h -text
 testhal/STM8S/SPI/ChibiOS-RT.stw -text
 testhal/STM8S/SPI/cosmic/cosmic.stp -text
 testhal/STM8S/SPI/cosmic/vectors.c -text
