@@ -307,8 +307,10 @@ os/hal/dox/mmc_spi.dox -text
 os/hal/dox/pal.dox -text
 os/hal/dox/pwm.dox -text
 os/hal/dox/serial.dox -text
+os/hal/dox/serial_usb.dox -text
 os/hal/dox/spi.dox -text
 os/hal/dox/uart.dox -text
+os/hal/dox/usb.dox -text
 os/hal/hal.dox -text
 os/hal/hal.mk -text
 os/hal/include/adc.h -text
