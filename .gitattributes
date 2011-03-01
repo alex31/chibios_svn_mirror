@@ -300,6 +300,7 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 os/hal/dox/adc.dox -text
 os/hal/dox/can.dox -text
+os/hal/dox/gpt.dox -text
 os/hal/dox/hal.dox -text
 os/hal/dox/i2c.dox -text
 os/hal/dox/mac.dox -text
