@@ -362,6 +362,8 @@ os/hal/platforms/AVR/serial_lld.c -text
 os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/LPC11xx/LPC11xx.h -text
 os/hal/platforms/LPC11xx/core_cm0.h -text
+os/hal/platforms/LPC11xx/gpt_lld.c -text
+os/hal/platforms/LPC11xx/gpt_lld.h -text
 os/hal/platforms/LPC11xx/hal_lld.c -text
 os/hal/platforms/LPC11xx/hal_lld.h -text
 os/hal/platforms/LPC11xx/pal_lld.c -text
