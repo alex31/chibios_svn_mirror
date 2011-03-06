@@ -377,6 +377,8 @@ os/hal/platforms/LPC11xx/spi_lld.h -text
 os/hal/platforms/LPC11xx/system_LPC11xx.h -text
 os/hal/platforms/LPC13xx/LPC13xx.h -text
 os/hal/platforms/LPC13xx/core_cm3.h -text
+os/hal/platforms/LPC13xx/gpt_lld.c -text
+os/hal/platforms/LPC13xx/gpt_lld.h -text
 os/hal/platforms/LPC13xx/hal_lld.c -text
 os/hal/platforms/LPC13xx/hal_lld.h -text
 os/hal/platforms/LPC13xx/pal_lld.c -text
