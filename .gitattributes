@@ -34,6 +34,9 @@ boards/OLIMEX_STM32_H103/board.mk -text
 boards/OLIMEX_STM32_P103/board.c -text
 boards/OLIMEX_STM32_P103/board.h -text
 boards/OLIMEX_STM32_P103/board.mk -text
+boards/OLIMEX_STM32_P107/board.c -text
+boards/OLIMEX_STM32_P107/board.h -text
+boards/OLIMEX_STM32_P107/board.mk -text
 boards/RAISONANCE_REVA_STM8S/board.c -text
 boards/RAISONANCE_REVA_STM8S/board.h -text
 boards/ST_STM3210C_EVAL/board.c -text
