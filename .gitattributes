@@ -191,6 +191,7 @@ demos/ARMCM3-STM32F107/halconf.h -text
 demos/ARMCM3-STM32F107/iar/ch.ewp -text
 demos/ARMCM3-STM32F107/iar/ch.eww -text
 demos/ARMCM3-STM32F107/iar/ch.icf -text
+demos/ARMCM3-STM32F107/keil/ch.uvproj -text
 demos/ARMCM3-STM32F107/main.c -text
 demos/ARMCM3-STM32F107/mcuconf.h -text
 demos/ARMCM3-STM32F107/readme.txt -text
