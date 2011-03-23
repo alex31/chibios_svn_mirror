@@ -292,7 +292,6 @@ docs/rsc/footer.html -text
 docs/rsc/header.html -text
 docs/rsc/layout.xml -text
 docs/rsc/logo.png -text
-docs/rsc/tabs.css -text
 docs/rsc/workspace.png -text
 docs/rsc/workspace.svg -text
 docs/src/concepts.dox -text
