@@ -254,7 +254,8 @@ demos/Win32-MinGW/chconf.h -text
 demos/Win32-MinGW/halconf.h -text
 demos/Win32-MinGW/main.c -text
 demos/Win32-MinGW/readme.txt -text
-docs/Doxyfile -text
+docs/Doxyfile_chm -text
+docs/Doxyfile_html -text
 docs/html/logo_small.png -text
 docs/index.html -text
 docs/readme.txt -text
@@ -288,8 +289,10 @@ docs/reports/build.txt -text
 docs/reports/coverage.txt -text
 docs/reports/kernel.txt -text
 docs/rsc/custom.css -text
-docs/rsc/footer.html -text
-docs/rsc/header.html -text
+docs/rsc/footer_chm.html -text
+docs/rsc/footer_html.html -text
+docs/rsc/header_chm.html -text
+docs/rsc/header_html.html -text
 docs/rsc/layout.xml -text
 docs/rsc/logo.png -text
 docs/rsc/workspace.png -text
