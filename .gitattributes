@@ -330,6 +330,7 @@ os/hal/include/gpt.h -text
 os/hal/include/hal.h -text
 os/hal/include/i2c.h -text
 os/hal/include/mac.h -text
+os/hal/include/mii.h -text
 os/hal/include/mmc_spi.h -text
 os/hal/include/pal.h -text
 os/hal/include/pwm.h -text
@@ -338,6 +339,7 @@ os/hal/include/serial_usb.h -text
 os/hal/include/spi.h -text
 os/hal/include/uart.h -text
 os/hal/include/usb.h -text
+os/hal/include/usb_cdc.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S128.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S256.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S512.h -text
@@ -705,11 +707,9 @@ os/various/evtimer.c -text
 os/various/evtimer.h -text
 os/various/memstreams.c -text
 os/various/memstreams.h -text
-os/various/mii.h -text
 os/various/shell.c -text
 os/various/shell.h -text
 os/various/syscalls.c -text
-os/various/usb_cdc.h -text
 os/various/usb_msc.c -text
 os/various/usb_msc.h -text
 os/various/various.dox -text
