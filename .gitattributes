@@ -313,6 +313,7 @@ os/hal/dox/can.dox -text
 os/hal/dox/gpt.dox -text
 os/hal/dox/hal.dox -text
 os/hal/dox/i2c.dox -text
+os/hal/dox/icu.dox -text
 os/hal/dox/mac.dox -text
 os/hal/dox/mmc_spi.dox -text
 os/hal/dox/pal.dox -text
@@ -329,6 +330,7 @@ os/hal/include/can.h -text
 os/hal/include/gpt.h -text
 os/hal/include/hal.h -text
 os/hal/include/i2c.h -text
+os/hal/include/icu.h -text
 os/hal/include/mac.h -text
 os/hal/include/mii.h -text
 os/hal/include/mmc_spi.h -text
@@ -450,6 +452,8 @@ os/hal/platforms/STM32/hal_lld.h -text
 os/hal/platforms/STM32/hal_lld_f100.h -text
 os/hal/platforms/STM32/hal_lld_f103.h -text
 os/hal/platforms/STM32/hal_lld_f105_f107.h -text
+os/hal/platforms/STM32/icu_lld.c -text
+os/hal/platforms/STM32/icu_lld.h -text
 os/hal/platforms/STM32/pal_lld.c -text
 os/hal/platforms/STM32/pal_lld.h -text
 os/hal/platforms/STM32/platform.dox -text
@@ -506,6 +510,7 @@ os/hal/src/can.c -text
 os/hal/src/gpt.c -text
 os/hal/src/hal.c -text
 os/hal/src/i2c.c -text
+os/hal/src/icu.c -text
 os/hal/src/mac.c -text
 os/hal/src/mmc_spi.c -text
 os/hal/src/pal.c -text
@@ -526,6 +531,8 @@ os/hal/templates/hal_lld.h -text
 os/hal/templates/halconf.h -text
 os/hal/templates/i2c_lld.c -text
 os/hal/templates/i2c_lld.h -text
+os/hal/templates/icu_lld.c -text
+os/hal/templates/icu_lld.h -text
 os/hal/templates/mac_lld.c -text
 os/hal/templates/mac_lld.h -text
 os/hal/templates/meta/driver.c -text
