@@ -169,6 +169,13 @@ demos/ARMCM3-STM32F103-FATFS-GCC/halconf.h -text
 demos/ARMCM3-STM32F103-FATFS-GCC/main.c -text
 demos/ARMCM3-STM32F103-FATFS-GCC/mcuconf.h -text
 demos/ARMCM3-STM32F103-FATFS-GCC/readme.txt -text
+demos/ARMCM3-STM32F103-G++/Makefile -text
+demos/ARMCM3-STM32F103-G++/ch.ld -text
+demos/ARMCM3-STM32F103-G++/chconf.h -text
+demos/ARMCM3-STM32F103-G++/halconf.h -text
+demos/ARMCM3-STM32F103-G++/main.cpp -text
+demos/ARMCM3-STM32F103-G++/mcuconf.h -text
+demos/ARMCM3-STM32F103-G++/readme.txt -text
 demos/ARMCM3-STM32F103/Makefile -text
 demos/ARMCM3-STM32F103/ch.ld -text
 demos/ARMCM3-STM32F103/chconf.h -text
