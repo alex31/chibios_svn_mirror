@@ -42,6 +42,9 @@ boards/RAISONANCE_REVA_STM8S/board.h -text
 boards/ST_STM3210C_EVAL/board.c -text
 boards/ST_STM3210C_EVAL/board.h -text
 boards/ST_STM3210C_EVAL/board.mk -text
+boards/ST_STM3210E_EVAL/board.c -text
+boards/ST_STM3210E_EVAL/board.h -text
+boards/ST_STM3210E_EVAL/board.mk -text
 boards/ST_STM32VL_DISCOVERY/board.c -text
 boards/ST_STM32VL_DISCOVERY/board.h -text
 boards/ST_STM32VL_DISCOVERY/board.mk -text
