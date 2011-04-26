@@ -822,7 +822,6 @@ testhal/STM32/PWM-ICU/halconf.h -text
 testhal/STM32/PWM-ICU/main.c -text
 testhal/STM32/PWM-ICU/mcuconf.h -text
 testhal/STM32/PWM-ICU/readme.txt -text
-testhal/STM32/SDIO/.project -text
 testhal/STM32/SDIO/Makefile -text
 testhal/STM32/SDIO/ch.ld -text
 testhal/STM32/SDIO/chconf.h -text
