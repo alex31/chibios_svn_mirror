@@ -294,8 +294,11 @@ docs/reports/STM32F100-24-IAR.txt -text
 docs/reports/STM32F100-24-RVCT.txt -text
 docs/reports/STM32F103-48-GCC.txt -text
 docs/reports/STM32F103-72-GCC.txt -text
+docs/reports/STM32F103-72-IAR-compact.txt -text
 docs/reports/STM32F103-72-IAR.txt -text
+docs/reports/STM32F103-72-RVCT-compact.txt -text
 docs/reports/STM32F103-72-RVCT.txt -text
+docs/reports/STM32F107-72-GCC-compact.txt -text
 docs/reports/STM32F107-72-GCC.txt -text
 docs/reports/STM8L152-16-Cosmic.txt -text
 docs/reports/STM8L152-16-Raisonance.txt -text
