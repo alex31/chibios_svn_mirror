@@ -650,6 +650,9 @@ os/ports/GCC/ARMCMx/LPC13xx/vectors.c -text
 os/ports/GCC/ARMCMx/STM32/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32/port.mk -text
 os/ports/GCC/ARMCMx/STM32/vectors.c -text
+os/ports/GCC/ARMCMx/STM32L1xx/cmparams.h -text
+os/ports/GCC/ARMCMx/STM32L1xx/port.mk -text
+os/ports/GCC/ARMCMx/STM32L1xx/vectors.c -text
 os/ports/GCC/ARMCMx/chcore.c -text
 os/ports/GCC/ARMCMx/chcore.h -text
 os/ports/GCC/ARMCMx/chcore_v6m.c -text
