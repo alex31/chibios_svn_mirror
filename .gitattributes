@@ -45,6 +45,9 @@ boards/ST_STM3210C_EVAL/board.mk -text
 boards/ST_STM3210E_EVAL/board.c -text
 boards/ST_STM3210E_EVAL/board.h -text
 boards/ST_STM3210E_EVAL/board.mk -text
+boards/ST_STM32L_DISCOVERY/board.c -text
+boards/ST_STM32L_DISCOVERY/board.h -text
+boards/ST_STM32L_DISCOVERY/board.mk -text
 boards/ST_STM32VL_DISCOVERY/board.c -text
 boards/ST_STM32VL_DISCOVERY/board.h -text
 boards/ST_STM32VL_DISCOVERY/board.mk -text
@@ -215,6 +218,18 @@ demos/ARMCM3-STM32F107/keil/ch.uvproj -text
 demos/ARMCM3-STM32F107/main.c -text
 demos/ARMCM3-STM32F107/mcuconf.h -text
 demos/ARMCM3-STM32F107/readme.txt -text
+demos/ARMCM3-STM32L152-DISCOVERY/.cproject -text
+demos/ARMCM3-STM32L152-DISCOVERY/.project -text
+demos/ARMCM3-STM32L152-DISCOVERY/Makefile -text
+demos/ARMCM3-STM32L152-DISCOVERY/ST_STM32L_DISCOVERY/board.c -text
+demos/ARMCM3-STM32L152-DISCOVERY/ST_STM32L_DISCOVERY/board.h -text
+demos/ARMCM3-STM32L152-DISCOVERY/ST_STM32L_DISCOVERY/board.mk -text
+demos/ARMCM3-STM32L152-DISCOVERY/ch.ld -text
+demos/ARMCM3-STM32L152-DISCOVERY/chconf.h -text
+demos/ARMCM3-STM32L152-DISCOVERY/halconf.h -text
+demos/ARMCM3-STM32L152-DISCOVERY/main.c -text
+demos/ARMCM3-STM32L152-DISCOVERY/mcuconf.h -text
+demos/ARMCM3-STM32L152-DISCOVERY/readme.txt -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
 demos/AVR-AT90CANx-GCC/halconf.h -text
@@ -499,6 +514,8 @@ os/hal/platforms/STM32/uart_lld.c -text
 os/hal/platforms/STM32/uart_lld.h -text
 os/hal/platforms/STM32/usb_lld.c -text
 os/hal/platforms/STM32/usb_lld.h -text
+os/hal/platforms/STM32L1xx/platform.mk -text
+os/hal/platforms/STM32L1xx/stm32l1xx.h -text
 os/hal/platforms/STM8L/hal_lld.c -text
 os/hal/platforms/STM8L/hal_lld.h -text
 os/hal/platforms/STM8L/hal_lld_stm8l_hd.h -text
