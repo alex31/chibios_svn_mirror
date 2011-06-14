@@ -509,6 +509,7 @@ os/hal/platforms/STM32/uart_lld.c -text
 os/hal/platforms/STM32/uart_lld.h -text
 os/hal/platforms/STM32/usb_lld.c -text
 os/hal/platforms/STM32/usb_lld.h -text
+os/hal/platforms/STM32L1xx/core_cm3.h -text
 os/hal/platforms/STM32L1xx/hal_lld.c -text
 os/hal/platforms/STM32L1xx/hal_lld.h -text
 os/hal/platforms/STM32L1xx/platform.mk -text
