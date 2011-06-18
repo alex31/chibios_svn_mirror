@@ -222,6 +222,9 @@ demos/ARMCM3-STM32L152-DISCOVERY/Makefile -text
 demos/ARMCM3-STM32L152-DISCOVERY/ch.ld -text
 demos/ARMCM3-STM32L152-DISCOVERY/chconf.h -text
 demos/ARMCM3-STM32L152-DISCOVERY/halconf.h -text
+demos/ARMCM3-STM32L152-DISCOVERY/iar/ch.ewp -text
+demos/ARMCM3-STM32L152-DISCOVERY/iar/ch.eww -text
+demos/ARMCM3-STM32L152-DISCOVERY/iar/ch.icf -text
 demos/ARMCM3-STM32L152-DISCOVERY/main.c -text
 demos/ARMCM3-STM32L152-DISCOVERY/mcuconf.h -text
 demos/ARMCM3-STM32L152-DISCOVERY/readme.txt -text
@@ -716,6 +719,8 @@ os/ports/IAR/ARMCMx/LPC13xx/cmparams.h -text
 os/ports/IAR/ARMCMx/LPC13xx/vectors.s -text
 os/ports/IAR/ARMCMx/STM32/cmparams.h -text
 os/ports/IAR/ARMCMx/STM32/vectors.s -text
+os/ports/IAR/ARMCMx/STM32L1xx/cmparams.h -text
+os/ports/IAR/ARMCMx/STM32L1xx/vectors.s -text
 os/ports/IAR/ARMCMx/chcore.c -text
 os/ports/IAR/ARMCMx/chcore.h -text
 os/ports/IAR/ARMCMx/chcore_v6m.c -text
@@ -739,6 +744,8 @@ os/ports/RVCT/ARMCMx/LPC13xx/cmparams.h -text
 os/ports/RVCT/ARMCMx/LPC13xx/vectors.s -text
 os/ports/RVCT/ARMCMx/STM32/cmparams.h -text
 os/ports/RVCT/ARMCMx/STM32/vectors.s -text
+os/ports/RVCT/ARMCMx/STM32L1xx/cmparams.h -text
+os/ports/RVCT/ARMCMx/STM32L1xx/vectors.s -text
 os/ports/RVCT/ARMCMx/chcore.c -text
 os/ports/RVCT/ARMCMx/chcore.h -text
 os/ports/RVCT/ARMCMx/chcore_v6m.c -text
