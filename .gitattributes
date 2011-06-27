@@ -768,6 +768,8 @@ os/ports/cosmic/STM8/port.dox -text
 os/ports/ports.dox -text
 os/various/ch.cpp -text
 os/various/ch.hpp -text
+os/various/chprintf.c -text
+os/various/chprintf.h -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
 os/various/memstreams.c -text
