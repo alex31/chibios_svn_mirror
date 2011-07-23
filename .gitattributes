@@ -478,8 +478,6 @@ os/hal/platforms/SPC56x/platform.mk -text
 os/hal/platforms/SPC56x/serial_lld.c -text
 os/hal/platforms/SPC56x/serial_lld.h -text
 os/hal/platforms/SPC56x/typedefs.h -text
-os/hal/platforms/STM32/DMAv1/adc_lld.c -text
-os/hal/platforms/STM32/DMAv1/adc_lld.h -text
 os/hal/platforms/STM32/DMAv1/sdc_lld.c -text
 os/hal/platforms/STM32/DMAv1/sdc_lld.h -text
 os/hal/platforms/STM32/DMAv1/spi_lld.c -text
@@ -506,6 +504,8 @@ os/hal/platforms/STM32/pwm_lld.c -text
 os/hal/platforms/STM32/pwm_lld.h -text
 os/hal/platforms/STM32/serial_lld.c -text
 os/hal/platforms/STM32/serial_lld.h -text
+os/hal/platforms/STM32F1xx/adc_lld.c -text
+os/hal/platforms/STM32F1xx/adc_lld.h -text
 os/hal/platforms/STM32F1xx/hal_lld.c -text
 os/hal/platforms/STM32F1xx/hal_lld.h -text
 os/hal/platforms/STM32F1xx/hal_lld_f100.h -text
