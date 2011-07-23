@@ -490,6 +490,8 @@ os/hal/platforms/STM32/DMAv1/uart_lld.c -text
 os/hal/platforms/STM32/DMAv1/uart_lld.h -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.h -text
+os/hal/platforms/STM32/GPIOv2/pal_lld.c -text
+os/hal/platforms/STM32/GPIOv2/pal_lld.h -text
 os/hal/platforms/STM32/USBv1/stm32_usb.h -text
 os/hal/platforms/STM32/USBv1/usb_lld.c -text
 os/hal/platforms/STM32/USBv1/usb_lld.h -text
@@ -512,14 +514,9 @@ os/hal/platforms/STM32F1xx/hal_lld_f105_f107.h -text
 os/hal/platforms/STM32F1xx/platform.dox -text
 os/hal/platforms/STM32F1xx/platform.mk -text
 os/hal/platforms/STM32F1xx/stm32f10x.h -text
-os/hal/platforms/STM32L1xx/core_cm3.h -text
 os/hal/platforms/STM32L1xx/hal_lld.c -text
 os/hal/platforms/STM32L1xx/hal_lld.h -text
-os/hal/platforms/STM32L1xx/pal_lld.c -text
-os/hal/platforms/STM32L1xx/pal_lld.h -text
 os/hal/platforms/STM32L1xx/platform.mk -text
-os/hal/platforms/STM32L1xx/stm32_dma.c -text
-os/hal/platforms/STM32L1xx/stm32_dma.h -text
 os/hal/platforms/STM32L1xx/stm32l1xx.h -text
 os/hal/platforms/STM8L/hal_lld.c -text
 os/hal/platforms/STM8L/hal_lld.h -text
