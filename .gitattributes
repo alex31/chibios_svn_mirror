@@ -45,6 +45,9 @@ boards/ST_STM3210C_EVAL/board.mk -text
 boards/ST_STM3210E_EVAL/board.c -text
 boards/ST_STM3210E_EVAL/board.h -text
 boards/ST_STM3210E_EVAL/board.mk -text
+boards/ST_STM3220G_EVAL/board.c -text
+boards/ST_STM3220G_EVAL/board.h -text
+boards/ST_STM3220G_EVAL/board.mk -text
 boards/ST_STM32L_DISCOVERY/board.c -text
 boards/ST_STM32L_DISCOVERY/board.h -text
 boards/ST_STM32L_DISCOVERY/board.mk -text
@@ -514,6 +517,10 @@ os/hal/platforms/STM32F1xx/hal_lld_f105_f107.h -text
 os/hal/platforms/STM32F1xx/platform.dox -text
 os/hal/platforms/STM32F1xx/platform.mk -text
 os/hal/platforms/STM32F1xx/stm32f10x.h -text
+os/hal/platforms/STM32F2xx/hal_lld.c -text
+os/hal/platforms/STM32F2xx/hal_lld.h -text
+os/hal/platforms/STM32F2xx/platform.mk -text
+os/hal/platforms/STM32F2xx/stm32f2xx.h -text
 os/hal/platforms/STM32L1xx/hal_lld.c -text
 os/hal/platforms/STM32L1xx/hal_lld.h -text
 os/hal/platforms/STM32L1xx/platform.mk -text
