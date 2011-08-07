@@ -850,8 +850,6 @@ testhal/STM32F1xx/GPT/chconf.h -text
 testhal/STM32F1xx/GPT/halconf.h -text
 testhal/STM32F1xx/GPT/main.c -text
 testhal/STM32F1xx/GPT/mcuconf.h -text
-testhal/STM32F1xx/GPT/openocd.bat -text
-testhal/STM32F1xx/GPT/openocd.cfg -text
 testhal/STM32F1xx/GPT/readme.txt -text
 testhal/STM32F1xx/GPT/run -text
 testhal/STM32F1xx/IRQ_STORM/Makefile -text
