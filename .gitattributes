@@ -687,12 +687,8 @@ os/ports/GCC/ARMCMx/chcore_v7m.c -text
 os/ports/GCC/ARMCMx/chcore_v7m.h -text
 os/ports/GCC/ARMCMx/chtypes.h -text
 os/ports/GCC/ARMCMx/crt0.c -text
-os/ports/GCC/ARMCMx/crt0_v6m.s -text
-os/ports/GCC/ARMCMx/crt0_v7m.s -text
 os/ports/GCC/ARMCMx/nvic.c -text
 os/ports/GCC/ARMCMx/nvic.h -text
-os/ports/GCC/ARMCMx/old/chcore_v7m.c -text
-os/ports/GCC/ARMCMx/old/chcore_v7m.h -text
 os/ports/GCC/ARMCMx/port.dox -text
 os/ports/GCC/ARMCMx/rules.mk -text
 os/ports/GCC/AVR/chcore.c -text
