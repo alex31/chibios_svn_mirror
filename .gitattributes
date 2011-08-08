@@ -396,7 +396,6 @@ os/hal/platforms/AVR/platform.mk -text
 os/hal/platforms/AVR/serial_lld.c -text
 os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/LPC11xx/LPC11xx.h -text
-os/hal/platforms/LPC11xx/core_cm0.h -text
 os/hal/platforms/LPC11xx/gpt_lld.c -text
 os/hal/platforms/LPC11xx/gpt_lld.h -text
 os/hal/platforms/LPC11xx/hal_lld.c -text
@@ -411,7 +410,6 @@ os/hal/platforms/LPC11xx/spi_lld.c -text
 os/hal/platforms/LPC11xx/spi_lld.h -text
 os/hal/platforms/LPC11xx/system_LPC11xx.h -text
 os/hal/platforms/LPC13xx/LPC13xx.h -text
-os/hal/platforms/LPC13xx/core_cm3.h -text
 os/hal/platforms/LPC13xx/gpt_lld.c -text
 os/hal/platforms/LPC13xx/gpt_lld.h -text
 os/hal/platforms/LPC13xx/hal_lld.c -text
@@ -480,7 +478,6 @@ os/hal/platforms/STM32/USBv1/usb_lld.c -text
 os/hal/platforms/STM32/USBv1/usb_lld.h -text
 os/hal/platforms/STM32/can_lld.c -text
 os/hal/platforms/STM32/can_lld.h -text
-os/hal/platforms/STM32/core_cm3.h -text
 os/hal/platforms/STM32/gpt_lld.c -text
 os/hal/platforms/STM32/gpt_lld.h -text
 os/hal/platforms/STM32/icu_lld.c -text
@@ -754,6 +751,15 @@ os/ports/RVCT/ARMCMx/cstartup.s -text
 os/ports/RVCT/ARMCMx/nvic.c -text
 os/ports/RVCT/ARMCMx/nvic.h -text
 os/ports/RVCT/ARMCMx/port.dox -text
+os/ports/common/ARMCMx/CMSIS/include/arm_common_tables.h -text
+os/ports/common/ARMCMx/CMSIS/include/arm_math.h -text
+os/ports/common/ARMCMx/CMSIS/include/core_cm0.h -text
+os/ports/common/ARMCMx/CMSIS/include/core_cm3.h -text
+os/ports/common/ARMCMx/CMSIS/include/core_cm4.h -text
+os/ports/common/ARMCMx/CMSIS/include/core_cm4_simd.h -text
+os/ports/common/ARMCMx/CMSIS/include/core_cmFunc.h -text
+os/ports/common/ARMCMx/CMSIS/include/core_cmInstr.h -text
+os/ports/common/ARMCMx/CMSIS/readme.txt -text
 os/ports/cosmic/STM8/chcore.c -text
 os/ports/cosmic/STM8/chcore.h -text
 os/ports/cosmic/STM8/chtypes.h -text
