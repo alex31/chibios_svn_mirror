@@ -891,5 +891,5 @@ testhal/STM8S/SPI/demo/main.c -text
 testhal/STM8S/SPI/demo/mcuconf.h -text
 testhal/STM8S/SPI/raisonance/raisonance.stp -text
 /todo.txt -text
-tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.4.jar -text
+tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.5.jar -text
 tools/eclipse/readme.txt -text
