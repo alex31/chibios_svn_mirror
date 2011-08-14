@@ -710,8 +710,8 @@ os/ports/IAR/ARMCMx/LPC11xx/cmparams.h -text
 os/ports/IAR/ARMCMx/LPC11xx/vectors.s -text
 os/ports/IAR/ARMCMx/LPC13xx/cmparams.h -text
 os/ports/IAR/ARMCMx/LPC13xx/vectors.s -text
-os/ports/IAR/ARMCMx/STM32/cmparams.h -text
-os/ports/IAR/ARMCMx/STM32/vectors.s -text
+os/ports/IAR/ARMCMx/STM32F1xx/cmparams.h -text
+os/ports/IAR/ARMCMx/STM32F1xx/vectors.s -text
 os/ports/IAR/ARMCMx/STM32L1xx/cmparams.h -text
 os/ports/IAR/ARMCMx/STM32L1xx/vectors.s -text
 os/ports/IAR/ARMCMx/chcore.c -text
