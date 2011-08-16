@@ -325,7 +325,7 @@ ext/ext.dox -text
 ext/ff007e-patched.zip -text
 ext/lwip-1.4.0.zip -text
 ext/readme.txt -text
-ext/stm32lib-3.3.0.zip -text
+ext/stm32lib-3.5.0.zip -text
 ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
 /license.txt -text
