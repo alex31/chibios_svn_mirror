@@ -322,7 +322,7 @@ docs/src/concepts.dox -text
 docs/src/main.dox -text
 /documentation.html -text
 ext/ext.dox -text
-ext/ff007e-patched.zip -text
+ext/fatfs-0.8b-patched.zip -text
 ext/lwip-1.4.0.zip -text
 ext/readme.txt -text
 ext/stm32lib-3.5.0.zip -text
