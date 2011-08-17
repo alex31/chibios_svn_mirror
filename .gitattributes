@@ -663,6 +663,7 @@ os/ports/GCC/ARMCMx/STM32F1xx/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32F1xx/ld/STM32F100xB.ld -text
 os/ports/GCC/ARMCMx/STM32F1xx/ld/STM32F103xB.ld -text
 os/ports/GCC/ARMCMx/STM32F1xx/ld/STM32F103xE.ld -text
+os/ports/GCC/ARMCMx/STM32F1xx/ld/STM32F103xG.ld -text
 os/ports/GCC/ARMCMx/STM32F1xx/ld/STM32F107xC.ld -text
 os/ports/GCC/ARMCMx/STM32F1xx/port.mk -text
 os/ports/GCC/ARMCMx/STM32F1xx/vectors.c -text
