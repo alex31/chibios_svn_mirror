@@ -140,6 +140,10 @@ demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.icf -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/main.c -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/mcuconf.h -text
+demos/ARMCM3-GENERIC-KERNEL/Makefile -text
+demos/ARMCM3-GENERIC-KERNEL/chconf.h -text
+demos/ARMCM3-GENERIC-KERNEL/main.c -text
+demos/ARMCM3-GENERIC-KERNEL/readme.txt -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/Makefile -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/chconf.h -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/halconf.h -text
