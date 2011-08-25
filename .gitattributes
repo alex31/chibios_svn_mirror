@@ -473,6 +473,8 @@ os/hal/platforms/STM32/DMAv1/stm32_dma.c -text
 os/hal/platforms/STM32/DMAv1/stm32_dma.h -text
 os/hal/platforms/STM32/DMAv1/uart_lld.c -text
 os/hal/platforms/STM32/DMAv1/uart_lld.h -text
+os/hal/platforms/STM32/DMAv2/stm32_dma.c -text
+os/hal/platforms/STM32/DMAv2/stm32_dma.h -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.h -text
 os/hal/platforms/STM32/GPIOv2/pal_lld.c -text
