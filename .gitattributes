@@ -343,6 +343,7 @@ os/hal/dox/mac.dox -text
 os/hal/dox/mmc_spi.dox -text
 os/hal/dox/pal.dox -text
 os/hal/dox/pwm.dox -text
+os/hal/dox/rtc.dox -text
 os/hal/dox/sdc.dox -text
 os/hal/dox/serial.dox -text
 os/hal/dox/serial_usb.dox -text
@@ -362,6 +363,7 @@ os/hal/include/mii.h -text
 os/hal/include/mmc_spi.h -text
 os/hal/include/pal.h -text
 os/hal/include/pwm.h -text
+os/hal/include/rtc.h -text
 os/hal/include/sdc.h -text
 os/hal/include/serial.h -text
 os/hal/include/serial_usb.h -text
@@ -492,6 +494,8 @@ os/hal/platforms/STM32/icu_lld.c -text
 os/hal/platforms/STM32/icu_lld.h -text
 os/hal/platforms/STM32/pwm_lld.c -text
 os/hal/platforms/STM32/pwm_lld.h -text
+os/hal/platforms/STM32/rtc_lld.c -text
+os/hal/platforms/STM32/rtc_lld.h -text
 os/hal/platforms/STM32/serial_lld.c -text
 os/hal/platforms/STM32/serial_lld.h -text
 os/hal/platforms/STM32F1xx/adc_lld.c -text
@@ -556,6 +560,7 @@ os/hal/src/mac.c -text
 os/hal/src/mmc_spi.c -text
 os/hal/src/pal.c -text
 os/hal/src/pwm.c -text
+os/hal/src/rtc.c -text
 os/hal/src/sdc.c -text
 os/hal/src/serial.c -text
 os/hal/src/serial_usb.c -text
@@ -878,6 +883,12 @@ testhal/STM32F1xx/PWM-ICU/halconf.h -text
 testhal/STM32F1xx/PWM-ICU/main.c -text
 testhal/STM32F1xx/PWM-ICU/mcuconf.h -text
 testhal/STM32F1xx/PWM-ICU/readme.txt -text
+testhal/STM32F1xx/RTC/Makefile -text
+testhal/STM32F1xx/RTC/chconf.h -text
+testhal/STM32F1xx/RTC/halconf.h -text
+testhal/STM32F1xx/RTC/main.c -text
+testhal/STM32F1xx/RTC/main.h -text
+testhal/STM32F1xx/RTC/mcuconf.h -text
 testhal/STM32F1xx/SDIO/Makefile -text
 testhal/STM32F1xx/SDIO/chconf.h -text
 testhal/STM32F1xx/SDIO/halconf.h -text
