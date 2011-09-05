@@ -495,6 +495,8 @@ os/hal/platforms/STM32/i2c_lld.c -text
 os/hal/platforms/STM32/i2c_lld.h -text
 os/hal/platforms/STM32/icu_lld.c -text
 os/hal/platforms/STM32/icu_lld.h -text
+os/hal/platforms/STM32/mac_lld.c -text
+os/hal/platforms/STM32/mac_lld.h -text
 os/hal/platforms/STM32/pwm_lld.c -text
 os/hal/platforms/STM32/pwm_lld.h -text
 os/hal/platforms/STM32/rtc_lld.c -text
