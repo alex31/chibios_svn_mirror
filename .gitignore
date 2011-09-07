@@ -1,6 +1,7 @@
 /*.cproject
 /*.project
 /.metadata
+boards/OLIMEX_STM32_103STK/board.lst
 boards/OLIMEX_STM32_P103/*.lst
 docs/html/*.css
 docs/html/*.html
