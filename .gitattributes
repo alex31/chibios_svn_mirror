@@ -338,6 +338,7 @@ ext/uip-1.0.tar.gz -text
 /license.txt -text
 os/hal/dox/adc.dox -text
 os/hal/dox/can.dox -text
+os/hal/dox/ext.dox -text
 os/hal/dox/gpt.dox -text
 os/hal/dox/hal.dox -text
 os/hal/dox/i2c.dox -text
@@ -357,6 +358,7 @@ os/hal/hal.dox -text
 os/hal/hal.mk -text
 os/hal/include/adc.h -text
 os/hal/include/can.h -text
+os/hal/include/ext.h -text
 os/hal/include/gpt.h -text
 os/hal/include/hal.h -text
 os/hal/include/i2c.h -text
@@ -489,6 +491,8 @@ os/hal/platforms/STM32/USBv1/usb_lld.c -text
 os/hal/platforms/STM32/USBv1/usb_lld.h -text
 os/hal/platforms/STM32/can_lld.c -text
 os/hal/platforms/STM32/can_lld.h -text
+os/hal/platforms/STM32/ext_lld.c -text
+os/hal/platforms/STM32/ext_lld.h -text
 os/hal/platforms/STM32/gpt_lld.c -text
 os/hal/platforms/STM32/gpt_lld.h -text
 os/hal/platforms/STM32/i2c_lld.c -text
@@ -557,6 +561,7 @@ os/hal/platforms/Win32/serial_lld.h -text
 os/hal/platforms/platforms.dox -text
 os/hal/src/adc.c -text
 os/hal/src/can.c -text
+os/hal/src/ext.c -text
 os/hal/src/gpt.c -text
 os/hal/src/hal.c -text
 os/hal/src/i2c.c -text
@@ -576,6 +581,8 @@ os/hal/templates/adc_lld.c -text
 os/hal/templates/adc_lld.h -text
 os/hal/templates/can_lld.c -text
 os/hal/templates/can_lld.h -text
+os/hal/templates/ext_lld.c -text
+os/hal/templates/ext_lld.h -text
 os/hal/templates/gpt_lld.c -text
 os/hal/templates/gpt_lld.h -text
 os/hal/templates/hal_lld.c -text
@@ -855,13 +862,18 @@ testhal/STM32F1xx/CAN/halconf.h -text
 testhal/STM32F1xx/CAN/main.c -text
 testhal/STM32F1xx/CAN/mcuconf.h -text
 testhal/STM32F1xx/CAN/readme.txt -text
+testhal/STM32F1xx/EXT/Makefile -text
+testhal/STM32F1xx/EXT/chconf.h -text
+testhal/STM32F1xx/EXT/halconf.h -text
+testhal/STM32F1xx/EXT/main.c -text
+testhal/STM32F1xx/EXT/mcuconf.h -text
+testhal/STM32F1xx/EXT/readme.txt -text
 testhal/STM32F1xx/GPT/Makefile -text
 testhal/STM32F1xx/GPT/chconf.h -text
 testhal/STM32F1xx/GPT/halconf.h -text
 testhal/STM32F1xx/GPT/main.c -text
 testhal/STM32F1xx/GPT/mcuconf.h -text
 testhal/STM32F1xx/GPT/readme.txt -text
-testhal/STM32F1xx/GPT/run -text
 testhal/STM32F1xx/I2C/Makefile -text
 testhal/STM32F1xx/I2C/chconf.h -text
 testhal/STM32F1xx/I2C/halconf.h -text
