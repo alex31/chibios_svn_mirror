@@ -516,6 +516,7 @@ os/hal/platforms/STM32F1xx/hal_lld_f103.h -text
 os/hal/platforms/STM32F1xx/hal_lld_f105_f107.h -text
 os/hal/platforms/STM32F1xx/platform.dox -text
 os/hal/platforms/STM32F1xx/platform.mk -text
+os/hal/platforms/STM32F1xx/stm32_rcc.h -text
 os/hal/platforms/STM32F1xx/stm32f10x.h -text
 os/hal/platforms/STM32F2xx/hal_lld.c -text
 os/hal/platforms/STM32F2xx/hal_lld.h -text
@@ -525,6 +526,7 @@ os/hal/platforms/STM32L1xx/hal_lld.c -text
 os/hal/platforms/STM32L1xx/hal_lld.h -text
 os/hal/platforms/STM32L1xx/platform.dox -text
 os/hal/platforms/STM32L1xx/platform.mk -text
+os/hal/platforms/STM32L1xx/stm32_rcc.h -text
 os/hal/platforms/STM32L1xx/stm32l1xx.h -text
 os/hal/platforms/STM8L/hal_lld.c -text
 os/hal/platforms/STM8L/hal_lld.h -text
