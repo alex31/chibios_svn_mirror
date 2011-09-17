@@ -949,6 +949,12 @@ testhal/STM32L1xx/SPI/halconf.h -text
 testhal/STM32L1xx/SPI/main.c -text
 testhal/STM32L1xx/SPI/mcuconf.h -text
 testhal/STM32L1xx/SPI/readme.txt -text
+testhal/STM32L1xx/UART/Makefile -text
+testhal/STM32L1xx/UART/chconf.h -text
+testhal/STM32L1xx/UART/halconf.h -text
+testhal/STM32L1xx/UART/main.c -text
+testhal/STM32L1xx/UART/mcuconf.h -text
+testhal/STM32L1xx/UART/readme.txt -text
 testhal/STM8S/SPI/ChibiOS-RT.stw -text
 testhal/STM8S/SPI/cosmic/cosmic.stp -text
 testhal/STM8S/SPI/cosmic/vectors.c -text
