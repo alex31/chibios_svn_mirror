@@ -17,6 +17,7 @@ docs/html/tab_b.gif
 docs/html/tab_l.gif
 docs/html/tab_r.gif
 docs/html/tabs.css
+ext/fatfs
 os/hal/*.origin
 os/hal/dox/*.origin
 os/hal/include/*.origin
