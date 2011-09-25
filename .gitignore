@@ -25,6 +25,7 @@ os/hal/platforms/STM32/*.lst
 os/hal/platforms/STM32/*.origin
 os/hal/platforms/STM32/DMAv1/*.lst
 os/hal/platforms/STM32/GPIOv1/*.lst
+os/hal/platforms/STM32/RTCv1/*.lst
 os/hal/platforms/STM32/USBv1/*.lst
 os/hal/platforms/STM32F1xx/*.lst
 os/hal/platforms/STM32F1xx/*.origin
