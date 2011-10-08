@@ -475,8 +475,6 @@ os/hal/platforms/SPC56x/platform.mk -text
 os/hal/platforms/SPC56x/serial_lld.c -text
 os/hal/platforms/SPC56x/serial_lld.h -text
 os/hal/platforms/SPC56x/typedefs.h -text
-os/hal/platforms/STM32/DMAv2/stm32_dma.c -text
-os/hal/platforms/STM32/DMAv2/stm32_dma.h -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.h -text
 os/hal/platforms/STM32/GPIOv2/pal_lld.c -text
@@ -524,6 +522,8 @@ os/hal/platforms/STM32F1xx/stm32f10x.h -text
 os/hal/platforms/STM32F2xx/hal_lld.c -text
 os/hal/platforms/STM32F2xx/hal_lld.h -text
 os/hal/platforms/STM32F2xx/platform.mk -text
+os/hal/platforms/STM32F2xx/stm32_dma.c -text
+os/hal/platforms/STM32F2xx/stm32_dma.h -text
 os/hal/platforms/STM32F2xx/stm32f2xx.h -text
 os/hal/platforms/STM32L1xx/adc_lld.c -text
 os/hal/platforms/STM32L1xx/adc_lld.h -text
