@@ -217,6 +217,7 @@ demos/ARMCM3-STM32L152-DISCOVERY/halconf.h -text
 demos/ARMCM3-STM32L152-DISCOVERY/iar/ch.ewp -text
 demos/ARMCM3-STM32L152-DISCOVERY/iar/ch.eww -text
 demos/ARMCM3-STM32L152-DISCOVERY/iar/ch.icf -text
+demos/ARMCM3-STM32L152-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM3-STM32L152-DISCOVERY/main.c -text
 demos/ARMCM3-STM32L152-DISCOVERY/mcuconf.h -text
 demos/ARMCM3-STM32L152-DISCOVERY/readme.txt -text
@@ -310,6 +311,7 @@ docs/reports/STM32F103-72-RVCT.txt -text
 docs/reports/STM32F107-72-GCC.txt -text
 docs/reports/STM32L152-32-GCC.txt -text
 docs/reports/STM32L152-32-IAR.txt -text
+docs/reports/STM32L152-32-RVCT.txt -text
 docs/reports/STM8L152-16-Cosmic.txt -text
 docs/reports/STM8L152-16-Raisonance.txt -text
 docs/reports/STM8S105-16-Cosmic.txt -text
