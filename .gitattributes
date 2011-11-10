@@ -986,6 +986,12 @@ testhal/STM32F1xx/USB_MSC/chconf.h -text
 testhal/STM32F1xx/USB_MSC/halconf.h -text
 testhal/STM32F1xx/USB_MSC/main.c -text
 testhal/STM32F1xx/USB_MSC/mcuconf.h -text
+testhal/STM32F4xx/SPI/Makefile -text
+testhal/STM32F4xx/SPI/chconf.h -text
+testhal/STM32F4xx/SPI/halconf.h -text
+testhal/STM32F4xx/SPI/main.c -text
+testhal/STM32F4xx/SPI/mcuconf.h -text
+testhal/STM32F4xx/SPI/readme.txt -text
 testhal/STM32L1xx/ADC/Makefile -text
 testhal/STM32L1xx/ADC/chconf.h -text
 testhal/STM32L1xx/ADC/halconf.h -text
