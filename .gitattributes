@@ -543,6 +543,8 @@ os/hal/platforms/STM32F2xx/platform.mk -text
 os/hal/platforms/STM32F2xx/stm32_dma.c -text
 os/hal/platforms/STM32F2xx/stm32_dma.h -text
 os/hal/platforms/STM32F2xx/stm32f2xx.h -text
+os/hal/platforms/STM32F4xx/adc_lld.c -text
+os/hal/platforms/STM32F4xx/adc_lld.h -text
 os/hal/platforms/STM32F4xx/hal_lld.c -text
 os/hal/platforms/STM32F4xx/hal_lld.h -text
 os/hal/platforms/STM32F4xx/platform.mk -text
