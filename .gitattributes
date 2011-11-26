@@ -322,6 +322,7 @@ docs/reports/STM32F103-72-RVCT-compact.txt -text
 docs/reports/STM32F103-72-RVCT.txt -text
 docs/reports/STM32F107-72-GCC.txt -text
 docs/reports/STM32F407-168-GCC.txt -text
+docs/reports/STM32F407-168-IAR.txt -text
 docs/reports/STM32L152-32-GCC.txt -text
 docs/reports/STM32L152-32-IAR.txt -text
 docs/reports/STM32L152-32-RVCT.txt -text
