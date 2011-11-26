@@ -522,6 +522,7 @@ os/hal/platforms/STM32/serial_lld.c -text
 os/hal/platforms/STM32/serial_lld.h -text
 os/hal/platforms/STM32/spi_lld.c -text
 os/hal/platforms/STM32/spi_lld.h -text
+os/hal/platforms/STM32/stm32.h -text
 os/hal/platforms/STM32/uart_lld.c -text
 os/hal/platforms/STM32/uart_lld.h -text
 os/hal/platforms/STM32F1xx/adc_lld.c -text
