@@ -28,6 +28,7 @@ os/hal/platforms/STM32/RTCv1/*.lst
 os/hal/platforms/STM32/USBv1/*.lst
 os/hal/platforms/STM32F1xx/*.lst
 os/hal/platforms/STM32F1xx/*.origin
+os/hal/platforms/STM32F4xx/*.origin
 os/hal/src/*.lst
 os/hal/src/*.origin
 os/kernel/src/*.lst
@@ -35,6 +36,10 @@ os/ports/GCC/ARMCMx/*.lst
 os/ports/GCC/ARMCMx/STM32F1xx/*.lst
 os/various/*.lst
 test/*.lst
+testhal/STM32F1xx/ADC/*.cproject
+testhal/STM32F1xx/ADC/*.project
+testhal/STM32F1xx/ADC/.dep
+testhal/STM32F1xx/ADC/build
 testhal/STM32F1xx/EXT/*.bin
 testhal/STM32F1xx/EXT/*.cproject
 testhal/STM32F1xx/EXT/*.dmp
@@ -56,8 +61,10 @@ testhal/STM32F1xx/EXT_WAKEUP/*.project
 testhal/STM32F1xx/EXT_WAKEUP/.dep
 testhal/STM32F1xx/I2C/*.cproject
 testhal/STM32F1xx/I2C/*.lst
+testhal/STM32F1xx/I2C/*.origin
 testhal/STM32F1xx/I2C/*.project
 testhal/STM32F1xx/I2C/.dep
+testhal/STM32F1xx/I2C/build
 testhal/STM32F1xx/I2C/ch.bin
 testhal/STM32F1xx/I2C/ch.dmp
 testhal/STM32F1xx/I2C/ch.elf
@@ -67,9 +74,16 @@ testhal/STM32F1xx/RTC/*.origin
 testhal/STM32F1xx/RTC/*.project
 testhal/STM32F1xx/RTC/.cproject
 testhal/STM32F1xx/RTC/.dep
+testhal/STM32F1xx/RTC/build
 testhal/STM32F1xx/RTC/ch.bin
 testhal/STM32F1xx/RTC/ch.dmp
 testhal/STM32F1xx/RTC/ch.elf
 testhal/STM32F1xx/RTC/ch.hex
 testhal/STM32F1xx/RTC/ch.map
 testhal/STM32F1xx/RTC/main.lst
+testhal/STM32F1xx/UART/*.cproject
+testhal/STM32F1xx/UART/*.project
+testhal/STM32F1xx/UART/.dep
+testhal/STM32F1xx/UART/build
+testhal/STM32F4xx/UART/*.cproject
+testhal/STM32F4xx/UART/*.project
