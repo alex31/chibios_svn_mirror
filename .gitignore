@@ -3,6 +3,7 @@
 /.metadata
 boards/OLIMEX_STM32_103STK/board.lst
 boards/OLIMEX_STM32_P103/*.lst
+boards/OLIMEX_STM32_P103/*.origin
 docs/html/*.css
 docs/html/*.html
 docs/html/*.map
