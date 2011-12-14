@@ -87,5 +87,10 @@ testhal/STM32F1xx/UART/*.cproject
 testhal/STM32F1xx/UART/*.project
 testhal/STM32F1xx/UART/.dep
 testhal/STM32F1xx/UART/build
+testhal/STM32F4xx/RTC/*.origin
+testhal/STM32F4xx/RTC/.cproject
+testhal/STM32F4xx/RTC/.dep
+testhal/STM32F4xx/RTC/.project
+testhal/STM32F4xx/RTC/build
 testhal/STM32F4xx/UART/*.cproject
 testhal/STM32F4xx/UART/*.project

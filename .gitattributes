@@ -1032,6 +1032,11 @@ testhal/STM32F4xx/PWM-ICU/halconf.h -text
 testhal/STM32F4xx/PWM-ICU/main.c -text
 testhal/STM32F4xx/PWM-ICU/mcuconf.h -text
 testhal/STM32F4xx/PWM-ICU/readme.txt -text
+testhal/STM32F4xx/RTC/Makefile -text
+testhal/STM32F4xx/RTC/chconf.h -text
+testhal/STM32F4xx/RTC/halconf.h -text
+testhal/STM32F4xx/RTC/main.c -text
+testhal/STM32F4xx/RTC/mcuconf.h -text
 testhal/STM32F4xx/SPI/Makefile -text
 testhal/STM32F4xx/SPI/chconf.h -text
 testhal/STM32F4xx/SPI/halconf.h -text
