@@ -1026,6 +1026,13 @@ testhal/STM32F4xx/IRQ_STORM/halconf.h -text
 testhal/STM32F4xx/IRQ_STORM/main.c -text
 testhal/STM32F4xx/IRQ_STORM/mcuconf.h -text
 testhal/STM32F4xx/IRQ_STORM/readme.txt -text
+testhal/STM32F4xx/IRQ_STORM_FPU/Makefile -text
+testhal/STM32F4xx/IRQ_STORM_FPU/chconf.h -text
+testhal/STM32F4xx/IRQ_STORM_FPU/extfunc.c -text
+testhal/STM32F4xx/IRQ_STORM_FPU/halconf.h -text
+testhal/STM32F4xx/IRQ_STORM_FPU/main.c -text
+testhal/STM32F4xx/IRQ_STORM_FPU/mcuconf.h -text
+testhal/STM32F4xx/IRQ_STORM_FPU/readme.txt -text
 testhal/STM32F4xx/PWM-ICU/Makefile -text
 testhal/STM32F4xx/PWM-ICU/chconf.h -text
 testhal/STM32F4xx/PWM-ICU/halconf.h -text
