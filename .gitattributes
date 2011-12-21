@@ -758,8 +758,6 @@ os/ports/GCC/ARMCMx/chcore_v7m.c -text
 os/ports/GCC/ARMCMx/chcore_v7m.h -text
 os/ports/GCC/ARMCMx/chtypes.h -text
 os/ports/GCC/ARMCMx/crt0.c -text
-os/ports/GCC/ARMCMx/nvic.c -text
-os/ports/GCC/ARMCMx/nvic.h -text
 os/ports/GCC/ARMCMx/port.dox -text
 os/ports/GCC/ARMCMx/rules.mk -text
 os/ports/GCC/AVR/chcore.c -text
@@ -806,8 +804,6 @@ os/ports/IAR/ARMCMx/chcoreasm_v6m.s -text
 os/ports/IAR/ARMCMx/chcoreasm_v7m.s -text
 os/ports/IAR/ARMCMx/chtypes.h -text
 os/ports/IAR/ARMCMx/cstartup.s -text
-os/ports/IAR/ARMCMx/nvic.c -text
-os/ports/IAR/ARMCMx/nvic.h -text
 os/ports/IAR/ARMCMx/port.dox -text
 os/ports/RC/STM8/chcore.c -text
 os/ports/RC/STM8/chcore.h -text
@@ -833,8 +829,6 @@ os/ports/RVCT/ARMCMx/chcoreasm_v6m.s -text
 os/ports/RVCT/ARMCMx/chcoreasm_v7m.s -text
 os/ports/RVCT/ARMCMx/chtypes.h -text
 os/ports/RVCT/ARMCMx/cstartup.s -text
-os/ports/RVCT/ARMCMx/nvic.c -text
-os/ports/RVCT/ARMCMx/nvic.h -text
 os/ports/RVCT/ARMCMx/port.dox -text
 os/ports/common/ARMCMx/CMSIS/include/arm_common_tables.h -text
 os/ports/common/ARMCMx/CMSIS/include/arm_math.h -text
@@ -845,6 +839,8 @@ os/ports/common/ARMCMx/CMSIS/include/core_cm4_simd.h -text
 os/ports/common/ARMCMx/CMSIS/include/core_cmFunc.h -text
 os/ports/common/ARMCMx/CMSIS/include/core_cmInstr.h -text
 os/ports/common/ARMCMx/CMSIS/readme.txt -text
+os/ports/common/ARMCMx/nvic.c -text
+os/ports/common/ARMCMx/nvic.h -text
 os/ports/cosmic/STM8/chcore.c -text
 os/ports/cosmic/STM8/chcore.h -text
 os/ports/cosmic/STM8/chtypes.h -text
