@@ -1032,6 +1032,7 @@ testhal/STM32F4xx/IRQ_STORM/halconf.h -text
 testhal/STM32F4xx/IRQ_STORM/iar/ch.ewp -text
 testhal/STM32F4xx/IRQ_STORM/iar/ch.eww -text
 testhal/STM32F4xx/IRQ_STORM/iar/ch.icf -text
+testhal/STM32F4xx/IRQ_STORM/keil/ch.uvproj -text
 testhal/STM32F4xx/IRQ_STORM/main.c -text
 testhal/STM32F4xx/IRQ_STORM/mcuconf.h -text
 testhal/STM32F4xx/IRQ_STORM/readme.txt -text
