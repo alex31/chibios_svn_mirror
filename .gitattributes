@@ -1039,6 +1039,9 @@ testhal/STM32F4xx/IRQ_STORM_FPU/Makefile -text
 testhal/STM32F4xx/IRQ_STORM_FPU/chconf.h -text
 testhal/STM32F4xx/IRQ_STORM_FPU/extfunc.c -text
 testhal/STM32F4xx/IRQ_STORM_FPU/halconf.h -text
+testhal/STM32F4xx/IRQ_STORM_FPU/iar/ch.ewp -text
+testhal/STM32F4xx/IRQ_STORM_FPU/iar/ch.eww -text
+testhal/STM32F4xx/IRQ_STORM_FPU/iar/ch.icf -text
 testhal/STM32F4xx/IRQ_STORM_FPU/main.c -text
 testhal/STM32F4xx/IRQ_STORM_FPU/mcuconf.h -text
 testhal/STM32F4xx/IRQ_STORM_FPU/readme.txt -text
