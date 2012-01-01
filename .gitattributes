@@ -860,6 +860,8 @@ os/various/chprintf.c -text
 os/various/chprintf.h -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
+os/various/lis302dl.c -text
+os/various/lis302dl.h -text
 os/various/memstreams.c -text
 os/various/memstreams.h -text
 os/various/shell.c -text
