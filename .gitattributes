@@ -969,6 +969,11 @@ testhal/STM32F1xx/MAC/halconf.h -text
 testhal/STM32F1xx/MAC/main.c -text
 testhal/STM32F1xx/MAC/mcuconf.h -text
 testhal/STM32F1xx/MAC/readme.txt -text
+testhal/STM32F1xx/PVD/Makefile -text
+testhal/STM32F1xx/PVD/chconf.h -text
+testhal/STM32F1xx/PVD/halconf.h -text
+testhal/STM32F1xx/PVD/main.c -text
+testhal/STM32F1xx/PVD/mcuconf.h -text
 testhal/STM32F1xx/PWM-ICU/Makefile -text
 testhal/STM32F1xx/PWM-ICU/chconf.h -text
 testhal/STM32F1xx/PWM-ICU/halconf.h -text

@@ -73,6 +73,10 @@ testhal/STM32F1xx/I2C/ch.dmp
 testhal/STM32F1xx/I2C/ch.elf
 testhal/STM32F1xx/I2C/ch.hex
 testhal/STM32F1xx/I2C/ch.map
+testhal/STM32F1xx/PVD/*.cproject
+testhal/STM32F1xx/PVD/*.project
+testhal/STM32F1xx/PVD/.dep
+testhal/STM32F1xx/PVD/build
 testhal/STM32F1xx/RTC/*.origin
 testhal/STM32F1xx/RTC/*.project
 testhal/STM32F1xx/RTC/.cproject
