@@ -74,8 +74,10 @@ testhal/STM32F1xx/I2C/ch.elf
 testhal/STM32F1xx/I2C/ch.hex
 testhal/STM32F1xx/I2C/ch.map
 testhal/STM32F1xx/PVD/*.cproject
+testhal/STM32F1xx/PVD/*.origin
 testhal/STM32F1xx/PVD/*.project
 testhal/STM32F1xx/PVD/.dep
+testhal/STM32F1xx/PVD/.settings
 testhal/STM32F1xx/PVD/build
 testhal/STM32F1xx/RTC/*.origin
 testhal/STM32F1xx/RTC/*.project
@@ -98,6 +100,10 @@ testhal/STM32F4xx/I2C/.dep
 testhal/STM32F4xx/I2C/.project
 testhal/STM32F4xx/I2C/.settings
 testhal/STM32F4xx/I2C/build
+testhal/STM32F4xx/PVD/.cproject
+testhal/STM32F4xx/PVD/.dep
+testhal/STM32F4xx/PVD/.project
+testhal/STM32F4xx/PVD/build
 testhal/STM32F4xx/RTC/*.origin
 testhal/STM32F4xx/RTC/.cproject
 testhal/STM32F4xx/RTC/.dep
@@ -105,3 +111,8 @@ testhal/STM32F4xx/RTC/.project
 testhal/STM32F4xx/RTC/build
 testhal/STM32F4xx/UART/*.cproject
 testhal/STM32F4xx/UART/*.project
+testhal/STM32L1xx/PVD/.cproject
+testhal/STM32L1xx/PVD/.dep
+testhal/STM32L1xx/PVD/.project
+testhal/STM32L1xx/PVD/.settings
+testhal/STM32L1xx/PVD/build
