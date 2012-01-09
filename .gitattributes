@@ -397,6 +397,7 @@ os/hal/include/sdc.h -text
 os/hal/include/serial.h -text
 os/hal/include/serial_usb.h -text
 os/hal/include/spi.h -text
+os/hal/include/tm.h -text
 os/hal/include/uart.h -text
 os/hal/include/usb.h -text
 os/hal/include/usb_cdc.h -text
@@ -626,6 +627,7 @@ os/hal/src/sdc.c -text
 os/hal/src/serial.c -text
 os/hal/src/serial_usb.c -text
 os/hal/src/spi.c -text
+os/hal/src/tm.c -text
 os/hal/src/uart.c -text
 os/hal/src/usb.c -text
 os/hal/templates/adc_lld.c -text
