@@ -1022,6 +1022,11 @@ testhal/STM32F4xx/ADC/halconf.h -text
 testhal/STM32F4xx/ADC/main.c -text
 testhal/STM32F4xx/ADC/mcuconf.h -text
 testhal/STM32F4xx/ADC/readme.txt -text
+testhal/STM32F4xx/DMA_STORM/Makefile -text
+testhal/STM32F4xx/DMA_STORM/chconf.h -text
+testhal/STM32F4xx/DMA_STORM/halconf.h -text
+testhal/STM32F4xx/DMA_STORM/main.c -text
+testhal/STM32F4xx/DMA_STORM/mcuconf.h -text
 testhal/STM32F4xx/EXT/Makefile -text
 testhal/STM32F4xx/EXT/chconf.h -text
 testhal/STM32F4xx/EXT/halconf.h -text
