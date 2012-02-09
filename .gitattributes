@@ -17,6 +17,9 @@ boards/OLIMEX_AVR_CAN/board.mk -text
 boards/OLIMEX_AVR_MT_128/board.c -text
 boards/OLIMEX_AVR_MT_128/board.h -text
 boards/OLIMEX_AVR_MT_128/board.mk -text
+boards/OLIMEX_LPC_P1343/board.c -text
+boards/OLIMEX_LPC_P1343/board.h -text
+boards/OLIMEX_LPC_P1343/board.mk -text
 boards/OLIMEX_LPC_P2148/board.c -text
 boards/OLIMEX_LPC_P2148/board.h -text
 boards/OLIMEX_LPC_P2148/board.mk -text
@@ -162,6 +165,11 @@ demos/ARMCM3-LPC1343-LPCXPRESSO/iar/ch.icf -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/main.c -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/mcuconf.h -text
+demos/ARMCM3-LPC1343-OLIMEX/Makefile -text
+demos/ARMCM3-LPC1343-OLIMEX/chconf.h -text
+demos/ARMCM3-LPC1343-OLIMEX/halconf.h -text
+demos/ARMCM3-LPC1343-OLIMEX/main.c -text
+demos/ARMCM3-LPC1343-OLIMEX/mcuconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/Makefile -text
 demos/ARMCM3-STM32F100-DISCOVERY/chconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/halconf.h -text
