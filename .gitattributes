@@ -106,8 +106,6 @@ demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/arch/perf.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/arch/sys_arch.c -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/arch/sys_arch.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/lwip.mk -text
-demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/lwipthread.c -text
-demos/ARM7-AT91SAM7X-LWIP-GCC/lwip/lwipthread.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/lwipopts.h -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/main.c -text
 demos/ARM7-AT91SAM7X-LWIP-GCC/mcuconf.h -text
