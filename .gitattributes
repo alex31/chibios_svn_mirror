@@ -515,6 +515,7 @@ os/hal/platforms/STM32/GPIOv1/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.h -text
 os/hal/platforms/STM32/GPIOv2/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv2/pal_lld.h -text
+os/hal/platforms/STM32/OTGv1/stm32_otg.h -text
 os/hal/platforms/STM32/RTCv1/rtc_lld.c -text
 os/hal/platforms/STM32/RTCv1/rtc_lld.h -text
 os/hal/platforms/STM32/RTCv2/rtc_lld.c -text
