@@ -396,6 +396,7 @@ os/hal/include/ext.h -text
 os/hal/include/gpt.h -text
 os/hal/include/hal.h -text
 os/hal/include/i2c.h -text
+os/hal/include/i2s.h -text
 os/hal/include/icu.h -text
 os/hal/include/mac.h -text
 os/hal/include/mii.h -text
@@ -628,6 +629,7 @@ os/hal/src/ext.c -text
 os/hal/src/gpt.c -text
 os/hal/src/hal.c -text
 os/hal/src/i2c.c -text
+os/hal/src/i2s.c -text
 os/hal/src/icu.c -text
 os/hal/src/mac.c -text
 os/hal/src/mmc_spi.c -text
