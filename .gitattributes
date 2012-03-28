@@ -1116,6 +1116,11 @@ testhal/STM32F4xx/UART/halconf.h -text
 testhal/STM32F4xx/UART/main.c -text
 testhal/STM32F4xx/UART/mcuconf.h -text
 testhal/STM32F4xx/UART/readme.txt -text
+testhal/STM32F4xx/USB_CDC/Makefile -text
+testhal/STM32F4xx/USB_CDC/chconf.h -text
+testhal/STM32F4xx/USB_CDC/halconf.h -text
+testhal/STM32F4xx/USB_CDC/main.c -text
+testhal/STM32F4xx/USB_CDC/mcuconf.h -text
 testhal/STM32L1xx/ADC/Makefile -text
 testhal/STM32L1xx/ADC/chconf.h -text
 testhal/STM32L1xx/ADC/halconf.h -text
