@@ -34,9 +34,6 @@ boards/OLIMEX_SAM7_EX256/board.mk -text
 boards/OLIMEX_SAM7_P256/board.c -text
 boards/OLIMEX_SAM7_P256/board.h -text
 boards/OLIMEX_SAM7_P256/board.mk -text
-boards/OLIMEX_STM32-P407/board.c -text
-boards/OLIMEX_STM32-P407/board.h -text
-boards/OLIMEX_STM32-P407/board.mk -text
 boards/OLIMEX_STM32_103STK/board.c -text
 boards/OLIMEX_STM32_103STK/board.h -text
 boards/OLIMEX_STM32_103STK/board.mk -text
@@ -49,6 +46,9 @@ boards/OLIMEX_STM32_P103/board.mk -text
 boards/OLIMEX_STM32_P107/board.c -text
 boards/OLIMEX_STM32_P107/board.h -text
 boards/OLIMEX_STM32_P107/board.mk -text
+boards/OLIMEX_STM32_P407/board.c -text
+boards/OLIMEX_STM32_P407/board.h -text
+boards/OLIMEX_STM32_P407/board.mk -text
 boards/RAISONANCE_REVA_STM8S/board.c -text
 boards/RAISONANCE_REVA_STM8S/board.h -text
 boards/ST_STM3210C_EVAL/board.c -text
