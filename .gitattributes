@@ -250,6 +250,15 @@ demos/ARMCM4-STM32F407-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM4-STM32F407-DISCOVERY/main.c -text
 demos/ARMCM4-STM32F407-DISCOVERY/mcuconf.h -text
 demos/ARMCM4-STM32F407-DISCOVERY/readme.txt -text
+demos/ARMCM4-STM32F407-LWIP/Makefile -text
+demos/ARMCM4-STM32F407-LWIP/chconf.h -text
+demos/ARMCM4-STM32F407-LWIP/halconf.h -text
+demos/ARMCM4-STM32F407-LWIP/lwipopts.h -text
+demos/ARMCM4-STM32F407-LWIP/main.c -text
+demos/ARMCM4-STM32F407-LWIP/mcuconf.h -text
+demos/ARMCM4-STM32F407-LWIP/readme.txt -text
+demos/ARMCM4-STM32F407-LWIP/web/web.c -text
+demos/ARMCM4-STM32F407-LWIP/web/web.h -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
 demos/AVR-AT90CANx-GCC/halconf.h -text
