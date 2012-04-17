@@ -889,6 +889,9 @@ os/various/ch.cpp -text
 os/various/ch.hpp -text
 os/various/chprintf.c -text
 os/various/chprintf.h -text
+os/various/chrtclib.c -text
+os/various/chrtclib.h -text
+os/various/diskio.c -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
 os/various/lis302dl.c -text
@@ -1118,6 +1121,13 @@ testhal/STM32F4xx/RTC/chconf.h -text
 testhal/STM32F4xx/RTC/halconf.h -text
 testhal/STM32F4xx/RTC/main.c -text
 testhal/STM32F4xx/RTC/mcuconf.h -text
+testhal/STM32F4xx/SDC/Makefile -text
+testhal/STM32F4xx/SDC/chconf.h -text
+testhal/STM32F4xx/SDC/csd.txt -text
+testhal/STM32F4xx/SDC/halconf.h -text
+testhal/STM32F4xx/SDC/main.c -text
+testhal/STM32F4xx/SDC/mcuconf.h -text
+testhal/STM32F4xx/SDC/readme.txt -text
 testhal/STM32F4xx/SPI/Makefile -text
 testhal/STM32F4xx/SPI/chconf.h -text
 testhal/STM32F4xx/SPI/halconf.h -text

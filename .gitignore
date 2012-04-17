@@ -94,6 +94,9 @@ testhal/STM32F1xx/UART/*.cproject
 testhal/STM32F1xx/UART/*.project
 testhal/STM32F1xx/UART/.dep
 testhal/STM32F1xx/UART/build
+testhal/STM32F4xx/DMA_STORM/*.cproject
+testhal/STM32F4xx/DMA_STORM/*.origin
+testhal/STM32F4xx/DMA_STORM/*.project
 testhal/STM32F4xx/I2C/*.origin
 testhal/STM32F4xx/I2C/.cproject
 testhal/STM32F4xx/I2C/.dep
@@ -110,6 +113,10 @@ testhal/STM32F4xx/RTC/.dep
 testhal/STM32F4xx/RTC/.project
 testhal/STM32F4xx/RTC/.settings
 testhal/STM32F4xx/RTC/build
+testhal/STM32F4xx/SDC/.cproject
+testhal/STM32F4xx/SDC/.dep
+testhal/STM32F4xx/SDC/.project
+testhal/STM32F4xx/SDC/build
 testhal/STM32F4xx/UART/*.cproject
 testhal/STM32F4xx/UART/*.project
 testhal/STM32L1xx/PVD/.cproject
