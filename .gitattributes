@@ -903,6 +903,7 @@ os/various/lwip_bindings/arch/sys_arch.h -text
 os/various/lwip_bindings/lwip.mk -text
 os/various/lwip_bindings/lwipthread.c -text
 os/various/lwip_bindings/lwipthread.h -text
+os/various/lwip_bindings/readme.txt -text
 os/various/mail.c -text
 os/various/mail.h -text
 os/various/memstreams.c -text
