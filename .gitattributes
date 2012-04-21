@@ -894,6 +894,10 @@ os/various/chrtclib.h -text
 os/various/diskio.c -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
+os/various/fatfs_bindings/fatfs.mk -text
+os/various/fatfs_bindings/fatfs_diskio.c -text
+os/various/fatfs_bindings/fatfs_syscall.c -text
+os/various/fatfs_bindings/readme.txt -text
 os/various/lis302dl.c -text
 os/various/lis302dl.h -text
 os/various/lwip_bindings/arch/cc.h -text
