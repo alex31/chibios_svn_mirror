@@ -376,6 +376,7 @@ docs/src/main.dox -text
 /documentation.html -text
 ext/ext.dox -text
 ext/fatfs-0.8b-patched.zip -text
+ext/fatfs-0.9-patched.zip.zip -text
 ext/lwip-1.4.0.zip -text
 ext/readme.txt -text
 ext/uip-1.0.patches.zip -text
