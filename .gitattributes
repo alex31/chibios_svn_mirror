@@ -79,6 +79,7 @@ boards/simulator/board.h -text
 boards/simulator/board.mk -text
 demos/ARM7-AT91SAM7S-FATFS-GCC/Makefile -text
 demos/ARM7-AT91SAM7S-FATFS-GCC/chconf.h -text
+demos/ARM7-AT91SAM7S-FATFS-GCC/ffconf.h -text
 demos/ARM7-AT91SAM7S-FATFS-GCC/halconf.h -text
 demos/ARM7-AT91SAM7S-FATFS-GCC/main.c -text
 demos/ARM7-AT91SAM7S-FATFS-GCC/mcuconf.h -text
@@ -91,6 +92,7 @@ demos/ARM7-AT91SAM7S-GCC/mcuconf.h -text
 demos/ARM7-AT91SAM7S-GCC/readme.txt -text
 demos/ARM7-AT91SAM7X-FATFS-GCC/Makefile -text
 demos/ARM7-AT91SAM7X-FATFS-GCC/chconf.h -text
+demos/ARM7-AT91SAM7X-FATFS-GCC/ffconf.h -text
 demos/ARM7-AT91SAM7X-FATFS-GCC/halconf.h -text
 demos/ARM7-AT91SAM7X-FATFS-GCC/main.c -text
 demos/ARM7-AT91SAM7X-FATFS-GCC/mcuconf.h -text
@@ -123,6 +125,7 @@ demos/ARM7-AT91SAM7X-UIP-GCC/web/webthread.c -text
 demos/ARM7-AT91SAM7X-UIP-GCC/web/webthread.h -text
 demos/ARM7-LPC214x-FATFS-GCC/Makefile -text
 demos/ARM7-LPC214x-FATFS-GCC/chconf.h -text
+demos/ARM7-LPC214x-FATFS-GCC/ffconf.h -text
 demos/ARM7-LPC214x-FATFS-GCC/halconf.h -text
 demos/ARM7-LPC214x-FATFS-GCC/main.c -text
 demos/ARM7-LPC214x-FATFS-GCC/mcuconf.h -text
@@ -178,6 +181,7 @@ demos/ARMCM3-STM32F100-DISCOVERY/mcuconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/readme.txt -text
 demos/ARMCM3-STM32F103-FATFS/Makefile -text
 demos/ARMCM3-STM32F103-FATFS/chconf.h -text
+demos/ARMCM3-STM32F103-FATFS/ffconf.h -text
 demos/ARMCM3-STM32F103-FATFS/halconf.h -text
 demos/ARMCM3-STM32F103-FATFS/main.c -text
 demos/ARMCM3-STM32F103-FATFS/mcuconf.h -text
@@ -204,6 +208,7 @@ demos/ARMCM3-STM32F103/ride7/ch.rapp -text
 demos/ARMCM3-STM32F103/ride7/ch.rprj -text
 demos/ARMCM3-STM32F103ZG-FATFS/Makefile -text
 demos/ARMCM3-STM32F103ZG-FATFS/chconf.h -text
+demos/ARMCM3-STM32F103ZG-FATFS/ffconf.h -text
 demos/ARMCM3-STM32F103ZG-FATFS/halconf.h -text
 demos/ARMCM3-STM32F103ZG-FATFS/iar/ch.ewp -text
 demos/ARMCM3-STM32F103ZG-FATFS/iar/ch.eww -text
@@ -375,7 +380,6 @@ docs/src/concepts.dox -text
 docs/src/main.dox -text
 /documentation.html -text
 ext/ext.dox -text
-ext/fatfs-0.8b-patched.zip -text
 ext/fatfs-0.9-patched.zip.zip -text
 ext/lwip-1.4.0.zip -text
 ext/readme.txt -text
@@ -892,7 +896,6 @@ os/various/chprintf.c -text
 os/various/chprintf.h -text
 os/various/chrtclib.c -text
 os/various/chrtclib.h -text
-os/various/diskio.c -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
 os/various/fatfs_bindings/fatfs.mk -text
