@@ -283,7 +283,9 @@ demos/MSP430-MSP430x1611-GCC/chconf.h -text
 demos/MSP430-MSP430x1611-GCC/halconf.h -text
 demos/MSP430-MSP430x1611-GCC/main.c -text
 demos/MSP430-MSP430x1611-GCC/mcuconf.h -text
-demos/MSP430-MSP430x1611-GCC/mspgcc/msp430x1611.x -text
+demos/MSP430-MSP430x1611-GCC/memory.x -text
+demos/MSP430-MSP430x1611-GCC/msp430.x -text
+demos/MSP430-MSP430x1611-GCC/periph.x -text
 demos/MSP430-MSP430x1611-GCC/readme.txt -text
 demos/PPC-SPC563-GCC/Makefile -text
 demos/PPC-SPC563-GCC/ch.ld -text
