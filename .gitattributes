@@ -418,7 +418,7 @@ os/hal/include/i2c.h -text
 os/hal/include/i2s.h -text
 os/hal/include/icu.h -text
 os/hal/include/io_block.h -text
-os/hal/include/io_serial.h -text
+os/hal/include/io_channel.h -text
 os/hal/include/mac.h -text
 os/hal/include/mii.h -text
 os/hal/include/mmc_spi.h -text
