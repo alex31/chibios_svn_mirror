@@ -422,6 +422,7 @@ os/hal/include/io_channel.h -text
 os/hal/include/mac.h -text
 os/hal/include/mii.h -text
 os/hal/include/mmc_spi.h -text
+os/hal/include/mmcsd.h -text
 os/hal/include/pal.h -text
 os/hal/include/pwm.h -text
 os/hal/include/rtc.h -text
