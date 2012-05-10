@@ -659,6 +659,7 @@ os/hal/src/i2s.c -text
 os/hal/src/icu.c -text
 os/hal/src/mac.c -text
 os/hal/src/mmc_spi.c -text
+os/hal/src/mmcsd.c -text
 os/hal/src/pal.c -text
 os/hal/src/pwm.c -text
 os/hal/src/rtc.c -text
