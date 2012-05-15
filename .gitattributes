@@ -60,6 +60,9 @@ boards/ST_STM3210E_EVAL/board.mk -text
 boards/ST_STM3220G_EVAL/board.c -text
 boards/ST_STM3220G_EVAL/board.h -text
 boards/ST_STM3220G_EVAL/board.mk -text
+boards/ST_STM32F0_DISCOVERY/board.c -text
+boards/ST_STM32F0_DISCOVERY/board.h -text
+boards/ST_STM32F0_DISCOVERY/board.mk -text
 boards/ST_STM32F4_DISCOVERY/board.c -text
 boards/ST_STM32F4_DISCOVERY/board.h -text
 boards/ST_STM32F4_DISCOVERY/board.mk -text
@@ -573,6 +576,7 @@ os/hal/platforms/STM32/spi_lld.h -text
 os/hal/platforms/STM32/stm32.h -text
 os/hal/platforms/STM32/uart_lld.c -text
 os/hal/platforms/STM32/uart_lld.h -text
+os/hal/platforms/STM32F0xx/stm32f0xx.h -text
 os/hal/platforms/STM32F1xx/adc_lld.c -text
 os/hal/platforms/STM32F1xx/adc_lld.h -text
 os/hal/platforms/STM32F1xx/hal_lld.c -text
@@ -776,6 +780,10 @@ os/ports/GCC/ARMCMx/LPC13xx/cmparams.h -text
 os/ports/GCC/ARMCMx/LPC13xx/ld/LPC1343.ld -text
 os/ports/GCC/ARMCMx/LPC13xx/port.mk -text
 os/ports/GCC/ARMCMx/LPC13xx/vectors.c -text
+os/ports/GCC/ARMCMx/STM32F0xx/cmparams.h -text
+os/ports/GCC/ARMCMx/STM32F0xx/ld/STM32F051x8.ld -text
+os/ports/GCC/ARMCMx/STM32F0xx/port.mk -text
+os/ports/GCC/ARMCMx/STM32F0xx/vectors.c -text
 os/ports/GCC/ARMCMx/STM32F1xx/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32F1xx/ld/STM32F100xB.ld -text
 os/ports/GCC/ARMCMx/STM32F1xx/ld/STM32F103xB.ld -text
