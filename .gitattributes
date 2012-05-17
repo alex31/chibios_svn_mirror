@@ -154,6 +154,12 @@ demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.icf -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/main.c -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/mcuconf.h -text
+demos/ARMCM0-STM32F051-DISCOVERY/Makefile -text
+demos/ARMCM0-STM32F051-DISCOVERY/chconf.h -text
+demos/ARMCM0-STM32F051-DISCOVERY/halconf.h -text
+demos/ARMCM0-STM32F051-DISCOVERY/main.c -text
+demos/ARMCM0-STM32F051-DISCOVERY/mcuconf.h -text
+demos/ARMCM0-STM32F051-DISCOVERY/readme.txt -text
 demos/ARMCM3-GENERIC-KERNEL/Makefile -text
 demos/ARMCM3-GENERIC-KERNEL/chconf.h -text
 demos/ARMCM3-GENERIC-KERNEL/main.c -text
@@ -578,6 +584,7 @@ os/hal/platforms/STM32/uart_lld.c -text
 os/hal/platforms/STM32/uart_lld.h -text
 os/hal/platforms/STM32F0xx/hal_lld.c -text
 os/hal/platforms/STM32F0xx/hal_lld.h -text
+os/hal/platforms/STM32F0xx/platform.mk -text
 os/hal/platforms/STM32F0xx/stm32f0xx.h -text
 os/hal/platforms/STM32F1xx/adc_lld.c -text
 os/hal/platforms/STM32F1xx/adc_lld.h -text
