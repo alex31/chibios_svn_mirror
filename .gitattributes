@@ -585,6 +585,8 @@ os/hal/platforms/STM32/uart_lld.h -text
 os/hal/platforms/STM32F0xx/hal_lld.c -text
 os/hal/platforms/STM32F0xx/hal_lld.h -text
 os/hal/platforms/STM32F0xx/platform.mk -text
+os/hal/platforms/STM32F0xx/serial_lld.c -text
+os/hal/platforms/STM32F0xx/serial_lld.h -text
 os/hal/platforms/STM32F0xx/stm32_rcc.h -text
 os/hal/platforms/STM32F0xx/stm32f0xx.h -text
 os/hal/platforms/STM32F1xx/adc_lld.c -text
