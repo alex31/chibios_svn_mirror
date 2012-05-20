@@ -478,6 +478,10 @@ os/hal/platforms/AVR/platform.dox -text
 os/hal/platforms/AVR/platform.mk -text
 os/hal/platforms/AVR/serial_lld.c -text
 os/hal/platforms/AVR/serial_lld.h -text
+os/hal/platforms/LPC11Uxx/LPC11Uxx.h -text
+os/hal/platforms/LPC11Uxx/pal_lld.c -text
+os/hal/platforms/LPC11Uxx/pal_lld.h -text
+os/hal/platforms/LPC11Uxx/system_LPC11Uxx.h -text
 os/hal/platforms/LPC11xx/LPC11xx.h -text
 os/hal/platforms/LPC11xx/gpt_lld.c -text
 os/hal/platforms/LPC11xx/gpt_lld.h -text
