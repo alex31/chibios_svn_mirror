@@ -2,6 +2,9 @@
 boards/EA_LPCXPRESSO_BB_1114/board.c -text
 boards/EA_LPCXPRESSO_BB_1114/board.h -text
 boards/EA_LPCXPRESSO_BB_1114/board.mk -text
+boards/EA_LPCXPRESSO_BB_11U14/board.c -text
+boards/EA_LPCXPRESSO_BB_11U14/board.h -text
+boards/EA_LPCXPRESSO_BB_11U14/board.mk -text
 boards/EA_LPCXPRESSO_BB_1343/board.c -text
 boards/EA_LPCXPRESSO_BB_1343/board.h -text
 boards/EA_LPCXPRESSO_BB_1343/board.mk -text
