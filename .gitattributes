@@ -157,6 +157,11 @@ demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.icf -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/main.c -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/mcuconf.h -text
+demos/ARMCM0-LPC11U14-LPCXPRESSO/Makefile -text
+demos/ARMCM0-LPC11U14-LPCXPRESSO/chconf.h -text
+demos/ARMCM0-LPC11U14-LPCXPRESSO/halconf.h -text
+demos/ARMCM0-LPC11U14-LPCXPRESSO/main.c -text
+demos/ARMCM0-LPC11U14-LPCXPRESSO/mcuconf.h -text
 demos/ARMCM0-STM32F051-DISCOVERY/Makefile -text
 demos/ARMCM0-STM32F051-DISCOVERY/chconf.h -text
 demos/ARMCM0-STM32F051-DISCOVERY/halconf.h -text
@@ -482,6 +487,8 @@ os/hal/platforms/AVR/platform.mk -text
 os/hal/platforms/AVR/serial_lld.c -text
 os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/LPC11Uxx/LPC11Uxx.h -text
+os/hal/platforms/LPC11Uxx/gpt_lld.c -text
+os/hal/platforms/LPC11Uxx/gpt_lld.h -text
 os/hal/platforms/LPC11Uxx/hal_lld.c -text
 os/hal/platforms/LPC11Uxx/hal_lld.h -text
 os/hal/platforms/LPC11Uxx/pal_lld.c -text
@@ -489,6 +496,8 @@ os/hal/platforms/LPC11Uxx/pal_lld.h -text
 os/hal/platforms/LPC11Uxx/platform.mk -text
 os/hal/platforms/LPC11Uxx/serial_lld.c -text
 os/hal/platforms/LPC11Uxx/serial_lld.h -text
+os/hal/platforms/LPC11Uxx/spi_lld.c -text
+os/hal/platforms/LPC11Uxx/spi_lld.h -text
 os/hal/platforms/LPC11Uxx/system_LPC11Uxx.h -text
 os/hal/platforms/LPC11xx/LPC11xx.h -text
 os/hal/platforms/LPC11xx/gpt_lld.c -text
@@ -799,6 +808,7 @@ os/ports/GCC/ARM/port.dox -text
 os/ports/GCC/ARM/rules.mk -text
 os/ports/GCC/ARMCMx/LPC11xx/cmparams.h -text
 os/ports/GCC/ARMCMx/LPC11xx/ld/LPC1114.ld -text
+os/ports/GCC/ARMCMx/LPC11xx/ld/LPC11U14.ld -text
 os/ports/GCC/ARMCMx/LPC11xx/port.mk -text
 os/ports/GCC/ARMCMx/LPC11xx/vectors.c -text
 os/ports/GCC/ARMCMx/LPC13xx/cmparams.h -text
