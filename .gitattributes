@@ -604,6 +604,8 @@ os/hal/platforms/STM32/spi_lld.h -text
 os/hal/platforms/STM32/stm32.h -text
 os/hal/platforms/STM32/uart_lld.c -text
 os/hal/platforms/STM32/uart_lld.h -text
+os/hal/platforms/STM32F0xx/adc_lld.c -text
+os/hal/platforms/STM32F0xx/adc_lld.h -text
 os/hal/platforms/STM32F0xx/hal_lld.c -text
 os/hal/platforms/STM32F0xx/hal_lld.h -text
 os/hal/platforms/STM32F0xx/platform.mk -text
