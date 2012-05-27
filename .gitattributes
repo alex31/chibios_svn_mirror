@@ -1016,6 +1016,12 @@ testhal/LPC13xx/IRQ_STORM/halconf.h -text
 testhal/LPC13xx/IRQ_STORM/main.c -text
 testhal/LPC13xx/IRQ_STORM/mcuconf.h -text
 testhal/LPC13xx/IRQ_STORM/readme.txt -text
+testhal/STM32F0xx/ADC/Makefile -text
+testhal/STM32F0xx/ADC/chconf.h -text
+testhal/STM32F0xx/ADC/halconf.h -text
+testhal/STM32F0xx/ADC/main.c -text
+testhal/STM32F0xx/ADC/mcuconf.h -text
+testhal/STM32F0xx/ADC/readme.txt -text
 testhal/STM32F1xx/ADC/Makefile -text
 testhal/STM32F1xx/ADC/chconf.h -text
 testhal/STM32F1xx/ADC/halconf.h -text
