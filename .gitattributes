@@ -11,6 +11,9 @@ boards/EA_LPCXPRESSO_BB_1343/board.mk -text
 boards/GENERIC_SPC563/board.c -text
 boards/GENERIC_SPC563/board.h -text
 boards/GENERIC_SPC563/board.mk -text
+boards/MAPLEMINI_STM32_F103/board.c -text
+boards/MAPLEMINI_STM32_F103/board.h -text
+boards/MAPLEMINI_STM32_F103/board.mk -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.c -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.h -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.mk -text
