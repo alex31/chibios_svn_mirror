@@ -43,6 +43,9 @@ boards/OLIMEX_SAM7_P256/board.mk -text
 boards/OLIMEX_STM32_103STK/board.c -text
 boards/OLIMEX_STM32_103STK/board.h -text
 boards/OLIMEX_STM32_103STK/board.mk -text
+boards/OLIMEX_STM32_E407/board.c -text
+boards/OLIMEX_STM32_E407/board.h -text
+boards/OLIMEX_STM32_E407/board.mk -text
 boards/OLIMEX_STM32_H103/board.c -text
 boards/OLIMEX_STM32_H103/board.h -text
 boards/OLIMEX_STM32_H103/board.mk -text
