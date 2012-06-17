@@ -287,6 +287,8 @@ demos/ARMCM4-STM32F407-LWIP-FATFS-USB/lwipopts.h -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/main.c -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/mcuconf.h -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/readme.txt -text
+demos/ARMCM4-STM32F407-LWIP-FATFS-USB/usbshell.c -text
+demos/ARMCM4-STM32F407-LWIP-FATFS-USB/usbshell.h -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/web/web.c -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/web/web.h -text
 demos/ARMCM4-STM32F407-LWIP/Makefile -text
