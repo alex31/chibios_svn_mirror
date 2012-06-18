@@ -278,8 +278,6 @@ demos/ARMCM4-STM32F407-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM4-STM32F407-DISCOVERY/main.c -text
 demos/ARMCM4-STM32F407-DISCOVERY/mcuconf.h -text
 demos/ARMCM4-STM32F407-DISCOVERY/readme.txt -text
-demos/ARMCM4-STM32F407-LWIP-FATFS-USB/.cproject -text
-demos/ARMCM4-STM32F407-LWIP-FATFS-USB/.project -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/Makefile -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/chconf.h -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/halconf.h -text
