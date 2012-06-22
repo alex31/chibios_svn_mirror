@@ -587,6 +587,8 @@ os/hal/platforms/STM32/GPIOv1/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.h -text
 os/hal/platforms/STM32/GPIOv2/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv2/pal_lld.h -text
+os/hal/platforms/STM32/I2Cv1/i2c_lld.c -text
+os/hal/platforms/STM32/I2Cv1/i2c_lld.h -text
 os/hal/platforms/STM32/OTGv1/stm32_otg.h -text
 os/hal/platforms/STM32/OTGv1/usb_lld.c -text
 os/hal/platforms/STM32/OTGv1/usb_lld.h -text
@@ -603,8 +605,6 @@ os/hal/platforms/STM32/ext_lld.c -text
 os/hal/platforms/STM32/ext_lld.h -text
 os/hal/platforms/STM32/gpt_lld.c -text
 os/hal/platforms/STM32/gpt_lld.h -text
-os/hal/platforms/STM32/i2c_lld.c -text
-os/hal/platforms/STM32/i2c_lld.h -text
 os/hal/platforms/STM32/i2s_lld.c -text
 os/hal/platforms/STM32/i2s_lld.h -text
 os/hal/platforms/STM32/icu_lld.c -text
