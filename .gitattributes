@@ -598,6 +598,8 @@ os/hal/platforms/STM32/RTCv2/rtc_lld.c -text
 os/hal/platforms/STM32/RTCv2/rtc_lld.h -text
 os/hal/platforms/STM32/USARTv1/uart_lld.c -text
 os/hal/platforms/STM32/USARTv1/uart_lld.h -text
+os/hal/platforms/STM32/USARTv2/uart_lld.c -text
+os/hal/platforms/STM32/USARTv2/uart_lld.h -text
 os/hal/platforms/STM32/USBv1/stm32_usb.h -text
 os/hal/platforms/STM32/USBv1/usb_lld.c -text
 os/hal/platforms/STM32/USBv1/usb_lld.h -text
