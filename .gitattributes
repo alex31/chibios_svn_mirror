@@ -339,6 +339,12 @@ demos/STM8L-STM8L152-DISCOVERY-STVD/demo/halconf.h -text
 demos/STM8L-STM8L152-DISCOVERY-STVD/demo/main.c -text
 demos/STM8L-STM8L152-DISCOVERY-STVD/demo/mcuconf.h -text
 demos/STM8L-STM8L152-DISCOVERY-STVD/raisonance/raisonance.stp -text
+demos/STM8S-STM8S105-DISCOVERY-IAR/ch.ewp -text
+demos/STM8S-STM8S105-DISCOVERY-IAR/ch.eww -text
+demos/STM8S-STM8S105-DISCOVERY-IAR/chconf.h -text
+demos/STM8S-STM8S105-DISCOVERY-IAR/halconf.h -text
+demos/STM8S-STM8S105-DISCOVERY-IAR/main.c -text
+demos/STM8S-STM8S105-DISCOVERY-IAR/mcuconf.h -text
 demos/STM8S-STM8S105-DISCOVERY-STVD/ChibiOS-RT.stw -text
 demos/STM8S-STM8S105-DISCOVERY-STVD/cosmic/cosmic.stp -text
 demos/STM8S-STM8S105-DISCOVERY-STVD/cosmic/vectors.c -text
@@ -934,6 +940,11 @@ os/ports/IAR/ARMCMx/chcoreasm_v7m.s -text
 os/ports/IAR/ARMCMx/chtypes.h -text
 os/ports/IAR/ARMCMx/cstartup.s -text
 os/ports/IAR/ARMCMx/port.dox -text
+os/ports/IAR/STM8/chcore.c -text
+os/ports/IAR/STM8/chcore.h -text
+os/ports/IAR/STM8/chcore_stm8.s -text
+os/ports/IAR/STM8/chtypes.h -text
+os/ports/IAR/STM8/port.dox -text
 os/ports/RC/STM8/chcore.c -text
 os/ports/RC/STM8/chcore.h -text
 os/ports/RC/STM8/chtypes.h -text
