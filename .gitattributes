@@ -239,6 +239,13 @@ demos/ARMCM3-STM32F103ZG-FATFS/iar/ch.icf -text
 demos/ARMCM3-STM32F103ZG-FATFS/main.c -text
 demos/ARMCM3-STM32F103ZG-FATFS/mcuconf.h -text
 demos/ARMCM3-STM32F103ZG-FATFS/readme.txt -text
+demos/ARMCM3-STM32F107-FATFS/Makefile -text
+demos/ARMCM3-STM32F107-FATFS/chconf.h -text
+demos/ARMCM3-STM32F107-FATFS/ffconf.h -text
+demos/ARMCM3-STM32F107-FATFS/halconf.h -text
+demos/ARMCM3-STM32F107-FATFS/main.c -text
+demos/ARMCM3-STM32F107-FATFS/mcuconf.h -text
+demos/ARMCM3-STM32F107-FATFS/readme.txt -text
 demos/ARMCM3-STM32F107-LWIP/Makefile -text
 demos/ARMCM3-STM32F107-LWIP/chconf.h -text
 demos/ARMCM3-STM32F107-LWIP/halconf.h -text
