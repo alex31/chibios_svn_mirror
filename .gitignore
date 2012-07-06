@@ -62,6 +62,7 @@ testhal/STM32F1xx/EXT_WAKEUP/*.origin
 testhal/STM32F1xx/EXT_WAKEUP/*.project
 testhal/STM32F1xx/EXT_WAKEUP/.dep
 testhal/STM32F1xx/I2C/*.cproject
+testhal/STM32F1xx/I2C/*.log
 testhal/STM32F1xx/I2C/*.lst
 testhal/STM32F1xx/I2C/*.origin
 testhal/STM32F1xx/I2C/*.project
