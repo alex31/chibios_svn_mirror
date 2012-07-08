@@ -1364,4 +1364,4 @@ tools/gencfg/schema/boards/abstract_board.xsd -text
 tools/gencfg/schema/boards/stm32f4xx_board.xsd -text
 tools/gencfg/schema/common/doc.xsd -text
 tools/gencfg/schema/common/stm32/stm32_gpiov2_port.xsd -text
-tools/gencfg/schema/stm32f4board.xml -text
+tools/gencfg/xml/stm32f4board.xml -text
