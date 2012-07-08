@@ -78,6 +78,7 @@ boards/ST_STM32F0_DISCOVERY/board.mk -text
 boards/ST_STM32F4_DISCOVERY/board.c -text
 boards/ST_STM32F4_DISCOVERY/board.h -text
 boards/ST_STM32F4_DISCOVERY/board.mk -text
+boards/ST_STM32F4_DISCOVERY/stm32f4board.xml -text
 boards/ST_STM32L_DISCOVERY/board.c -text
 boards/ST_STM32L_DISCOVERY/board.h -text
 boards/ST_STM32L_DISCOVERY/board.mk -text
@@ -1358,7 +1359,6 @@ tools/gencfg/config.fmpp -text
 tools/gencfg/lib/liblicense.ftl -text
 tools/gencfg/lib/libutils.ftl -text
 tools/gencfg/processors/boards/stm32f4xx/config.fmpp -text
-tools/gencfg/processors/boards/stm32f4xx/datamodel/stm32f4board.xml -text
 tools/gencfg/processors/boards/stm32f4xx/templates/board.c.ftl -text
 tools/gencfg/processors/boards/stm32f4xx/templates/board.h.ftl -text
 tools/gencfg/processors/boards/stm32f4xx/templates/board.mk.ftl -text
