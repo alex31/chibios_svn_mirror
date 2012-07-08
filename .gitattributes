@@ -1352,3 +1352,16 @@ testhal/STM8S/SPI/raisonance/raisonance.stp -text
 /todo.txt -text
 tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.8.jar -text
 tools/eclipse/readme.txt -text
+tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder.launch -text
+tools/gencfg/.project -text
+tools/gencfg/config.fmpp -text
+tools/gencfg/processors/boards/stm32f4xx/config.fmpp -text
+tools/gencfg/processors/boards/stm32f4xx/datamodel/stm32f4board.xml -text
+tools/gencfg/processors/boards/stm32f4xx/templates/board.mk.ftl -text
+tools/gencfg/readme.txt -text
+tools/gencfg/run.bat -text
+tools/gencfg/schema/boards/abstract_board.xsd -text
+tools/gencfg/schema/boards/stm32f4xx_board.xsd -text
+tools/gencfg/schema/common/doc.xsd -text
+tools/gencfg/schema/common/stm32/stm32_gpiov2_port.xsd -text
+tools/gencfg/schema/stm32f4board.xml -text
