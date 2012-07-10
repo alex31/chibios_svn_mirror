@@ -1362,10 +1362,17 @@ tools/gencfg/processors/boards/stm32f4xx/config.fmpp -text
 tools/gencfg/processors/boards/stm32f4xx/templates/board.c.ftl -text
 tools/gencfg/processors/boards/stm32f4xx/templates/board.h.ftl -text
 tools/gencfg/processors/boards/stm32f4xx/templates/board.mk.ftl -text
+tools/gencfg/processors/hal/stm32f4xx/config.fmpp -text
 tools/gencfg/readme.txt -text
 tools/gencfg/run.bat -text
 tools/gencfg/schema/boards/abstract_board.xsd -text
 tools/gencfg/schema/boards/stm32f4xx_board.xsd -text
 tools/gencfg/schema/common/doc.xsd -text
 tools/gencfg/schema/common/stm32/stm32_gpiov2_port.xsd -text
+tools/gencfg/schema/hal/abstract_adc_cfg.xsd -text
+tools/gencfg/schema/hal/abstract_driver_cfg.xsd -text
+tools/gencfg/schema/hal/stm32f4xx/Copy[!!-~]of[!!-~]stm32f4xx_adc_cfg.xsd -text
+tools/gencfg/schema/hal/stm32f4xx/stm32f4xx_adc_cfg.xsd -text
+tools/gencfg/schema/hal/stm32f4xx/stm32f4xx_cfg.xsd -text
 tools/gencfg/xml/stm32f4board.xml -text
+tools/gencfg/xml/stm32f4xx_cfg.xml -text
