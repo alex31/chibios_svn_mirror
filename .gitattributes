@@ -1363,6 +1363,8 @@ tools/gencfg/processors/boards/stm32f4xx/templates/board.c.ftl -text
 tools/gencfg/processors/boards/stm32f4xx/templates/board.h.ftl -text
 tools/gencfg/processors/boards/stm32f4xx/templates/board.mk.ftl -text
 tools/gencfg/processors/hal/stm32f4xx/config.fmpp -text
+tools/gencfg/processors/hal/stm32f4xx/templates/hal_cfg.c.ftl -text
+tools/gencfg/processors/hal/stm32f4xx/templates/hal_cfg.h.ftl -text
 tools/gencfg/readme.txt -text
 tools/gencfg/run.bat -text
 tools/gencfg/schema/boards/abstract_board.xsd -text
