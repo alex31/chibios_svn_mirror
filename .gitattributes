@@ -1355,7 +1355,8 @@ testhal/STM8S/SPI/raisonance/raisonance.stp -text
 /todo.txt -text
 tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.8.jar -text
 tools/eclipse/readme.txt -text
-tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder.launch -text
+tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder[!!-~](Linux).launch -text
+tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder[!!-~](Windows).launch -text
 tools/gencfg/.project -text
 tools/gencfg/config.fmpp -text
 tools/gencfg/fmpp.sh -text
