@@ -49,7 +49,8 @@ boards/OLIMEX_STM32_103STK/board.mk -text
 boards/OLIMEX_STM32_E407/board.c -text
 boards/OLIMEX_STM32_E407/board.h -text
 boards/OLIMEX_STM32_E407/board.mk -text
-boards/OLIMEX_STM32_E407/stm32f4board.xml -text
+boards/OLIMEX_STM32_E407/cfg/board.chcfg -text
+boards/OLIMEX_STM32_E407/cfg/board.chxml -text
 boards/OLIMEX_STM32_H103/board.c -text
 boards/OLIMEX_STM32_H103/board.h -text
 boards/OLIMEX_STM32_H103/board.mk -text
