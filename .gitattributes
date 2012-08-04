@@ -1384,13 +1384,6 @@ tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32f4xx_board.xsd -
 tools/eclipse/config_wizard/resources/gencfg/schema/common/doc.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/common/stm32/stm32_gpiov2_port.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/xml/stm32f4board.xml -text
-tools/eclipse/config_wizard/src/config_wizard/Activator.java -text
-tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/handlers/CheckDescription.java -text
-tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/handlers/GenerateFiles.java -text
-tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/utils/TemplateEngine.java -text
-tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/utils/TemplateException.java -text
-tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/wizards/ConfigurationNewWizard.java -text
-tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/wizards/ConfigurationNewWizardPage.java -text
 tools/eclipse/plugins/org.chibios.tools.eclipse.config_1.0.0.jar -text
 tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.8.jar -text
 tools/eclipse/readme.txt -text
