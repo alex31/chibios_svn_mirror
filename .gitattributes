@@ -1375,7 +1375,6 @@ tools/eclipse/config_wizard/resources/gencfg/lib/libcode.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/lib/liblicense.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/lib/libstm32f4xx.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/lib/libutils.ftl -text
-tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f4xx/config.fmpp -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f4xx/templates/board.c.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f4xx/templates/board.h.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f4xx/templates/board.mk.ftl -text
