@@ -79,7 +79,8 @@ boards/ST_STM32F0_DISCOVERY/board.mk -text
 boards/ST_STM32F4_DISCOVERY/board.c -text
 boards/ST_STM32F4_DISCOVERY/board.h -text
 boards/ST_STM32F4_DISCOVERY/board.mk -text
-boards/ST_STM32F4_DISCOVERY/stm32f4board.xml -text
+boards/ST_STM32F4_DISCOVERY/cfg/board.chcfg -text
+boards/ST_STM32F4_DISCOVERY/cfg/board.chxml -text
 boards/ST_STM32L_DISCOVERY/board.c -text
 boards/ST_STM32L_DISCOVERY/board.h -text
 boards/ST_STM32L_DISCOVERY/board.mk -text
