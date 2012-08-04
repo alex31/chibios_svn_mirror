@@ -1391,6 +1391,7 @@ tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/utils/TemplateE
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/utils/TemplateException.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/wizards/ConfigurationNewWizard.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/wizards/ConfigurationNewWizardPage.java -text
+tools/eclipse/plugins/org.chibios.tools.eclipse.config_1.0.0.jar -text
 tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.8.jar -text
 tools/eclipse/readme.txt -text
 tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder[!!-~](Linux).launch -text
