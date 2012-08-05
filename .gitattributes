@@ -87,6 +87,8 @@ boards/ST_STM32F4_DISCOVERY/cfg/board.chxml -text
 boards/ST_STM32L_DISCOVERY/board.c -text
 boards/ST_STM32L_DISCOVERY/board.h -text
 boards/ST_STM32L_DISCOVERY/board.mk -text
+boards/ST_STM32L_DISCOVERY/cfg/board.chcfg -text
+boards/ST_STM32L_DISCOVERY/cfg/board.chxml -text
 boards/ST_STM32VL_DISCOVERY/board.c -text
 boards/ST_STM32VL_DISCOVERY/board.h -text
 boards/ST_STM32VL_DISCOVERY/board.mk -text
@@ -1403,7 +1405,7 @@ tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/utils/TemplateE
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/utils/TemplateException.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/wizards/ConfigurationNewWizard.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/wizards/ConfigurationNewWizardPage.java -text
-tools/eclipse/plugins/org.chibios.tools.eclipse.config_1.0.2.jar -text
+tools/eclipse/plugins/org.chibios.tools.eclipse.config_1.0.3.jar -text
 tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.8.jar -text
 tools/eclipse/readme.txt -text
 tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder[!!-~](Linux).launch -text
