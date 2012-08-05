@@ -1415,5 +1415,6 @@ tools/gencfg/schema/hal/abstract_cfg.xsd -text
 tools/gencfg/schema/hal/abstract_driver_cfg.xsd -text
 tools/gencfg/schema/hal/stm32f4xx/stm32f4xx_adc_cfg.xsd -text
 tools/gencfg/schema/hal/stm32f4xx/stm32f4xx_cfg.xsd -text
+tools/gencfg/xml/stm32f0board.xml -text
 tools/gencfg/xml/stm32f4board.xml -text
 tools/gencfg/xml/stm32f4xx_cfg.xml -text
