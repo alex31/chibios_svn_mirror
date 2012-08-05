@@ -77,6 +77,8 @@ boards/ST_STM3220G_EVAL/board.mk -text
 boards/ST_STM32F0_DISCOVERY/board.c -text
 boards/ST_STM32F0_DISCOVERY/board.h -text
 boards/ST_STM32F0_DISCOVERY/board.mk -text
+boards/ST_STM32F0_DISCOVERY/cfg/board.chcfg -text
+boards/ST_STM32F0_DISCOVERY/cfg/board.chxml -text
 boards/ST_STM32F4_DISCOVERY/board.c -text
 boards/ST_STM32F4_DISCOVERY/board.h -text
 boards/ST_STM32F4_DISCOVERY/board.mk -text
