@@ -1393,6 +1393,7 @@ tools/eclipse/config_wizard/resources/gencfg/schema/boards/abstract_board.xsd -t
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32f0xx_board.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32f4xx_board.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32l1xx_board.xsd -text
+tools/eclipse/config_wizard/resources/gencfg/schema/common/config_settings.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/common/doc.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/common/stm32/stm32_gpiov2_port.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/xml/stm32f0board.xml -text
