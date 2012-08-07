@@ -1,4 +1,5 @@
 * text=auto !eol
+/.project -text
 boards/ARDUINO_MEGA/board.c -text
 boards/ARDUINO_MEGA/board.h -text
 boards/ARDUINO_MEGA/board.mk -text
