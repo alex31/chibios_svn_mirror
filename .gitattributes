@@ -1388,8 +1388,10 @@ tools/eclipse/config_wizard/lib/jdom-2.0.2.jar -text
 tools/eclipse/config_wizard/lib/oro.jar -text
 tools/eclipse/config_wizard/lib/resolver.jar -text
 tools/eclipse/config_wizard/plugin.xml -text
+tools/eclipse/config_wizard/resources/gencfg/lib/code_snippets.xml -text
 tools/eclipse/config_wizard/resources/gencfg/lib/libcode.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/lib/liblicense.ftl -text
+tools/eclipse/config_wizard/resources/gencfg/lib/libsnippets.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/lib/libstm32f4xx.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/lib/libutils.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f0xx/templates/board.c.ftl -text
@@ -1406,6 +1408,7 @@ tools/eclipse/config_wizard/resources/gencfg/schema/boards/abstract_board.xsd -t
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32f0xx_board.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32f4xx_board.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32l1xx_board.xsd -text
+tools/eclipse/config_wizard/resources/gencfg/schema/common/code_snippets.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/common/config_settings.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/common/doc.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/common/stm32/stm32_gpiov2_port.xsd -text
