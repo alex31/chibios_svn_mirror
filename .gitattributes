@@ -1388,6 +1388,7 @@ tools/eclipse/config_wizard/lib/jdom-2.0.2.jar -text
 tools/eclipse/config_wizard/lib/oro.jar -text
 tools/eclipse/config_wizard/lib/resolver.jar -text
 tools/eclipse/config_wizard/plugin.xml -text
+tools/eclipse/config_wizard/resources/app_templates/c/template.xml -text
 tools/eclipse/config_wizard/resources/gencfg/lib/code_snippets.xml -text
 tools/eclipse/config_wizard/resources/gencfg/lib/libcode.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/lib/liblicense.ftl -text
@@ -1418,6 +1419,7 @@ tools/eclipse/config_wizard/resources/gencfg/xml/stm32l1board.xml -text
 tools/eclipse/config_wizard/src/config_wizard/Activator.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/handlers/CheckDescription.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/handlers/GenerateFiles.java -text
+tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/process/ApplicationGeneratorProcessRunner.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/utils/TemplateEngine.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/utils/TemplateException.java -text
 tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/wizards/ConfigurationNewWizard.java -text
