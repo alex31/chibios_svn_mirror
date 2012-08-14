@@ -1431,6 +1431,7 @@ tools/eclipse/config_wizard/src/org/chibios/tools/eclipse/config/wizards/NewAppl
 tools/eclipse/plugins/org.chibios.tools.eclipse.config_1.1.0.jar -text
 tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.8.jar -text
 tools/eclipse/readme.txt -text
+tools/edit_aid/rebalance_prio.sh -text
 tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder[!!-~](Linux).launch -text
 tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder[!!-~](Windows).launch -text
 tools/gencfg/.project -text
