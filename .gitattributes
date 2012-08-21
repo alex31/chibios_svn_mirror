@@ -678,6 +678,7 @@ os/hal/platforms/STM32F1xx/hal_lld_f103.h -text
 os/hal/platforms/STM32F1xx/hal_lld_f105_f107.h -text
 os/hal/platforms/STM32F1xx/platform.dox -text
 os/hal/platforms/STM32F1xx/platform.mk -text
+os/hal/platforms/STM32F1xx/platform_f105_f107.mk -text
 os/hal/platforms/STM32F1xx/stm32_dma.c -text
 os/hal/platforms/STM32F1xx/stm32_dma.h -text
 os/hal/platforms/STM32F1xx/stm32_isr.h -text
