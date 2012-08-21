@@ -1216,6 +1216,14 @@ testhal/STM32F1xx/USB_CDC/halconf.h -text
 testhal/STM32F1xx/USB_CDC/main.c -text
 testhal/STM32F1xx/USB_CDC/mcuconf.h -text
 testhal/STM32F1xx/USB_CDC/readme.txt -text
+testhal/STM32F1xx/USB_CDC_F107/.cproject -text
+testhal/STM32F1xx/USB_CDC_F107/.project -text
+testhal/STM32F1xx/USB_CDC_F107/Makefile -text
+testhal/STM32F1xx/USB_CDC_F107/chconf.h -text
+testhal/STM32F1xx/USB_CDC_F107/halconf.h -text
+testhal/STM32F1xx/USB_CDC_F107/main.c -text
+testhal/STM32F1xx/USB_CDC_F107/mcuconf.h -text
+testhal/STM32F1xx/USB_CDC_F107/readme.txt -text
 testhal/STM32F1xx/USB_MSC/Makefile -text
 testhal/STM32F1xx/USB_MSC/chconf.h -text
 testhal/STM32F1xx/USB_MSC/halconf.h -text
