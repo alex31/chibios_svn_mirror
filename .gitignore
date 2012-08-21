@@ -105,10 +105,6 @@ testhal/STM32F4xx/I2C/.dep
 testhal/STM32F4xx/I2C/.project
 testhal/STM32F4xx/I2C/.settings
 testhal/STM32F4xx/I2C/build
-testhal/STM32F4xx/PVD/.cproject
-testhal/STM32F4xx/PVD/.dep
-testhal/STM32F4xx/PVD/.project
-testhal/STM32F4xx/PVD/build
 testhal/STM32F4xx/RTC/*.log
 testhal/STM32F4xx/RTC/.cproject
 testhal/STM32F4xx/RTC/.dep
