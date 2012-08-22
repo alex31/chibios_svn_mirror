@@ -117,8 +117,3 @@ testhal/STM32F4xx/SDC/.project
 testhal/STM32F4xx/SDC/build
 testhal/STM32F4xx/UART/*.cproject
 testhal/STM32F4xx/UART/*.project
-testhal/STM32L1xx/PVD/.cproject
-testhal/STM32L1xx/PVD/.dep
-testhal/STM32L1xx/PVD/.project
-testhal/STM32L1xx/PVD/.settings
-testhal/STM32L1xx/PVD/build
