@@ -163,6 +163,8 @@ demos/ARMCM0-LPC11U14-LPCXPRESSO/chconf.h -text
 demos/ARMCM0-LPC11U14-LPCXPRESSO/halconf.h -text
 demos/ARMCM0-LPC11U14-LPCXPRESSO/main.c -text
 demos/ARMCM0-LPC11U14-LPCXPRESSO/mcuconf.h -text
+demos/ARMCM0-STM32F051-DISCOVERY/.cproject -text
+demos/ARMCM0-STM32F051-DISCOVERY/.project -text
 demos/ARMCM0-STM32F051-DISCOVERY/Makefile -text
 demos/ARMCM0-STM32F051-DISCOVERY/chconf.h -text
 demos/ARMCM0-STM32F051-DISCOVERY/halconf.h -text
@@ -206,6 +208,8 @@ demos/ARMCM3-STM32F103-FATFS/halconf.h -text
 demos/ARMCM3-STM32F103-FATFS/main.c -text
 demos/ARMCM3-STM32F103-FATFS/mcuconf.h -text
 demos/ARMCM3-STM32F103-FATFS/readme.txt -text
+demos/ARMCM3-STM32F103-G++/.cproject -text
+demos/ARMCM3-STM32F103-G++/.project -text
 demos/ARMCM3-STM32F103-G++/Makefile -text
 demos/ARMCM3-STM32F103-G++/chconf.h -text
 demos/ARMCM3-STM32F103-G++/halconf.h -text
@@ -228,6 +232,8 @@ demos/ARMCM3-STM32F103/mcuconf.h -text
 demos/ARMCM3-STM32F103/readme.txt -text
 demos/ARMCM3-STM32F103/ride7/ch.rapp -text
 demos/ARMCM3-STM32F103/ride7/ch.rprj -text
+demos/ARMCM3-STM32F103ZG-FATFS/.cproject -text
+demos/ARMCM3-STM32F103ZG-FATFS/.project -text
 demos/ARMCM3-STM32F103ZG-FATFS/Makefile -text
 demos/ARMCM3-STM32F103ZG-FATFS/chconf.h -text
 demos/ARMCM3-STM32F103ZG-FATFS/ffconf.h -text
@@ -238,6 +244,8 @@ demos/ARMCM3-STM32F103ZG-FATFS/iar/ch.icf -text
 demos/ARMCM3-STM32F103ZG-FATFS/main.c -text
 demos/ARMCM3-STM32F103ZG-FATFS/mcuconf.h -text
 demos/ARMCM3-STM32F103ZG-FATFS/readme.txt -text
+demos/ARMCM3-STM32F107-FATFS/.cproject -text
+demos/ARMCM3-STM32F107-FATFS/.project -text
 demos/ARMCM3-STM32F107-FATFS/Makefile -text
 demos/ARMCM3-STM32F107-FATFS/chconf.h -text
 demos/ARMCM3-STM32F107-FATFS/ffconf.h -text
@@ -245,6 +253,8 @@ demos/ARMCM3-STM32F107-FATFS/halconf.h -text
 demos/ARMCM3-STM32F107-FATFS/main.c -text
 demos/ARMCM3-STM32F107-FATFS/mcuconf.h -text
 demos/ARMCM3-STM32F107-FATFS/readme.txt -text
+demos/ARMCM3-STM32F107-LWIP/.cproject -text
+demos/ARMCM3-STM32F107-LWIP/.project -text
 demos/ARMCM3-STM32F107-LWIP/Makefile -text
 demos/ARMCM3-STM32F107-LWIP/chconf.h -text
 demos/ARMCM3-STM32F107-LWIP/halconf.h -text
@@ -254,6 +264,8 @@ demos/ARMCM3-STM32F107-LWIP/mcuconf.h -text
 demos/ARMCM3-STM32F107-LWIP/readme.txt -text
 demos/ARMCM3-STM32F107-LWIP/web/web.c -text
 demos/ARMCM3-STM32F107-LWIP/web/web.h -text
+demos/ARMCM3-STM32F107/.cproject -text
+demos/ARMCM3-STM32F107/.project -text
 demos/ARMCM3-STM32F107/Makefile -text
 demos/ARMCM3-STM32F107/chconf.h -text
 demos/ARMCM3-STM32F107/halconf.h -text
@@ -296,6 +308,8 @@ demos/ARMCM4-STM32F407-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM4-STM32F407-DISCOVERY/main.c -text
 demos/ARMCM4-STM32F407-DISCOVERY/mcuconf.h -text
 demos/ARMCM4-STM32F407-DISCOVERY/readme.txt -text
+demos/ARMCM4-STM32F407-LWIP-FATFS-USB/.cproject -text
+demos/ARMCM4-STM32F407-LWIP-FATFS-USB/.project -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/Makefile -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/chconf.h -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/ffconf.h -text
@@ -306,6 +320,8 @@ demos/ARMCM4-STM32F407-LWIP-FATFS-USB/mcuconf.h -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/readme.txt -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/web/web.c -text
 demos/ARMCM4-STM32F407-LWIP-FATFS-USB/web/web.h -text
+demos/ARMCM4-STM32F407-LWIP/.cproject -text
+demos/ARMCM4-STM32F407-LWIP/.project -text
 demos/ARMCM4-STM32F407-LWIP/Makefile -text
 demos/ARMCM4-STM32F407-LWIP/chconf.h -text
 demos/ARMCM4-STM32F407-LWIP/halconf.h -text
