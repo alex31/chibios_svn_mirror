@@ -679,6 +679,7 @@ os/hal/platforms/STM32F0xx/ext_lld_isr.c -text
 os/hal/platforms/STM32F0xx/ext_lld_isr.h -text
 os/hal/platforms/STM32F0xx/hal_lld.c -text
 os/hal/platforms/STM32F0xx/hal_lld.h -text
+os/hal/platforms/STM32F0xx/platform.dox -text
 os/hal/platforms/STM32F0xx/platform.mk -text
 os/hal/platforms/STM32F0xx/stm32_dma.c -text
 os/hal/platforms/STM32F0xx/stm32_dma.h -text
