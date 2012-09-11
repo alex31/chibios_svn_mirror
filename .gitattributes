@@ -362,6 +362,8 @@ demos/MSP430-MSP430x1611-GCC/memory.x -text
 demos/MSP430-MSP430x1611-GCC/msp430.x -text
 demos/MSP430-MSP430x1611-GCC/periph.x -text
 demos/MSP430-MSP430x1611-GCC/readme.txt -text
+demos/PPC-SPC563-GCC/.cproject -text
+demos/PPC-SPC563-GCC/.project -text
 demos/PPC-SPC563-GCC/Makefile -text
 demos/PPC-SPC563-GCC/ch.ld -text
 demos/PPC-SPC563-GCC/chconf.h -text
