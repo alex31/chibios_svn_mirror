@@ -953,6 +953,11 @@ os/ports/GCC/MSP430/chtypes.h -text
 os/ports/GCC/MSP430/port.dox -text
 os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
+os/ports/GCC/PPC/SPC560Pxx/ivor.s -text
+os/ports/GCC/PPC/SPC560Pxx/ld/SPC560P44.ld -text
+os/ports/GCC/PPC/SPC560Pxx/port.mk -text
+os/ports/GCC/PPC/SPC560Pxx/ppcparams.h -text
+os/ports/GCC/PPC/SPC560Pxx/vectors.s -text
 os/ports/GCC/PPC/SPC563Mxx/ivor.s -text
 os/ports/GCC/PPC/SPC563Mxx/ld/SPC563M64.ld -text
 os/ports/GCC/PPC/SPC563Mxx/port.mk -text
