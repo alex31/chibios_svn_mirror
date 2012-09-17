@@ -12,9 +12,6 @@ boards/EA_LPCXPRESSO_BB_11U14/board.mk -text
 boards/EA_LPCXPRESSO_BB_1343/board.c -text
 boards/EA_LPCXPRESSO_BB_1343/board.h -text
 boards/EA_LPCXPRESSO_BB_1343/board.mk -text
-boards/GENERIC_SPC563/board.c -text
-boards/GENERIC_SPC563/board.h -text
-boards/GENERIC_SPC563/board.mk -text
 boards/GENERIC_SPC563M/board.c -text
 boards/GENERIC_SPC563M/board.h -text
 boards/GENERIC_SPC563M/board.mk -text
