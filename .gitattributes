@@ -368,6 +368,12 @@ demos/PPC-SPC563-GCC/Makefile -text
 demos/PPC-SPC563-GCC/chconf.h -text
 demos/PPC-SPC563-GCC/halconf.h -text
 demos/PPC-SPC563-GCC/main.c -text
+demos/PPC-SPC563M-GCC/.cproject -text
+demos/PPC-SPC563M-GCC/.project -text
+demos/PPC-SPC563M-GCC/Makefile -text
+demos/PPC-SPC563M-GCC/chconf.h -text
+demos/PPC-SPC563M-GCC/halconf.h -text
+demos/PPC-SPC563M-GCC/main.c -text
 demos/Posix-GCC/Makefile -text
 demos/Posix-GCC/chconf.h -text
 demos/Posix-GCC/halconf.h -text
