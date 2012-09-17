@@ -628,6 +628,11 @@ os/hal/platforms/Posix/pal_lld.h -text
 os/hal/platforms/Posix/platform.mk -text
 os/hal/platforms/Posix/serial_lld.c -text
 os/hal/platforms/Posix/serial_lld.h -text
+os/hal/platforms/SPC560Pxx/hal_lld.c -text
+os/hal/platforms/SPC560Pxx/hal_lld.h -text
+os/hal/platforms/SPC560Pxx/platform.mk -text
+os/hal/platforms/SPC560Pxx/typedefs.h -text
+os/hal/platforms/SPC560Pxx/xpc560p.h -text
 os/hal/platforms/SPC56x/hal_lld.c -text
 os/hal/platforms/SPC56x/hal_lld.h -text
 os/hal/platforms/SPC56x/mpc563m.h -text
