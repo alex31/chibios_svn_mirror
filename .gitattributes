@@ -1313,6 +1313,13 @@ testhal/STM32F4xx/RTC/chconf.h -text
 testhal/STM32F4xx/RTC/halconf.h -text
 testhal/STM32F4xx/RTC/main.c -text
 testhal/STM32F4xx/RTC/mcuconf.h -text
+testhal/STM32F4xx/RTC_FATTIME/Makefile -text
+testhal/STM32F4xx/RTC_FATTIME/chconf.h -text
+testhal/STM32F4xx/RTC_FATTIME/ffconf.h -text
+testhal/STM32F4xx/RTC_FATTIME/halconf.h -text
+testhal/STM32F4xx/RTC_FATTIME/main.c -text
+testhal/STM32F4xx/RTC_FATTIME/mcuconf.h -text
+testhal/STM32F4xx/RTC_FATTIME/readme.txt -text
 testhal/STM32F4xx/SDC/Makefile -text
 testhal/STM32F4xx/SDC/chconf.h -text
 testhal/STM32F4xx/SDC/csd.txt -text

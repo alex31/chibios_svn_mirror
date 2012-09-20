@@ -95,6 +95,9 @@ testhal/STM32F4xx/RTC/.dep
 testhal/STM32F4xx/RTC/.project
 testhal/STM32F4xx/RTC/.settings
 testhal/STM32F4xx/RTC/build
+testhal/STM32F4xx/RTC_FATTIME/.dep
+testhal/STM32F4xx/RTC_FATTIME/.settings
+testhal/STM32F4xx/RTC_FATTIME/build
 testhal/STM32F4xx/SDC/.cproject
 testhal/STM32F4xx/SDC/.dep
 testhal/STM32F4xx/SDC/.project
