@@ -204,6 +204,8 @@ demos/ARMCM3-STM32F100-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM3-STM32F100-DISCOVERY/main.c -text
 demos/ARMCM3-STM32F100-DISCOVERY/mcuconf.h -text
 demos/ARMCM3-STM32F100-DISCOVERY/readme.txt -text
+demos/ARMCM3-STM32F103-FATFS/.cproject -text
+demos/ARMCM3-STM32F103-FATFS/.project -text
 demos/ARMCM3-STM32F103-FATFS/Makefile -text
 demos/ARMCM3-STM32F103-FATFS/chconf.h -text
 demos/ARMCM3-STM32F103-FATFS/ffconf.h -text
