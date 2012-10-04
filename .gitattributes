@@ -974,6 +974,7 @@ os/ports/GCC/MSP430/chtypes.h -text
 os/ports/GCC/MSP430/port.dox -text
 os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
+os/ports/GCC/PPC/SPC560Pxx/bam.s -text
 os/ports/GCC/PPC/SPC560Pxx/ivor.s -text
 os/ports/GCC/PPC/SPC560Pxx/ld/SPC560P44.ld -text
 os/ports/GCC/PPC/SPC560Pxx/port.mk -text
@@ -989,7 +990,6 @@ os/ports/GCC/PPC/chcore.h -text
 os/ports/GCC/PPC/chtypes.h -text
 os/ports/GCC/PPC/crt0.s -text
 os/ports/GCC/PPC/port.dox -text
-os/ports/GCC/PPC/port.mk -text
 os/ports/GCC/PPC/rules.mk -text
 os/ports/GCC/SIMIA32/chcore.c -text
 os/ports/GCC/SIMIA32/chcore.h -text
