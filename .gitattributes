@@ -373,6 +373,7 @@ demos/PPC-SPC560P-GCC/Makefile -text
 demos/PPC-SPC560P-GCC/chconf.h -text
 demos/PPC-SPC560P-GCC/halconf.h -text
 demos/PPC-SPC560P-GCC/main.c -text
+demos/PPC-SPC560P-GCC/mcuconf.h -text
 demos/PPC-SPC563M-GCC/.cproject -text
 demos/PPC-SPC563M-GCC/.project -text
 demos/PPC-SPC563M-GCC/Makefile -text
