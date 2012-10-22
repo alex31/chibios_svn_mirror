@@ -293,6 +293,12 @@ demos/ARMCM3-STM32L152-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM3-STM32L152-DISCOVERY/main.c -text
 demos/ARMCM3-STM32L152-DISCOVERY/mcuconf.h -text
 demos/ARMCM3-STM32L152-DISCOVERY/readme.txt -text
+demos/ARMCM4-STM32F303-DISCOVERY/Makefile -text
+demos/ARMCM4-STM32F303-DISCOVERY/chconf.h -text
+demos/ARMCM4-STM32F303-DISCOVERY/halconf.h -text
+demos/ARMCM4-STM32F303-DISCOVERY/main.c -text
+demos/ARMCM4-STM32F303-DISCOVERY/mcuconf.h -text
+demos/ARMCM4-STM32F303-DISCOVERY/readme.txt -text
 demos/ARMCM4-STM32F407-DISCOVERY-MEMS/.cproject -text
 demos/ARMCM4-STM32F407-DISCOVERY-MEMS/.project -text
 demos/ARMCM4-STM32F407-DISCOVERY-MEMS/Makefile -text
@@ -726,6 +732,9 @@ os/hal/platforms/STM32F1xx/stm32_dma.h -text
 os/hal/platforms/STM32F1xx/stm32_isr.h -text
 os/hal/platforms/STM32F1xx/stm32_rcc.h -text
 os/hal/platforms/STM32F1xx/stm32f10x.h -text
+os/hal/platforms/STM32F3xx/hal_lld.h -text
+os/hal/platforms/STM32F3xx/platform.mk -text
+os/hal/platforms/STM32F3xx/stm32f30x.h -text
 os/hal/platforms/STM32F4xx/adc_lld.c -text
 os/hal/platforms/STM32F4xx/adc_lld.h -text
 os/hal/platforms/STM32F4xx/ext_lld_isr.c -text
@@ -932,6 +941,10 @@ os/ports/GCC/ARMCMx/STM32F2xx/ld/STM32F205xB.ld -text
 os/ports/GCC/ARMCMx/STM32F2xx/ld/STM32F207xG.ld -text
 os/ports/GCC/ARMCMx/STM32F2xx/port.mk -text
 os/ports/GCC/ARMCMx/STM32F2xx/vectors.c -text
+os/ports/GCC/ARMCMx/STM32F3xx/cmparams.h -text
+os/ports/GCC/ARMCMx/STM32F3xx/ld/STM32F303xC.ld -text
+os/ports/GCC/ARMCMx/STM32F3xx/port.mk -text
+os/ports/GCC/ARMCMx/STM32F3xx/vectors.c -text
 os/ports/GCC/ARMCMx/STM32F4xx/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32F4xx/ld/STM32F405xG.ld -text
 os/ports/GCC/ARMCMx/STM32F4xx/ld/STM32F407xG.ld -text
