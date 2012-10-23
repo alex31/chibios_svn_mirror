@@ -732,6 +732,7 @@ os/hal/platforms/STM32F1xx/stm32_dma.h -text
 os/hal/platforms/STM32F1xx/stm32_isr.h -text
 os/hal/platforms/STM32F1xx/stm32_rcc.h -text
 os/hal/platforms/STM32F1xx/stm32f10x.h -text
+os/hal/platforms/STM32F3xx/hal_lld.c -text
 os/hal/platforms/STM32F3xx/hal_lld.h -text
 os/hal/platforms/STM32F3xx/platform.mk -text
 os/hal/platforms/STM32F3xx/stm32f30x.h -text
