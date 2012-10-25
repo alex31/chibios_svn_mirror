@@ -1453,6 +1453,9 @@ tools/eclipse/config_wizard/resources/gencfg/lib/libutils.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f0xx/templates/board.c.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f0xx/templates/board.h.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f0xx/templates/board.mk.ftl -text
+tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f3xx/templates/board.c.ftl -text
+tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f3xx/templates/board.h.ftl -text
+tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f3xx/templates/board.mk.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f4xx/templates/board.c.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f4xx/templates/board.h.ftl -text
 tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32f4xx/templates/board.mk.ftl -text
@@ -1462,6 +1465,7 @@ tools/eclipse/config_wizard/resources/gencfg/processors/boards/stm32l1xx/templat
 tools/eclipse/config_wizard/resources/gencfg/processors/processors.xml -text
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/abstract_board.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32f0xx_board.xsd -text
+tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32f3xx_board.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32f4xx_board.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/boards/stm32l1xx_board.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/common/code_snippets.xsd -text
@@ -1469,6 +1473,7 @@ tools/eclipse/config_wizard/resources/gencfg/schema/common/config_settings.xsd -
 tools/eclipse/config_wizard/resources/gencfg/schema/common/doc.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/schema/common/stm32/stm32_gpiov2_port.xsd -text
 tools/eclipse/config_wizard/resources/gencfg/xml/stm32f0board.xml -text
+tools/eclipse/config_wizard/resources/gencfg/xml/stm32f3board.xml -text
 tools/eclipse/config_wizard/resources/gencfg/xml/stm32f4board.xml -text
 tools/eclipse/config_wizard/resources/gencfg/xml/stm32l1board.xml -text
 tools/eclipse/config_wizard/src/config_wizard/Activator.java -text
