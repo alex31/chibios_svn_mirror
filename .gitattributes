@@ -929,6 +929,10 @@ os/ports/GCC/ARMCMx/LPC13xx/cmparams.h -text
 os/ports/GCC/ARMCMx/LPC13xx/ld/LPC1343.ld -text
 os/ports/GCC/ARMCMx/LPC13xx/port.mk -text
 os/ports/GCC/ARMCMx/LPC13xx/vectors.c -text
+os/ports/GCC/ARMCMx/SAM4L/cmparams.h -text
+os/ports/GCC/ARMCMx/SAM4L/ld/ATSAM4LC4C.ld -text
+os/ports/GCC/ARMCMx/SAM4L/port.mk -text
+os/ports/GCC/ARMCMx/SAM4L/vectors.c -text
 os/ports/GCC/ARMCMx/STM32F0xx/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32F0xx/ld/STM32F051x8.ld -text
 os/ports/GCC/ARMCMx/STM32F0xx/port.mk -text
