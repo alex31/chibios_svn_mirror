@@ -68,6 +68,8 @@ boards/OLIMEX_STM32_P407/board.h -text
 boards/OLIMEX_STM32_P407/board.mk -text
 boards/RAISONANCE_REVA_STM8S/board.c -text
 boards/RAISONANCE_REVA_STM8S/board.h -text
+boards/STUDIEL_AT91SAM7A3_EK/board.c -text
+boards/STUDIEL_AT91SAM7A3_EK/board.h -text
 boards/ST_STM3210C_EVAL/board.c -text
 boards/ST_STM3210C_EVAL/board.h -text
 boards/ST_STM3210C_EVAL/board.mk -text
