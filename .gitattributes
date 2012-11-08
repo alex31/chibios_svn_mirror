@@ -542,6 +542,7 @@ os/hal/include/tm.h -text
 os/hal/include/uart.h -text
 os/hal/include/usb.h -text
 os/hal/include/usb_cdc.h -text
+os/hal/platforms/AT91SAM7/at91lib/AT91SAM7A3.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S128.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S256.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S512.h -text
