@@ -906,6 +906,7 @@ os/kernel/templates/chcore.c -text
 os/kernel/templates/chcore.h -text
 os/kernel/templates/chtypes.h -text
 os/ports/GCC/ARM/AT91SAM7/armparams.h -text
+os/ports/GCC/ARM/AT91SAM7/ld/AT91SAM7A3.ld -text
 os/ports/GCC/ARM/AT91SAM7/ld/AT91SAM7S256.ld -text
 os/ports/GCC/ARM/AT91SAM7/ld/AT91SAM7X256.ld -text
 os/ports/GCC/ARM/AT91SAM7/port.mk -text
