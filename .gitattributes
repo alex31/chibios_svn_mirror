@@ -21,6 +21,9 @@ boards/GENERIC_SPC563M/board.mk -text
 boards/MAPLEMINI_STM32_F103/board.c -text
 boards/MAPLEMINI_STM32_F103/board.h -text
 boards/MAPLEMINI_STM32_F103/board.mk -text
+boards/NONSTANDARD_MSP430_F5437/board.c -text
+boards/NONSTANDARD_MSP430_F5437/board.h -text
+boards/NONSTANDARD_MSP430_F5437/board.mk -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.c -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.h -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.mk -text
