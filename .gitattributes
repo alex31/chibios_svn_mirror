@@ -656,6 +656,12 @@ os/hal/platforms/MSP430/platform.dox -text
 os/hal/platforms/MSP430/platform.mk -text
 os/hal/platforms/MSP430/serial_lld.c -text
 os/hal/platforms/MSP430/serial_lld.h -text
+os/hal/platforms/MSP430X/hal_lld.c -text
+os/hal/platforms/MSP430X/pal_lld.c -text
+os/hal/platforms/MSP430X/pal_lld.h -text
+os/hal/platforms/MSP430X/platform.dox -text
+os/hal/platforms/MSP430X/serial_lld.c -text
+os/hal/platforms/MSP430X/serial_lld.h -text
 os/hal/platforms/Posix/console.c -text
 os/hal/platforms/Posix/console.h -text
 os/hal/platforms/Posix/hal_lld.c -text
