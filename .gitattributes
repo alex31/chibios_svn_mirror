@@ -377,14 +377,8 @@ demos/MSP430-MSP430F5437/Makefile -text
 demos/MSP430-MSP430F5437/chconf.h -text
 demos/MSP430-MSP430F5437/halconf.h -text
 demos/MSP430-MSP430F5437/iar/asmdefines.s43 -text
-demos/MSP430-MSP430F5437/iar/ch.dep -text
-demos/MSP430-MSP430F5437/iar/ch.ewd -text
 demos/MSP430-MSP430F5437/iar/ch.ewp -text
 demos/MSP430-MSP430F5437/iar/ch.eww -text
-demos/MSP430-MSP430F5437/iar/settings/ch.cspy.bat -text
-demos/MSP430-MSP430F5437/iar/settings/ch.dbgdt -text
-demos/MSP430-MSP430F5437/iar/settings/ch.dni -text
-demos/MSP430-MSP430F5437/iar/settings/ch.wsdt -text
 demos/MSP430-MSP430F5437/main.c -text
 demos/MSP430-MSP430F5437/mcuconf.h -text
 demos/MSP430-MSP430F5437/memory.x -text
