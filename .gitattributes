@@ -21,9 +21,6 @@ boards/GENERIC_SPC563M/board.mk -text
 boards/MAPLEMINI_STM32_F103/board.c -text
 boards/MAPLEMINI_STM32_F103/board.h -text
 boards/MAPLEMINI_STM32_F103/board.mk -text
-boards/NONSTANDARD_MSP430_F5437/board.c -text
-boards/NONSTANDARD_MSP430_F5437/board.h -text
-boards/NONSTANDARD_MSP430_F5437/board.mk -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.c -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.h -text
 boards/NONSTANDARD_STM32F4_BARTHESS1/board.mk -text
@@ -656,12 +653,6 @@ os/hal/platforms/MSP430/platform.dox -text
 os/hal/platforms/MSP430/platform.mk -text
 os/hal/platforms/MSP430/serial_lld.c -text
 os/hal/platforms/MSP430/serial_lld.h -text
-os/hal/platforms/MSP430X/hal_lld.c -text
-os/hal/platforms/MSP430X/pal_lld.c -text
-os/hal/platforms/MSP430X/pal_lld.h -text
-os/hal/platforms/MSP430X/platform.dox -text
-os/hal/platforms/MSP430X/serial_lld.c -text
-os/hal/platforms/MSP430X/serial_lld.h -text
 os/hal/platforms/Posix/console.c -text
 os/hal/platforms/Posix/console.h -text
 os/hal/platforms/Posix/hal_lld.c -text
@@ -1096,12 +1087,6 @@ os/ports/common/ARMCMx/CMSIS/readme.txt -text
 os/ports/common/ARMCMx/nvic.c -text
 os/ports/common/ARMCMx/nvic.h -text
 os/ports/common/ARMCMx/port.dox -text
-os/ports/common/MSP430X/chcore.c -text
-os/ports/common/MSP430X/chcore.h -text
-os/ports/common/MSP430X/chtypes.h -text
-os/ports/common/MSP430X/port.dox -text
-os/ports/common/MSP430X/port.mk -text
-os/ports/common/MSP430X/rules.mk -text
 os/ports/cosmic/STM8/chcore.c -text
 os/ports/cosmic/STM8/chcore.h -text
 os/ports/cosmic/STM8/chtypes.h -text
