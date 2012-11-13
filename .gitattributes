@@ -571,6 +571,8 @@ os/hal/platforms/AT91SAM7/ext_lld.c -text
 os/hal/platforms/AT91SAM7/ext_lld.h -text
 os/hal/platforms/AT91SAM7/hal_lld.c -text
 os/hal/platforms/AT91SAM7/hal_lld.h -text
+os/hal/platforms/AT91SAM7/i2c_lld.c -text
+os/hal/platforms/AT91SAM7/i2c_lld.h -text
 os/hal/platforms/AT91SAM7/mac_lld.c -text
 os/hal/platforms/AT91SAM7/mac_lld.h -text
 os/hal/platforms/AT91SAM7/pal_lld.c -text
