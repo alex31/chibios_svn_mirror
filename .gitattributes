@@ -664,6 +664,8 @@ os/hal/platforms/Posix/pal_lld.h -text
 os/hal/platforms/Posix/platform.mk -text
 os/hal/platforms/Posix/serial_lld.c -text
 os/hal/platforms/Posix/serial_lld.h -text
+os/hal/platforms/SPC560BCxx/typedefs.h -text
+os/hal/platforms/SPC560BCxx/xpc560bc.h -text
 os/hal/platforms/SPC560Pxx/hal_lld.c -text
 os/hal/platforms/SPC560Pxx/hal_lld.h -text
 os/hal/platforms/SPC560Pxx/platform.mk -text
@@ -1029,6 +1031,7 @@ os/ports/GCC/PPC/chtypes.h -text
 os/ports/GCC/PPC/crt0.s -text
 os/ports/GCC/PPC/port.dox -text
 os/ports/GCC/PPC/rules.mk -text
+os/ports/GCC/PPC/spr_z0h.h -text
 os/ports/GCC/SIMIA32/chcore.c -text
 os/ports/GCC/SIMIA32/chcore.h -text
 os/ports/GCC/SIMIA32/chtypes.h -text
