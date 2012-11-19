@@ -12,6 +12,9 @@ boards/EA_LPCXPRESSO_BB_11U14/board.mk -text
 boards/EA_LPCXPRESSO_BB_1343/board.c -text
 boards/EA_LPCXPRESSO_BB_1343/board.h -text
 boards/EA_LPCXPRESSO_BB_1343/board.mk -text
+boards/GENERIC_SPC560B/board.c -text
+boards/GENERIC_SPC560B/board.h -text
+boards/GENERIC_SPC560B/board.mk -text
 boards/GENERIC_SPC560P/board.c -text
 boards/GENERIC_SPC560P/board.h -text
 boards/GENERIC_SPC560P/board.mk -text
@@ -391,6 +394,13 @@ demos/MSP430-MSP430x1611-GCC/memory.x -text
 demos/MSP430-MSP430x1611-GCC/msp430.x -text
 demos/MSP430-MSP430x1611-GCC/periph.x -text
 demos/MSP430-MSP430x1611-GCC/readme.txt -text
+demos/PPC-SPC560B-GCC/.cproject -text
+demos/PPC-SPC560B-GCC/.project -text
+demos/PPC-SPC560B-GCC/Makefile -text
+demos/PPC-SPC560B-GCC/chconf.h -text
+demos/PPC-SPC560B-GCC/halconf.h -text
+demos/PPC-SPC560B-GCC/main.c -text
+demos/PPC-SPC560B-GCC/mcuconf.h -text
 demos/PPC-SPC560P-GCC/.cproject -text
 demos/PPC-SPC560P-GCC/.project -text
 demos/PPC-SPC560P-GCC/Makefile -text
@@ -664,6 +674,10 @@ os/hal/platforms/Posix/pal_lld.h -text
 os/hal/platforms/Posix/platform.mk -text
 os/hal/platforms/Posix/serial_lld.c -text
 os/hal/platforms/Posix/serial_lld.h -text
+os/hal/platforms/SPC560BCxx/hal_lld.c -text
+os/hal/platforms/SPC560BCxx/hal_lld.h -text
+os/hal/platforms/SPC560BCxx/platform.mk -text
+os/hal/platforms/SPC560BCxx/spc560bc_registry.h -text
 os/hal/platforms/SPC560BCxx/typedefs.h -text
 os/hal/platforms/SPC560BCxx/xpc560bc.h -text
 os/hal/platforms/SPC560Pxx/hal_lld.c -text
