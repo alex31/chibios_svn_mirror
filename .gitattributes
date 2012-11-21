@@ -1114,7 +1114,6 @@ os/ports/common/ARMCMx/CMSIS/readme.txt -text
 os/ports/common/ARMCMx/nvic.c -text
 os/ports/common/ARMCMx/nvic.h -text
 os/ports/common/ARMCMx/port.dox -text
-os/ports/common/PPC/spr_z0h.h -text
 os/ports/cosmic/STM8/chcore.c -text
 os/ports/cosmic/STM8/chcore.h -text
 os/ports/cosmic/STM8/chtypes.h -text
