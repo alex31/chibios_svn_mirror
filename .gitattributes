@@ -12,9 +12,9 @@ boards/EA_LPCXPRESSO_BB_11U14/board.mk -text
 boards/EA_LPCXPRESSO_BB_1343/board.c -text
 boards/EA_LPCXPRESSO_BB_1343/board.h -text
 boards/EA_LPCXPRESSO_BB_1343/board.mk -text
-boards/GENERIC_SPC560B/board.c -text
-boards/GENERIC_SPC560B/board.h -text
-boards/GENERIC_SPC560B/board.mk -text
+boards/GENERIC_SPC560BC/board.c -text
+boards/GENERIC_SPC560BC/board.h -text
+boards/GENERIC_SPC560BC/board.mk -text
 boards/GENERIC_SPC560P/board.c -text
 boards/GENERIC_SPC560P/board.h -text
 boards/GENERIC_SPC560P/board.mk -text
