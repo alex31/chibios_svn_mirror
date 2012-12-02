@@ -678,6 +678,11 @@ os/hal/platforms/Posix/pal_lld.h -text
 os/hal/platforms/Posix/platform.mk -text
 os/hal/platforms/Posix/serial_lld.c -text
 os/hal/platforms/Posix/serial_lld.h -text
+os/hal/platforms/SAM4L/hal_lld.c -text
+os/hal/platforms/SAM4L/hal_lld.h -text
+os/hal/platforms/SAM4L/platform.mk -text
+os/hal/platforms/SAM4L/sam4l.h -text
+os/hal/platforms/SAM4L/sam4l_patch_asf.h -text
 os/hal/platforms/SPC560BCxx/hal_lld.c -text
 os/hal/platforms/SPC560BCxx/hal_lld.h -text
 os/hal/platforms/SPC560BCxx/platform.mk -text
