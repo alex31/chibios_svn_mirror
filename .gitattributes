@@ -305,6 +305,12 @@ demos/ARMCM3-STM32L152-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM3-STM32L152-DISCOVERY/main.c -text
 demos/ARMCM3-STM32L152-DISCOVERY/mcuconf.h -text
 demos/ARMCM3-STM32L152-DISCOVERY/readme.txt -text
+demos/ARMCM4-SAM4L/Makefile -text
+demos/ARMCM4-SAM4L/chconf.h -text
+demos/ARMCM4-SAM4L/halconf.h -text
+demos/ARMCM4-SAM4L/main.c -text
+demos/ARMCM4-SAM4L/mcuconf.h -text
+demos/ARMCM4-SAM4L/readme.txt -text
 demos/ARMCM4-STM32F303-DISCOVERY/Makefile -text
 demos/ARMCM4-STM32F303-DISCOVERY/chconf.h -text
 demos/ARMCM4-STM32F303-DISCOVERY/halconf.h -text
