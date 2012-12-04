@@ -1566,7 +1566,7 @@ tools/eclipse/debug_support/src/org/chibios/tools/eclipse/debug/utils/HexUtils.j
 tools/eclipse/debug_support/src/org/chibios/tools/eclipse/debug/views/ChibiView.java -text
 tools/eclipse/debug_support/src/org/eclipse/wb/swt/ResourceManager.java -text
 tools/eclipse/debug_support/src/org/eclipse/wb/swt/SWTResourceManager.java -text
-tools/eclipse/plugins/org.chibios.tools.eclipse.config_1.1.0.jar -text
+tools/eclipse/plugins/org.chibios.tools.eclipse.config_1.2.0.jar -text
 tools/eclipse/plugins/org.chibios.tools.eclipse.debug_1.0.8.jar -text
 tools/eclipse/readme.txt -text
 tools/edit_aid/rebalance_prio.sh -text
