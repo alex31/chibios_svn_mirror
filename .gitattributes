@@ -1356,6 +1356,14 @@ testhal/STM32F1xx/USB_MSC/chconf.h -text
 testhal/STM32F1xx/USB_MSC/halconf.h -text
 testhal/STM32F1xx/USB_MSC/main.c -text
 testhal/STM32F1xx/USB_MSC/mcuconf.h -text
+testhal/STM32F3xx/CAN/.cproject -text
+testhal/STM32F3xx/CAN/.project -text
+testhal/STM32F3xx/CAN/Makefile -text
+testhal/STM32F3xx/CAN/chconf.h -text
+testhal/STM32F3xx/CAN/halconf.h -text
+testhal/STM32F3xx/CAN/main.c -text
+testhal/STM32F3xx/CAN/mcuconf.h -text
+testhal/STM32F3xx/CAN/readme.txt -text
 testhal/STM32F3xx/IRQ_STORM/.cproject -text
 testhal/STM32F3xx/IRQ_STORM/.project -text
 testhal/STM32F3xx/IRQ_STORM/Makefile -text
