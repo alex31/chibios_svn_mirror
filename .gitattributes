@@ -712,8 +712,6 @@ os/hal/platforms/SPC563Mxx/hal_lld.h -text
 os/hal/platforms/SPC563Mxx/mpc563m.h -text
 os/hal/platforms/SPC563Mxx/platform.dox -text
 os/hal/platforms/SPC563Mxx/platform.mk -text
-os/hal/platforms/SPC563Mxx/serial_lld.c -text
-os/hal/platforms/SPC563Mxx/serial_lld.h -text
 os/hal/platforms/SPC563Mxx/typedefs.h -text
 os/hal/platforms/SPC5xx/ESCI_v1/serial_lld.c -text
 os/hal/platforms/SPC5xx/ESCI_v1/serial_lld.h -text
