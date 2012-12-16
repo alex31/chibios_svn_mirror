@@ -1392,6 +1392,14 @@ testhal/STM32F3xx/SPI/halconf.h -text
 testhal/STM32F3xx/SPI/main.c -text
 testhal/STM32F3xx/SPI/mcuconf.h -text
 testhal/STM32F3xx/SPI/readme.txt -text
+testhal/STM32F3xx/UART/.cproject -text
+testhal/STM32F3xx/UART/.project -text
+testhal/STM32F3xx/UART/Makefile -text
+testhal/STM32F3xx/UART/chconf.h -text
+testhal/STM32F3xx/UART/halconf.h -text
+testhal/STM32F3xx/UART/main.c -text
+testhal/STM32F3xx/UART/mcuconf.h -text
+testhal/STM32F3xx/UART/readme.txt -text
 testhal/STM32F3xx/USB_CDC/.cproject -text
 testhal/STM32F3xx/USB_CDC/.project -text
 testhal/STM32F3xx/USB_CDC/Makefile -text
