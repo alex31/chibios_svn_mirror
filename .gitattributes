@@ -1167,12 +1167,13 @@ os/ports/cosmic/STM8/chcore.h -text
 os/ports/cosmic/STM8/chtypes.h -text
 os/ports/cosmic/STM8/port.dox -text
 os/ports/ports.dox -text
-os/various/ch.cpp -text
-os/various/ch.hpp -text
 os/various/chprintf.c -text
 os/various/chprintf.h -text
 os/various/chrtclib.c -text
 os/various/chrtclib.h -text
+os/various/cpp_wrappers/ch.cpp -text
+os/various/cpp_wrappers/ch.hpp -text
+os/various/cpp_wrappers/kernel.mk -text
 os/various/devices_lib/accel/lis302dl.c -text
 os/various/devices_lib/accel/lis302dl.dox -text
 os/various/devices_lib/accel/lis302dl.h -text
