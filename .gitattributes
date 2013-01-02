@@ -324,6 +324,16 @@ demos/ARMCM4-STM32F303-DISCOVERY/halconf.h -text
 demos/ARMCM4-STM32F303-DISCOVERY/main.c -text
 demos/ARMCM4-STM32F303-DISCOVERY/mcuconf.h -text
 demos/ARMCM4-STM32F303-DISCOVERY/readme.txt -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/.cproject -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/.project -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/Makefile -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/chconf.h -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/halconf.h -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/main.cpp -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/mcuconf.h -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/readme.txt -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/usbcfg.c -text
+demos/ARMCM4-STM32F407-DISCOVERY-G++/usbcfg.h -text
 demos/ARMCM4-STM32F407-DISCOVERY-MEMS-G++/.cproject -text
 demos/ARMCM4-STM32F407-DISCOVERY-MEMS-G++/.project -text
 demos/ARMCM4-STM32F407-DISCOVERY-MEMS-G++/Makefile -text
