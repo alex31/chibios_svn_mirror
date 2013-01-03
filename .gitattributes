@@ -544,6 +544,7 @@ ext/readme.txt -text
 ext/uip-1.0.patches.zip -text
 ext/uip-1.0.tar.gz -text
 /license.txt -text
+os/fs/fs.hpp -text
 os/hal/dox/adc.dox -text
 os/hal/dox/can.dox -text
 os/hal/dox/ext.dox -text
