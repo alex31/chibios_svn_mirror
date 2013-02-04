@@ -1089,6 +1089,14 @@ os/ports/GCC/PPC/SPC563Mxx/ld/SPC563M64.ld -text
 os/ports/GCC/PPC/SPC563Mxx/port.mk -text
 os/ports/GCC/PPC/SPC563Mxx/ppcparams.h -text
 os/ports/GCC/PPC/SPC563Mxx/vectors.s -text
+os/ports/GCC/PPC/SPC56ELxx/bam.s -text
+os/ports/GCC/PPC/SPC56ELxx/ivor.s -text
+os/ports/GCC/PPC/SPC56ELxx/ld/SPC56EL54_LSM.ld -text
+os/ports/GCC/PPC/SPC56ELxx/ld/SPC56EL60_LSM.ld -text
+os/ports/GCC/PPC/SPC56ELxx/ld/SPC56EL70_LSM.ld -text
+os/ports/GCC/PPC/SPC56ELxx/port.mk -text
+os/ports/GCC/PPC/SPC56ELxx/ppcparams.h -text
+os/ports/GCC/PPC/SPC56ELxx/vectors.s -text
 os/ports/GCC/PPC/chcore.c -text
 os/ports/GCC/PPC/chcore.h -text
 os/ports/GCC/PPC/chtypes.h -text
