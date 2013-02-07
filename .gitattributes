@@ -24,6 +24,9 @@ boards/GENERIC_SPC560P/board.mk -text
 boards/GENERIC_SPC563M/board.c -text
 boards/GENERIC_SPC563M/board.h -text
 boards/GENERIC_SPC563M/board.mk -text
+boards/GENERIC_SPC56EL/board.c -text
+boards/GENERIC_SPC56EL/board.h -text
+boards/GENERIC_SPC56EL/board.mk -text
 boards/MAPLEMINI_STM32_F103/board.c -text
 boards/MAPLEMINI_STM32_F103/board.h -text
 boards/MAPLEMINI_STM32_F103/board.mk -text
