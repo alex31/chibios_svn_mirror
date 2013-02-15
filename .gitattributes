@@ -1095,7 +1095,7 @@ os/ports/GCC/MSP430/port.dox -text
 os/ports/GCC/MSP430/port.mk -text
 os/ports/GCC/MSP430/rules.mk -text
 os/ports/GCC/PPC/SPC560BCxx/bam.s -text
-os/ports/GCC/PPC/SPC560BCxx/ivor.s -text
+os/ports/GCC/PPC/SPC560BCxx/core.s -text
 os/ports/GCC/PPC/SPC560BCxx/ld/SPC560B44.ld -text
 os/ports/GCC/PPC/SPC560BCxx/ld/SPC560B50.ld -text
 os/ports/GCC/PPC/SPC560BCxx/port.mk -text
