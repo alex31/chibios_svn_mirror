@@ -506,6 +506,7 @@ docs/reports/LPC2148-48-THUMB.txt -text
 docs/reports/MSP430F1611-0.75.txt -text
 docs/reports/MSP430F1611-8.txt -text
 docs/reports/SPC560B50-64.txt -text
+docs/reports/SPC560P50-64.txt -text
 docs/reports/SPC563M64-80.txt -text
 docs/reports/SPC56EL60-120.txt -text
 docs/reports/STM32F051-48-GCC.txt -text
