@@ -1102,7 +1102,7 @@ os/ports/GCC/PPC/SPC560BCxx/port.mk -text
 os/ports/GCC/PPC/SPC560BCxx/ppcparams.h -text
 os/ports/GCC/PPC/SPC560BCxx/vectors.s -text
 os/ports/GCC/PPC/SPC560Pxx/bam.s -text
-os/ports/GCC/PPC/SPC560Pxx/ivor.s -text
+os/ports/GCC/PPC/SPC560Pxx/core.s -text
 os/ports/GCC/PPC/SPC560Pxx/ld/SPC560P44.ld -text
 os/ports/GCC/PPC/SPC560Pxx/ld/SPC560P50.ld -text
 os/ports/GCC/PPC/SPC560Pxx/port.mk -text
