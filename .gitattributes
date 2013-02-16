@@ -311,6 +311,7 @@ demos/ARMCM3-STM32L152-DISCOVERY/keil/ch.uvproj -text
 demos/ARMCM3-STM32L152-DISCOVERY/main.c -text
 demos/ARMCM3-STM32L152-DISCOVERY/mcuconf.h -text
 demos/ARMCM3-STM32L152-DISCOVERY/readme.txt -text
+demos/ARMCM4-SAM4L/ARMCM4-SAM4L.7z -text
 demos/ARMCM4-STM32F303-DISCOVERY/.cproject -text
 demos/ARMCM4-STM32F303-DISCOVERY/.project -text
 demos/ARMCM4-STM32F303-DISCOVERY/Makefile -text
@@ -708,11 +709,6 @@ os/hal/platforms/Posix/pal_lld.h -text
 os/hal/platforms/Posix/platform.mk -text
 os/hal/platforms/Posix/serial_lld.c -text
 os/hal/platforms/Posix/serial_lld.h -text
-os/hal/platforms/SAM4L/hal_lld.c -text
-os/hal/platforms/SAM4L/hal_lld.h -text
-os/hal/platforms/SAM4L/platform.mk -text
-os/hal/platforms/SAM4L/sam4l.h -text
-os/hal/platforms/SAM4L/sam4l_patch_asf.h -text
 os/hal/platforms/SPC560BCxx/hal_lld.c -text
 os/hal/platforms/SPC560BCxx/hal_lld.h -text
 os/hal/platforms/SPC560BCxx/platform.mk -text
