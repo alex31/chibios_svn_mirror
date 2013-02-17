@@ -615,6 +615,8 @@ os/hal/include/tm.h -text
 os/hal/include/uart.h -text
 os/hal/include/usb.h -text
 os/hal/include/usb_cdc.h -text
+os/hal/platforms/AT91SAM7/adc_lld.c -text
+os/hal/platforms/AT91SAM7/adc_lld.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7A3.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S128.h -text
 os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S256.h -text
@@ -640,6 +642,8 @@ os/hal/platforms/AT91SAM7/pal_lld.c -text
 os/hal/platforms/AT91SAM7/pal_lld.h -text
 os/hal/platforms/AT91SAM7/platform.dox -text
 os/hal/platforms/AT91SAM7/platform.mk -text
+os/hal/platforms/AT91SAM7/pwm_lld.c -text
+os/hal/platforms/AT91SAM7/pwm_lld.h -text
 os/hal/platforms/AT91SAM7/serial_lld.c -text
 os/hal/platforms/AT91SAM7/serial_lld.h -text
 os/hal/platforms/AT91SAM7/spi_lld.c -text
