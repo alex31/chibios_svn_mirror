@@ -3,9 +3,6 @@
 boards/ARDUINO_MEGA/board.c -text
 boards/ARDUINO_MEGA/board.h -text
 boards/ARDUINO_MEGA/board.mk -text
-boards/ATMEL_SAM4L_EK/board.c -text
-boards/ATMEL_SAM4L_EK/board.h -text
-boards/ATMEL_SAM4L_EK/board.mk -text
 boards/EA_LPCXPRESSO_BB_1114/board.c -text
 boards/EA_LPCXPRESSO_BB_1114/board.h -text
 boards/EA_LPCXPRESSO_BB_1114/board.mk -text
