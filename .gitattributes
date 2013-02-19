@@ -111,9 +111,6 @@ boards/ST_STM8L_DISCOVERY/board.c -text
 boards/ST_STM8L_DISCOVERY/board.h -text
 boards/ST_STM8S_DISCOVERY/board.c -text
 boards/ST_STM8S_DISCOVERY/board.h -text
-boards/WAVESHARE_OPEN_407I_C/board.c -text
-boards/WAVESHARE_OPEN_407I_C/board.h -text
-boards/WAVESHARE_OPEN_407I_C/board.mk -text
 boards/readme.txt -text
 boards/simulator/board.c -text
 boards/simulator/board.h -text
