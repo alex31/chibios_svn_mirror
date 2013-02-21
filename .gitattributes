@@ -88,6 +88,10 @@ boards/ST_STM3210E_EVAL/board.mk -text
 boards/ST_STM3220G_EVAL/board.c -text
 boards/ST_STM3220G_EVAL/board.h -text
 boards/ST_STM3220G_EVAL/board.mk -text
+boards/ST_STM32373C_EVAL/board.c -text
+boards/ST_STM32373C_EVAL/board.h -text
+boards/ST_STM32373C_EVAL/board.mk -text
+boards/ST_STM32373C_EVAL/cfg/board.chcfg -text
 boards/ST_STM32F0_DISCOVERY/board.c -text
 boards/ST_STM32F0_DISCOVERY/board.h -text
 boards/ST_STM32F0_DISCOVERY/board.mk -text
