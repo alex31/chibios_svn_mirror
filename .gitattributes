@@ -561,8 +561,11 @@ os/hal/dox/hal.dox -text
 os/hal/dox/i2c.dox -text
 os/hal/dox/i2s.dox -text
 os/hal/dox/icu.dox -text
+os/hal/dox/io_block.dox -text
+os/hal/dox/io_channel.dox -text
 os/hal/dox/mac.dox -text
 os/hal/dox/mmc_spi.dox -text
+os/hal/dox/mmcsd.dox -text
 os/hal/dox/pal.dox -text
 os/hal/dox/pwm.dox -text
 os/hal/dox/rtc.dox -text
