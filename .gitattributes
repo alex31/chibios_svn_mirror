@@ -1489,6 +1489,8 @@ testhal/STM32F4xx/ADC/halconf.h -text
 testhal/STM32F4xx/ADC/main.c -text
 testhal/STM32F4xx/ADC/mcuconf.h -text
 testhal/STM32F4xx/ADC/readme.txt -text
+testhal/STM32F4xx/CAN/.cproject -text
+testhal/STM32F4xx/CAN/.project -text
 testhal/STM32F4xx/CAN/Makefile -text
 testhal/STM32F4xx/CAN/chconf.h -text
 testhal/STM32F4xx/CAN/halconf.h -text
