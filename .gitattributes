@@ -943,6 +943,7 @@ os/hal/templates/icu_lld.c -text
 os/hal/templates/icu_lld.h -text
 os/hal/templates/mac_lld.c -text
 os/hal/templates/mac_lld.h -text
+os/hal/templates/mcuconf.h -text
 os/hal/templates/meta/driver.c -text
 os/hal/templates/meta/driver.h -text
 os/hal/templates/meta/driver_lld.c -text
