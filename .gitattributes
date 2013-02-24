@@ -1637,6 +1637,9 @@ testhal/STM8S/SPI/demo/halconf.h -text
 testhal/STM8S/SPI/demo/main.c -text
 testhal/STM8S/SPI/demo/mcuconf.h -text
 testhal/STM8S/SPI/raisonance/raisonance.stp -text
+testhal/testbuild/Makefile -text
+testhal/testbuild/chconf.h -text
+testhal/testbuild/main.c -text
 /todo.txt -text
 tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder[!!-~](Linux).launch -text
 tools/gencfg/.externalToolBuilders/FMPP[!!-~]Builder[!!-~](Windows).launch -text
