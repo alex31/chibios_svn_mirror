@@ -953,6 +953,8 @@ os/hal/templates/pal_lld.h -text
 os/hal/templates/platform.mk -text
 os/hal/templates/pwm_lld.c -text
 os/hal/templates/pwm_lld.h -text
+os/hal/templates/sdc_lld.c -text
+os/hal/templates/sdc_lld.h -text
 os/hal/templates/serial_lld.c -text
 os/hal/templates/serial_lld.h -text
 os/hal/templates/spi_lld.c -text
