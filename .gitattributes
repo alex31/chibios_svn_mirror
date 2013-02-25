@@ -1643,6 +1643,7 @@ testhal/STM8S/SPI/raisonance/raisonance.stp -text
 testhal/testbuild/.cproject -text
 testhal/testbuild/.project -text
 testhal/testbuild/Makefile -text
+testhal/testbuild/board.h -text
 testhal/testbuild/chconf.h -text
 testhal/testbuild/main.c -text
 /todo.txt -text
