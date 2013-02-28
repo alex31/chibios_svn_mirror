@@ -742,6 +742,8 @@ os/hal/platforms/SPC56ELxx/platform.mk -text
 os/hal/platforms/SPC56ELxx/spc56el_registry.h -text
 os/hal/platforms/SPC56ELxx/typedefs.h -text
 os/hal/platforms/SPC56ELxx/xpc56el.h -text
+os/hal/platforms/SPC5xx/EDMA_v1/spc5_edma.c -text
+os/hal/platforms/SPC5xx/EDMA_v1/spc5_edma.h -text
 os/hal/platforms/SPC5xx/EQADC_v1/adc_lld.c -text
 os/hal/platforms/SPC5xx/EQADC_v1/adc_lld.h -text
 os/hal/platforms/SPC5xx/ESCI_v1/serial_lld.c -text
