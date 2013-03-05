@@ -1301,6 +1301,12 @@ testhal/LPC13xx/IRQ_STORM/halconf.h -text
 testhal/LPC13xx/IRQ_STORM/main.c -text
 testhal/LPC13xx/IRQ_STORM/mcuconf.h -text
 testhal/LPC13xx/IRQ_STORM/readme.txt -text
+testhal/SPC560Pxx/PWM-ICU/Makefile -text
+testhal/SPC560Pxx/PWM-ICU/chconf.h -text
+testhal/SPC560Pxx/PWM-ICU/halconf.h -text
+testhal/SPC560Pxx/PWM-ICU/main.c -text
+testhal/SPC560Pxx/PWM-ICU/mcuconf.h -text
+testhal/SPC560Pxx/PWM-ICU/readme.txt -text
 testhal/STM32F0xx/ADC/Makefile -text
 testhal/STM32F0xx/ADC/chconf.h -text
 testhal/STM32F0xx/ADC/halconf.h -text
