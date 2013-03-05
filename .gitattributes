@@ -769,6 +769,8 @@ os/hal/platforms/SPC5xx/SIUL_v1/pal_lld.c -text
 os/hal/platforms/SPC5xx/SIUL_v1/pal_lld.h -text
 os/hal/platforms/SPC5xx/SIU_v1/pal_lld.c -text
 os/hal/platforms/SPC5xx/SIU_v1/pal_lld.h -text
+os/hal/platforms/SPC5xx/eTimer_v1/icu_lld.c -text
+os/hal/platforms/SPC5xx/eTimer_v1/icu_lld.h -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.h -text
 os/hal/platforms/STM32/GPIOv2/pal_lld.c -text
