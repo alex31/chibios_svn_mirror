@@ -761,6 +761,8 @@ os/hal/platforms/SPC5xx/EQADC_v1/adc_lld.c -text
 os/hal/platforms/SPC5xx/EQADC_v1/adc_lld.h -text
 os/hal/platforms/SPC5xx/ESCI_v1/serial_lld.c -text
 os/hal/platforms/SPC5xx/ESCI_v1/serial_lld.h -text
+os/hal/platforms/SPC5xx/FlexPWM_v1/pwm_lld.c -text
+os/hal/platforms/SPC5xx/FlexPWM_v1/pwm_lld.h -text
 os/hal/platforms/SPC5xx/LINFlex_v1/serial_lld.c -text
 os/hal/platforms/SPC5xx/LINFlex_v1/serial_lld.h -text
 os/hal/platforms/SPC5xx/SIUL_v1/pal_lld.c -text
