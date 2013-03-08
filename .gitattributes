@@ -1335,6 +1335,8 @@ testhal/SPC560Pxx/PWM-ICU/halconf.h -text
 testhal/SPC560Pxx/PWM-ICU/main.c -text
 testhal/SPC560Pxx/PWM-ICU/mcuconf.h -text
 testhal/SPC560Pxx/PWM-ICU/readme.txt -text
+testhal/SPC563Mxx/ADC/.cproject -text
+testhal/SPC563Mxx/ADC/.project -text
 testhal/SPC563Mxx/ADC/Makefile -text
 testhal/SPC563Mxx/ADC/chconf.h -text
 testhal/SPC563Mxx/ADC/halconf.h -text
