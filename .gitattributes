@@ -785,6 +785,7 @@ os/hal/platforms/SPC5xx/EQADC_v1/adc_lld.c -text
 os/hal/platforms/SPC5xx/EQADC_v1/adc_lld.h -text
 os/hal/platforms/SPC5xx/ESCI_v1/serial_lld.c -text
 os/hal/platforms/SPC5xx/ESCI_v1/serial_lld.h -text
+os/hal/platforms/SPC5xx/FlexPWM_v1/flexpwm.h -text
 os/hal/platforms/SPC5xx/FlexPWM_v1/pwm_lld.c -text
 os/hal/platforms/SPC5xx/FlexPWM_v1/pwm_lld.h -text
 os/hal/platforms/SPC5xx/LINFlex_v1/serial_lld.c -text
@@ -793,6 +794,7 @@ os/hal/platforms/SPC5xx/SIUL_v1/pal_lld.c -text
 os/hal/platforms/SPC5xx/SIUL_v1/pal_lld.h -text
 os/hal/platforms/SPC5xx/SIU_v1/pal_lld.c -text
 os/hal/platforms/SPC5xx/SIU_v1/pal_lld.h -text
+os/hal/platforms/SPC5xx/eTimer_v1/etimer.h -text
 os/hal/platforms/SPC5xx/eTimer_v1/icu_lld.c -text
 os/hal/platforms/SPC5xx/eTimer_v1/icu_lld.h -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.c -text
@@ -1345,6 +1347,12 @@ testhal/SPC563Mxx/ADC/halconf.h -text
 testhal/SPC563Mxx/ADC/main.c -text
 testhal/SPC563Mxx/ADC/mcuconf.h -text
 testhal/SPC563Mxx/ADC/readme.txt -text
+testhal/SPC56ELxx/PWM-ICU/Makefile -text
+testhal/SPC56ELxx/PWM-ICU/chconf.h -text
+testhal/SPC56ELxx/PWM-ICU/halconf.h -text
+testhal/SPC56ELxx/PWM-ICU/main.c -text
+testhal/SPC56ELxx/PWM-ICU/mcuconf.h -text
+testhal/SPC56ELxx/PWM-ICU/readme.txt -text
 testhal/STM32F0xx/ADC/Makefile -text
 testhal/STM32F0xx/ADC/chconf.h -text
 testhal/STM32F0xx/ADC/halconf.h -text
