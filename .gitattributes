@@ -1338,6 +1338,8 @@ testhal/SPC560Pxx/PWM-ICU/readme.txt -text
 testhal/SPC563Mxx/ADC/.cproject -text
 testhal/SPC563Mxx/ADC/.project -text
 testhal/SPC563Mxx/ADC/Makefile -text
+testhal/SPC563Mxx/ADC/adc_cfg.c -text
+testhal/SPC563Mxx/ADC/adc_cfg.h -text
 testhal/SPC563Mxx/ADC/chconf.h -text
 testhal/SPC563Mxx/ADC/halconf.h -text
 testhal/SPC563Mxx/ADC/main.c -text
