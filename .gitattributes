@@ -1602,6 +1602,8 @@ testhal/STM32F4xx/EXT/halconf.h -text
 testhal/STM32F4xx/EXT/main.c -text
 testhal/STM32F4xx/EXT/mcuconf.h -text
 testhal/STM32F4xx/EXT/readme.txt -text
+testhal/STM32F4xx/GPT/.cproject -text
+testhal/STM32F4xx/GPT/.project -text
 testhal/STM32F4xx/GPT/Makefile -text
 testhal/STM32F4xx/GPT/chconf.h -text
 testhal/STM32F4xx/GPT/halconf.h -text
@@ -1625,6 +1627,8 @@ testhal/STM32F4xx/IRQ_STORM/keil/ch.uvproj -text
 testhal/STM32F4xx/IRQ_STORM/main.c -text
 testhal/STM32F4xx/IRQ_STORM/mcuconf.h -text
 testhal/STM32F4xx/IRQ_STORM/readme.txt -text
+testhal/STM32F4xx/IRQ_STORM_FPU/.cproject -text
+testhal/STM32F4xx/IRQ_STORM_FPU/.project -text
 testhal/STM32F4xx/IRQ_STORM_FPU/Makefile -text
 testhal/STM32F4xx/IRQ_STORM_FPU/chconf.h -text
 testhal/STM32F4xx/IRQ_STORM_FPU/extfunc.c -text
@@ -1636,12 +1640,16 @@ testhal/STM32F4xx/IRQ_STORM_FPU/keil/ch.uvproj -text
 testhal/STM32F4xx/IRQ_STORM_FPU/main.c -text
 testhal/STM32F4xx/IRQ_STORM_FPU/mcuconf.h -text
 testhal/STM32F4xx/IRQ_STORM_FPU/readme.txt -text
+testhal/STM32F4xx/PWM-ICU/.cproject -text
+testhal/STM32F4xx/PWM-ICU/.project -text
 testhal/STM32F4xx/PWM-ICU/Makefile -text
 testhal/STM32F4xx/PWM-ICU/chconf.h -text
 testhal/STM32F4xx/PWM-ICU/halconf.h -text
 testhal/STM32F4xx/PWM-ICU/main.c -text
 testhal/STM32F4xx/PWM-ICU/mcuconf.h -text
 testhal/STM32F4xx/PWM-ICU/readme.txt -text
+testhal/STM32F4xx/RTC/.cproject -text
+testhal/STM32F4xx/RTC/.project -text
 testhal/STM32F4xx/RTC/Makefile -text
 testhal/STM32F4xx/RTC/chconf.h -text
 testhal/STM32F4xx/RTC/halconf.h -text
@@ -1680,8 +1688,6 @@ testhal/STM32F4xx/UART/halconf.h -text
 testhal/STM32F4xx/UART/main.c -text
 testhal/STM32F4xx/UART/mcuconf.h -text
 testhal/STM32F4xx/UART/readme.txt -text
-testhal/STM32F4xx/USB_CDC/.cproject -text
-testhal/STM32F4xx/USB_CDC/.project -text
 testhal/STM32F4xx/USB_CDC/Makefile -text
 testhal/STM32F4xx/USB_CDC/chconf.h -text
 testhal/STM32F4xx/USB_CDC/halconf.h -text
