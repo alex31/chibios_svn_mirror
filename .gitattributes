@@ -1573,6 +1573,8 @@ testhal/STM32F37x/IRQ_STORM/halconf.h -text
 testhal/STM32F37x/IRQ_STORM/main.c -text
 testhal/STM32F37x/IRQ_STORM/mcuconf.h -text
 testhal/STM32F37x/IRQ_STORM/readme.txt -text
+testhal/STM32F4xx/ADC/.cproject -text
+testhal/STM32F4xx/ADC/.project -text
 testhal/STM32F4xx/ADC/Makefile -text
 testhal/STM32F4xx/ADC/chconf.h -text
 testhal/STM32F4xx/ADC/halconf.h -text
@@ -1587,6 +1589,8 @@ testhal/STM32F4xx/CAN/halconf.h -text
 testhal/STM32F4xx/CAN/main.c -text
 testhal/STM32F4xx/CAN/mcuconf.h -text
 testhal/STM32F4xx/CAN/readme.txt -text
+testhal/STM32F4xx/DMA_STORM/.cproject -text
+testhal/STM32F4xx/DMA_STORM/.project -text
 testhal/STM32F4xx/DMA_STORM/Makefile -text
 testhal/STM32F4xx/DMA_STORM/chconf.h -text
 testhal/STM32F4xx/DMA_STORM/halconf.h -text
@@ -1650,6 +1654,8 @@ testhal/STM32F4xx/RTC_FATTIME/halconf.h -text
 testhal/STM32F4xx/RTC_FATTIME/main.c -text
 testhal/STM32F4xx/RTC_FATTIME/mcuconf.h -text
 testhal/STM32F4xx/RTC_FATTIME/readme.txt -text
+testhal/STM32F4xx/SDC/.cproject -text
+testhal/STM32F4xx/SDC/.project -text
 testhal/STM32F4xx/SDC/Makefile -text
 testhal/STM32F4xx/SDC/chconf.h -text
 testhal/STM32F4xx/SDC/csd.txt -text
@@ -1658,6 +1664,8 @@ testhal/STM32F4xx/SDC/halconf.h -text
 testhal/STM32F4xx/SDC/main.c -text
 testhal/STM32F4xx/SDC/mcuconf.h -text
 testhal/STM32F4xx/SDC/readme.txt -text
+testhal/STM32F4xx/SPI/.cproject -text
+testhal/STM32F4xx/SPI/.project -text
 testhal/STM32F4xx/SPI/Makefile -text
 testhal/STM32F4xx/SPI/chconf.h -text
 testhal/STM32F4xx/SPI/halconf.h -text
