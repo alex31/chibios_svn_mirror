@@ -1567,6 +1567,14 @@ testhal/STM32F37x/CAN/halconf.h -text
 testhal/STM32F37x/CAN/main.c -text
 testhal/STM32F37x/CAN/mcuconf.h -text
 testhal/STM32F37x/CAN/readme.txt -text
+testhal/STM32F37x/EXT/.cproject -text
+testhal/STM32F37x/EXT/.project -text
+testhal/STM32F37x/EXT/Makefile -text
+testhal/STM32F37x/EXT/chconf.h -text
+testhal/STM32F37x/EXT/halconf.h -text
+testhal/STM32F37x/EXT/main.c -text
+testhal/STM32F37x/EXT/mcuconf.h -text
+testhal/STM32F37x/EXT/readme.txt -text
 testhal/STM32F37x/IRQ_STORM/Makefile -text
 testhal/STM32F37x/IRQ_STORM/chconf.h -text
 testhal/STM32F37x/IRQ_STORM/halconf.h -text
