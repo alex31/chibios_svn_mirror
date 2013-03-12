@@ -1597,6 +1597,14 @@ testhal/STM32F37x/PWM-ICU/halconf.h -text
 testhal/STM32F37x/PWM-ICU/main.c -text
 testhal/STM32F37x/PWM-ICU/mcuconf.h -text
 testhal/STM32F37x/PWM-ICU/readme.txt -text
+testhal/STM32F37x/SPI/.cproject -text
+testhal/STM32F37x/SPI/.project -text
+testhal/STM32F37x/SPI/Makefile -text
+testhal/STM32F37x/SPI/chconf.h -text
+testhal/STM32F37x/SPI/halconf.h -text
+testhal/STM32F37x/SPI/main.c -text
+testhal/STM32F37x/SPI/mcuconf.h -text
+testhal/STM32F37x/SPI/readme.txt -text
 testhal/STM32F4xx/ADC/.cproject -text
 testhal/STM32F4xx/ADC/.project -text
 testhal/STM32F4xx/ADC/Makefile -text
