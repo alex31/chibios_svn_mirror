@@ -883,6 +883,7 @@ os/hal/platforms/STM32F30x/stm32_dma.c -text
 os/hal/platforms/STM32F30x/stm32_dma.h -text
 os/hal/platforms/STM32F30x/stm32_isr.h -text
 os/hal/platforms/STM32F30x/stm32_rcc.h -text
+os/hal/platforms/STM32F30x/stm32_registry.h -text
 os/hal/platforms/STM32F30x/stm32f30x.h -text
 os/hal/platforms/STM32F37x/ext_lld_isr.c -text
 os/hal/platforms/STM32F37x/ext_lld_isr.h -text
@@ -893,6 +894,7 @@ os/hal/platforms/STM32F37x/stm32_dma.c -text
 os/hal/platforms/STM32F37x/stm32_dma.h -text
 os/hal/platforms/STM32F37x/stm32_isr.h -text
 os/hal/platforms/STM32F37x/stm32_rcc.h -text
+os/hal/platforms/STM32F37x/stm32_registry.h -text
 os/hal/platforms/STM32F37x/stm32f37x.h -text
 os/hal/platforms/STM32F4xx/adc_lld.c -text
 os/hal/platforms/STM32F4xx/adc_lld.h -text
