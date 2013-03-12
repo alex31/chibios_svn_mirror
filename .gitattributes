@@ -1589,6 +1589,14 @@ testhal/STM32F37x/IRQ_STORM/halconf.h -text
 testhal/STM32F37x/IRQ_STORM/main.c -text
 testhal/STM32F37x/IRQ_STORM/mcuconf.h -text
 testhal/STM32F37x/IRQ_STORM/readme.txt -text
+testhal/STM32F37x/PWM-ICU/.cproject -text
+testhal/STM32F37x/PWM-ICU/.project -text
+testhal/STM32F37x/PWM-ICU/Makefile -text
+testhal/STM32F37x/PWM-ICU/chconf.h -text
+testhal/STM32F37x/PWM-ICU/halconf.h -text
+testhal/STM32F37x/PWM-ICU/main.c -text
+testhal/STM32F37x/PWM-ICU/mcuconf.h -text
+testhal/STM32F37x/PWM-ICU/readme.txt -text
 testhal/STM32F4xx/ADC/.cproject -text
 testhal/STM32F4xx/ADC/.project -text
 testhal/STM32F4xx/ADC/Makefile -text
