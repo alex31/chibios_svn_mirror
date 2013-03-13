@@ -24,6 +24,9 @@ boards/GENERIC_SPC560P/board.mk -text
 boards/GENERIC_SPC563M/board.c -text
 boards/GENERIC_SPC563M/board.h -text
 boards/GENERIC_SPC563M/board.mk -text
+boards/GENERIC_SPC564A/board.c -text
+boards/GENERIC_SPC564A/board.h -text
+boards/GENERIC_SPC564A/board.mk -text
 boards/GENERIC_SPC56EL/board.c -text
 boards/GENERIC_SPC56EL/board.h -text
 boards/GENERIC_SPC56EL/board.mk -text
@@ -456,6 +459,14 @@ demos/PPC-SPC563M-GCC/chconf.h -text
 demos/PPC-SPC563M-GCC/halconf.h -text
 demos/PPC-SPC563M-GCC/main.c -text
 demos/PPC-SPC563M-GCC/mcuconf.h -text
+demos/PPC-SPC564A-GCC/Makefile -text
+demos/PPC-SPC564A-GCC/UDE/__connection_failed_report__Controller0_Core.txt -text
+demos/PPC-SPC564A-GCC/UDE/debug.wsx -text
+demos/PPC-SPC564A-GCC/UDE/stm_xpc563m64_minimodule_debug_jtag.cfg -text
+demos/PPC-SPC564A-GCC/chconf.h -text
+demos/PPC-SPC564A-GCC/halconf.h -text
+demos/PPC-SPC564A-GCC/main.c -text
+demos/PPC-SPC564A-GCC/mcuconf.h -text
 demos/PPC-SPC56EL-GCC/.cproject -text
 demos/PPC-SPC56EL-GCC/.project -text
 demos/PPC-SPC56EL-GCC/Makefile -text
