@@ -462,7 +462,6 @@ demos/PPC-SPC563M-GCC/mcuconf.h -text
 demos/PPC-SPC564A-GCC/Makefile -text
 demos/PPC-SPC564A-GCC/UDE/__connection_failed_report__Controller0_Core.txt -text
 demos/PPC-SPC564A-GCC/UDE/debug.wsx -text
-demos/PPC-SPC564A-GCC/UDE/stm_xpc563m64_minimodule_debug_jtag.cfg -text
 demos/PPC-SPC564A-GCC/chconf.h -text
 demos/PPC-SPC564A-GCC/halconf.h -text
 demos/PPC-SPC564A-GCC/main.c -text
