@@ -736,6 +736,10 @@ os/hal/platforms/LPC214x/spi_lld.h -text
 os/hal/platforms/LPC214x/vic.c -text
 os/hal/platforms/LPC214x/vic.h -text
 os/hal/platforms/LPC8xx/LPC8xx.h -text
+os/hal/platforms/LPC8xx/ext_lld.c -text
+os/hal/platforms/LPC8xx/ext_lld.h -text
+os/hal/platforms/LPC8xx/ext_lld_isr.c -text
+os/hal/platforms/LPC8xx/ext_lld_isr.h -text
 os/hal/platforms/LPC8xx/gpt_lld.c -text
 os/hal/platforms/LPC8xx/gpt_lld.h -text
 os/hal/platforms/LPC8xx/hal_lld.c -text
