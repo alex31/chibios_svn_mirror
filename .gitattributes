@@ -905,6 +905,8 @@ os/hal/platforms/STM32F30x/stm32_isr.h -text
 os/hal/platforms/STM32F30x/stm32_rcc.h -text
 os/hal/platforms/STM32F30x/stm32_registry.h -text
 os/hal/platforms/STM32F30x/stm32f30x.h -text
+os/hal/platforms/STM32F37x/adc_lld.c -text
+os/hal/platforms/STM32F37x/adc_lld.h -text
 os/hal/platforms/STM32F37x/ext_lld_isr.c -text
 os/hal/platforms/STM32F37x/ext_lld_isr.h -text
 os/hal/platforms/STM32F37x/hal_lld.c -text
@@ -1595,6 +1597,14 @@ testhal/STM32F30x/USB_CDC/halconf.h -text
 testhal/STM32F30x/USB_CDC/main.c -text
 testhal/STM32F30x/USB_CDC/mcuconf.h -text
 testhal/STM32F30x/USB_CDC/readme.txt -text
+testhal/STM32F37x/ADC/.cproject -text
+testhal/STM32F37x/ADC/.project -text
+testhal/STM32F37x/ADC/Makefile -text
+testhal/STM32F37x/ADC/chconf.h -text
+testhal/STM32F37x/ADC/halconf.h -text
+testhal/STM32F37x/ADC/main.c -text
+testhal/STM32F37x/ADC/mcuconf.h -text
+testhal/STM32F37x/ADC/readme.txt -text
 testhal/STM32F37x/CAN/.cproject -text
 testhal/STM32F37x/CAN/.project -text
 testhal/STM32F37x/CAN/Makefile -text
