@@ -799,6 +799,9 @@ os/hal/platforms/SPC56ELxx/platform.mk -text
 os/hal/platforms/SPC56ELxx/spc56el_registry.h -text
 os/hal/platforms/SPC56ELxx/typedefs.h -text
 os/hal/platforms/SPC56ELxx/xpc56el.h -text
+os/hal/platforms/SPC5xx/DSPI_v1/spc5_dspi.h -text
+os/hal/platforms/SPC5xx/DSPI_v1/spi_lld.c -text
+os/hal/platforms/SPC5xx/DSPI_v1/spi_lld.h -text
 os/hal/platforms/SPC5xx/EDMA_v1/spc5_edma.c -text
 os/hal/platforms/SPC5xx/EDMA_v1/spc5_edma.h -text
 os/hal/platforms/SPC5xx/EQADC_v1/adc_lld.c -text
@@ -1383,6 +1386,14 @@ testhal/SPC563Mxx/ADC/halconf.h -text
 testhal/SPC563Mxx/ADC/main.c -text
 testhal/SPC563Mxx/ADC/mcuconf.h -text
 testhal/SPC563Mxx/ADC/readme.txt -text
+testhal/SPC563Mxx/SPI/.cproject -text
+testhal/SPC563Mxx/SPI/.project -text
+testhal/SPC563Mxx/SPI/Makefile -text
+testhal/SPC563Mxx/SPI/chconf.h -text
+testhal/SPC563Mxx/SPI/halconf.h -text
+testhal/SPC563Mxx/SPI/main.c -text
+testhal/SPC563Mxx/SPI/mcuconf.h -text
+testhal/SPC563Mxx/SPI/readme.txt -text
 testhal/SPC56ELxx/PWM-ICU/.cproject -text
 testhal/SPC56ELxx/PWM-ICU/.project -text
 testhal/SPC56ELxx/PWM-ICU/Makefile -text
