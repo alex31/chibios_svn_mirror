@@ -879,6 +879,7 @@ os/hal/platforms/STM32F0xx/stm32_dma.c -text
 os/hal/platforms/STM32F0xx/stm32_dma.h -text
 os/hal/platforms/STM32F0xx/stm32_isr.h -text
 os/hal/platforms/STM32F0xx/stm32_rcc.h -text
+os/hal/platforms/STM32F0xx/stm32_registry.h -text
 os/hal/platforms/STM32F0xx/stm32f0xx.h -text
 os/hal/platforms/STM32F1xx/adc_lld.c -text
 os/hal/platforms/STM32F1xx/adc_lld.h -text
@@ -1634,6 +1635,14 @@ testhal/STM32F37x/EXT/halconf.h -text
 testhal/STM32F37x/EXT/main.c -text
 testhal/STM32F37x/EXT/mcuconf.h -text
 testhal/STM32F37x/EXT/readme.txt -text
+testhal/STM32F37x/I2C/.cproject -text
+testhal/STM32F37x/I2C/.project -text
+testhal/STM32F37x/I2C/Makefile -text
+testhal/STM32F37x/I2C/chconf.h -text
+testhal/STM32F37x/I2C/halconf.h -text
+testhal/STM32F37x/I2C/main.c -text
+testhal/STM32F37x/I2C/mcuconf.h -text
+testhal/STM32F37x/I2C/readme.txt -text
 testhal/STM32F37x/IRQ_STORM/.cproject -text
 testhal/STM32F37x/IRQ_STORM/.project -text
 testhal/STM32F37x/IRQ_STORM/Makefile -text
