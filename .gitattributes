@@ -180,6 +180,8 @@ demos/ARM7-LPC214x-GCC/halconf.h -text
 demos/ARM7-LPC214x-GCC/main.c -text
 demos/ARM7-LPC214x-GCC/mcuconf.h -text
 demos/ARM7-LPC214x-GCC/readme.txt -text
+demos/ARMCM0-LPC1114-LPCXPRESSO/.cproject -text
+demos/ARMCM0-LPC1114-LPCXPRESSO/.project -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/Makefile -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/chconf.h -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/halconf.h -text
@@ -189,6 +191,8 @@ demos/ARMCM0-LPC1114-LPCXPRESSO/iar/ch.icf -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/main.c -text
 demos/ARMCM0-LPC1114-LPCXPRESSO/mcuconf.h -text
+demos/ARMCM0-LPC11U14-LPCXPRESSO/.cproject -text
+demos/ARMCM0-LPC11U14-LPCXPRESSO/.project -text
 demos/ARMCM0-LPC11U14-LPCXPRESSO/Makefile -text
 demos/ARMCM0-LPC11U14-LPCXPRESSO/chconf.h -text
 demos/ARMCM0-LPC11U14-LPCXPRESSO/halconf.h -text
@@ -212,6 +216,8 @@ demos/ARMCM3-GENERIC-KERNEL/Makefile -text
 demos/ARMCM3-GENERIC-KERNEL/chconf.h -text
 demos/ARMCM3-GENERIC-KERNEL/main.c -text
 demos/ARMCM3-GENERIC-KERNEL/readme.txt -text
+demos/ARMCM3-LPC1343-LPCXPRESSO/.cproject -text
+demos/ARMCM3-LPC1343-LPCXPRESSO/.project -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/Makefile -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/chconf.h -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/halconf.h -text
@@ -221,6 +227,8 @@ demos/ARMCM3-LPC1343-LPCXPRESSO/iar/ch.icf -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/keil/ch.uvproj -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/main.c -text
 demos/ARMCM3-LPC1343-LPCXPRESSO/mcuconf.h -text
+demos/ARMCM3-LPC1343-OLIMEX/.cproject -text
+demos/ARMCM3-LPC1343-OLIMEX/.project -text
 demos/ARMCM3-LPC1343-OLIMEX/Makefile -text
 demos/ARMCM3-LPC1343-OLIMEX/chconf.h -text
 demos/ARMCM3-LPC1343-OLIMEX/halconf.h -text
