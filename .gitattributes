@@ -1192,6 +1192,7 @@ os/ports/GCC/PPC/SPC560BCxx/ld/SPC560B44.ld -text
 os/ports/GCC/PPC/SPC560BCxx/ld/SPC560B50.ld -text
 os/ports/GCC/PPC/SPC560BCxx/port.mk -text
 os/ports/GCC/PPC/SPC560BCxx/ppcparams.h -text
+os/ports/GCC/PPC/SPC560BCxx/vectors.h -text
 os/ports/GCC/PPC/SPC560BCxx/vectors.s -text
 os/ports/GCC/PPC/SPC560Pxx/bam.s -text
 os/ports/GCC/PPC/SPC560Pxx/core.s -text
@@ -1199,18 +1200,21 @@ os/ports/GCC/PPC/SPC560Pxx/ld/SPC560P44.ld -text
 os/ports/GCC/PPC/SPC560Pxx/ld/SPC560P50.ld -text
 os/ports/GCC/PPC/SPC560Pxx/port.mk -text
 os/ports/GCC/PPC/SPC560Pxx/ppcparams.h -text
+os/ports/GCC/PPC/SPC560Pxx/vectors.h -text
 os/ports/GCC/PPC/SPC560Pxx/vectors.s -text
 os/ports/GCC/PPC/SPC563Mxx/bam.s -text
 os/ports/GCC/PPC/SPC563Mxx/core.s -text
 os/ports/GCC/PPC/SPC563Mxx/ld/SPC563M64.ld -text
 os/ports/GCC/PPC/SPC563Mxx/port.mk -text
 os/ports/GCC/PPC/SPC563Mxx/ppcparams.h -text
+os/ports/GCC/PPC/SPC563Mxx/vectors.h -text
 os/ports/GCC/PPC/SPC563Mxx/vectors.s -text
 os/ports/GCC/PPC/SPC564Axx/bam.s -text
 os/ports/GCC/PPC/SPC564Axx/core.s -text
 os/ports/GCC/PPC/SPC564Axx/ld/SPC564A80.ld -text
 os/ports/GCC/PPC/SPC564Axx/port.mk -text
 os/ports/GCC/PPC/SPC564Axx/ppcparams.h -text
+os/ports/GCC/PPC/SPC564Axx/vectors.h -text
 os/ports/GCC/PPC/SPC564Axx/vectors.s -text
 os/ports/GCC/PPC/SPC56ELxx/bam.s -text
 os/ports/GCC/PPC/SPC56ELxx/core.s -text
@@ -1219,6 +1223,7 @@ os/ports/GCC/PPC/SPC56ELxx/ld/SPC56EL60_LSM.ld -text
 os/ports/GCC/PPC/SPC56ELxx/ld/SPC56EL70_LSM.ld -text
 os/ports/GCC/PPC/SPC56ELxx/port.mk -text
 os/ports/GCC/PPC/SPC56ELxx/ppcparams.h -text
+os/ports/GCC/PPC/SPC56ELxx/vectors.h -text
 os/ports/GCC/PPC/SPC56ELxx/vectors.s -text
 os/ports/GCC/PPC/chcore.c -text
 os/ports/GCC/PPC/chcore.h -text
