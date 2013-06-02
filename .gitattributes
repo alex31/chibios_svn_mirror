@@ -860,6 +860,12 @@ os/hal/platforms/SPC5xx/eMIOS200_v1/pwm_lld.c -text
 os/hal/platforms/SPC5xx/eMIOS200_v1/pwm_lld.h -text
 os/hal/platforms/SPC5xx/eMIOS200_v1/spc5_emios.c -text
 os/hal/platforms/SPC5xx/eMIOS200_v1/spc5_emios.h -text
+os/hal/platforms/SPC5xx/eMIOS_v1/icu_lld.c -text
+os/hal/platforms/SPC5xx/eMIOS_v1/icu_lld.h -text
+os/hal/platforms/SPC5xx/eMIOS_v1/pwm_lld.c -text
+os/hal/platforms/SPC5xx/eMIOS_v1/pwm_lld.h -text
+os/hal/platforms/SPC5xx/eMIOS_v1/spc5_emios.c -text
+os/hal/platforms/SPC5xx/eMIOS_v1/spc5_emios.h -text
 os/hal/platforms/SPC5xx/eTimer_v1/icu_lld.c -text
 os/hal/platforms/SPC5xx/eTimer_v1/icu_lld.h -text
 os/hal/platforms/SPC5xx/eTimer_v1/spc5_etimer.h -text
@@ -1450,6 +1456,12 @@ testhal/SPC560BCxx/CAN/halconf.h -text
 testhal/SPC560BCxx/CAN/main.c -text
 testhal/SPC560BCxx/CAN/mcuconf.h -text
 testhal/SPC560BCxx/CAN/readme.txt -text
+testhal/SPC560BCxx/ICU-PWM/Makefile -text
+testhal/SPC560BCxx/ICU-PWM/chconf.h -text
+testhal/SPC560BCxx/ICU-PWM/halconf.h -text
+testhal/SPC560BCxx/ICU-PWM/main.c -text
+testhal/SPC560BCxx/ICU-PWM/mcuconf.h -text
+testhal/SPC560BCxx/ICU-PWM/readme.txt -text
 testhal/SPC560Pxx/CAN/.cproject -text
 testhal/SPC560Pxx/CAN/.project -text
 testhal/SPC560Pxx/CAN/Makefile -text
