@@ -578,6 +578,7 @@ docs/rsc/header_chm.html -text
 docs/rsc/header_html.html -text
 docs/rsc/layout.xml -text
 docs/rsc/logo.png -text
+docs/rsc/workspace.eps -text
 docs/rsc/workspace.png -text
 docs/rsc/workspace.svg -text
 docs/src/concepts.dox -text
