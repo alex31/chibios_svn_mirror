@@ -1532,6 +1532,14 @@ testhal/SPC564Axx/ICU-PWM/halconf.h -text
 testhal/SPC564Axx/ICU-PWM/main.c -text
 testhal/SPC564Axx/ICU-PWM/mcuconf.h -text
 testhal/SPC564Axx/ICU-PWM/readme.txt -text
+testhal/SPC564Axx/SPI/.cproject -text
+testhal/SPC564Axx/SPI/.project -text
+testhal/SPC564Axx/SPI/Makefile -text
+testhal/SPC564Axx/SPI/chconf.h -text
+testhal/SPC564Axx/SPI/halconf.h -text
+testhal/SPC564Axx/SPI/main.c -text
+testhal/SPC564Axx/SPI/mcuconf.h -text
+testhal/SPC564Axx/SPI/readme.txt -text
 testhal/SPC56ELxx/CAN/.cproject -text
 testhal/SPC56ELxx/CAN/.project -text
 testhal/SPC56ELxx/CAN/Makefile -text
