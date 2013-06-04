@@ -1269,6 +1269,7 @@ os/ports/GCC/PPC/SPC563Mxx/vectors.h -text
 os/ports/GCC/PPC/SPC563Mxx/vectors.s -text
 os/ports/GCC/PPC/SPC564Axx/bam.s -text
 os/ports/GCC/PPC/SPC564Axx/core.s -text
+os/ports/GCC/PPC/SPC564Axx/ld/SPC564A70.ld -text
 os/ports/GCC/PPC/SPC564Axx/ld/SPC564A80.ld -text
 os/ports/GCC/PPC/SPC564Axx/port.mk -text
 os/ports/GCC/PPC/SPC564Axx/ppcparams.h -text
