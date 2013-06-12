@@ -462,7 +462,6 @@ demos/PPC-SPC560B-GCC/mcuconf.h -text
 demos/PPC-SPC560D-GCC/.cproject -text
 demos/PPC-SPC560D-GCC/.project -text
 demos/PPC-SPC560D-GCC/Makefile -text
-demos/PPC-SPC560D-GCC/UDE/debug.wsx -text
 demos/PPC-SPC560D-GCC/chconf.h -text
 demos/PPC-SPC560D-GCC/halconf.h -text
 demos/PPC-SPC560D-GCC/main.c -text
