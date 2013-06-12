@@ -82,6 +82,9 @@ boards/STUDIEL_AT91SAM7A3_EK/board.h -text
 boards/ST_EVB_SPC560BC/board.c -text
 boards/ST_EVB_SPC560BC/board.h -text
 boards/ST_EVB_SPC560BC/board.mk -text
+boards/ST_EVB_SPC560D/board.c -text
+boards/ST_EVB_SPC560D/board.h -text
+boards/ST_EVB_SPC560D/board.mk -text
 boards/ST_EVB_SPC560P/board.c -text
 boards/ST_EVB_SPC560P/board.h -text
 boards/ST_EVB_SPC560P/board.mk -text
@@ -456,6 +459,14 @@ demos/PPC-SPC560B-GCC/chconf.h -text
 demos/PPC-SPC560B-GCC/halconf.h -text
 demos/PPC-SPC560B-GCC/main.c -text
 demos/PPC-SPC560B-GCC/mcuconf.h -text
+demos/PPC-SPC560D-GCC/.cproject -text
+demos/PPC-SPC560D-GCC/.project -text
+demos/PPC-SPC560D-GCC/Makefile -text
+demos/PPC-SPC560D-GCC/UDE/debug.wsx -text
+demos/PPC-SPC560D-GCC/chconf.h -text
+demos/PPC-SPC560D-GCC/halconf.h -text
+demos/PPC-SPC560D-GCC/main.c -text
+demos/PPC-SPC560D-GCC/mcuconf.h -text
 demos/PPC-SPC560P-GCC/.cproject -text
 demos/PPC-SPC560P-GCC/.project -text
 demos/PPC-SPC560P-GCC/Makefile -text
@@ -819,6 +830,11 @@ os/hal/platforms/SPC560BCxx/platform.mk -text
 os/hal/platforms/SPC560BCxx/spc560bc_registry.h -text
 os/hal/platforms/SPC560BCxx/typedefs.h -text
 os/hal/platforms/SPC560BCxx/xpc560bc.h -text
+os/hal/platforms/SPC560Dxx/hal_lld.c -text
+os/hal/platforms/SPC560Dxx/hal_lld.h -text
+os/hal/platforms/SPC560Dxx/platform.mk -text
+os/hal/platforms/SPC560Dxx/spc560d_registry.h -text
+os/hal/platforms/SPC560Dxx/typedefs.h -text
 os/hal/platforms/SPC560Pxx/hal_lld.c -text
 os/hal/platforms/SPC560Pxx/hal_lld.h -text
 os/hal/platforms/SPC560Pxx/platform.mk -text
