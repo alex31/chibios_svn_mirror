@@ -834,6 +834,7 @@ os/hal/platforms/SPC560Dxx/hal_lld.h -text
 os/hal/platforms/SPC560Dxx/platform.mk -text
 os/hal/platforms/SPC560Dxx/spc560d_registry.h -text
 os/hal/platforms/SPC560Dxx/typedefs.h -text
+os/hal/platforms/SPC560Dxx/xpc560d.h -text
 os/hal/platforms/SPC560Pxx/hal_lld.c -text
 os/hal/platforms/SPC560Pxx/hal_lld.h -text
 os/hal/platforms/SPC560Pxx/platform.mk -text
@@ -876,6 +877,7 @@ os/hal/platforms/SPC5xx/FlexPWM_v1/pwm_lld.h -text
 os/hal/platforms/SPC5xx/FlexPWM_v1/spc5_flexpwm.h -text
 os/hal/platforms/SPC5xx/LINFlex_v1/serial_lld.c -text
 os/hal/platforms/SPC5xx/LINFlex_v1/serial_lld.h -text
+os/hal/platforms/SPC5xx/LINFlex_v1/spc5_linflex.h -text
 os/hal/platforms/SPC5xx/SIUL_v1/pal_lld.c -text
 os/hal/platforms/SPC5xx/SIUL_v1/pal_lld.h -text
 os/hal/platforms/SPC5xx/SIU_v1/pal_lld.c -text
