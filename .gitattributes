@@ -1510,6 +1510,16 @@ testhal/SPC560BCxx/ICU-PWM/halconf.h -text
 testhal/SPC560BCxx/ICU-PWM/main.c -text
 testhal/SPC560BCxx/ICU-PWM/mcuconf.h -text
 testhal/SPC560BCxx/ICU-PWM/readme.txt -text
+testhal/SPC560Dxx/SPI/.cproject -text
+testhal/SPC560Dxx/SPI/.project -text
+testhal/SPC560Dxx/SPI/Makefile -text
+testhal/SPC560Dxx/SPI/UDE/debug[!!-~].wsx -text
+testhal/SPC560Dxx/SPI/UDE/stm_xpc560b_spc560d40_minimodule_debug_jtag.cfg -text
+testhal/SPC560Dxx/SPI/chconf.h -text
+testhal/SPC560Dxx/SPI/halconf.h -text
+testhal/SPC560Dxx/SPI/main.c -text
+testhal/SPC560Dxx/SPI/mcuconf.h -text
+testhal/SPC560Dxx/SPI/readme.txt -text
 testhal/SPC560Pxx/CAN/.cproject -text
 testhal/SPC560Pxx/CAN/.project -text
 testhal/SPC560Pxx/CAN/Makefile -text
