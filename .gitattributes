@@ -1554,6 +1554,12 @@ testhal/SPC563Mxx/ADC/halconf.h -text
 testhal/SPC563Mxx/ADC/main.c -text
 testhal/SPC563Mxx/ADC/mcuconf.h -text
 testhal/SPC563Mxx/ADC/readme.txt -text
+testhal/SPC563Mxx/CAN/Makefile -text
+testhal/SPC563Mxx/CAN/chconf.h -text
+testhal/SPC563Mxx/CAN/halconf.h -text
+testhal/SPC563Mxx/CAN/main.c -text
+testhal/SPC563Mxx/CAN/mcuconf.h -text
+testhal/SPC563Mxx/CAN/readme.txt -text
 testhal/SPC563Mxx/ICU-PWM/.cproject -text
 testhal/SPC563Mxx/ICU-PWM/.project -text
 testhal/SPC563Mxx/ICU-PWM/Makefile -text
@@ -1570,6 +1576,12 @@ testhal/SPC563Mxx/SPI/halconf.h -text
 testhal/SPC563Mxx/SPI/main.c -text
 testhal/SPC563Mxx/SPI/mcuconf.h -text
 testhal/SPC563Mxx/SPI/readme.txt -text
+testhal/SPC564Axx/CAN/Makefile -text
+testhal/SPC564Axx/CAN/chconf.h -text
+testhal/SPC564Axx/CAN/halconf.h -text
+testhal/SPC564Axx/CAN/main.c -text
+testhal/SPC564Axx/CAN/mcuconf.h -text
+testhal/SPC564Axx/CAN/readme.txt -text
 testhal/SPC564Axx/ICU-PWM/Makefile -text
 testhal/SPC564Axx/ICU-PWM/chconf.h -text
 testhal/SPC564Axx/ICU-PWM/halconf.h -text
