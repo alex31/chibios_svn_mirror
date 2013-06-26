@@ -699,6 +699,8 @@ os/hal/platforms/AVR/platform.dox -text
 os/hal/platforms/AVR/platform.mk -text
 os/hal/platforms/AVR/serial_lld.c -text
 os/hal/platforms/AVR/serial_lld.h -text
+os/hal/platforms/AVR/spi_lld.c -text
+os/hal/platforms/AVR/spi_lld.h -text
 os/hal/platforms/LPC11Uxx/LPC11Uxx.h -text
 os/hal/platforms/LPC11Uxx/ext_lld.c -text
 os/hal/platforms/LPC11Uxx/ext_lld.h -text
