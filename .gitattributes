@@ -1,5 +1,8 @@
 * text=auto !eol
 /.project -text
+boards/ARDUINO/board.c -text
+boards/ARDUINO/board.h -text
+boards/ARDUINO/board.mk -text
 boards/ARDUINO_MEGA/board.c -text
 boards/ARDUINO_MEGA/board.h -text
 boards/ARDUINO_MEGA/board.mk -text
@@ -425,6 +428,12 @@ demos/AVR-ATmega128-GCC/lcd.h -text
 demos/AVR-ATmega128-GCC/main.c -text
 demos/AVR-ATmega128-GCC/mcuconf.h -text
 demos/AVR-ATmega128-GCC/readme.txt -text
+demos/AVR-Arduino-GCC/Makefile -text
+demos/AVR-Arduino-GCC/chconf.h -text
+demos/AVR-Arduino-GCC/halconf.h -text
+demos/AVR-Arduino-GCC/main.c -text
+demos/AVR-Arduino-GCC/mcuconf.h -text
+demos/AVR-Arduino-GCC/readme.txt -text
 demos/AVR-ArduinoMega-GCC/Makefile -text
 demos/AVR-ArduinoMega-GCC/chconf.h -text
 demos/AVR-ArduinoMega-GCC/halconf.h -text
@@ -689,6 +698,9 @@ os/hal/platforms/AT91SAM7/serial_lld.c -text
 os/hal/platforms/AT91SAM7/serial_lld.h -text
 os/hal/platforms/AT91SAM7/spi_lld.c -text
 os/hal/platforms/AT91SAM7/spi_lld.h -text
+os/hal/platforms/AVR/adc_lld.c -text
+os/hal/platforms/AVR/adc_lld.h -text
+os/hal/platforms/AVR/atmega_pins.h -text
 os/hal/platforms/AVR/hal_lld.c -text
 os/hal/platforms/AVR/hal_lld.h -text
 os/hal/platforms/AVR/i2c_lld.c -text
@@ -1457,6 +1469,19 @@ test/testsem.c -text
 test/testsem.h -text
 test/testthd.c -text
 test/testthd.h -text
+testhal/AVR/ADC/chconf.h -text
+testhal/AVR/ADC/halconf.h -text
+testhal/AVR/ADC/main.c -text
+testhal/AVR/ADC/mcuconf.h -text
+testhal/AVR/ADC/readme.txt -text
+testhal/AVR/SPI/Makefile -text
+testhal/AVR/SPI/chconf.h -text
+testhal/AVR/SPI/halconf.h -text
+testhal/AVR/SPI/main.c -text
+testhal/AVR/SPI/master.c -text
+testhal/AVR/SPI/mcuconf.h -text
+testhal/AVR/SPI/readme.txt -text
+testhal/AVR/SPI/slave.c -text
 testhal/LPC11xx/EXT/Makefile -text
 testhal/LPC11xx/EXT/chconf.h -text
 testhal/LPC11xx/EXT/halconf.h -text
