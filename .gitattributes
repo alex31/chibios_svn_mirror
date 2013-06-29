@@ -1476,6 +1476,12 @@ testhal/AVR/ADC/halconf.h -text
 testhal/AVR/ADC/main.c -text
 testhal/AVR/ADC/mcuconf.h -text
 testhal/AVR/ADC/readme.txt -text
+testhal/AVR/GPT/Makefile -text
+testhal/AVR/GPT/chconf.h -text
+testhal/AVR/GPT/halconf.h -text
+testhal/AVR/GPT/main.c -text
+testhal/AVR/GPT/mcuconf.h -text
+testhal/AVR/GPT/readme.txt -text
 testhal/AVR/SPI/Makefile -text
 testhal/AVR/SPI/chconf.h -text
 testhal/AVR/SPI/halconf.h -text
