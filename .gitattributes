@@ -1488,6 +1488,12 @@ testhal/AVR/GPT/halconf.h -text
 testhal/AVR/GPT/main.c -text
 testhal/AVR/GPT/mcuconf.h -text
 testhal/AVR/GPT/readme.txt -text
+testhal/AVR/PWM/Makefile -text
+testhal/AVR/PWM/chconf.h -text
+testhal/AVR/PWM/halconf.h -text
+testhal/AVR/PWM/main.c -text
+testhal/AVR/PWM/mcuconf.h -text
+testhal/AVR/PWM/readme.txt -text
 testhal/AVR/SPI/Makefile -text
 testhal/AVR/SPI/chconf.h -text
 testhal/AVR/SPI/halconf.h -text
