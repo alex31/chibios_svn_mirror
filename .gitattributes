@@ -712,6 +712,8 @@ os/hal/platforms/AVR/pal_lld.c -text
 os/hal/platforms/AVR/pal_lld.h -text
 os/hal/platforms/AVR/platform.dox -text
 os/hal/platforms/AVR/platform.mk -text
+os/hal/platforms/AVR/pwm_lld.c -text
+os/hal/platforms/AVR/pwm_lld.h -text
 os/hal/platforms/AVR/serial_lld.c -text
 os/hal/platforms/AVR/serial_lld.h -text
 os/hal/platforms/AVR/spi_lld.c -text
