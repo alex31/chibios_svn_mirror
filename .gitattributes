@@ -708,6 +708,8 @@ os/hal/platforms/AVR/hal_lld.c -text
 os/hal/platforms/AVR/hal_lld.h -text
 os/hal/platforms/AVR/i2c_lld.c -text
 os/hal/platforms/AVR/i2c_lld.h -text
+os/hal/platforms/AVR/icu_lld.c -text
+os/hal/platforms/AVR/icu_lld.h -text
 os/hal/platforms/AVR/pal_lld.c -text
 os/hal/platforms/AVR/pal_lld.h -text
 os/hal/platforms/AVR/platform.dox -text
