@@ -701,7 +701,7 @@ os/hal/platforms/AT91SAM7/spi_lld.c -text
 os/hal/platforms/AT91SAM7/spi_lld.h -text
 os/hal/platforms/AVR/adc_lld.c -text
 os/hal/platforms/AVR/adc_lld.h -text
-os/hal/platforms/AVR/atmega_pins.h -text
+os/hal/platforms/AVR/avr_pins.h -text
 os/hal/platforms/AVR/avr_timers.h -text
 os/hal/platforms/AVR/gpt_lld.c -text
 os/hal/platforms/AVR/gpt_lld.h -text
