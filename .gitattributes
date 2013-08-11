@@ -942,6 +942,7 @@ os/hal/platforms/STM32/SPIv1/spi_lld.c -text
 os/hal/platforms/STM32/SPIv1/spi_lld.h -text
 os/hal/platforms/STM32/SPIv2/spi_lld.c -text
 os/hal/platforms/STM32/SPIv2/spi_lld.h -text
+os/hal/platforms/STM32/TIMv1/stm32_tim.h -text
 os/hal/platforms/STM32/USARTv1/serial_lld.c -text
 os/hal/platforms/STM32/USARTv1/serial_lld.h -text
 os/hal/platforms/STM32/USARTv1/uart_lld.c -text
