@@ -422,6 +422,16 @@ demos/ARMCM4-STM32F407-LWIP/mcuconf.h -text
 demos/ARMCM4-STM32F407-LWIP/readme.txt -text
 demos/ARMCM4-STM32F407-LWIP/web/web.c -text
 demos/ARMCM4-STM32F407-LWIP/web/web.h -text
+demos/ARMCM4-STM32F429-DISCOVERY/.cproject -text
+demos/ARMCM4-STM32F429-DISCOVERY/.project -text
+demos/ARMCM4-STM32F429-DISCOVERY/Makefile -text
+demos/ARMCM4-STM32F429-DISCOVERY/chconf.h -text
+demos/ARMCM4-STM32F429-DISCOVERY/halconf.h -text
+demos/ARMCM4-STM32F429-DISCOVERY/main.c -text
+demos/ARMCM4-STM32F429-DISCOVERY/mcuconf.h -text
+demos/ARMCM4-STM32F429-DISCOVERY/readme.txt -text
+demos/ARMCM4-STM32F429-DISCOVERY/usbcfg.c -text
+demos/ARMCM4-STM32F429-DISCOVERY/usbcfg.h -text
 demos/AVR-AT90CANx-GCC/Makefile -text
 demos/AVR-AT90CANx-GCC/chconf.h -text
 demos/AVR-AT90CANx-GCC/halconf.h -text
@@ -1268,6 +1278,7 @@ os/ports/GCC/ARMCMx/STM32F4xx/cmparams.h -text
 os/ports/GCC/ARMCMx/STM32F4xx/ld/STM32F405xG.ld -text
 os/ports/GCC/ARMCMx/STM32F4xx/ld/STM32F407xG.ld -text
 os/ports/GCC/ARMCMx/STM32F4xx/ld/STM32F407xG_CCM.ld -text
+os/ports/GCC/ARMCMx/STM32F4xx/ld/STM32F429xI.ld -text
 os/ports/GCC/ARMCMx/STM32F4xx/port.mk -text
 os/ports/GCC/ARMCMx/STM32F4xx/vectors.c -text
 os/ports/GCC/ARMCMx/STM32L1xx/cmparams.h -text
