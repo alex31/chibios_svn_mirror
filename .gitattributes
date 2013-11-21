@@ -901,8 +901,6 @@ os/hal/platforms/SPC56ELxx/platform.mk -text
 os/hal/platforms/SPC56ELxx/spc56el_registry.h -text
 os/hal/platforms/SPC56ELxx/typedefs.h -text
 os/hal/platforms/SPC56ELxx/xpc56el.h -text
-os/hal/platforms/SPC5xx/ADC_v1/adc_lld.c -text
-os/hal/platforms/SPC5xx/ADC_v1/adc_lld.h -text
 os/hal/platforms/SPC5xx/DSPI_v1/spc5_dspi.h -text
 os/hal/platforms/SPC5xx/DSPI_v1/spi_lld.c -text
 os/hal/platforms/SPC5xx/DSPI_v1/spi_lld.h -text
