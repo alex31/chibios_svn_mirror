@@ -700,6 +700,8 @@ os/hal/platforms/AT91SAM7/at91lib/aic.h -text
 os/hal/platforms/AT91SAM7/at91sam7.h -text
 os/hal/platforms/AT91SAM7/at91sam7_mii.c -text
 os/hal/platforms/AT91SAM7/at91sam7_mii.h -text
+os/hal/platforms/AT91SAM7/can_lld.c -text
+os/hal/platforms/AT91SAM7/can_lld.h -text
 os/hal/platforms/AT91SAM7/ext_lld.c -text
 os/hal/platforms/AT91SAM7/ext_lld.h -text
 os/hal/platforms/AT91SAM7/hal_lld.c -text
