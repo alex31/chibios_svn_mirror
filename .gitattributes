@@ -261,6 +261,14 @@ demos/ARMCM3-LPC1343-OLIMEX/chconf.h -text
 demos/ARMCM3-LPC1343-OLIMEX/halconf.h -text
 demos/ARMCM3-LPC1343-OLIMEX/main.c -text
 demos/ARMCM3-LPC1343-OLIMEX/mcuconf.h -text
+demos/ARMCM3-LPC1769-LPCXPRESSO-LWIP/Makefile -text
+demos/ARMCM3-LPC1769-LPCXPRESSO-LWIP/chconf.h -text
+demos/ARMCM3-LPC1769-LPCXPRESSO-LWIP/halconf.h -text
+demos/ARMCM3-LPC1769-LPCXPRESSO-LWIP/lwipopts.h -text
+demos/ARMCM3-LPC1769-LPCXPRESSO-LWIP/main.c -text
+demos/ARMCM3-LPC1769-LPCXPRESSO-LWIP/mcuconf.h -text
+demos/ARMCM3-LPC1769-LPCXPRESSO-LWIP/web/web.c -text
+demos/ARMCM3-LPC1769-LPCXPRESSO-LWIP/web/web.h -text
 demos/ARMCM3-LPC1769-LPCXPRESSO/Makefile -text
 demos/ARMCM3-LPC1769-LPCXPRESSO/chconf.h -text
 demos/ARMCM3-LPC1769-LPCXPRESSO/halconf.h -text
@@ -843,6 +851,8 @@ os/hal/platforms/LPC17xx/i2c_lld.c -text
 os/hal/platforms/LPC17xx/i2c_lld.h -text
 os/hal/platforms/LPC17xx/lpc17xx_dma.c -text
 os/hal/platforms/LPC17xx/lpc17xx_dma.h -text
+os/hal/platforms/LPC17xx/mac_lld.c -text
+os/hal/platforms/LPC17xx/mac_lld.h -text
 os/hal/platforms/LPC17xx/pal_lld.c -text
 os/hal/platforms/LPC17xx/pal_lld.h -text
 os/hal/platforms/LPC17xx/platform.mk -text
