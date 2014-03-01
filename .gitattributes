@@ -857,6 +857,8 @@ os/hal/platforms/LPC13xx/system_LPC13xx.h -text
 os/hal/platforms/LPC17xx/LPC17xx.h -text
 os/hal/platforms/LPC17xx/adc_lld.c -text
 os/hal/platforms/LPC17xx/adc_lld.h -text
+os/hal/platforms/LPC17xx/can_lld.c -text
+os/hal/platforms/LPC17xx/can_lld.h -text
 os/hal/platforms/LPC17xx/dac_lld.c -text
 os/hal/platforms/LPC17xx/dac_lld.h -text
 os/hal/platforms/LPC17xx/gpt_lld.c -text
@@ -1673,6 +1675,16 @@ testhal/LPC13xx/IRQ_STORM/halconf.h -text
 testhal/LPC13xx/IRQ_STORM/main.c -text
 testhal/LPC13xx/IRQ_STORM/mcuconf.h -text
 testhal/LPC13xx/IRQ_STORM/readme.txt -text
+testhal/LPC17xx/CAN/Makefile -text
+testhal/LPC17xx/CAN/chconf.h -text
+testhal/LPC17xx/CAN/halconf.h -text
+testhal/LPC17xx/CAN/main.c -text
+testhal/LPC17xx/CAN/mcuconf.h -text
+testhal/LPC17xx/CAN_LOCAL_SELF_TEST/Makefile -text
+testhal/LPC17xx/CAN_LOCAL_SELF_TEST/chconf.h -text
+testhal/LPC17xx/CAN_LOCAL_SELF_TEST/halconf.h -text
+testhal/LPC17xx/CAN_LOCAL_SELF_TEST/main.c -text
+testhal/LPC17xx/CAN_LOCAL_SELF_TEST/mcuconf.h -text
 testhal/LPC17xx/DAC/Makefile -text
 testhal/LPC17xx/DAC/chconf.h -text
 testhal/LPC17xx/DAC/halconf.h -text
