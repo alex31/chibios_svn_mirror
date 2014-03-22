@@ -1022,6 +1022,8 @@ os/hal/platforms/SPC5xx/eMIOS_v1/spc5_emios.h -text
 os/hal/platforms/SPC5xx/eTimer_v1/icu_lld.c -text
 os/hal/platforms/SPC5xx/eTimer_v1/icu_lld.h -text
 os/hal/platforms/SPC5xx/eTimer_v1/spc5_etimer.h -text
+os/hal/platforms/STM32/DACv1/dac_lld.c -text
+os/hal/platforms/STM32/DACv1/dac_lld.h -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.c -text
 os/hal/platforms/STM32/GPIOv1/pal_lld.h -text
 os/hal/platforms/STM32/GPIOv2/pal_lld.c -text
