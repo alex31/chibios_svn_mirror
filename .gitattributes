@@ -137,9 +137,9 @@ boards/ST_STM32F3_DISCOVERY/board.c -text
 boards/ST_STM32F3_DISCOVERY/board.h -text
 boards/ST_STM32F3_DISCOVERY/board.mk -text
 boards/ST_STM32F3_DISCOVERY/cfg/board.chcfg -text
-boards/ST_STM32F401_DISCOVERY/board.c -text
-boards/ST_STM32F401_DISCOVERY/board.h -text
-boards/ST_STM32F401_DISCOVERY/board.mk -text
+boards/ST_STM32F401C_DISCOVERY/board.c -text
+boards/ST_STM32F401C_DISCOVERY/board.h -text
+boards/ST_STM32F401C_DISCOVERY/board.mk -text
 boards/ST_STM32F429I_DISCOVERY/board.c -text
 boards/ST_STM32F429I_DISCOVERY/board.h -text
 boards/ST_STM32F429I_DISCOVERY/board.mk -text
