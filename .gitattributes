@@ -1139,8 +1139,6 @@ os/hal/platforms/STM32/can_lld.c -text
 os/hal/platforms/STM32/can_lld.h -text
 os/hal/platforms/STM32/ext_lld.c -text
 os/hal/platforms/STM32/ext_lld.h -text
-os/hal/platforms/STM32/i2s_lld.c -text
-os/hal/platforms/STM32/i2s_lld.h -text
 os/hal/platforms/STM32/mac_lld.c -text
 os/hal/platforms/STM32/mac_lld.h -text
 os/hal/platforms/STM32/sdc_lld.c -text
