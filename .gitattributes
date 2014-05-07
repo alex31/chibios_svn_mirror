@@ -124,6 +124,7 @@ demos/STM32/RT-STM32F303-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F303-DISCOVERY/.project -text
 demos/STM32/RT-STM32F303-DISCOVERY/Makefile -text
 demos/STM32/RT-STM32F303-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F303-DISCOVERY/debug/RT-STM32F303-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F303-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F303-DISCOVERY/iar/ch.ewp -text
 demos/STM32/RT-STM32F303-DISCOVERY/iar/ch.eww -text
@@ -144,6 +145,7 @@ demos/STM32/RT-STM32F407-DISCOVERY-MEMS/.cproject -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/.project -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/Makefile -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/chconf.h -text
+demos/STM32/RT-STM32F407-DISCOVERY-MEMS/debug/RT-STM32F407-DISCOVERY-MEMS[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/halconf.h -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/main.c -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/mcuconf.h -text
@@ -154,6 +156,7 @@ demos/STM32/RT-STM32F407-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F407-DISCOVERY/.project -text
 demos/STM32/RT-STM32F407-DISCOVERY/Makefile -text
 demos/STM32/RT-STM32F407-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F407-DISCOVERY/debug/RT-STM32F407-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F407-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F407-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F407-DISCOVERY/mcuconf.h -text
