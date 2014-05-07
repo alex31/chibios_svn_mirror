@@ -137,6 +137,7 @@ demos/STM32/RT-STM32F373-STM32373C_EVAL/.cproject -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/.project -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/Makefile -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/chconf.h -text
+demos/STM32/RT-STM32F373-STM32373C_EVAL/debug/RT-STM32F373-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/halconf.h -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/main.c -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/mcuconf.h -text
@@ -165,6 +166,7 @@ demos/STM32/RT-STM32F429-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F429-DISCOVERY/.project -text
 demos/STM32/RT-STM32F429-DISCOVERY/Makefile -text
 demos/STM32/RT-STM32F429-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F429-DISCOVERY/debug/RT-STM32F429-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F429-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F429-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F429-DISCOVERY/mcuconf.h -text
@@ -175,6 +177,7 @@ demos/STM32/RT-STM32L152-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32L152-DISCOVERY/.project -text
 demos/STM32/RT-STM32L152-DISCOVERY/Makefile -text
 demos/STM32/RT-STM32L152-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32L152-DISCOVERY/debug/RT-STM32L152-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L152-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32L152-DISCOVERY/main.c -text
 demos/STM32/RT-STM32L152-DISCOVERY/mcuconf.h -text
