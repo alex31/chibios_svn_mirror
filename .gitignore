@@ -1,0 +1,10 @@
+/*.cproject
+/*.project
+/.metadata
+os/hal/boards/NONSTANDARD_STM32F4_BARTHESS1/*.origin
+os/hal/boards/OLIMEX_STM32_103STK/board.lst
+os/hal/boards/OLIMEX_STM32_P103/*.lst
+os/hal/boards/OLIMEX_STM32_P103/*.origin
+os/rt/src/*.lst
+os/various/*.lst
+test/*.lst
