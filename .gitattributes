@@ -65,6 +65,7 @@ demos/SPC5/RT-SPC56EL-EVB/mcuconf.h -text
 demos/STM32/NIL-STM32F051-DISCOVERY/.cproject -text
 demos/STM32/NIL-STM32F051-DISCOVERY/.project -text
 demos/STM32/NIL-STM32F051-DISCOVERY/Makefile -text
+demos/STM32/NIL-STM32F051-DISCOVERY/debug/NIL-STM32F051-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/NIL-STM32F051-DISCOVERY/halconf.h -text
 demos/STM32/NIL-STM32F051-DISCOVERY/main.c -text
 demos/STM32/NIL-STM32F051-DISCOVERY/mcuconf.h -text
@@ -72,6 +73,7 @@ demos/STM32/NIL-STM32F051-DISCOVERY/nilconf.h -text
 demos/STM32/NIL-STM32F100-DISCOVERY/.cproject -text
 demos/STM32/NIL-STM32F100-DISCOVERY/.project -text
 demos/STM32/NIL-STM32F100-DISCOVERY/Makefile -text
+demos/STM32/NIL-STM32F100-DISCOVERY/debug/NIL-STM32F100-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/NIL-STM32F100-DISCOVERY/halconf.h -text
 demos/STM32/NIL-STM32F100-DISCOVERY/main.c -text
 demos/STM32/NIL-STM32F100-DISCOVERY/mcuconf.h -text
@@ -79,6 +81,7 @@ demos/STM32/NIL-STM32F100-DISCOVERY/nilconf.h -text
 demos/STM32/NIL-STM32F303-DISCOVERY/.cproject -text
 demos/STM32/NIL-STM32F303-DISCOVERY/.project -text
 demos/STM32/NIL-STM32F303-DISCOVERY/Makefile -text
+demos/STM32/NIL-STM32F303-DISCOVERY/debug/NIL-STM32F303-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/NIL-STM32F303-DISCOVERY/halconf.h -text
 demos/STM32/NIL-STM32F303-DISCOVERY/main.c -text
 demos/STM32/NIL-STM32F303-DISCOVERY/mcuconf.h -text
@@ -86,6 +89,7 @@ demos/STM32/NIL-STM32F303-DISCOVERY/nilconf.h -text
 demos/STM32/NIL-STM32F373-STM32373C_EVAL/.cproject -text
 demos/STM32/NIL-STM32F373-STM32373C_EVAL/.project -text
 demos/STM32/NIL-STM32F373-STM32373C_EVAL/Makefile -text
+demos/STM32/NIL-STM32F373-STM32373C_EVAL/debug/NIL-STM32F373-STM32373C_EVAL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/NIL-STM32F373-STM32373C_EVAL/halconf.h -text
 demos/STM32/NIL-STM32F373-STM32373C_EVAL/main.c -text
 demos/STM32/NIL-STM32F373-STM32373C_EVAL/mcuconf.h -text
@@ -93,6 +97,7 @@ demos/STM32/NIL-STM32F373-STM32373C_EVAL/nilconf.h -text
 demos/STM32/NIL-STM32L152-DISCOVERY/.cproject -text
 demos/STM32/NIL-STM32L152-DISCOVERY/.project -text
 demos/STM32/NIL-STM32L152-DISCOVERY/Makefile -text
+demos/STM32/NIL-STM32L152-DISCOVERY/debug/NIL-STM32L152-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/NIL-STM32L152-DISCOVERY/halconf.h -text
 demos/STM32/NIL-STM32L152-DISCOVERY/main.c -text
 demos/STM32/NIL-STM32L152-DISCOVERY/mcuconf.h -text
@@ -101,6 +106,7 @@ demos/STM32/RT-STM32F051-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F051-DISCOVERY/.project -text
 demos/STM32/RT-STM32F051-DISCOVERY/Makefile -text
 demos/STM32/RT-STM32F051-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F051-DISCOVERY/debug/RT-STM32F051-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F051-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F051-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F051-DISCOVERY/mcuconf.h -text
@@ -109,6 +115,7 @@ demos/STM32/RT-STM32F100-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F100-DISCOVERY/.project -text
 demos/STM32/RT-STM32F100-DISCOVERY/Makefile -text
 demos/STM32/RT-STM32F100-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F100-DISCOVERY/debug/RT-STM32F100-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F100-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F100-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F100-DISCOVERY/mcuconf.h -text
@@ -116,6 +123,7 @@ demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/.cproject -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/.project -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/Makefile -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/chconf.h -text
+demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/debug/RT-STM32F103-OLIMEX_STM32_P103[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/halconf.h -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/main.c -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/mcuconf.h -text
