@@ -190,6 +190,8 @@ demos/STM32/RT-STM32L152-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32L152-DISCOVERY/main.c -text
 demos/STM32/RT-STM32L152-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32L152-DISCOVERY/readme.txt -text
+os/common/ports/ARM/compilers/GCC/crt0.s -text
+os/common/ports/ARM/compilers/GCC/rules.mk -text
 os/common/ports/ARMCMx/compilers/GCC/crt0.c -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F100xB.ld -text
