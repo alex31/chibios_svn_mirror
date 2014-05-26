@@ -193,6 +193,7 @@ demos/STM32/RT-STM32L152-DISCOVERY/readme.txt -text
 os/common/ports/ARM/compilers/GCC/crt0.s -text
 os/common/ports/ARM/compilers/GCC/rules.ld -text
 os/common/ports/ARM/compilers/GCC/rules.mk -text
+os/common/ports/ARM/compilers/GCC/vectors.s -text
 os/common/ports/ARMCMx/compilers/GCC/crt0.c -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
@@ -690,6 +691,7 @@ os/rt/include/chsys.h -text
 os/rt/include/chthreads.h -text
 os/rt/include/chtm.h -text
 os/rt/include/chvt.h -text
+os/rt/ports/ARM/compilers/GCC/chcoreasm.s -text
 os/rt/ports/ARMCMx/chcore.c -text
 os/rt/ports/ARMCMx/chcore.h -text
 os/rt/ports/ARMCMx/chcore_timer.h -text
