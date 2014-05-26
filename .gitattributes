@@ -194,6 +194,8 @@ os/common/ports/ARM/compilers/GCC/crt0.s -text
 os/common/ports/ARM/compilers/GCC/rules.ld -text
 os/common/ports/ARM/compilers/GCC/rules.mk -text
 os/common/ports/ARM/compilers/GCC/vectors.s -text
+os/common/ports/ARM/devices/LPC214x/armparams.h -text
+os/common/ports/ARM/devices/LPC214x/lpc214x.h -text
 os/common/ports/ARMCMx/compilers/GCC/crt0.c -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
