@@ -1,4 +1,9 @@
 * text=auto !eol
+demos/LPC21xx/RT-LPC214x-OLIMEX/.cproject -text
+demos/LPC21xx/RT-LPC214x-OLIMEX/.project -text
+demos/LPC21xx/RT-LPC214x-OLIMEX/Makefile -text
+demos/LPC21xx/RT-LPC214x-OLIMEX/chconf.h -text
+demos/LPC21xx/RT-LPC214x-OLIMEX/main.c -text
 demos/SPC5/RT-SPC560B-EVB/.cproject -text
 demos/SPC5/RT-SPC560B-EVB/.project -text
 demos/SPC5/RT-SPC560B-EVB/Makefile -text
@@ -694,8 +699,10 @@ os/rt/include/chsys.h -text
 os/rt/include/chthreads.h -text
 os/rt/include/chtm.h -text
 os/rt/include/chvt.h -text
+os/rt/ports/ARM/chcore.c -text
 os/rt/ports/ARM/chcore.h -text
 os/rt/ports/ARM/compilers/GCC/chcoreasm.s -text
+os/rt/ports/ARM/compilers/GCC/mk/port_lpc214x.mk -text
 os/rt/ports/ARMCMx/chcore.c -text
 os/rt/ports/ARMCMx/chcore.h -text
 os/rt/ports/ARMCMx/chcore_timer.h -text
