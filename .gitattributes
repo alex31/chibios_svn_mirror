@@ -702,7 +702,9 @@ os/rt/include/chtm.h -text
 os/rt/include/chvt.h -text
 os/rt/ports/ARM/chcore.c -text
 os/rt/ports/ARM/chcore.h -text
+os/rt/ports/ARM/chcore_timer.h -text
 os/rt/ports/ARM/compilers/GCC/chcoreasm.s -text
+os/rt/ports/ARM/compilers/GCC/chtypes.h -text
 os/rt/ports/ARM/compilers/GCC/mk/port_lpc214x.mk -text
 os/rt/ports/ARMCMx/chcore.c -text
 os/rt/ports/ARMCMx/chcore.h -text
