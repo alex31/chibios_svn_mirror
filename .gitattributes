@@ -483,6 +483,7 @@ os/hal/include/icu.h -text
 os/hal/include/mmc_spi.h -text
 os/hal/include/pal.h -text
 os/hal/include/pwm.h -text
+os/hal/include/rtc.h -text
 os/hal/include/sdc.h -text
 os/hal/include/serial.h -text
 os/hal/include/serial_usb.h -text
@@ -640,6 +641,7 @@ os/hal/src/icu.c -text
 os/hal/src/mmc_spi.c -text
 os/hal/src/pal.c -text
 os/hal/src/pwm.c -text
+os/hal/src/rtc.c -text
 os/hal/src/sdc.c -text
 os/hal/src/serial.c -text
 os/hal/src/serial_usb.c -text
