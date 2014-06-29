@@ -1,4 +1,10 @@
 * text=auto !eol
+demos/AVR/RT-ARDUINOMEGA/Makefile -text
+demos/AVR/RT-ARDUINOMEGA/chconf.h -text
+demos/AVR/RT-ARDUINOMEGA/halconf.h -text
+demos/AVR/RT-ARDUINOMEGA/main.c -text
+demos/AVR/RT-ARDUINOMEGA/mcuconf.h -text
+demos/AVR/RT-ARDUINOMEGA/readme.txt -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/.cproject -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/.project -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/Makefile -text
