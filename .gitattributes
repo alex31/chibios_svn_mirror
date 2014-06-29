@@ -730,6 +730,10 @@ os/rt/ports/ARMCMx/compilers/IAR/chtypes.h -text
 os/rt/ports/ARMCMx/compilers/RVCT/chcoreasm_v6m.s -text
 os/rt/ports/ARMCMx/compilers/RVCT/chcoreasm_v7m.s -text
 os/rt/ports/ARMCMx/compilers/RVCT/chtypes.h -text
+os/rt/ports/AVR/chcore.c -text
+os/rt/ports/AVR/chcore.h -text
+os/rt/ports/AVR/compilers/GCC/chtypes.h -text
+os/rt/ports/AVR/compilers/GCC/mk/port.mk -text
 os/rt/ports/e200/chcore.c -text
 os/rt/ports/e200/chcore.h -text
 os/rt/ports/e200/compilers/GCC/chtypes.h -text
