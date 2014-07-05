@@ -305,6 +305,8 @@ os/ext/CMSIS/include/core_cm4_simd.h -text
 os/ext/CMSIS/include/core_cmFunc.h -text
 os/ext/CMSIS/include/core_cmInstr.h -text
 os/ext/CMSIS/readme.txt -text
+os/ext/fatfs-0.10b-patched.zip -text
+os/ext/readme.txt -text
 os/hal/boards/ARDUINO_MEGA/board.c -text
 os/hal/boards/ARDUINO_MEGA/board.h -text
 os/hal/boards/ARDUINO_MEGA/board.mk -text
@@ -816,6 +818,10 @@ os/various/devices_lib/lcd/lcd3310.c -text
 os/various/devices_lib/lcd/lcd3310.h -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
+os/various/fatfs_bindings/fatfs.mk -text
+os/various/fatfs_bindings/fatfs_diskio.c -text
+os/various/fatfs_bindings/fatfs_syscall.c -text
+os/various/fatfs_bindings/readme.txt -text
 os/various/memstreams.c -text
 os/various/memstreams.h -text
 os/various/shell.c -text
