@@ -706,6 +706,7 @@ os/nil/ports/ARMCMx/nilcore_v6m.c -text
 os/nil/ports/ARMCMx/nilcore_v6m.h -text
 os/nil/ports/ARMCMx/nilcore_v7m.c -text
 os/nil/ports/ARMCMx/nilcore_v7m.h -text
+os/nil/ports/AVR/compilers/GCC/mk/port.mk -text
 os/nil/ports/AVR/compilers/GCC/niltypes.h -text
 os/nil/ports/AVR/nilcore.c -text
 os/nil/ports/AVR/nilcore.h -text
