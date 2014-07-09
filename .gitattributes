@@ -890,6 +890,14 @@ test/rt/testsem.c -text
 test/rt/testsem.h -text
 test/rt/testthd.c -text
 test/rt/testthd.h -text
+testhal/AVR/PWM/Makefile.ch -text
+testhal/AVR/PWM/Makefile.nil -text
+testhal/AVR/PWM/chconf.h -text
+testhal/AVR/PWM/halconf.h -text
+testhal/AVR/PWM/main.c -text
+testhal/AVR/PWM/mcuconf.h -text
+testhal/AVR/PWM/nilconf.h -text
+testhal/AVR/PWM/readme.txt -text
 testhal/STM32/STM32F0xx/ADC/.cproject -text
 testhal/STM32/STM32F0xx/ADC/.project -text
 testhal/STM32/STM32F0xx/ADC/Makefile -text
