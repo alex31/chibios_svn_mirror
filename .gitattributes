@@ -724,6 +724,15 @@ os/nil/ports/AVR/compilers/GCC/niltypes.h -text
 os/nil/ports/AVR/nilcore.c -text
 os/nil/ports/AVR/nilcore.h -text
 os/nil/ports/AVR/nilcore_timer.h -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc560bcxx.mk -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc560bxx.mk -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc560dxx.mk -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc560pxx.mk -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc563mxx.mk -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc564axx.mk -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc56ecxx.mk -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc56elxx.mk -text
+os/nil/ports/e200/compilers/GCC/mk/port_spc57emxx.mk -text
 os/nil/ports/e200/compilers/GCC/niltypes.h -text
 os/nil/ports/e200/nilcore.c -text
 os/nil/ports/e200/nilcore.h -text
@@ -798,6 +807,7 @@ os/rt/ports/e200/compilers/GCC/mk/port_spc563mxx.mk -text
 os/rt/ports/e200/compilers/GCC/mk/port_spc564axx.mk -text
 os/rt/ports/e200/compilers/GCC/mk/port_spc56ecxx.mk -text
 os/rt/ports/e200/compilers/GCC/mk/port_spc56elxx.mk -text
+os/rt/ports/e200/compilers/GCC/mk/port_spc57emxx.mk -text
 os/rt/rt.dox -text
 os/rt/rt.mk -text
 os/rt/src/chcond.c -text
