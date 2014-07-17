@@ -724,6 +724,7 @@ os/nil/ports/AVR/compilers/GCC/niltypes.h -text
 os/nil/ports/AVR/nilcore.c -text
 os/nil/ports/AVR/nilcore.h -text
 os/nil/ports/AVR/nilcore_timer.h -text
+os/nil/ports/e200/compilers/GCC/ivor.s -text
 os/nil/ports/e200/compilers/GCC/mk/port_spc560bcxx.mk -text
 os/nil/ports/e200/compilers/GCC/mk/port_spc560bxx.mk -text
 os/nil/ports/e200/compilers/GCC/mk/port_spc560dxx.mk -text
