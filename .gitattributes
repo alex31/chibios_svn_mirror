@@ -716,6 +716,9 @@ os/nil/ports/AVR/compilers/GCC/niltypes.h -text
 os/nil/ports/AVR/nilcore.c -text
 os/nil/ports/AVR/nilcore.h -text
 os/nil/ports/AVR/nilcore_timer.h -text
+os/nil/ports/e200/compilers/GCC/niltypes.h -text
+os/nil/ports/e200/nilcore.c -text
+os/nil/ports/e200/nilcore.h -text
 os/nil/src/nil.c -text
 os/nil/templates/nilcore.c -text
 os/nil/templates/nilcore.h -text
