@@ -15,6 +15,14 @@ demos/LPC21xx/RT-LPC214x-OLIMEX/.project -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/Makefile -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/chconf.h -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/main.c -text
+demos/SPC5/NIL-SPC560D-EVB/.cproject -text
+demos/SPC5/NIL-SPC560D-EVB/.project -text
+demos/SPC5/NIL-SPC560D-EVB/Makefile -text
+demos/SPC5/NIL-SPC560D-EVB/UDE/stm_xpc560b_spc560d40_minimodule_debug_jtag.cfg -text
+demos/SPC5/NIL-SPC560D-EVB/halconf.h -text
+demos/SPC5/NIL-SPC560D-EVB/main.c -text
+demos/SPC5/NIL-SPC560D-EVB/mcuconf.h -text
+demos/SPC5/NIL-SPC560D-EVB/nilconf.h -text
 demos/SPC5/RT-SPC560B-EVB/.cproject -text
 demos/SPC5/RT-SPC560B-EVB/.project -text
 demos/SPC5/RT-SPC560B-EVB/Makefile -text
