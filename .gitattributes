@@ -738,6 +738,7 @@ os/nil/ports/e200/compilers/GCC/niltypes.h -text
 os/nil/ports/e200/nilcore.c -text
 os/nil/ports/e200/nilcore.h -text
 os/nil/src/nil.c -text
+os/nil/templates/nilconf.h -text
 os/nil/templates/nilcore.c -text
 os/nil/templates/nilcore.h -text
 os/nil/templates/niltypes.h -text
