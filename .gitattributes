@@ -913,6 +913,12 @@ test/rt/testsem.c -text
 test/rt/testsem.h -text
 test/rt/testthd.c -text
 test/rt/testthd.h -text
+testhal/AVR/ICU/Makefile -text
+testhal/AVR/ICU/chconf.h -text
+testhal/AVR/ICU/halconf.h -text
+testhal/AVR/ICU/main.c -text
+testhal/AVR/ICU/mcuconf.h -text
+testhal/AVR/ICU/readme.txt -text
 testhal/AVR/PWM/Makefile.ch -text
 testhal/AVR/PWM/Makefile.nil -text
 testhal/AVR/PWM/chconf.h -text
