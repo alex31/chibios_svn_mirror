@@ -265,6 +265,7 @@ os/common/ports/e200/compilers/GCC/ld/SPC56EC74.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC56EL54_LSM.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC56EL60_LSM.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC56EL70_LSM.ld -text
+os/common/ports/e200/compilers/GCC/ld/SPC57EM80_HSM.ld -text
 os/common/ports/e200/compilers/GCC/rules.mk -text
 os/common/ports/e200/compilers/GCC/rules_z0.ld -text
 os/common/ports/e200/compilers/GCC/rules_z3.ld -text
@@ -303,6 +304,10 @@ os/common/ports/e200/devices/SPC56ELxx/boot.h -text
 os/common/ports/e200/devices/SPC56ELxx/boot.s -text
 os/common/ports/e200/devices/SPC56ELxx/intc.h -text
 os/common/ports/e200/devices/SPC56ELxx/ppcparams.h -text
+os/common/ports/e200/devices/SPC57EMxx_HSM/boot.h -text
+os/common/ports/e200/devices/SPC57EMxx_HSM/boot.s -text
+os/common/ports/e200/devices/SPC57EMxx_HSM/intc.h -text
+os/common/ports/e200/devices/SPC57EMxx_HSM/ppcparams.h -text
 os/ext/CMSIS/ST/stm32f0xx.h -text
 os/ext/CMSIS/ST/stm32f10x.h -text
 os/ext/CMSIS/ST/stm32f30x.h -text
