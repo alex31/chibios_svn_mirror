@@ -223,6 +223,7 @@ os/common/ports/ARM/compilers/GCC/vectors.s -text
 os/common/ports/ARM/devices/LPC214x/armparams.h -text
 os/common/ports/ARM/devices/LPC214x/lpc214x.h -text
 os/common/ports/ARMCMx/compilers/GCC/crt0.c -text
+os/common/ports/ARMCMx/compilers/GCC/ld/KL25Z128.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F100xB.ld -text
@@ -246,6 +247,7 @@ os/common/ports/ARMCMx/compilers/IAR/cstartup.s -text
 os/common/ports/ARMCMx/compilers/IAR/vectors.s -text
 os/common/ports/ARMCMx/compilers/RVCT/cstartup.s -text
 os/common/ports/ARMCMx/compilers/RVCT/vectors.s -text
+os/common/ports/ARMCMx/devices/KL2x/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F1xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F30x/cmparams.h -text
@@ -308,6 +310,7 @@ os/common/ports/e200/devices/SPC57EMxx_HSM/boot.h -text
 os/common/ports/e200/devices/SPC57EMxx_HSM/boot.s -text
 os/common/ports/e200/devices/SPC57EMxx_HSM/intc.h -text
 os/common/ports/e200/devices/SPC57EMxx_HSM/ppcparams.h -text
+os/ext/CMSIS/KINETIS/kl25z.h -text
 os/ext/CMSIS/ST/stm32f0xx.h -text
 os/ext/CMSIS/ST/stm32f10x.h -text
 os/ext/CMSIS/ST/stm32f30x.h -text
@@ -352,6 +355,9 @@ os/hal/boards/EA_LPCXPRESSO_BB_1343/board.mk -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.c -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.h -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.mk -text
+os/hal/boards/FREESCALE_FREEDOM_KL25Z/board.c -text
+os/hal/boards/FREESCALE_FREEDOM_KL25Z/board.h -text
+os/hal/boards/FREESCALE_FREEDOM_KL25Z/board.mk -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.c -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.h -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.mk -text
@@ -557,6 +563,16 @@ os/hal/ports/AVR/spi_lld.c -text
 os/hal/ports/AVR/spi_lld.h -text
 os/hal/ports/AVR/st_lld.c -text
 os/hal/ports/AVR/st_lld.h -text
+os/hal/ports/KINETIS/KL2x/hal_lld.c -text
+os/hal/ports/KINETIS/KL2x/hal_lld.h -text
+os/hal/ports/KINETIS/KL2x/kl25z.h -text
+os/hal/ports/KINETIS/KL2x/pal_lld.c -text
+os/hal/ports/KINETIS/KL2x/pal_lld.h -text
+os/hal/ports/KINETIS/KL2x/platform.mk -text
+os/hal/ports/KINETIS/KL2x/serial_lld.c -text
+os/hal/ports/KINETIS/KL2x/serial_lld.h -text
+os/hal/ports/KINETIS/KL2x/st_lld.c -text
+os/hal/ports/KINETIS/KL2x/st_lld.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.h -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.c -text
