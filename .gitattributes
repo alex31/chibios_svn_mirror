@@ -571,7 +571,6 @@ os/hal/ports/AVR/st_lld.c -text
 os/hal/ports/AVR/st_lld.h -text
 os/hal/ports/KINETIS/KL2x/hal_lld.c -text
 os/hal/ports/KINETIS/KL2x/hal_lld.h -text
-os/hal/ports/KINETIS/KL2x/kl25z.h -text
 os/hal/ports/KINETIS/KL2x/pal_lld.c -text
 os/hal/ports/KINETIS/KL2x/pal_lld.h -text
 os/hal/ports/KINETIS/KL2x/platform.mk -text
