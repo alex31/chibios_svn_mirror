@@ -879,6 +879,8 @@ os/various/chrtclib.h -text
 os/various/cpp_wrappers/ch.cpp -text
 os/various/cpp_wrappers/ch.hpp -text
 os/various/cpp_wrappers/kernel.mk -text
+os/various/cpp_wrappers/syscalls_cpp.cpp -text
+os/various/cpp_wrappers/syscalls_cpp.hpp -text
 os/various/devices_lib/accel/lis302dl.c -text
 os/various/devices_lib/accel/lis302dl.dox -text
 os/various/devices_lib/accel/lis302dl.h -text
