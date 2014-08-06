@@ -230,6 +230,7 @@ os/common/ports/ARM/devices/LPC214x/armparams.h -text
 os/common/ports/ARM/devices/LPC214x/lpc214x.h -text
 os/common/ports/ARMCMx/compilers/GCC/crt0.c -text
 os/common/ports/ARMCMx/compilers/GCC/ld/KL25Z128.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/MK20DX128.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F100xB.ld -text
@@ -253,6 +254,7 @@ os/common/ports/ARMCMx/compilers/IAR/cstartup.s -text
 os/common/ports/ARMCMx/compilers/IAR/vectors.s -text
 os/common/ports/ARMCMx/compilers/RVCT/cstartup.s -text
 os/common/ports/ARMCMx/compilers/RVCT/vectors.s -text
+os/common/ports/ARMCMx/devices/K20x/cmparams.h -text
 os/common/ports/ARMCMx/devices/KL2x/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F1xx/cmparams.h -text
