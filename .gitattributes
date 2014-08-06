@@ -10,6 +10,12 @@ demos/AVR/RT-ARDUINOMEGA/halconf.h -text
 demos/AVR/RT-ARDUINOMEGA/main.c -text
 demos/AVR/RT-ARDUINOMEGA/mcuconf.h -text
 demos/AVR/RT-ARDUINOMEGA/readme.txt -text
+demos/KINETIS/RT-FREEDOM-K20D50M/Makefile -text
+demos/KINETIS/RT-FREEDOM-K20D50M/chconf.h -text
+demos/KINETIS/RT-FREEDOM-K20D50M/halconf.h -text
+demos/KINETIS/RT-FREEDOM-K20D50M/main.c -text
+demos/KINETIS/RT-FREEDOM-K20D50M/mcuconf.h -text
+demos/KINETIS/RT-FREEDOM-K20D50M/readme.txt -text
 demos/KINETIS/RT-FREEDOM-KL25Z/Makefile -text
 demos/KINETIS/RT-FREEDOM-KL25Z/chconf.h -text
 demos/KINETIS/RT-FREEDOM-KL25Z/halconf.h -text
