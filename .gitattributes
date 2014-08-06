@@ -575,6 +575,14 @@ os/hal/ports/AVR/spi_lld.c -text
 os/hal/ports/AVR/spi_lld.h -text
 os/hal/ports/AVR/st_lld.c -text
 os/hal/ports/AVR/st_lld.h -text
+os/hal/ports/KINETIS/K20x/hal_lld.c -text
+os/hal/ports/KINETIS/K20x/hal_lld.h -text
+os/hal/ports/KINETIS/K20x/pal_lld.c -text
+os/hal/ports/KINETIS/K20x/pal_lld.h -text
+os/hal/ports/KINETIS/K20x/platform.dox -text
+os/hal/ports/KINETIS/K20x/platform.mk -text
+os/hal/ports/KINETIS/K20x/st_lld.c -text
+os/hal/ports/KINETIS/K20x/st_lld.h -text
 os/hal/ports/KINETIS/KL2x/hal_lld.c -text
 os/hal/ports/KINETIS/KL2x/hal_lld.h -text
 os/hal/ports/KINETIS/KL2x/pal_lld.c -text
