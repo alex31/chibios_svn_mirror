@@ -317,6 +317,7 @@ os/common/ports/e200/devices/SPC57EMxx_HSM/boot.s -text
 os/common/ports/e200/devices/SPC57EMxx_HSM/intc.h -text
 os/common/ports/e200/devices/SPC57EMxx_HSM/ppcparams.h -text
 os/ext/CMSIS/KINETIS/kl25z.h -text
+os/ext/CMSIS/KINETIS/mk20d5.h -text
 os/ext/CMSIS/ST/stm32f0xx.h -text
 os/ext/CMSIS/ST/stm32f10x.h -text
 os/ext/CMSIS/ST/stm32f30x.h -text
