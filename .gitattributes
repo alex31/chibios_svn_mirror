@@ -829,6 +829,7 @@ os/rt/ports/ARMCMx/chcore_v7m.h -text
 os/rt/ports/ARMCMx/compilers/GCC/chcoreasm_v6m.s -text
 os/rt/ports/ARMCMx/compilers/GCC/chcoreasm_v7m.s -text
 os/rt/ports/ARMCMx/compilers/GCC/chtypes.h -text
+os/rt/ports/ARMCMx/compilers/GCC/mk/port_k20x.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_kl2x.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32f0xx.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32f1xx.mk -text
