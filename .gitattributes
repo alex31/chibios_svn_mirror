@@ -364,6 +364,9 @@ os/hal/boards/EA_LPCXPRESSO_BB_1343/board.mk -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.c -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.h -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.mk -text
+os/hal/boards/FREESCALE_FREEDOM_K20D50M/board.c -text
+os/hal/boards/FREESCALE_FREEDOM_K20D50M/board.h -text
+os/hal/boards/FREESCALE_FREEDOM_K20D50M/board.mk -text
 os/hal/boards/FREESCALE_FREEDOM_KL25Z/board.c -text
 os/hal/boards/FREESCALE_FREEDOM_KL25Z/board.h -text
 os/hal/boards/FREESCALE_FREEDOM_KL25Z/board.mk -text
