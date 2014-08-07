@@ -437,6 +437,9 @@ os/hal/boards/OLIMEX_STM32_P107/board.mk -text
 os/hal/boards/OLIMEX_STM32_P407/board.c -text
 os/hal/boards/OLIMEX_STM32_P407/board.h -text
 os/hal/boards/OLIMEX_STM32_P407/board.mk -text
+os/hal/boards/PJRC_TEENSY_3/board.c -text
+os/hal/boards/PJRC_TEENSY_3/board.h -text
+os/hal/boards/PJRC_TEENSY_3/board.mk -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.c -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.h -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.c -text
