@@ -22,6 +22,12 @@ demos/KINETIS/RT-FREEDOM-KL25Z/halconf.h -text
 demos/KINETIS/RT-FREEDOM-KL25Z/main.c -text
 demos/KINETIS/RT-FREEDOM-KL25Z/mcuconf.h -text
 demos/KINETIS/RT-FREEDOM-KL25Z/readme.txt -text
+demos/KINETIS/RT-TEENSY3/Makefile -text
+demos/KINETIS/RT-TEENSY3/chconf.h -text
+demos/KINETIS/RT-TEENSY3/halconf.h -text
+demos/KINETIS/RT-TEENSY3/main.c -text
+demos/KINETIS/RT-TEENSY3/mcuconf.h -text
+demos/KINETIS/RT-TEENSY3/readme.txt -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/.cproject -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/.project -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/Makefile -text
