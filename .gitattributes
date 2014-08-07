@@ -587,6 +587,8 @@ os/hal/ports/KINETIS/K20x/pal_lld.c -text
 os/hal/ports/KINETIS/K20x/pal_lld.h -text
 os/hal/ports/KINETIS/K20x/platform.dox -text
 os/hal/ports/KINETIS/K20x/platform.mk -text
+os/hal/ports/KINETIS/K20x/serial_lld.c -text
+os/hal/ports/KINETIS/K20x/serial_lld.h -text
 os/hal/ports/KINETIS/K20x/st_lld.c -text
 os/hal/ports/KINETIS/K20x/st_lld.h -text
 os/hal/ports/KINETIS/KL2x/hal_lld.c -text
