@@ -385,6 +385,9 @@ os/hal/boards/FREESCALE_FREEDOM_KL25Z/board.mk -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.c -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.h -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.mk -text
+os/hal/boards/MCHCK_K20/board.c -text
+os/hal/boards/MCHCK_K20/board.h -text
+os/hal/boards/MCHCK_K20/board.mk -text
 os/hal/boards/NGX_BB_LPC11U14/board.c -text
 os/hal/boards/NGX_BB_LPC11U14/board.h -text
 os/hal/boards/NGX_BB_LPC11U14/board.mk -text
