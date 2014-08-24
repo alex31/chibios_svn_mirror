@@ -1137,6 +1137,7 @@ testhal/STM32/STM32F30x/ADC/.cproject -text
 testhal/STM32/STM32F30x/ADC/.project -text
 testhal/STM32/STM32F30x/ADC/Makefile -text
 testhal/STM32/STM32F30x/ADC/chconf.h -text
+testhal/STM32/STM32F30x/ADC/debug/STM32F30x-ADC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F30x/ADC/halconf.h -text
 testhal/STM32/STM32F30x/ADC/main.c -text
 testhal/STM32/STM32F30x/ADC/mcuconf.h -text
@@ -1145,6 +1146,7 @@ testhal/STM32/STM32F30x/ADC_DUAL/.cproject -text
 testhal/STM32/STM32F30x/ADC_DUAL/.project -text
 testhal/STM32/STM32F30x/ADC_DUAL/Makefile -text
 testhal/STM32/STM32F30x/ADC_DUAL/chconf.h -text
+testhal/STM32/STM32F30x/ADC_DUAL/debug/STM32F30x-ADC_DUAL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F30x/ADC_DUAL/halconf.h -text
 testhal/STM32/STM32F30x/ADC_DUAL/main.c -text
 testhal/STM32/STM32F30x/ADC_DUAL/mcuconf.h -text
