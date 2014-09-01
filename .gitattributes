@@ -560,6 +560,8 @@ os/hal/boards/readme.txt -text
 os/hal/boards/simulator/board.c -text
 os/hal/boards/simulator/board.h -text
 os/hal/boards/simulator/board.mk -text
+os/hal/dox/icu.dox -text
+os/hal/dox/pwm.dox -text
 os/hal/hal.mk -text
 os/hal/include/adc.h -text
 os/hal/include/can.h -text
