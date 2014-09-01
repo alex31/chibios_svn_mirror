@@ -622,6 +622,8 @@ os/hal/ports/KINETIS/KL2x/serial_lld.c -text
 os/hal/ports/KINETIS/KL2x/serial_lld.h -text
 os/hal/ports/KINETIS/KL2x/st_lld.c -text
 os/hal/ports/KINETIS/KL2x/st_lld.h -text
+os/hal/ports/KINETIS/LLD/ext_lld.c -text
+os/hal/ports/KINETIS/LLD/ext_lld.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.h -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.c -text
