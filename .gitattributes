@@ -619,8 +619,6 @@ os/hal/ports/AVR/st_lld.c -text
 os/hal/ports/AVR/st_lld.h -text
 os/hal/ports/KINETIS/K20x/hal_lld.c -text
 os/hal/ports/KINETIS/K20x/hal_lld.h -text
-os/hal/ports/KINETIS/K20x/i2c_lld.c -text
-os/hal/ports/KINETIS/K20x/i2c_lld.h -text
 os/hal/ports/KINETIS/K20x/kinetis_registry.h -text
 os/hal/ports/KINETIS/K20x/pal_lld.c -text
 os/hal/ports/KINETIS/K20x/pal_lld.h -text
@@ -644,6 +642,8 @@ os/hal/ports/KINETIS/KL2x/st_lld.c -text
 os/hal/ports/KINETIS/KL2x/st_lld.h -text
 os/hal/ports/KINETIS/LLD/ext_lld.c -text
 os/hal/ports/KINETIS/LLD/ext_lld.h -text
+os/hal/ports/KINETIS/LLD/i2c_lld.c -text
+os/hal/ports/KINETIS/LLD/i2c_lld.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.h -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.c -text
