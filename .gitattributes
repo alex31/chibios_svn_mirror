@@ -1025,6 +1025,12 @@ testhal/AVR/GPT/halconf.h -text
 testhal/AVR/GPT/main.c -text
 testhal/AVR/GPT/mcuconf.h -text
 testhal/AVR/GPT/readme.txt -text
+testhal/AVR/I2C/Makefile -text
+testhal/AVR/I2C/chconf.h -text
+testhal/AVR/I2C/halconf.h -text
+testhal/AVR/I2C/main.c -text
+testhal/AVR/I2C/mcuconf.h -text
+testhal/AVR/I2C/readme.txt -text
 testhal/AVR/ICU/Makefile -text
 testhal/AVR/ICU/chconf.h -text
 testhal/AVR/ICU/halconf.h -text
