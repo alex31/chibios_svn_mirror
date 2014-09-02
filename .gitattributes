@@ -1045,6 +1045,12 @@ testhal/AVR/PWM/main.c -text
 testhal/AVR/PWM/mcuconf.h -text
 testhal/AVR/PWM/nilconf.h -text
 testhal/AVR/PWM/readme.txt -text
+testhal/KINETIS/I2C/Makefile -text
+testhal/KINETIS/I2C/chconf.h -text
+testhal/KINETIS/I2C/halconf.h -text
+testhal/KINETIS/I2C/main.c -text
+testhal/KINETIS/I2C/mcuconf.h -text
+testhal/KINETIS/I2C/readme.txt -text
 testhal/STM32/STM32F0xx/ADC/.cproject -text
 testhal/STM32/STM32F0xx/ADC/.project -text
 testhal/STM32/STM32F0xx/ADC/Makefile -text
