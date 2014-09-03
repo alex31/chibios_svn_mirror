@@ -40,6 +40,15 @@ demos/KINETIS/RT-FREEDOM-KL25Z/halconf.h -text
 demos/KINETIS/RT-FREEDOM-KL25Z/main.c -text
 demos/KINETIS/RT-FREEDOM-KL25Z/mcuconf.h -text
 demos/KINETIS/RT-FREEDOM-KL25Z/readme.txt -text
+demos/KINETIS/RT-MCHCK-K20-GPT/.cproject -text
+demos/KINETIS/RT-MCHCK-K20-GPT/.project -text
+demos/KINETIS/RT-MCHCK-K20-GPT/Makefile -text
+demos/KINETIS/RT-MCHCK-K20-GPT/chconf.h -text
+demos/KINETIS/RT-MCHCK-K20-GPT/debug/RT-MCHCK-K20-GPT.launch -text
+demos/KINETIS/RT-MCHCK-K20-GPT/halconf.h -text
+demos/KINETIS/RT-MCHCK-K20-GPT/main.c -text
+demos/KINETIS/RT-MCHCK-K20-GPT/mcuconf.h -text
+demos/KINETIS/RT-MCHCK-K20-GPT/readme.txt -text
 demos/KINETIS/RT-MCHCK-K20-SPI/Makefile -text
 demos/KINETIS/RT-MCHCK-K20-SPI/chconf.h -text
 demos/KINETIS/RT-MCHCK-K20-SPI/halconf.h -text
