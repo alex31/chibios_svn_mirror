@@ -619,6 +619,8 @@ os/hal/ports/AVR/spi_lld.c -text
 os/hal/ports/AVR/spi_lld.h -text
 os/hal/ports/AVR/st_lld.c -text
 os/hal/ports/AVR/st_lld.h -text
+os/hal/ports/KINETIS/K20x/gpt_lld.c -text
+os/hal/ports/KINETIS/K20x/gpt_lld.h -text
 os/hal/ports/KINETIS/K20x/hal_lld.c -text
 os/hal/ports/KINETIS/K20x/hal_lld.h -text
 os/hal/ports/KINETIS/K20x/kinetis_registry.h -text
