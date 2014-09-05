@@ -1058,6 +1058,15 @@ testhal/AVR/PWM/main.c -text
 testhal/AVR/PWM/mcuconf.h -text
 testhal/AVR/PWM/nilconf.h -text
 testhal/AVR/PWM/readme.txt -text
+testhal/KINETIS/ADC/.cproject -text
+testhal/KINETIS/ADC/.project -text
+testhal/KINETIS/ADC/Makefile -text
+testhal/KINETIS/ADC/chconf.h -text
+testhal/KINETIS/ADC/debug/RT-FREEDOM-KL25Z-ADC.launch -text
+testhal/KINETIS/ADC/halconf.h -text
+testhal/KINETIS/ADC/main.c -text
+testhal/KINETIS/ADC/mcuconf.h -text
+testhal/KINETIS/ADC/readme.txt -text
 testhal/KINETIS/I2C/Makefile -text
 testhal/KINETIS/I2C/chconf.h -text
 testhal/KINETIS/I2C/halconf.h -text
