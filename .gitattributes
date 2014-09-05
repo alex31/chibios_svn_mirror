@@ -653,6 +653,8 @@ os/hal/ports/KINETIS/KL2x/serial_lld.c -text
 os/hal/ports/KINETIS/KL2x/serial_lld.h -text
 os/hal/ports/KINETIS/KL2x/st_lld.c -text
 os/hal/ports/KINETIS/KL2x/st_lld.h -text
+os/hal/ports/KINETIS/LLD/adc_lld.c -text
+os/hal/ports/KINETIS/LLD/adc_lld.h -text
 os/hal/ports/KINETIS/LLD/ext_lld.c -text
 os/hal/ports/KINETIS/LLD/ext_lld.h -text
 os/hal/ports/KINETIS/LLD/i2c_lld.c -text
