@@ -1427,6 +1427,7 @@ testhal/STM32/STM32F4xx/IRQ_STORM_FPU/.cproject -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/.project -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/Makefile -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/chconf.h -text
+testhal/STM32/STM32F4xx/IRQ_STORM_FPU/debug/STM32F4xx-IRQ_STORM_FPU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/extfunc.c -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/halconf.h -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/iar/ch.ewp -text
