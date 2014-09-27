@@ -369,6 +369,17 @@ os/ext/CMSIS/ST/stm32f0xx.h -text
 os/ext/CMSIS/ST/stm32f10x.h -text
 os/ext/CMSIS/ST/stm32f30x.h -text
 os/ext/CMSIS/ST/stm32f37x.h -text
+os/ext/CMSIS/ST/stm32f401xc.h -text
+os/ext/CMSIS/ST/stm32f401xe.h -text
+os/ext/CMSIS/ST/stm32f405xx.h -text
+os/ext/CMSIS/ST/stm32f407xx.h -text
+os/ext/CMSIS/ST/stm32f411xe.h -text
+os/ext/CMSIS/ST/stm32f415xx.h -text
+os/ext/CMSIS/ST/stm32f417xx.h -text
+os/ext/CMSIS/ST/stm32f427xx.h -text
+os/ext/CMSIS/ST/stm32f429xx.h -text
+os/ext/CMSIS/ST/stm32f437xx.h -text
+os/ext/CMSIS/ST/stm32f439xx.h -text
 os/ext/CMSIS/ST/stm32f4xx.h -text
 os/ext/CMSIS/ST/stm32l1xx.h -text
 os/ext/CMSIS/ST/system_stm32f0xx.h -text
