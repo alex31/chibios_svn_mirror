@@ -365,6 +365,17 @@ os/common/ports/e200/devices/SPC57EMxx_HSM/intc.h -text
 os/common/ports/e200/devices/SPC57EMxx_HSM/ppcparams.h -text
 os/ext/CMSIS/KINETIS/kl25z.h -text
 os/ext/CMSIS/KINETIS/mk20d5.h -text
+os/ext/CMSIS/ST/stm32f030x6.h -text
+os/ext/CMSIS/ST/stm32f030x8.h -text
+os/ext/CMSIS/ST/stm32f031x6.h -text
+os/ext/CMSIS/ST/stm32f038xx.h -text
+os/ext/CMSIS/ST/stm32f042x6.h -text
+os/ext/CMSIS/ST/stm32f048xx.h -text
+os/ext/CMSIS/ST/stm32f051x8.h -text
+os/ext/CMSIS/ST/stm32f058xx.h -text
+os/ext/CMSIS/ST/stm32f071xb.h -text
+os/ext/CMSIS/ST/stm32f072xb.h -text
+os/ext/CMSIS/ST/stm32f078xx.h -text
 os/ext/CMSIS/ST/stm32f0xx.h -text
 os/ext/CMSIS/ST/stm32f10x.h -text
 os/ext/CMSIS/ST/stm32f301x8.h -text
