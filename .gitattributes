@@ -212,6 +212,15 @@ demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/halconf.h -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/main.c -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/mcuconf.h -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/readme.txt -text
+demos/STM32/RT-STM32F103RB-NUCLEO/.cproject -text
+demos/STM32/RT-STM32F103RB-NUCLEO/.project -text
+demos/STM32/RT-STM32F103RB-NUCLEO/Makefile -text
+demos/STM32/RT-STM32F103RB-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F103RB-NUCLEO/debug/RT-STM32F103RB-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F103RB-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32F103RB-NUCLEO/main.c -text
+demos/STM32/RT-STM32F103RB-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32F103RB-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32F303-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F303-DISCOVERY/.project -text
 demos/STM32/RT-STM32F303-DISCOVERY/Makefile -text
