@@ -323,6 +323,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F107xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F303xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F373xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F401xC.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F401xE.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F405xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F407xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F429xI.ld -text
