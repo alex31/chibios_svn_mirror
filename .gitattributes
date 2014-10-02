@@ -234,6 +234,15 @@ demos/STM32/RT-STM32F303-DISCOVERY/keil/ch.uvproj -text
 demos/STM32/RT-STM32F303-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F303-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F303-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F334R8-NUCLEO/.cproject -text
+demos/STM32/RT-STM32F334R8-NUCLEO/.project -text
+demos/STM32/RT-STM32F334R8-NUCLEO/Makefile -text
+demos/STM32/RT-STM32F334R8-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F334R8-NUCLEO/debug/RT-STM32F334R8-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F334R8-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32F334R8-NUCLEO/main.c -text
+demos/STM32/RT-STM32F334R8-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32F334R8-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/.cproject -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/.project -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/Makefile -text
@@ -321,6 +330,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xE.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F107xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F303xC.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F334x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F373xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F401xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F401xE.ld -text
