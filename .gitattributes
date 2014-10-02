@@ -177,6 +177,14 @@ demos/STM32/NIL-STM32L152-DISCOVERY/halconf.h -text
 demos/STM32/NIL-STM32L152-DISCOVERY/main.c -text
 demos/STM32/NIL-STM32L152-DISCOVERY/mcuconf.h -text
 demos/STM32/NIL-STM32L152-DISCOVERY/nilconf.h -text
+demos/STM32/RT-STM32F030R8-NUCLEO/.cproject -text
+demos/STM32/RT-STM32F030R8-NUCLEO/.project -text
+demos/STM32/RT-STM32F030R8-NUCLEO/Makefile -text
+demos/STM32/RT-STM32F030R8-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F030R8-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32F030R8-NUCLEO/main.c -text
+demos/STM32/RT-STM32F030R8-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32F030R8-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32F051-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F051-DISCOVERY/.project -text
 demos/STM32/RT-STM32F051-DISCOVERY/Makefile -text
