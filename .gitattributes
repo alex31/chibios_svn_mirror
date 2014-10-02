@@ -283,6 +283,15 @@ demos/STM32/RT-STM32L152-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32L152-DISCOVERY/main.c -text
 demos/STM32/RT-STM32L152-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32L152-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32L152RE-NUCLEO/.cproject -text
+demos/STM32/RT-STM32L152RE-NUCLEO/.project -text
+demos/STM32/RT-STM32L152RE-NUCLEO/Makefile -text
+demos/STM32/RT-STM32L152RE-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32L152RE-NUCLEO/debug/RT-STM32L152RE-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32L152RE-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32L152RE-NUCLEO/main.c -text
+demos/STM32/RT-STM32L152RE-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32L152RE-NUCLEO/readme.txt -text
 os/common/ports/ARM/compilers/GCC/crt0.s -text
 os/common/ports/ARM/compilers/GCC/irq.s -text
 os/common/ports/ARM/compilers/GCC/ld/LPC2148.ld -text
