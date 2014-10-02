@@ -584,6 +584,10 @@ os/hal/boards/ST_NUCLEO_F030R8/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_F103RB/board.c -text
 os/hal/boards/ST_NUCLEO_F103RB/board.h -text
 os/hal/boards/ST_NUCLEO_F103RB/board.mk -text
+os/hal/boards/ST_NUCLEO_F334R8/board.c -text
+os/hal/boards/ST_NUCLEO_F334R8/board.h -text
+os/hal/boards/ST_NUCLEO_F334R8/board.mk -text
+os/hal/boards/ST_NUCLEO_F334R8/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_F401RE/board.c -text
 os/hal/boards/ST_NUCLEO_F401RE/board.h -text
 os/hal/boards/ST_NUCLEO_F401RE/board.mk -text
