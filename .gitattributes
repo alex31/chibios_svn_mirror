@@ -181,6 +181,7 @@ demos/STM32/RT-STM32F030R8-NUCLEO/.cproject -text
 demos/STM32/RT-STM32F030R8-NUCLEO/.project -text
 demos/STM32/RT-STM32F030R8-NUCLEO/Makefile -text
 demos/STM32/RT-STM32F030R8-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F030R8-NUCLEO/debug/RT-STM32F030R8-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F030R8-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32F030R8-NUCLEO/main.c -text
 demos/STM32/RT-STM32F030R8-NUCLEO/mcuconf.h -text
