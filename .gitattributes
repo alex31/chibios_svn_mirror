@@ -243,6 +243,15 @@ demos/STM32/RT-STM32F373-STM32373C_EVAL/halconf.h -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/main.c -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/mcuconf.h -text
 demos/STM32/RT-STM32F373-STM32373C_EVAL/readme.txt -text
+demos/STM32/RT-STM32F401RE-NUCLEO/.cproject -text
+demos/STM32/RT-STM32F401RE-NUCLEO/.project -text
+demos/STM32/RT-STM32F401RE-NUCLEO/Makefile -text
+demos/STM32/RT-STM32F401RE-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F401RE-NUCLEO/debug/RT-STM32F401RE-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F401RE-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32F401RE-NUCLEO/main.c -text
+demos/STM32/RT-STM32F401RE-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32F401RE-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/.cproject -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/.project -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/Makefile -text
