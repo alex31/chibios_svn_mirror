@@ -221,6 +221,15 @@ demos/STM32/RT-STM32F103RB-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32F103RB-NUCLEO/main.c -text
 demos/STM32/RT-STM32F103RB-NUCLEO/mcuconf.h -text
 demos/STM32/RT-STM32F103RB-NUCLEO/readme.txt -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/.cproject -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/.project -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/Makefile -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/debug/RT-STM32F103_INEMO_DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/halconf.h -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/main.c -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/mcuconf.h -text
+demos/STM32/RT-STM32F103_INEMO_DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F303-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F303-DISCOVERY/.project -text
 demos/STM32/RT-STM32F303-DISCOVERY/Makefile -text
