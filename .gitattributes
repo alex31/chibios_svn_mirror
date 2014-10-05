@@ -987,6 +987,8 @@ os/rt/ports/ARMCMx/chcore_v6m.c -text
 os/rt/ports/ARMCMx/chcore_v6m.h -text
 os/rt/ports/ARMCMx/chcore_v7m.c -text
 os/rt/ports/ARMCMx/chcore_v7m.h -text
+os/rt/ports/ARMCMx/cmsis_os/cmsis_os.c -text
+os/rt/ports/ARMCMx/cmsis_os/cmsis_os.h -text
 os/rt/ports/ARMCMx/compilers/GCC/chcoreasm_v6m.s -text
 os/rt/ports/ARMCMx/compilers/GCC/chcoreasm_v7m.s -text
 os/rt/ports/ARMCMx/compilers/GCC/chtypes.h -text
