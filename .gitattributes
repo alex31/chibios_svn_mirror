@@ -487,8 +487,6 @@ os/ext/CMSIS/include/core_cm4_simd.h -text
 os/ext/CMSIS/include/core_cmFunc.h -text
 os/ext/CMSIS/include/core_cmInstr.h -text
 os/ext/CMSIS/readme.txt -text
-os/ext/fatfs-0.10b-patched.zip -text
-os/ext/lwip-1.4.1_patched.zip -text
 os/ext/readme.txt -text
 os/hal/boards/ARDUINO_MEGA/board.c -text
 os/hal/boards/ARDUINO_MEGA/board.h -text
