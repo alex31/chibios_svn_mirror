@@ -1264,6 +1264,18 @@ testhal/STM32/STM32F1xx/EXT/halconf.h -text
 testhal/STM32/STM32F1xx/EXT/main.c -text
 testhal/STM32/STM32F1xx/EXT/mcuconf.h -text
 testhal/STM32/STM32F1xx/EXT/readme.txt -text
+testhal/STM32/STM32F1xx/I2C/.cproject -text svneol=unset#application/xml
+testhal/STM32/STM32F1xx/I2C/.project -text svneol=unset#application/xml
+testhal/STM32/STM32F1xx/I2C/Makefile -text
+testhal/STM32/STM32F1xx/I2C/chconf.h -text
+testhal/STM32/STM32F1xx/I2C/fake.c -text
+testhal/STM32/STM32F1xx/I2C/fake.h -text
+testhal/STM32/STM32F1xx/I2C/halconf.h -text
+testhal/STM32/STM32F1xx/I2C/lis3.c -text
+testhal/STM32/STM32F1xx/I2C/lis3.h -text
+testhal/STM32/STM32F1xx/I2C/main.c -text
+testhal/STM32/STM32F1xx/I2C/mcuconf.h -text
+testhal/STM32/STM32F1xx/I2C/readme.txt -text
 testhal/STM32/STM32F1xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32F1xx/IRQ_STORM/.project -text
 testhal/STM32/STM32F1xx/IRQ_STORM/Makefile -text
