@@ -65,7 +65,9 @@ demos/LPC21xx/RT-LPC214x-OLIMEX/.cproject -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/.project -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/Makefile -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/chconf.h -text
+demos/LPC21xx/RT-LPC214x-OLIMEX/halconf.h -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/main.c -text
+demos/LPC21xx/RT-LPC214x-OLIMEX/mcuconf.h -text
 demos/SPC5/NIL-SPC560D-EVB/.cproject -text
 demos/SPC5/NIL-SPC560D-EVB/.project -text
 demos/SPC5/NIL-SPC560D-EVB/Makefile -text
@@ -760,6 +762,17 @@ os/hal/ports/KINETIS/LLD/ext_lld.c -text
 os/hal/ports/KINETIS/LLD/ext_lld.h -text
 os/hal/ports/KINETIS/LLD/i2c_lld.c -text
 os/hal/ports/KINETIS/LLD/i2c_lld.h -text
+os/hal/ports/LPC/LPC214x/hal_lld.c -text
+os/hal/ports/LPC/LPC214x/hal_lld.h -text
+os/hal/ports/LPC/LPC214x/pal_lld.c -text
+os/hal/ports/LPC/LPC214x/pal_lld.h -text
+os/hal/ports/LPC/LPC214x/platform.mk -text
+os/hal/ports/LPC/LPC214x/serial_lld.c -text
+os/hal/ports/LPC/LPC214x/serial_lld.h -text
+os/hal/ports/LPC/LPC214x/spi_lld.c -text
+os/hal/ports/LPC/LPC214x/spi_lld.h -text
+os/hal/ports/LPC/LPC214x/vic.c -text
+os/hal/ports/LPC/LPC214x/vic.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.h -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.c -text
