@@ -65,6 +65,7 @@ demos/LPC21xx/RT-LPC214x-OLIMEX/.cproject -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/.project -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/Makefile -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/chconf.h -text
+demos/LPC21xx/RT-LPC214x-OLIMEX/debug/RT-LPC214x-OLIMEX[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/halconf.h -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/main.c -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/mcuconf.h -text
