@@ -335,6 +335,8 @@ demos/STM32/RT-STM32L152RE-NUCLEO/mcuconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/readme.txt -text
 doc/reports/LPC2148-48-ARM.txt -text
 doc/reports/LPC2148-48-THUMB.txt -text
+doc/reports/STM32F407-168-GCC-FPU.txt -text
+doc/reports/STM32F407-168-GCC.txt -text
 os/common/ports/ARM/compilers/GCC/crt0.s -text
 os/common/ports/ARM/compilers/GCC/ld/LPC2148.ld -text
 os/common/ports/ARM/compilers/GCC/rules.ld -text
@@ -995,6 +997,7 @@ os/rt/include/chsem.h -text
 os/rt/include/chstats.h -text
 os/rt/include/chstreams.h -text
 os/rt/include/chsys.h -text
+os/rt/include/chsystypes.h -text
 os/rt/include/chthreads.h -text
 os/rt/include/chtm.h -text
 os/rt/include/chvt.h -text
