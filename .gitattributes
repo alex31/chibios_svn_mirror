@@ -1080,8 +1080,6 @@ os/rt/templates/module.c -text
 os/rt/templates/module.h -text
 os/various/chprintf.c -text
 os/various/chprintf.h -text
-os/various/chrtclib.c -text
-os/various/chrtclib.h -text
 os/various/cpp_wrappers/ch.cpp -text
 os/various/cpp_wrappers/ch.hpp -text
 os/various/cpp_wrappers/chcpp.mk -text
