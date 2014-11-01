@@ -932,8 +932,15 @@ os/hal/src/spi.c -text
 os/hal/src/st.c -text
 os/hal/src/uart.c -text
 os/hal/src/usb.c -text
+os/hal/templates/adc_lld.c -text
+os/hal/templates/adc_lld.h -text
+os/hal/templates/can_lld.c -text
+os/hal/templates/can_lld.h -text
+os/hal/templates/hal_lld.c -text
+os/hal/templates/hal_lld.h -text
 os/hal/templates/osal.c -text
 os/hal/templates/osal.h -text
+os/hal/templates/platform.mk -text
 os/hal/templates/st_lld.c -text
 os/hal/templates/st_lld.h -text
 os/nil/include/nil.h -text
