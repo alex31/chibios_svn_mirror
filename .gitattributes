@@ -1134,6 +1134,12 @@ test/rt/test.h -text
 test/rt/test.mk -text
 test/rt/testbmk.c -text
 test/rt/testbmk.h -text
+test/rt/testbuild/.cproject -text
+test/rt/testbuild/.project -text
+test/rt/testbuild/Makefile -text
+test/rt/testbuild/board.h -text
+test/rt/testbuild/chconf.h -text
+test/rt/testbuild/main.c -text
 test/rt/testdyn.c -text
 test/rt/testdyn.h -text
 test/rt/testevt.c -text
