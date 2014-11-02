@@ -945,6 +945,8 @@ os/hal/templates/hal_lld.h -text
 os/hal/templates/halconf.h -text
 os/hal/templates/i2c_lld.c -text
 os/hal/templates/i2c_lld.h -text
+os/hal/templates/i2s_lld.c -text
+os/hal/templates/i2s_lld.h -text
 os/hal/templates/icu_lld.c -text
 os/hal/templates/icu_lld.h -text
 os/hal/templates/mac_lld.c -text
