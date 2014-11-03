@@ -1,6 +1,8 @@
 /*.cproject
 /*.project
 /.metadata
+os/ext/fatfs
+os/ext/lwip
 os/hal/boards/NONSTANDARD_STM32F4_BARTHESS1/*.origin
 os/hal/boards/OLIMEX_STM32_103STK/board.lst
 os/hal/boards/OLIMEX_STM32_P103/*.lst
