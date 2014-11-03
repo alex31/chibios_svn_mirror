@@ -909,6 +909,15 @@ os/hal/ports/STM32/STM32L1xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L1xx/stm32_registry.h -text
 os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
+os/hal/ports/simulator/console.c -text
+os/hal/ports/simulator/console.h -text
+os/hal/ports/simulator/pal_lld.c -text
+os/hal/ports/simulator/pal_lld.h -text
+os/hal/ports/simulator/win32/hal_lld.c -text
+os/hal/ports/simulator/win32/hal_lld.h -text
+os/hal/ports/simulator/win32/platform.mk -text
+os/hal/ports/simulator/win32/serial_lld.c -text
+os/hal/ports/simulator/win32/serial_lld.h -text
 os/hal/src/adc.c -text
 os/hal/src/can.c -text
 os/hal/src/dac.c -text
