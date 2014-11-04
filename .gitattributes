@@ -921,6 +921,8 @@ os/hal/ports/simulator/console.c -text
 os/hal/ports/simulator/console.h -text
 os/hal/ports/simulator/pal_lld.c -text
 os/hal/ports/simulator/pal_lld.h -text
+os/hal/ports/simulator/st_lld.c -text
+os/hal/ports/simulator/st_lld.h -text
 os/hal/ports/simulator/win32/hal_lld.c -text
 os/hal/ports/simulator/win32/hal_lld.h -text
 os/hal/ports/simulator/win32/platform.mk -text
