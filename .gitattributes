@@ -333,6 +333,11 @@ demos/STM32/RT-STM32L152RE-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/main.c -text
 demos/STM32/RT-STM32L152RE-NUCLEO/mcuconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/readme.txt -text
+demos/various/RT-Win32-Simulator/Makefile -text
+demos/various/RT-Win32-Simulator/chconf.h -text
+demos/various/RT-Win32-Simulator/halconf.h -text
+demos/various/RT-Win32-Simulator/main.c -text
+demos/various/RT-Win32-Simulator/readme.txt -text
 doc/reports/LPC2148-48-ARM.txt -text
 doc/reports/LPC2148-48-THUMB.txt -text
 doc/reports/STM32F407-168-GCC-FPU.txt -text
@@ -589,6 +594,9 @@ os/hal/boards/RAISONANCE_REVA_STM8S/board.c -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.h -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.c -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.h -text
+os/hal/boards/ST_EVB_SPC560B/board.c -text
+os/hal/boards/ST_EVB_SPC560B/board.h -text
+os/hal/boards/ST_EVB_SPC560B/board.mk -text
 os/hal/boards/ST_EVB_SPC560BC/board.c -text
 os/hal/boards/ST_EVB_SPC560BC/board.h -text
 os/hal/boards/ST_EVB_SPC560BC/board.mk -text
