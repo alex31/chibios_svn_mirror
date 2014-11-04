@@ -333,6 +333,8 @@ demos/STM32/RT-STM32L152RE-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/main.c -text
 demos/STM32/RT-STM32L152RE-NUCLEO/mcuconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/readme.txt -text
+demos/various/RT-Win32-Simulator/.cproject -text
+demos/various/RT-Win32-Simulator/.project -text
 demos/various/RT-Win32-Simulator/Makefile -text
 demos/various/RT-Win32-Simulator/chconf.h -text
 demos/various/RT-Win32-Simulator/halconf.h -text
