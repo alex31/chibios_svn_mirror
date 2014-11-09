@@ -1197,13 +1197,10 @@ test/rt/test.mk -text
 test/rt/testbmk.c -text
 test/rt/testbmk.h -text
 test/rt/testbuild/Makefile -text
-test/rt/testbuild/build.txt -text
-test/rt/testbuild/buildlog.txt -text
 test/rt/testbuild/chconf.h -text
 test/rt/testbuild/go.sh -text
 test/rt/testbuild/halconf.h -text
 test/rt/testbuild/main.c -text
-test/rt/testbuild/testlog.txt -text
 test/rt/testdyn.c -text
 test/rt/testdyn.h -text
 test/rt/testevt.c -text
