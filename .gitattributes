@@ -344,6 +344,7 @@ doc/reports/LPC2148-48-ARM.txt -text
 doc/reports/LPC2148-48-THUMB.txt -text
 doc/reports/STM32F407-168-GCC-FPU.txt -text
 doc/reports/STM32F407-168-GCC.txt -text
+doc/reports/rt_test_build.txt -text
 os/common/ports/ARM/compilers/GCC/crt0.s -text
 os/common/ports/ARM/compilers/GCC/ld/LPC2148.ld -text
 os/common/ports/ARM/compilers/GCC/rules.ld -text
