@@ -764,9 +764,12 @@ os/hal/ports/KINETIS/K20x/st_lld.h -text
 os/hal/ports/KINETIS/KL2x/hal_lld.c -text
 os/hal/ports/KINETIS/KL2x/hal_lld.h -text
 os/hal/ports/KINETIS/KL2x/kinetis_registry.h -text
+os/hal/ports/KINETIS/KL2x/kinetis_tpm.h -text
 os/hal/ports/KINETIS/KL2x/pal_lld.c -text
 os/hal/ports/KINETIS/KL2x/pal_lld.h -text
 os/hal/ports/KINETIS/KL2x/platform.mk -text
+os/hal/ports/KINETIS/KL2x/pwm_lld.c -text
+os/hal/ports/KINETIS/KL2x/pwm_lld.h -text
 os/hal/ports/KINETIS/KL2x/serial_lld.c -text
 os/hal/ports/KINETIS/KL2x/serial_lld.h -text
 os/hal/ports/KINETIS/KL2x/st_lld.c -text
