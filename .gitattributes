@@ -1621,6 +1621,7 @@ testhal/STM32/STM32F4xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32F4xx/IRQ_STORM/.project -text
 testhal/STM32/STM32F4xx/IRQ_STORM/Makefile -text
 testhal/STM32/STM32F4xx/IRQ_STORM/chconf.h -text
+testhal/STM32/STM32F4xx/IRQ_STORM/debug/STM32F4xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32F4xx/IRQ_STORM/iar/ch.ewp -text
 testhal/STM32/STM32F4xx/IRQ_STORM/iar/ch.eww -text
