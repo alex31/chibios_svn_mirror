@@ -340,6 +340,13 @@ demos/various/RT-Win32-Simulator/chconf.h -text
 demos/various/RT-Win32-Simulator/halconf.h -text
 demos/various/RT-Win32-Simulator/main.c -text
 demos/various/RT-Win32-Simulator/readme.txt -text
+doc/common/rsc/custom.css -text
+doc/common/rsc/footer_chm.html -text
+doc/common/rsc/footer_html.html -text
+doc/common/rsc/header_chm.html -text
+doc/common/rsc/header_html.html -text
+doc/common/rsc/layout.xml -text
+doc/common/rsc/logo.png -text
 doc/rt/Doxyfile_chm -text
 doc/rt/Doxyfile_html -text
 doc/rt/index.html -text
@@ -351,13 +358,6 @@ doc/rt/reports/LPC2148-48-THUMB.txt -text
 doc/rt/reports/STM32F407-168-GCC-FPU.txt -text
 doc/rt/reports/STM32F407-168-GCC.txt -text
 doc/rt/reports/rt_test_build.txt -text
-doc/rt/rsc/custom.css -text
-doc/rt/rsc/footer_chm.html -text
-doc/rt/rsc/footer_html.html -text
-doc/rt/rsc/header_chm.html -text
-doc/rt/rsc/header_html.html -text
-doc/rt/rsc/layout.xml -text
-doc/rt/rsc/logo.png -text
 doc/rt/rsc/workspace.eps -text
 doc/rt/rsc/workspace.png -text
 doc/rt/rsc/workspace.svg -text
