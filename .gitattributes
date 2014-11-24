@@ -1067,6 +1067,7 @@ os/rt/include/chdebug.h -text
 os/rt/include/chdynamic.h -text
 os/rt/include/chevents.h -text
 os/rt/include/chheap.h -text
+os/rt/include/chlicense.h -text
 os/rt/include/chmboxes.h -text
 os/rt/include/chmemcore.h -text
 os/rt/include/chmempools.h -text
