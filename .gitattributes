@@ -716,6 +716,7 @@ os/hal/include/ext.h -text
 os/hal/include/gpt.h -text
 os/hal/include/hal.h -text
 os/hal/include/hal_channels.h -text
+os/hal/include/hal_files.h -text
 os/hal/include/hal_ioblock.h -text
 os/hal/include/hal_mmcsd.h -text
 os/hal/include/hal_queues.h -text
