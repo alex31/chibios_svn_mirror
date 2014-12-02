@@ -347,6 +347,14 @@ doc/common/rsc/header_chm.html -text
 doc/common/rsc/header_html.html -text
 doc/common/rsc/layout.xml -text
 doc/common/rsc/logo.png -text
+doc/hal/Doxyfile_chm -text
+doc/hal/Doxyfile_html -text
+doc/hal/index.html -text
+doc/hal/makechm.bat -text
+doc/hal/makehtml.bat -text
+doc/hal/readme.txt -text
+doc/hal/rsync_web.sh -text
+doc/hal/src/main.dox -text
 doc/rt/Doxyfile_chm -text
 doc/rt/Doxyfile_html -text
 doc/rt/index.html -text
@@ -999,6 +1007,7 @@ os/hal/templates/mac_lld.h -text
 os/hal/templates/mcuconf.h -text
 os/hal/templates/osal/osal.c -text
 os/hal/templates/osal/osal.h -text
+os/hal/templates/osal/osal.mk -text
 os/hal/templates/pal_lld.c -text
 os/hal/templates/pal_lld.h -text
 os/hal/templates/platform.mk -text
