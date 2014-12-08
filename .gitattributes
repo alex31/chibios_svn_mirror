@@ -716,12 +716,14 @@ os/hal/boards/simulator/board.h -text
 os/hal/boards/simulator/board.mk -text
 os/hal/dox/adc.dox -text
 os/hal/dox/can.dox -text
+os/hal/dox/dac.dox -text
 os/hal/dox/ext.dox -text
 os/hal/dox/gpt.dox -text
 os/hal/dox/hal.dox -text
 os/hal/dox/hal_channels.dox -text
 os/hal/dox/hal_files.dox -text
 os/hal/dox/hal_ioblock.dox -text
+os/hal/dox/hal_queues.dox -text
 os/hal/dox/hal_streams.dox -text
 os/hal/dox/i2c.dox -text
 os/hal/dox/i2s.dox -text
@@ -737,6 +739,7 @@ os/hal/dox/sdc.dox -text
 os/hal/dox/serial.dox -text
 os/hal/dox/serial_usb.dox -text
 os/hal/dox/spi.dox -text
+os/hal/dox/st.dox -text
 os/hal/dox/uart.dox -text
 os/hal/dox/usb.dox -text
 os/hal/hal.mk -text
