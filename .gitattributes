@@ -719,13 +719,13 @@ os/hal/dox/can.dox -text
 os/hal/dox/ext.dox -text
 os/hal/dox/gpt.dox -text
 os/hal/dox/hal.dox -text
+os/hal/dox/hal_channels.dox -text
 os/hal/dox/hal_files.dox -text
+os/hal/dox/hal_ioblock.dox -text
 os/hal/dox/hal_streams.dox -text
 os/hal/dox/i2c.dox -text
 os/hal/dox/i2s.dox -text
 os/hal/dox/icu.dox -text
-os/hal/dox/io_block.dox -text
-os/hal/dox/io_channel.dox -text
 os/hal/dox/mac.dox -text
 os/hal/dox/main.dox -text
 os/hal/dox/mmc_spi.dox -text
