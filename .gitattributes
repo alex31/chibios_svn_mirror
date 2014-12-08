@@ -355,6 +355,17 @@ doc/hal/makehtml.bat -text
 doc/hal/readme.txt -text
 doc/hal/rsync_web.sh -text
 doc/hal/src/main.dox -text
+doc/nil/Doxyfile_chm -text
+doc/nil/Doxyfile_html -text
+doc/nil/index.html -text
+doc/nil/makechm.bat -text
+doc/nil/makehtml.bat -text
+doc/nil/readme.txt -text
+doc/nil/rsc/workspace.eps -text
+doc/nil/rsc/workspace.png -text
+doc/nil/rsc/workspace.svg -text
+doc/nil/rsync_web.sh -text
+doc/nil/src/main.dox -text
 doc/rt/Doxyfile_chm -text
 doc/rt/Doxyfile_html -text
 doc/rt/index.html -text
