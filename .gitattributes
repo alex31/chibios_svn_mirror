@@ -395,6 +395,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/KL25Z128.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/MK20DX128.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F072xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F100xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xD.ld -text
