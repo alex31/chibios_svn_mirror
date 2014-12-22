@@ -610,6 +610,10 @@ os/hal/boards/OLIMEX_STM32_E407/board.c -text
 os/hal/boards/OLIMEX_STM32_E407/board.h -text
 os/hal/boards/OLIMEX_STM32_E407/board.mk -text
 os/hal/boards/OLIMEX_STM32_E407/cfg/board.chcfg -text
+os/hal/boards/OLIMEX_STM32_E407_REV_D/board.c -text
+os/hal/boards/OLIMEX_STM32_E407_REV_D/board.h -text
+os/hal/boards/OLIMEX_STM32_E407_REV_D/board.mk -text
+os/hal/boards/OLIMEX_STM32_E407_REV_D/cfg/board.chcfg -text
 os/hal/boards/OLIMEX_STM32_H103/board.c -text
 os/hal/boards/OLIMEX_STM32_H103/board.h -text
 os/hal/boards/OLIMEX_STM32_H103/board.mk -text
