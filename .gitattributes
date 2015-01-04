@@ -309,7 +309,7 @@ demos/STM32/RT-STM32F411RE-NUCLEO/.cproject -text
 demos/STM32/RT-STM32F411RE-NUCLEO/.project -text
 demos/STM32/RT-STM32F411RE-NUCLEO/Makefile -text
 demos/STM32/RT-STM32F411RE-NUCLEO/chconf.h -text
-demos/STM32/RT-STM32F411RE-NUCLEO/debug/RT-STM32F401RE-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F411RE-NUCLEO/debug/RT-STM32F411RE-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F411RE-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32F411RE-NUCLEO/main.c -text
 demos/STM32/RT-STM32F411RE-NUCLEO/mcuconf.h -text
