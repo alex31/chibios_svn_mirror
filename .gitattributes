@@ -305,6 +305,15 @@ demos/STM32/RT-STM32F407-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F407-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F407-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F407-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F411RE-NUCLEO/.cproject -text
+demos/STM32/RT-STM32F411RE-NUCLEO/.project -text
+demos/STM32/RT-STM32F411RE-NUCLEO/Makefile -text
+demos/STM32/RT-STM32F411RE-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F411RE-NUCLEO/debug/RT-STM32F401RE-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F411RE-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32F411RE-NUCLEO/main.c -text
+demos/STM32/RT-STM32F411RE-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32F411RE-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32F429-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F429-DISCOVERY/.project -text
 demos/STM32/RT-STM32F429-DISCOVERY/Makefile -text
@@ -683,6 +692,10 @@ os/hal/boards/ST_NUCLEO_F401RE/board.c -text
 os/hal/boards/ST_NUCLEO_F401RE/board.h -text
 os/hal/boards/ST_NUCLEO_F401RE/board.mk -text
 os/hal/boards/ST_NUCLEO_F401RE/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO_F411RE/board.c -text
+os/hal/boards/ST_NUCLEO_F411RE/board.h -text
+os/hal/boards/ST_NUCLEO_F411RE/board.mk -text
+os/hal/boards/ST_NUCLEO_F411RE/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_L152RE/board.c -text
 os/hal/boards/ST_NUCLEO_L152RE/board.h -text
 os/hal/boards/ST_NUCLEO_L152RE/board.mk -text
