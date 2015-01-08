@@ -437,6 +437,7 @@ os/common/ports/ARMCMx/devices/STM32F0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F1xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F3xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F4xx/cmparams.h -text
+os/common/ports/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/ports/e200/compilers/GCC/crt0.s -text
 os/common/ports/e200/compilers/GCC/ld/SPC560B50.ld -text
