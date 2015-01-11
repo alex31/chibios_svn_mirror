@@ -216,6 +216,14 @@ demos/STM32/RT-STM32F100-DISCOVERY/debug/RT-STM32F100-DISCOVERY[!!-~](OpenOCD,[!
 demos/STM32/RT-STM32F100-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F100-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F100-DISCOVERY/mcuconf.h -text
+demos/STM32/RT-STM32F103-MAPLEMINI/Makefile -text
+demos/STM32/RT-STM32F103-MAPLEMINI/chconf.h -text
+demos/STM32/RT-STM32F103-MAPLEMINI/halconf.h -text
+demos/STM32/RT-STM32F103-MAPLEMINI/main.c -text
+demos/STM32/RT-STM32F103-MAPLEMINI/mcuconf.h -text
+demos/STM32/RT-STM32F103-MAPLEMINI/readme.txt -text
+demos/STM32/RT-STM32F103-MAPLEMINI/usbcfg.c -text
+demos/STM32/RT-STM32F103-MAPLEMINI/usbcfg.h -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/.cproject -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/.project -text
 demos/STM32/RT-STM32F103-OLIMEX_STM32_P103/Makefile -text
@@ -410,6 +418,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F100xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xD.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xE.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xE_maplemini_bootloader.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F107xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F303xC.ld -text
