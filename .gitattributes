@@ -208,6 +208,15 @@ demos/STM32/RT-STM32F051-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F051-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F051-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F051-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F072-DISCOVERY/.cproject -text
+demos/STM32/RT-STM32F072-DISCOVERY/.project -text
+demos/STM32/RT-STM32F072-DISCOVERY/Makefile -text
+demos/STM32/RT-STM32F072-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F072-DISCOVERY/debug/RT-STM32F072-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F072-DISCOVERY/halconf.h -text
+demos/STM32/RT-STM32F072-DISCOVERY/main.c -text
+demos/STM32/RT-STM32F072-DISCOVERY/mcuconf.h -text
+demos/STM32/RT-STM32F072-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F100-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F100-DISCOVERY/.project -text
 demos/STM32/RT-STM32F100-DISCOVERY/Makefile -text
