@@ -835,6 +835,8 @@ os/hal/include/spi.h -text
 os/hal/include/st.h -text
 os/hal/include/uart.h -text
 os/hal/include/usb.h -text
+os/hal/lib/streams/nullstreams.c -text
+os/hal/lib/streams/nullstreams.h -text
 os/hal/osal/nil/osal.c -text
 os/hal/osal/nil/osal.h -text
 os/hal/osal/nil/osal.mk -text
