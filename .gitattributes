@@ -1602,6 +1602,7 @@ testhal/STM32/STM32F30x/USB_CDC/.cproject -text
 testhal/STM32/STM32F30x/USB_CDC/.project -text
 testhal/STM32/STM32F30x/USB_CDC/Makefile -text
 testhal/STM32/STM32F30x/USB_CDC/chconf.h -text
+testhal/STM32/STM32F30x/USB_CDC/debug/STM32F30x-USB_CDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F30x/USB_CDC/halconf.h -text
 testhal/STM32/STM32F30x/USB_CDC/main.c -text
 testhal/STM32/STM32F30x/USB_CDC/mcuconf.h -text
