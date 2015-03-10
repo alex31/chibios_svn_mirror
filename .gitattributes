@@ -361,6 +361,15 @@ demos/STM32/RT-STM32L152RE-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/main.c -text
 demos/STM32/RT-STM32L152RE-NUCLEO/mcuconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/readme.txt -text
+demos/various/RT-ARM7-GENERIC/.cproject -text
+demos/various/RT-ARM7-GENERIC/.project -text
+demos/various/RT-ARM7-GENERIC/Makefile -text
+demos/various/RT-ARM7-GENERIC/armparams.h -text
+demos/various/RT-ARM7-GENERIC/ch.ld -text
+demos/various/RT-ARM7-GENERIC/chconf.h -text
+demos/various/RT-ARM7-GENERIC/debug/RT-ARMCM0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/various/RT-ARM7-GENERIC/main.c -text
+demos/various/RT-ARM7-GENERIC/readme.txt -text
 demos/various/RT-ARMCM0-GENERIC/.cproject -text
 demos/various/RT-ARMCM0-GENERIC/.project -text
 demos/various/RT-ARMCM0-GENERIC/Makefile -text
@@ -1214,6 +1223,7 @@ os/rt/ports/ARM/chcore.h -text
 os/rt/ports/ARM/chcore_timer.h -text
 os/rt/ports/ARM/compilers/GCC/chcoreasm.s -text
 os/rt/ports/ARM/compilers/GCC/chtypes.h -text
+os/rt/ports/ARM/compilers/GCC/mk/port_generic.mk -text
 os/rt/ports/ARM/compilers/GCC/mk/port_lpc214x.mk -text
 os/rt/ports/ARMCMx/chcore.c -text
 os/rt/ports/ARMCMx/chcore.h -text
