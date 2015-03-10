@@ -1364,6 +1364,14 @@ test/nil/test_sequence_001.c -text
 test/nil/test_sequence_001.h -text
 test/nil/test_sequence_002.c -text
 test/nil/test_sequence_002.h -text
+test/nil/testbuild/pclint/au-misra3.lnt -text
+test/nil/testbuild/pclint/co-gcc.h -text
+test/nil/testbuild/pclint/co-gcc.lnt -text
+test/nil/testbuild/pclint/gcc-include-path.lnt -text
+test/nil/testbuild/pclint/lint_cmac.h -text
+test/nil/testbuild/pclint/lint_cppmac.h -text
+test/nil/testbuild/pclint/size-options.lnt -text
+test/nil/testbuild/pclint/waivers.lnt -text
 test/rt/coverage/Makefile -text
 test/rt/coverage/chconf.h -text
 test/rt/coverage/halconf.h -text
