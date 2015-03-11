@@ -361,6 +361,15 @@ demos/STM32/RT-STM32L152RE-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/main.c -text
 demos/STM32/RT-STM32L152RE-NUCLEO/mcuconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/readme.txt -text
+demos/various/NIL-ARMCM0-GENERIC/.cproject -text
+demos/various/NIL-ARMCM0-GENERIC/.project -text
+demos/various/NIL-ARMCM0-GENERIC/Makefile -text
+demos/various/NIL-ARMCM0-GENERIC/ch.ld -text
+demos/various/NIL-ARMCM0-GENERIC/cmparams.h -text
+demos/various/NIL-ARMCM0-GENERIC/debug/NIL-ARMC0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/various/NIL-ARMCM0-GENERIC/main.c -text
+demos/various/NIL-ARMCM0-GENERIC/misra.txt -text
+demos/various/NIL-ARMCM0-GENERIC/nilconf.h -text
 demos/various/NIL-ARMCM4-GENERIC/.cproject -text
 demos/various/NIL-ARMCM4-GENERIC/.project -text
 demos/various/NIL-ARMCM4-GENERIC/Makefile -text
@@ -1161,6 +1170,8 @@ os/hal/templates/usb_lld.h -text
 os/nil/dox/nil.dox -text
 os/nil/include/nil.h -text
 os/nil/nil.mk -text
+os/nil/ports/ARMCMx/compilers/GCC/mk/port_generic_cm0.mk -text
+os/nil/ports/ARMCMx/compilers/GCC/mk/port_generic_cm4.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f0xx.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f1xx.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f37x.mk -text
