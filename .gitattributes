@@ -368,7 +368,6 @@ demos/various/NIL-ARMCM0-GENERIC/ch.ld -text
 demos/various/NIL-ARMCM0-GENERIC/cmparams.h -text
 demos/various/NIL-ARMCM0-GENERIC/debug/NIL-ARMC0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/NIL-ARMCM0-GENERIC/main.c -text
-demos/various/NIL-ARMCM0-GENERIC/misra.txt -text
 demos/various/NIL-ARMCM0-GENERIC/nilconf.h -text
 demos/various/NIL-ARMCM4-GENERIC/.cproject -text
 demos/various/NIL-ARMCM4-GENERIC/.project -text
