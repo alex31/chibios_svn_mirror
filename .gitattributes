@@ -1211,6 +1211,7 @@ os/nil/src/nil.c -text
 os/nil/templates/nilconf.h -text
 os/nil/templates/nilcore.c -text
 os/nil/templates/nilcore.h -text
+os/nil/templates/nilcore_timer.h -text
 os/nil/templates/niltypes.h -text
 os/readme.txt -text
 os/rt/dox/rt.dox -text
@@ -1376,6 +1377,11 @@ test/nil/test_sequence_001.c -text
 test/nil/test_sequence_001.h -text
 test/nil/test_sequence_002.c -text
 test/nil/test_sequence_002.h -text
+test/nil/testbuild/.cproject -text
+test/nil/testbuild/.project -text
+test/nil/testbuild/Makefile -text
+test/nil/testbuild/main.c -text
+test/nil/testbuild/nilconf.h -text
 test/nil/testbuild/pclint/au-misra3.lnt -text
 test/nil/testbuild/pclint/co-gcc.h -text
 test/nil/testbuild/pclint/co-gcc.lnt -text
