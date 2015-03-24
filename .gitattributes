@@ -889,6 +889,9 @@ os/hal/lib/streams/nullstreams.h -text
 os/hal/osal/nil/osal.c -text
 os/hal/osal/nil/osal.h -text
 os/hal/osal/nil/osal.mk -text
+os/hal/osal/os-less/ARMCMx/osal.c -text
+os/hal/osal/os-less/ARMCMx/osal.h -text
+os/hal/osal/os-less/ARMCMx/osal.mk -text
 os/hal/osal/rt/osal.c -text
 os/hal/osal/rt/osal.h -text
 os/hal/osal/rt/osal.mk -text
