@@ -967,6 +967,8 @@ os/hal/ports/LPC/LPC214x/vic.c -text
 os/hal/ports/LPC/LPC214x/vic.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.h -text
+os/hal/ports/STM32/LLD/DMAv1/stm32_dma.c -text
+os/hal/ports/STM32/LLD/DMAv1/stm32_dma.h -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.c -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.h -text
 os/hal/ports/STM32/LLD/GPIOv2/pal_lld.c -text
