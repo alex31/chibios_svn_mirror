@@ -150,6 +150,14 @@ demos/STM32/CMSIS-STM32F407-DISCOVERY/halconf.h -text
 demos/STM32/CMSIS-STM32F407-DISCOVERY/main.c -text
 demos/STM32/CMSIS-STM32F407-DISCOVERY/mcuconf.h -text
 demos/STM32/CMSIS-STM32F407-DISCOVERY/readme.txt -text
+demos/STM32/HAL-STM32F407-DISCOVERY/.cproject -text
+demos/STM32/HAL-STM32F407-DISCOVERY/.project -text
+demos/STM32/HAL-STM32F407-DISCOVERY/Makefile -text
+demos/STM32/HAL-STM32F407-DISCOVERY/debug/HAL-STM32F407-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/HAL-STM32F407-DISCOVERY/halconf.h -text
+demos/STM32/HAL-STM32F407-DISCOVERY/main.c -text
+demos/STM32/HAL-STM32F407-DISCOVERY/mcuconf.h -text
+demos/STM32/HAL-STM32F407-DISCOVERY/readme.txt -text
 demos/STM32/NIL-STM32F051-DISCOVERY/.cproject -text
 demos/STM32/NIL-STM32F051-DISCOVERY/.project -text
 demos/STM32/NIL-STM32F051-DISCOVERY/Makefile -text
@@ -490,6 +498,12 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x6.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f3xx.mk -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f4xx.mk -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/rules.ld -text
 os/common/ports/ARMCMx/compilers/GCC/rules.mk -text
 os/common/ports/ARMCMx/compilers/GCC/vectors.c -text
