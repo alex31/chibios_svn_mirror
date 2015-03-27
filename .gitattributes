@@ -374,7 +374,6 @@ demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
 demos/various/NIL-ARMCM0-GENERIC/ch.ld -text
-demos/various/NIL-ARMCM0-GENERIC/cmparams.h -text
 demos/various/NIL-ARMCM0-GENERIC/debug/NIL-ARMC0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/NIL-ARMCM0-GENERIC/main.c -text
 demos/various/NIL-ARMCM0-GENERIC/nilconf.h -text
@@ -382,14 +381,12 @@ demos/various/NIL-ARMCM4-GENERIC/.cproject -text
 demos/various/NIL-ARMCM4-GENERIC/.project -text
 demos/various/NIL-ARMCM4-GENERIC/Makefile -text
 demos/various/NIL-ARMCM4-GENERIC/ch.ld -text
-demos/various/NIL-ARMCM4-GENERIC/cmparams.h -text
 demos/various/NIL-ARMCM4-GENERIC/debug/NIL-ARMC4-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/NIL-ARMCM4-GENERIC/main.c -text
 demos/various/NIL-ARMCM4-GENERIC/nilconf.h -text
 demos/various/RT-ARM7-GENERIC/.cproject -text
 demos/various/RT-ARM7-GENERIC/.project -text
 demos/various/RT-ARM7-GENERIC/Makefile -text
-demos/various/RT-ARM7-GENERIC/armparams.h -text
 demos/various/RT-ARM7-GENERIC/ch.ld -text
 demos/various/RT-ARM7-GENERIC/chconf.h -text
 demos/various/RT-ARM7-GENERIC/debug/RT-ARMCM0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
@@ -400,7 +397,6 @@ demos/various/RT-ARMCM0-GENERIC/.project -text
 demos/various/RT-ARMCM0-GENERIC/Makefile -text
 demos/various/RT-ARMCM0-GENERIC/ch.ld -text
 demos/various/RT-ARMCM0-GENERIC/chconf.h -text
-demos/various/RT-ARMCM0-GENERIC/cmparams.h -text
 demos/various/RT-ARMCM0-GENERIC/debug/RT-ARMCM0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM0-GENERIC/main.c -text
 demos/various/RT-ARMCM0-GENERIC/readme.txt -text
@@ -409,7 +405,6 @@ demos/various/RT-ARMCM4-GENERIC/.project -text
 demos/various/RT-ARMCM4-GENERIC/Makefile -text
 demos/various/RT-ARMCM4-GENERIC/ch.ld -text
 demos/various/RT-ARMCM4-GENERIC/chconf.h -text
-demos/various/RT-ARMCM4-GENERIC/cmparams.h -text
 demos/various/RT-ARMCM4-GENERIC/debug/RT-ARMCM4-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM4-GENERIC/main.c -text
 demos/various/RT-ARMCM4-GENERIC/readme.txt -text
