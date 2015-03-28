@@ -1189,7 +1189,6 @@ os/nil/dox/nil.dox -text
 os/nil/include/nil.h -text
 os/nil/nil.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f1xx.mk -text
-os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f3xx.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32l1xx.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_v6m.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_v7m.mk -text
@@ -1276,7 +1275,6 @@ os/rt/ports/ARMCMx/compilers/GCC/chtypes.h -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_k20x.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_kl2x.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32f1xx.mk -text
-os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32f3xx.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32l1xx.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_v6m.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_v7m.mk -text
