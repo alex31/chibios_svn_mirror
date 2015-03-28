@@ -311,6 +311,9 @@ demos/STM32/RT-STM32F401RE-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32F401RE-NUCLEO/main.c -text
 demos/STM32/RT-STM32F401RE-NUCLEO/mcuconf.h -text
 demos/STM32/RT-STM32F401RE-NUCLEO/readme.txt -text
+demos/STM32/RT-STM32F407-DISCOVERY-G++/.cproject -text
+demos/STM32/RT-STM32F407-DISCOVERY-G++/.project -text
+demos/STM32/RT-STM32F407-DISCOVERY-G++/debug/RT-STM32F407-DISCOVERY-G++[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/.cproject -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/.project -text
 demos/STM32/RT-STM32F407-DISCOVERY-MEMS/Makefile -text
@@ -403,7 +406,6 @@ demos/various/RT-ARMCM0-GENERIC/readme.txt -text
 demos/various/RT-ARMCM4-GENERIC/.cproject -text
 demos/various/RT-ARMCM4-GENERIC/.project -text
 demos/various/RT-ARMCM4-GENERIC/Makefile -text
-demos/various/RT-ARMCM4-GENERIC/ch.ld -text
 demos/various/RT-ARMCM4-GENERIC/chconf.h -text
 demos/various/RT-ARMCM4-GENERIC/debug/RT-ARMCM4-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM4-GENERIC/main.c -text
@@ -1190,12 +1192,11 @@ os/nil/dox/nil.dox -text
 os/nil/include/nil.h -text
 os/nil/nil.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_generic_cm0.mk -text
-os/nil/ports/ARMCMx/compilers/GCC/mk/port_generic_cm4.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f0xx.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f1xx.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f3xx.mk -text
-os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32f4xx.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/mk/port_stm32l1xx.mk -text
+os/nil/ports/ARMCMx/compilers/GCC/mk/port_v7m.mk -text
 os/nil/ports/ARMCMx/compilers/GCC/nilcoreasm_v6m.s -text
 os/nil/ports/ARMCMx/compilers/GCC/nilcoreasm_v7m.s -text
 os/nil/ports/ARMCMx/compilers/GCC/niltypes.h -text
@@ -1277,14 +1278,13 @@ os/rt/ports/ARMCMx/compilers/GCC/chcoreasm_v6m.s -text
 os/rt/ports/ARMCMx/compilers/GCC/chcoreasm_v7m.s -text
 os/rt/ports/ARMCMx/compilers/GCC/chtypes.h -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_generic_cm0.mk -text
-os/rt/ports/ARMCMx/compilers/GCC/mk/port_generic_cm4.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_k20x.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_kl2x.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32f0xx.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32f1xx.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32f3xx.mk -text
-os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32f4xx.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_stm32l1xx.mk -text
+os/rt/ports/ARMCMx/compilers/GCC/mk/port_v7m.mk -text
 os/rt/ports/ARMCMx/compilers/IAR/chcoreasm_v6m.s -text
 os/rt/ports/ARMCMx/compilers/IAR/chcoreasm_v7m.s -text
 os/rt/ports/ARMCMx/compilers/IAR/chtypes.h -text
