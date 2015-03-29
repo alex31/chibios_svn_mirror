@@ -498,6 +498,8 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x6.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_k20x.mk -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_kl2x.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f3xx.mk -text
@@ -1272,8 +1274,6 @@ os/rt/ports/ARMCMx/cmsis_os/cmsis_os.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/chcoreasm_v6m.s -text
 os/rt/ports/ARMCMx/compilers/GCC/chcoreasm_v7m.s -text
 os/rt/ports/ARMCMx/compilers/GCC/chtypes.h -text
-os/rt/ports/ARMCMx/compilers/GCC/mk/port_k20x.mk -text
-os/rt/ports/ARMCMx/compilers/GCC/mk/port_kl2x.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_v6m.mk -text
 os/rt/ports/ARMCMx/compilers/GCC/mk/port_v7m.mk -text
 os/rt/ports/ARMCMx/compilers/IAR/chcoreasm_v6m.s -text
