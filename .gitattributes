@@ -390,7 +390,6 @@ demos/various/NIL-ARMCM4-GENERIC/nilconf.h -text
 demos/various/RT-ARM7-GENERIC/.cproject -text
 demos/various/RT-ARM7-GENERIC/.project -text
 demos/various/RT-ARM7-GENERIC/Makefile -text
-demos/various/RT-ARM7-GENERIC/ch.ld -text
 demos/various/RT-ARM7-GENERIC/chconf.h -text
 demos/various/RT-ARM7-GENERIC/debug/RT-ARMCM0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARM7-GENERIC/main.c -text
@@ -464,6 +463,7 @@ ext/lwip-1.4.1_patched.7z -text
 ext/readme.txt -text
 os/common/ports/ARM/compilers/GCC/crt0.s -text
 os/common/ports/ARM/compilers/GCC/ld/LPC2148.ld -text
+os/common/ports/ARM/compilers/GCC/mk/startup_lpc214x.mk -text
 os/common/ports/ARM/compilers/GCC/rules.ld -text
 os/common/ports/ARM/compilers/GCC/rules.mk -text
 os/common/ports/ARM/compilers/GCC/vectors.s -text
@@ -1260,7 +1260,6 @@ os/rt/ports/ARM/chcore_timer.h -text
 os/rt/ports/ARM/compilers/GCC/chcoreasm.s -text
 os/rt/ports/ARM/compilers/GCC/chtypes.h -text
 os/rt/ports/ARM/compilers/GCC/mk/port_generic.mk -text
-os/rt/ports/ARM/compilers/GCC/mk/port_lpc214x.mk -text
 os/rt/ports/ARMCMx/chcore.c -text
 os/rt/ports/ARMCMx/chcore.h -text
 os/rt/ports/ARMCMx/chcore_timer.h -text
