@@ -462,6 +462,7 @@ ext/fatfs-0.10b-patched.7z -text
 ext/lwip-1.4.1_patched.7z -text
 ext/readme.txt -text
 os/common/ports/ARM/compilers/GCC/crt0.s -text
+os/common/ports/ARM/compilers/GCC/crt1.c -text
 os/common/ports/ARM/compilers/GCC/ld/LPC2148.ld -text
 os/common/ports/ARM/compilers/GCC/mk/startup_lpc214x.mk -text
 os/common/ports/ARM/compilers/GCC/rules.ld -text
@@ -469,9 +470,9 @@ os/common/ports/ARM/compilers/GCC/rules.mk -text
 os/common/ports/ARM/compilers/GCC/vectors.s -text
 os/common/ports/ARM/devices/LPC214x/armparams.h -text
 os/common/ports/ARM/devices/LPC214x/lpc214x.h -text
-os/common/ports/ARMCMx/compilers/GCC/crt0.c -text
 os/common/ports/ARMCMx/compilers/GCC/crt0_v6m.s -text
 os/common/ports/ARMCMx/compilers/GCC/crt0_v7m.s -text
+os/common/ports/ARMCMx/compilers/GCC/crt1.c -text
 os/common/ports/ARMCMx/compilers/GCC/ld/KL25Z128.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/MK20DX128.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
