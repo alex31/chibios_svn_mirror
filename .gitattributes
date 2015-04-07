@@ -1443,6 +1443,8 @@ test/rt/testqueues.c -text
 test/rt/testqueues.h -text
 test/rt/testsem.c -text
 test/rt/testsem.h -text
+test/rt/testsys.c -text
+test/rt/testsys.h -text
 test/rt/testthd.c -text
 test/rt/testthd.h -text
 testhal/AVR/GPT/Makefile -text
