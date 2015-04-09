@@ -1425,6 +1425,7 @@ test/rt/testbuild/pclint/lint_cmac.h -text
 test/rt/testbuild/pclint/lint_cppmac.h -text
 test/rt/testbuild/pclint/size-options.lnt -text
 test/rt/testbuild/pclint/waivers.lnt -text
+test/rt/testbuild/readme.txt -text
 test/rt/testdyn.c -text
 test/rt/testdyn.h -text
 test/rt/testevt.c -text
