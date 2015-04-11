@@ -1401,11 +1401,6 @@ test/nil/testbuild/pclint/lint_cmac.h -text
 test/nil/testbuild/pclint/lint_cppmac.h -text
 test/nil/testbuild/pclint/size-options.lnt -text
 test/nil/testbuild/pclint/waivers.lnt -text
-test/rt/coverage/Makefile -text
-test/rt/coverage/chconf.h -text
-test/rt/coverage/halconf.h -text
-test/rt/coverage/main.c -text
-test/rt/coverage/readme.txt -text
 test/rt/test.c -text
 test/rt/test.dox -text
 test/rt/test.h -text
