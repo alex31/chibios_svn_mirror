@@ -332,6 +332,7 @@ demos/STM32/RT-STM32F407-DISCOVERY/.project -text
 demos/STM32/RT-STM32F407-DISCOVERY/Makefile -text
 demos/STM32/RT-STM32F407-DISCOVERY/chconf.h -text
 demos/STM32/RT-STM32F407-DISCOVERY/debug/RT-STM32F407-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F407-DISCOVERY/debug/RT-STM32F407-DISCOVERY[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32F407-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F407-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F407-DISCOVERY/mcuconf.h -text
