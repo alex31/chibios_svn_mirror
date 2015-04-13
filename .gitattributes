@@ -1838,6 +1838,7 @@ testhal/STM32/STM32F4xx/EXT/.cproject -text
 testhal/STM32/STM32F4xx/EXT/.project -text
 testhal/STM32/STM32F4xx/EXT/Makefile -text
 testhal/STM32/STM32F4xx/EXT/chconf.h -text
+testhal/STM32/STM32F4xx/EXT/debug/STM32F4xx-EXT[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/EXT/halconf.h -text
 testhal/STM32/STM32F4xx/EXT/main.c -text
 testhal/STM32/STM32F4xx/EXT/mcuconf.h -text
@@ -1846,6 +1847,7 @@ testhal/STM32/STM32F4xx/GPT/.cproject -text
 testhal/STM32/STM32F4xx/GPT/.project -text
 testhal/STM32/STM32F4xx/GPT/Makefile -text
 testhal/STM32/STM32F4xx/GPT/chconf.h -text
+testhal/STM32/STM32F4xx/GPT/debug/STM32F4xx-GPT[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/GPT/halconf.h -text
 testhal/STM32/STM32F4xx/GPT/main.c -text
 testhal/STM32/STM32F4xx/GPT/mcuconf.h -text
@@ -1854,6 +1856,7 @@ testhal/STM32/STM32F4xx/I2C/.cproject -text
 testhal/STM32/STM32F4xx/I2C/.project -text
 testhal/STM32/STM32F4xx/I2C/Makefile -text
 testhal/STM32/STM32F4xx/I2C/chconf.h -text
+testhal/STM32/STM32F4xx/I2C/debug/STM32F4xx-I2C[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/I2C/halconf.h -text
 testhal/STM32/STM32F4xx/I2C/main.c -text
 testhal/STM32/STM32F4xx/I2C/mcuconf.h -text
@@ -1861,6 +1864,7 @@ testhal/STM32/STM32F4xx/I2S/.cproject -text
 testhal/STM32/STM32F4xx/I2S/.project -text
 testhal/STM32/STM32F4xx/I2S/Makefile -text
 testhal/STM32/STM32F4xx/I2S/chconf.h -text
+testhal/STM32/STM32F4xx/I2S/debug/STM32F4xx-I2S[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/I2S/halconf.h -text
 testhal/STM32/STM32F4xx/I2S/main.c -text
 testhal/STM32/STM32F4xx/I2S/mcuconf.h -text
@@ -1905,6 +1909,7 @@ testhal/STM32/STM32F4xx/RTC/.cproject -text
 testhal/STM32/STM32F4xx/RTC/.project -text
 testhal/STM32/STM32F4xx/RTC/Makefile -text
 testhal/STM32/STM32F4xx/RTC/chconf.h -text
+testhal/STM32/STM32F4xx/RTC/debug/STM32F4xx-RTC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/RTC/halconf.h -text
 testhal/STM32/STM32F4xx/RTC/main.c -text
 testhal/STM32/STM32F4xx/RTC/mcuconf.h -text
@@ -1912,6 +1917,7 @@ testhal/STM32/STM32F4xx/SDC/.cproject -text
 testhal/STM32/STM32F4xx/SDC/.project -text
 testhal/STM32/STM32F4xx/SDC/Makefile -text
 testhal/STM32/STM32F4xx/SDC/chconf.h -text
+testhal/STM32/STM32F4xx/SDC/debug/STM32F4xx-SDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/SDC/halconf.h -text
 testhal/STM32/STM32F4xx/SDC/main.c -text
 testhal/STM32/STM32F4xx/SDC/mcuconf.h -text
@@ -1920,6 +1926,7 @@ testhal/STM32/STM32F4xx/SPI/.cproject -text
 testhal/STM32/STM32F4xx/SPI/.project -text
 testhal/STM32/STM32F4xx/SPI/Makefile -text
 testhal/STM32/STM32F4xx/SPI/chconf.h -text
+testhal/STM32/STM32F4xx/SPI/debug/STM32F4xx-SPI[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/SPI/halconf.h -text
 testhal/STM32/STM32F4xx/SPI/main.c -text
 testhal/STM32/STM32F4xx/SPI/mcuconf.h -text
@@ -1928,6 +1935,7 @@ testhal/STM32/STM32F4xx/UART/.cproject -text
 testhal/STM32/STM32F4xx/UART/.project -text
 testhal/STM32/STM32F4xx/UART/Makefile -text
 testhal/STM32/STM32F4xx/UART/chconf.h -text
+testhal/STM32/STM32F4xx/UART/debug/STM32F4xx-UART[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/UART/halconf.h -text
 testhal/STM32/STM32F4xx/UART/main.c -text
 testhal/STM32/STM32F4xx/UART/mcuconf.h -text
