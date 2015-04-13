@@ -1829,6 +1829,7 @@ testhal/STM32/STM32F4xx/DMA_STORM/.project -text
 testhal/STM32/STM32F4xx/DMA_STORM/Makefile -text
 testhal/STM32/STM32F4xx/DMA_STORM/chconf.h -text
 testhal/STM32/STM32F4xx/DMA_STORM/debug/STM32F4xx-DMA_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F4xx/DMA_STORM/debug/STM32F4xx-DMA_STORM[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/DMA_STORM/halconf.h -text
 testhal/STM32/STM32F4xx/DMA_STORM/main.c -text
 testhal/STM32/STM32F4xx/DMA_STORM/mcuconf.h -text
