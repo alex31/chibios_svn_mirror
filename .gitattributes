@@ -450,6 +450,8 @@ doc/rt/makehtml.bat -text
 doc/rt/readme.txt -text
 doc/rt/reports/LPC2148-48-ARM.txt -text
 doc/rt/reports/LPC2148-48-THUMB.txt -text
+doc/rt/reports/STM32F303-72-RVCT-FPU.txt -text
+doc/rt/reports/STM32F303-72-RVCT.txt -text
 doc/rt/reports/STM32F407-168-GCC-FPU.txt -text
 doc/rt/reports/STM32F407-168-GCC.txt -text
 doc/rt/reports/testbuild.7z -text
