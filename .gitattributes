@@ -273,6 +273,15 @@ demos/STM32/RT-STM32F103_INEMO_DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F103_INEMO_DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F103_INEMO_DISCOVERY/usbcfg.c -text
 demos/STM32/RT-STM32F103_INEMO_DISCOVERY/usbcfg.h -text
+demos/STM32/RT-STM32F302R8-NUCLEO/.cproject -text
+demos/STM32/RT-STM32F302R8-NUCLEO/.project -text
+demos/STM32/RT-STM32F302R8-NUCLEO/Makefile -text
+demos/STM32/RT-STM32F302R8-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F302R8-NUCLEO/debug/RT-STM32F302R8-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F302R8-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32F302R8-NUCLEO/main.c -text
+demos/STM32/RT-STM32F302R8-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32F302R8-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32F303-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F303-DISCOVERY/.project -text
 demos/STM32/RT-STM32F303-DISCOVERY/Makefile -text
@@ -502,6 +511,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xE.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xE_maplemini_bootloader.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F107xC.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F302x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F303xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F334x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F373xC.ld -text
@@ -793,6 +803,10 @@ os/hal/boards/ST_NUCLEO_F030R8/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_F103RB/board.c -text
 os/hal/boards/ST_NUCLEO_F103RB/board.h -text
 os/hal/boards/ST_NUCLEO_F103RB/board.mk -text
+os/hal/boards/ST_NUCLEO_F302R8/board.c -text
+os/hal/boards/ST_NUCLEO_F302R8/board.h -text
+os/hal/boards/ST_NUCLEO_F302R8/board.mk -text
+os/hal/boards/ST_NUCLEO_F302R8/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_F334R8/board.c -text
 os/hal/boards/ST_NUCLEO_F334R8/board.h -text
 os/hal/boards/ST_NUCLEO_F334R8/board.mk -text
