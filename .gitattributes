@@ -1857,6 +1857,15 @@ testhal/STM32/STM32F4xx/DAC/halconf.h -text
 testhal/STM32/STM32F4xx/DAC/main.c -text
 testhal/STM32/STM32F4xx/DAC/mcuconf.h -text
 testhal/STM32/STM32F4xx/DAC/readme.txt -text
+testhal/STM32/STM32F4xx/DAC_DUAL/.cproject -text
+testhal/STM32/STM32F4xx/DAC_DUAL/.project -text
+testhal/STM32/STM32F4xx/DAC_DUAL/Makefile -text
+testhal/STM32/STM32F4xx/DAC_DUAL/chconf.h -text
+testhal/STM32/STM32F4xx/DAC_DUAL/debug/STM32F4xx-DAC_DUAL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F4xx/DAC_DUAL/halconf.h -text
+testhal/STM32/STM32F4xx/DAC_DUAL/main.c -text
+testhal/STM32/STM32F4xx/DAC_DUAL/mcuconf.h -text
+testhal/STM32/STM32F4xx/DAC_DUAL/readme.txt -text
 testhal/STM32/STM32F4xx/DMA_STORM/.cproject -text
 testhal/STM32/STM32F4xx/DMA_STORM/.project -text
 testhal/STM32/STM32F4xx/DMA_STORM/Makefile -text
