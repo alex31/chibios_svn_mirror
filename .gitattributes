@@ -1556,6 +1556,7 @@ testhal/STM32/STM32F0xx/SPI/.cproject -text
 testhal/STM32/STM32F0xx/SPI/.project -text
 testhal/STM32/STM32F0xx/SPI/Makefile -text
 testhal/STM32/STM32F0xx/SPI/chconf.h -text
+testhal/STM32/STM32F0xx/SPI/debug/STM32F0xx-SPI[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F0xx/SPI/halconf.h -text
 testhal/STM32/STM32F0xx/SPI/main.c -text
 testhal/STM32/STM32F0xx/SPI/mcuconf.h -text
