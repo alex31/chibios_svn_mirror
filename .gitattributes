@@ -1527,6 +1527,15 @@ testhal/STM32/STM32F0xx/ADC/halconf.h -text
 testhal/STM32/STM32F0xx/ADC/main.c -text
 testhal/STM32/STM32F0xx/ADC/mcuconf.h -text
 testhal/STM32/STM32F0xx/ADC/readme.txt -text
+testhal/STM32/STM32F0xx/CAN/.cproject -text
+testhal/STM32/STM32F0xx/CAN/.project -text
+testhal/STM32/STM32F0xx/CAN/Makefile -text
+testhal/STM32/STM32F0xx/CAN/chconf.h -text
+testhal/STM32/STM32F0xx/CAN/debug/STM32F0xx-CAN[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F0xx/CAN/halconf.h -text
+testhal/STM32/STM32F0xx/CAN/main.c -text
+testhal/STM32/STM32F0xx/CAN/mcuconf.h -text
+testhal/STM32/STM32F0xx/CAN/readme.txt -text
 testhal/STM32/STM32F0xx/EXT/.cproject -text
 testhal/STM32/STM32F0xx/EXT/.project -text
 testhal/STM32/STM32F0xx/EXT/Makefile -text
