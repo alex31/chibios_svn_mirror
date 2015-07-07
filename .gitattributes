@@ -291,7 +291,7 @@ demos/STM32/RT-STM32F303-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F303-DISCOVERY/iar/ch.ewp -text
 demos/STM32/RT-STM32F303-DISCOVERY/iar/ch.eww -text
 demos/STM32/RT-STM32F303-DISCOVERY/iar/ch.icf -text
-demos/STM32/RT-STM32F303-DISCOVERY/keil/ch.uvproj -text
+demos/STM32/RT-STM32F303-DISCOVERY/keil/ch.uvprojx -text
 demos/STM32/RT-STM32F303-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F303-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F303-DISCOVERY/readme.txt -text
@@ -471,6 +471,8 @@ doc/rt/reports/LPC2148-48-ARM.txt -text
 doc/rt/reports/LPC2148-48-THUMB.txt -text
 doc/rt/reports/STM32F303-72-GCC-FPU.txt -text
 doc/rt/reports/STM32F303-72-GCC.txt -text
+doc/rt/reports/STM32F303-72-IAR-FPU.txt -text
+doc/rt/reports/STM32F303-72-IAR.txt -text
 doc/rt/reports/STM32F303-72-RVCT-FPU.txt -text
 doc/rt/reports/STM32F303-72-RVCT.txt -text
 doc/rt/reports/STM32F407-168-GCC-FPU.txt -text
