@@ -448,6 +448,7 @@ doc/hal/index.html -text
 doc/hal/makechm.bat -text
 doc/hal/makehtml.bat -text
 doc/hal/readme.txt -text
+doc/hal/reports/misra.txt -text
 doc/hal/rsync_web.sh -text
 doc/hal/src/main.dox -text
 doc/nil/Doxyfile_chm -text
@@ -458,6 +459,7 @@ doc/nil/makehtml.bat -text
 doc/nil/readme.txt -text
 doc/nil/reports/SPC560D-48-GCC.txt -text
 doc/nil/reports/STM32F303-72-GCC.txt -text
+doc/nil/reports/misra.txt -text
 doc/nil/rsc/workspace.eps -text
 doc/nil/rsc/workspace.png -text
 doc/nil/rsc/workspace.svg -text
