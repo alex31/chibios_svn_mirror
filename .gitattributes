@@ -545,6 +545,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F411xE.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F429xI.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x6.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x8.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32L053x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_k20x.mk -text
@@ -845,6 +846,10 @@ os/hal/boards/ST_NUCLEO_F411RE/board.c -text
 os/hal/boards/ST_NUCLEO_F411RE/board.h -text
 os/hal/boards/ST_NUCLEO_F411RE/board.mk -text
 os/hal/boards/ST_NUCLEO_F411RE/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO_L053R8/board.c -text
+os/hal/boards/ST_NUCLEO_L053R8/board.h -text
+os/hal/boards/ST_NUCLEO_L053R8/board.mk -text
+os/hal/boards/ST_NUCLEO_L053R8/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_L152RE/board.c -text
 os/hal/boards/ST_NUCLEO_L152RE/board.h -text
 os/hal/boards/ST_NUCLEO_L152RE/board.mk -text
