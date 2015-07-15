@@ -377,6 +377,15 @@ demos/STM32/RT-STM32F429-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F429-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F429-DISCOVERY/usbcfg.c -text
 demos/STM32/RT-STM32F429-DISCOVERY/usbcfg.h -text
+demos/STM32/RT-STM32L053R8-NUCLEO/.cproject -text
+demos/STM32/RT-STM32L053R8-NUCLEO/.project -text
+demos/STM32/RT-STM32L053R8-NUCLEO/Makefile -text
+demos/STM32/RT-STM32L053R8-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32L053R8-NUCLEO/debug/RT-STM32L152RE-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32L053R8-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32L053R8-NUCLEO/main.c -text
+demos/STM32/RT-STM32L053R8-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32L053R8-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32L152-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32L152-DISCOVERY/.project -text
 demos/STM32/RT-STM32L152-DISCOVERY/Makefile -text
