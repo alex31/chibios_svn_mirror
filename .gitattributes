@@ -1110,8 +1110,6 @@ os/hal/ports/STM32/LLD/USARTv2/uart_lld.h -text
 os/hal/ports/STM32/LLD/USBv1/stm32_usb.h -text
 os/hal/ports/STM32/LLD/USBv1/usb_lld.c -text
 os/hal/ports/STM32/LLD/USBv1/usb_lld.h -text
-os/hal/ports/STM32/LLD/ext_lld.c -text
-os/hal/ports/STM32/LLD/ext_lld.h -text
 os/hal/ports/STM32/STM32F0xx/adc_lld.c -text
 os/hal/ports/STM32/STM32F0xx/adc_lld.h -text
 os/hal/ports/STM32/STM32F0xx/ext_lld_isr.c -text
