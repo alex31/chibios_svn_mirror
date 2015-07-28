@@ -1065,6 +1065,7 @@ os/hal/ports/STM32/LLD/DMAv1/stm32_dma.c -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma.h -text
 os/hal/ports/STM32/LLD/EXTIv1/ext_lld.c -text
 os/hal/ports/STM32/LLD/EXTIv1/ext_lld.h -text
+os/hal/ports/STM32/LLD/EXTIv1/notes.txt -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.c -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.h -text
 os/hal/ports/STM32/LLD/GPIOv2/pal_lld.c -text
