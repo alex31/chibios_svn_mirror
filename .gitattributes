@@ -1057,6 +1057,8 @@ os/hal/ports/LPC/LPC214x/vic.c -text
 os/hal/ports/LPC/LPC214x/vic.h -text
 os/hal/ports/STM32/LLD/ADCv1/adc_lld.c -text
 os/hal/ports/STM32/LLD/ADCv1/adc_lld.h -text
+os/hal/ports/STM32/LLD/CANv1/can_lld.c -text
+os/hal/ports/STM32/LLD/CANv1/can_lld.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.h -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma.c -text
@@ -1071,6 +1073,8 @@ os/hal/ports/STM32/LLD/I2Cv1/i2c_lld.c -text
 os/hal/ports/STM32/LLD/I2Cv1/i2c_lld.h -text
 os/hal/ports/STM32/LLD/I2Cv2/i2c_lld.c -text
 os/hal/ports/STM32/LLD/I2Cv2/i2c_lld.h -text
+os/hal/ports/STM32/LLD/MACv1/mac_lld.c -text
+os/hal/ports/STM32/LLD/MACv1/mac_lld.h -text
 os/hal/ports/STM32/LLD/OTGv1/stm32_otg.h -text
 os/hal/ports/STM32/LLD/OTGv1/usb_lld.c -text
 os/hal/ports/STM32/LLD/OTGv1/usb_lld.h -text
@@ -1078,6 +1082,8 @@ os/hal/ports/STM32/LLD/RTCv1/rtc_lld.c -text
 os/hal/ports/STM32/LLD/RTCv1/rtc_lld.h -text
 os/hal/ports/STM32/LLD/RTCv2/rtc_lld.c -text
 os/hal/ports/STM32/LLD/RTCv2/rtc_lld.h -text
+os/hal/ports/STM32/LLD/SDIOv1/sdc_lld.c -text
+os/hal/ports/STM32/LLD/SDIOv1/sdc_lld.h -text
 os/hal/ports/STM32/LLD/SPIv1/i2s_lld.c -text
 os/hal/ports/STM32/LLD/SPIv1/i2s_lld.h -text
 os/hal/ports/STM32/LLD/SPIv1/spi_lld.c -text
@@ -1104,14 +1110,8 @@ os/hal/ports/STM32/LLD/USARTv2/uart_lld.h -text
 os/hal/ports/STM32/LLD/USBv1/stm32_usb.h -text
 os/hal/ports/STM32/LLD/USBv1/usb_lld.c -text
 os/hal/ports/STM32/LLD/USBv1/usb_lld.h -text
-os/hal/ports/STM32/LLD/can_lld.c -text
-os/hal/ports/STM32/LLD/can_lld.h -text
 os/hal/ports/STM32/LLD/ext_lld.c -text
 os/hal/ports/STM32/LLD/ext_lld.h -text
-os/hal/ports/STM32/LLD/mac_lld.c -text
-os/hal/ports/STM32/LLD/mac_lld.h -text
-os/hal/ports/STM32/LLD/sdc_lld.c -text
-os/hal/ports/STM32/LLD/sdc_lld.h -text
 os/hal/ports/STM32/STM32F0xx/adc_lld.c -text
 os/hal/ports/STM32/STM32F0xx/adc_lld.h -text
 os/hal/ports/STM32/STM32F0xx/ext_lld_isr.c -text
