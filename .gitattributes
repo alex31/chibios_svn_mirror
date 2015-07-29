@@ -1057,6 +1057,7 @@ os/hal/ports/LPC/LPC214x/vic.c -text
 os/hal/ports/LPC/LPC214x/vic.h -text
 os/hal/ports/STM32/LLD/ADCv1/adc_lld.c -text
 os/hal/ports/STM32/LLD/ADCv1/adc_lld.h -text
+os/hal/ports/STM32/LLD/ADCv1/notes.txt -text
 os/hal/ports/STM32/LLD/CANv1/can_lld.c -text
 os/hal/ports/STM32/LLD/CANv1/can_lld.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
