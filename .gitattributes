@@ -710,9 +710,10 @@ os/ext/CMSIS/include/core_cm0.h -text
 os/ext/CMSIS/include/core_cm0plus.h -text
 os/ext/CMSIS/include/core_cm3.h -text
 os/ext/CMSIS/include/core_cm4.h -text
-os/ext/CMSIS/include/core_cm4_simd.h -text
+os/ext/CMSIS/include/core_cm7.h -text
 os/ext/CMSIS/include/core_cmFunc.h -text
 os/ext/CMSIS/include/core_cmInstr.h -text
+os/ext/CMSIS/include/core_cmSimd.h -text
 os/ext/CMSIS/readme.txt -text
 os/ext/readme.txt -text
 os/hal/boards/ARDUINO_MEGA/board.c -text
@@ -1190,6 +1191,7 @@ os/hal/ports/STM32/STM32F4xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32F7xx/hal_lld.c -text
 os/hal/ports/STM32/STM32F7xx/hal_lld.h -text
 os/hal/ports/STM32/STM32F7xx/platform.mk -text
+os/hal/ports/STM32/STM32F7xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F7xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32L0xx/ext_lld_isr.c -text
 os/hal/ports/STM32/STM32L0xx/ext_lld_isr.h -text
