@@ -532,6 +532,8 @@ os/common/ports/ARMCMx/compilers/GCC/crt0_v7m.s -text
 os/common/ports/ARMCMx/compilers/GCC/crt1.c -text
 os/common/ports/ARMCMx/compilers/GCC/ld/KL25Z128.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/MK20DX128.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x4.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x6.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F072xB.ld -text
