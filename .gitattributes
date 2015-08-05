@@ -1075,6 +1075,9 @@ os/hal/ports/LPC/LPC214x/vic.h -text
 os/hal/ports/STM32/LLD/ADCv1/adc_lld.c -text
 os/hal/ports/STM32/LLD/ADCv1/adc_lld.h -text
 os/hal/ports/STM32/LLD/ADCv1/notes.txt -text
+os/hal/ports/STM32/LLD/ADCv2/adc_lld.c -text
+os/hal/ports/STM32/LLD/ADCv2/adc_lld.h -text
+os/hal/ports/STM32/LLD/ADCv2/notes.txt -text
 os/hal/ports/STM32/LLD/CANv1/can_lld.c -text
 os/hal/ports/STM32/LLD/CANv1/can_lld.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
@@ -1082,6 +1085,7 @@ os/hal/ports/STM32/LLD/DACv1/dac_lld.h -text
 os/hal/ports/STM32/LLD/DMAv1/notes.txt -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma.c -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma.h -text
+os/hal/ports/STM32/LLD/DMAv2/notes.txt -text
 os/hal/ports/STM32/LLD/DMAv2/stm32_dma.c -text
 os/hal/ports/STM32/LLD/DMAv2/stm32_dma.h -text
 os/hal/ports/STM32/LLD/EXTIv1/ext_lld.c -text
