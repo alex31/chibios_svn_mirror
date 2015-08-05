@@ -1184,15 +1184,11 @@ os/hal/ports/STM32/STM32F3xx/stm32_dma.h -text
 os/hal/ports/STM32/STM32F3xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32F3xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F3xx/stm32_registry.h -text
-os/hal/ports/STM32/STM32F4xx/adc_lld.c -text
-os/hal/ports/STM32/STM32F4xx/adc_lld.h -text
 os/hal/ports/STM32/STM32F4xx/ext_lld_isr.c -text
 os/hal/ports/STM32/STM32F4xx/ext_lld_isr.h -text
 os/hal/ports/STM32/STM32F4xx/hal_lld.c -text
 os/hal/ports/STM32/STM32F4xx/hal_lld.h -text
 os/hal/ports/STM32/STM32F4xx/platform.mk -text
-os/hal/ports/STM32/STM32F4xx/stm32_dma.c -text
-os/hal/ports/STM32/STM32F4xx/stm32_dma.h -text
 os/hal/ports/STM32/STM32F4xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32F4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F4xx/stm32_registry.h -text
