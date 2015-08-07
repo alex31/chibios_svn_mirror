@@ -561,6 +561,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L053x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_k20x.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_kl2x.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
@@ -570,6 +571,7 @@ os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f4xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f7xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/rules.ld -text
 os/common/ports/ARMCMx/compilers/GCC/rules.mk -text
 os/common/ports/ARMCMx/compilers/GCC/vectors.c -text
@@ -586,6 +588,7 @@ os/common/ports/ARMCMx/devices/STM32F4xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F7xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L1xx/cmparams.h -text
+os/common/ports/ARMCMx/devices/STM32L4xx/cmparams.h -text
 os/common/ports/e200/compilers/GCC/crt0.s -text
 os/common/ports/e200/compilers/GCC/ld/SPC560B50.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC560B60.ld -text
