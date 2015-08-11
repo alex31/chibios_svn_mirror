@@ -1249,6 +1249,8 @@ os/hal/ports/STM32/STM32L1xx/platform.mk -text
 os/hal/ports/STM32/STM32L1xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32L1xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L1xx/stm32_registry.h -text
+os/hal/ports/common/ARMCMx/mpu.c -text
+os/hal/ports/common/ARMCMx/mpu.h -text
 os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
 os/hal/ports/simulator/console.c -text
@@ -2127,6 +2129,16 @@ testhal/STM32/STM32F4xx/USB_CDC_IAD/mcuconf.h -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/readme.txt -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/usbcfg.c -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/usbcfg.h -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/.cproject -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/.project -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/Makefile -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/chconf.h -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/debug/STM32F7xx-GPT-ADC-SPI-PWM-ICU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/debug/STM32F7xx-GPT-ADC-SPI-PWM-ICU[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/halconf.h -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/main.c -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/mcuconf.h -text
+testhal/STM32/STM32F7xx/GPT-ADC-SPI-PWM-ICU/readme.txt -text
 testhal/STM32/STM32L0xx/ADC/.cproject -text
 testhal/STM32/STM32L0xx/ADC/.project -text
 testhal/STM32/STM32L0xx/ADC/Makefile -text
