@@ -505,6 +505,7 @@ doc/rt/reports/STM32F303-72-RVCT-FPU.txt -text
 doc/rt/reports/STM32F303-72-RVCT.txt -text
 doc/rt/reports/STM32F407-168-GCC-FPU.txt -text
 doc/rt/reports/STM32F407-168-GCC.txt -text
+doc/rt/reports/STM32L053-32-GCC.txt -text
 doc/rt/reports/STM32L151-32-GCC.txt -text
 doc/rt/reports/testbuild.7z -text
 doc/rt/rsc/workspace.eps -text
@@ -1249,7 +1250,6 @@ os/hal/ports/STM32/STM32L1xx/platform.mk -text
 os/hal/ports/STM32/STM32L1xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32L1xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L1xx/stm32_registry.h -text
-os/hal/ports/common/ARMCMx/mpu.c -text
 os/hal/ports/common/ARMCMx/mpu.h -text
 os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
