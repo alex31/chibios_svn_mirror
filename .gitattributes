@@ -2134,8 +2134,8 @@ testhal/STM32/STM32F7xx/GPT-ADC/.cproject -text
 testhal/STM32/STM32F7xx/GPT-ADC/.project -text
 testhal/STM32/STM32F7xx/GPT-ADC/Makefile -text
 testhal/STM32/STM32F7xx/GPT-ADC/chconf.h -text
-testhal/STM32/STM32F7xx/GPT-ADC/debug/STM32F7xx-GPT-ADC-SPI-PWM-ICU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/STM32F7xx/GPT-ADC/debug/STM32F7xx-GPT-ADC-SPI-PWM-ICU[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
+testhal/STM32/STM32F7xx/GPT-ADC/debug/STM32F7xx-GPT-ADC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F7xx/GPT-ADC/debug/STM32F7xx-GPT-ADC[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/STM32F7xx/GPT-ADC/halconf.h -text
 testhal/STM32/STM32F7xx/GPT-ADC/main.c -text
 testhal/STM32/STM32F7xx/GPT-ADC/mcuconf.h -text
