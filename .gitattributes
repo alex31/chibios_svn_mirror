@@ -2154,6 +2154,16 @@ testhal/STM32/STM32F7xx/GPT-ADC/halconf.h -text
 testhal/STM32/STM32F7xx/GPT-ADC/main.c -text
 testhal/STM32/STM32F7xx/GPT-ADC/mcuconf.h -text
 testhal/STM32/STM32F7xx/GPT-ADC/readme.txt -text
+testhal/STM32/STM32F7xx/SPI/.cproject -text
+testhal/STM32/STM32F7xx/SPI/.project -text
+testhal/STM32/STM32F7xx/SPI/Makefile -text
+testhal/STM32/STM32F7xx/SPI/chconf.h -text
+testhal/STM32/STM32F7xx/SPI/debug/STM32F7xx-SPI[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F7xx/SPI/debug/STM32F7xx-SPI[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
+testhal/STM32/STM32F7xx/SPI/halconf.h -text
+testhal/STM32/STM32F7xx/SPI/main.c -text
+testhal/STM32/STM32F7xx/SPI/mcuconf.h -text
+testhal/STM32/STM32F7xx/SPI/readme.txt -text
 testhal/STM32/STM32L0xx/ADC/.cproject -text
 testhal/STM32/STM32L0xx/ADC/.project -text
 testhal/STM32/STM32L0xx/ADC/Makefile -text
