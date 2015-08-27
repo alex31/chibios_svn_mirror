@@ -1172,6 +1172,7 @@ os/hal/ports/STM32/LLD/TIMv1/pwm_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/pwm_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/st_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/st_lld.h -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim.c -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim.h -text
 os/hal/ports/STM32/LLD/USARTv1/serial_lld.c -text
 os/hal/ports/STM32/LLD/USARTv1/serial_lld.h -text
