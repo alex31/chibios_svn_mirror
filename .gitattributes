@@ -2134,6 +2134,8 @@ testhal/STM32/STM32F4xx/USB_CDC/halconf.h -text
 testhal/STM32/STM32F4xx/USB_CDC/main.c -text
 testhal/STM32/STM32F4xx/USB_CDC/mcuconf.h -text
 testhal/STM32/STM32F4xx/USB_CDC/readme.txt -text
+testhal/STM32/STM32F4xx/USB_CDC/usbcfg.c -text
+testhal/STM32/STM32F4xx/USB_CDC/usbcfg.h -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/.cproject -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/.project -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/Makefile -text
