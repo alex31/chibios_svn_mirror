@@ -576,6 +576,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32L151x6.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/rules_STM32F7xx.ld -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_k20x.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_kl2x.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
@@ -588,7 +589,6 @@ os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/rules.ld -text
 os/common/ports/ARMCMx/compilers/GCC/rules.mk -text
-os/common/ports/ARMCMx/compilers/GCC/rules_dma.ld -text
 os/common/ports/ARMCMx/compilers/GCC/vectors.c -text
 os/common/ports/ARMCMx/compilers/IAR/cstartup.s -text
 os/common/ports/ARMCMx/compilers/IAR/vectors.s -text
