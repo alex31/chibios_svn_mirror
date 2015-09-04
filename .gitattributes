@@ -569,6 +569,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F411xE.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F429xI.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F746xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F746xG_ETH.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F746xG_MAX.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x6.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L052x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32L053x8.ld -text
