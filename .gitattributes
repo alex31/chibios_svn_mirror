@@ -1174,6 +1174,8 @@ os/hal/ports/STM32/LLD/RTCv2/rtc_lld.c -text
 os/hal/ports/STM32/LLD/RTCv2/rtc_lld.h -text
 os/hal/ports/STM32/LLD/SDIOv1/sdc_lld.c -text
 os/hal/ports/STM32/LLD/SDIOv1/sdc_lld.h -text
+os/hal/ports/STM32/LLD/SDMMCv1/sdc_lld.c -text
+os/hal/ports/STM32/LLD/SDMMCv1/sdc_lld.h -text
 os/hal/ports/STM32/LLD/SPIv1/i2s_lld.c -text
 os/hal/ports/STM32/LLD/SPIv1/i2s_lld.h -text
 os/hal/ports/STM32/LLD/SPIv1/spi_lld.c -text
