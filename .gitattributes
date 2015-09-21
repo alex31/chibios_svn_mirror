@@ -693,7 +693,21 @@ os/ext/CMSIS/ST/stm32f078xx.h -text
 os/ext/CMSIS/ST/stm32f091xc.h -text
 os/ext/CMSIS/ST/stm32f098xx.h -text
 os/ext/CMSIS/ST/stm32f0xx.h -text
-os/ext/CMSIS/ST/stm32f10x.h -text
+os/ext/CMSIS/ST/stm32f100xb.h -text
+os/ext/CMSIS/ST/stm32f100xe.h -text
+os/ext/CMSIS/ST/stm32f101x6.h -text
+os/ext/CMSIS/ST/stm32f101xb.h -text
+os/ext/CMSIS/ST/stm32f101xe.h -text
+os/ext/CMSIS/ST/stm32f101xg.h -text
+os/ext/CMSIS/ST/stm32f102x6.h -text
+os/ext/CMSIS/ST/stm32f102xb.h -text
+os/ext/CMSIS/ST/stm32f103x6.h -text
+os/ext/CMSIS/ST/stm32f103xb.h -text
+os/ext/CMSIS/ST/stm32f103xe.h -text
+os/ext/CMSIS/ST/stm32f103xg.h -text
+os/ext/CMSIS/ST/stm32f105xc.h -text
+os/ext/CMSIS/ST/stm32f107xc.h -text
+os/ext/CMSIS/ST/stm32f1xx.h -text
 os/ext/CMSIS/ST/stm32f301x8.h -text
 os/ext/CMSIS/ST/stm32f302x8.h -text
 os/ext/CMSIS/ST/stm32f302xc.h -text
@@ -760,6 +774,7 @@ os/ext/CMSIS/ST/stm32l486xx.h -text
 os/ext/CMSIS/ST/stm32l4xx.h -text
 os/ext/CMSIS/ST/system_stm32f0xx.h -text
 os/ext/CMSIS/ST/system_stm32f10x.h -text
+os/ext/CMSIS/ST/system_stm32f1xx.h -text
 os/ext/CMSIS/ST/system_stm32f3xx.h -text
 os/ext/CMSIS/ST/system_stm32f4xx.h -text
 os/ext/CMSIS/ST/system_stm32f7xx.h -text
@@ -1223,8 +1238,6 @@ os/hal/ports/STM32/STM32F1xx/hal_lld_f103.h -text
 os/hal/ports/STM32/STM32F1xx/hal_lld_f105_f107.h -text
 os/hal/ports/STM32/STM32F1xx/platform.mk -text
 os/hal/ports/STM32/STM32F1xx/platform_f105_f107.mk -text
-os/hal/ports/STM32/STM32F1xx/stm32_dma.c -text
-os/hal/ports/STM32/STM32F1xx/stm32_dma.h -text
 os/hal/ports/STM32/STM32F1xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32F1xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F1xx/stm32_registry.h -text
@@ -1235,8 +1248,6 @@ os/hal/ports/STM32/STM32F37x/ext_lld_isr.h -text
 os/hal/ports/STM32/STM32F37x/hal_lld.c -text
 os/hal/ports/STM32/STM32F37x/hal_lld.h -text
 os/hal/ports/STM32/STM32F37x/platform.mk -text
-os/hal/ports/STM32/STM32F37x/stm32_dma.c -text
-os/hal/ports/STM32/STM32F37x/stm32_dma.h -text
 os/hal/ports/STM32/STM32F37x/stm32_isr.h -text
 os/hal/ports/STM32/STM32F37x/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F37x/stm32_registry.h -text
@@ -1247,8 +1258,6 @@ os/hal/ports/STM32/STM32F3xx/ext_lld_isr.h -text
 os/hal/ports/STM32/STM32F3xx/hal_lld.c -text
 os/hal/ports/STM32/STM32F3xx/hal_lld.h -text
 os/hal/ports/STM32/STM32F3xx/platform.mk -text
-os/hal/ports/STM32/STM32F3xx/stm32_dma.c -text
-os/hal/ports/STM32/STM32F3xx/stm32_dma.h -text
 os/hal/ports/STM32/STM32F3xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32F3xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F3xx/stm32_registry.h -text
