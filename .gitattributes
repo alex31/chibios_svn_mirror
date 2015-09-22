@@ -954,6 +954,10 @@ os/hal/boards/ST_NUCLEO_L152RE/board.c -text
 os/hal/boards/ST_NUCLEO_L152RE/board.h -text
 os/hal/boards/ST_NUCLEO_L152RE/board.mk -text
 os/hal/boards/ST_NUCLEO_L152RE/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO_L476RG/board.c -text
+os/hal/boards/ST_NUCLEO_L476RG/board.h -text
+os/hal/boards/ST_NUCLEO_L476RG/board.mk -text
+os/hal/boards/ST_NUCLEO_L476RG/cfg/board.chcfg -text
 os/hal/boards/ST_STM3210C_EVAL/board.c -text
 os/hal/boards/ST_STM3210C_EVAL/board.h -text
 os/hal/boards/ST_STM3210C_EVAL/board.mk -text
