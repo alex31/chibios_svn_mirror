@@ -237,6 +237,15 @@ demos/STM32/RT-STM32F072-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F072-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F072-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F072-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F091RC-NUCLEO/.cproject -text
+demos/STM32/RT-STM32F091RC-NUCLEO/.project -text
+demos/STM32/RT-STM32F091RC-NUCLEO/Makefile -text
+demos/STM32/RT-STM32F091RC-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F091RC-NUCLEO/debug/RT-STM32F091RC-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F091RC-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32F091RC-NUCLEO/main.c -text
+demos/STM32/RT-STM32F091RC-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32F091RC-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32F100-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F100-DISCOVERY/.project -text
 demos/STM32/RT-STM32F100-DISCOVERY/Makefile -text
@@ -574,6 +583,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x6.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F072xB.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F091xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F100xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xD.ld -text
@@ -939,6 +949,10 @@ os/hal/boards/ST_NUCLEO_F030R8/board.c -text
 os/hal/boards/ST_NUCLEO_F030R8/board.h -text
 os/hal/boards/ST_NUCLEO_F030R8/board.mk -text
 os/hal/boards/ST_NUCLEO_F030R8/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO_F091RC/board.c -text
+os/hal/boards/ST_NUCLEO_F091RC/board.h -text
+os/hal/boards/ST_NUCLEO_F091RC/board.mk -text
+os/hal/boards/ST_NUCLEO_F091RC/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_F103RB/board.c -text
 os/hal/boards/ST_NUCLEO_F103RB/board.h -text
 os/hal/boards/ST_NUCLEO_F103RB/board.mk -text
