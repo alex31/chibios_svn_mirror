@@ -591,6 +591,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xE.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xE_maplemini_bootloader.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F107xC.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F207xG.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F302x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F303xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F334x8.ld -text
@@ -617,6 +618,7 @@ os/common/ports/ARMCMx/compilers/GCC/mk/startup_k20x.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_kl2x.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk -text
+os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f2xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f3xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f4xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32f7xx.mk -text
@@ -634,6 +636,7 @@ os/common/ports/ARMCMx/devices/K20x/cmparams.h -text
 os/common/ports/ARMCMx/devices/KL2x/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F1xx/cmparams.h -text
+os/common/ports/ARMCMx/devices/STM32F2xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F3xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F4xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32F7xx/cmparams.h -text
@@ -730,6 +733,11 @@ os/ext/CMSIS/ST/stm32f103xg.h -text
 os/ext/CMSIS/ST/stm32f105xc.h -text
 os/ext/CMSIS/ST/stm32f107xc.h -text
 os/ext/CMSIS/ST/stm32f1xx.h -text
+os/ext/CMSIS/ST/stm32f205xx.h -text
+os/ext/CMSIS/ST/stm32f207xx.h -text
+os/ext/CMSIS/ST/stm32f215xx.h -text
+os/ext/CMSIS/ST/stm32f217xx.h -text
+os/ext/CMSIS/ST/stm32f2xx.h -text
 os/ext/CMSIS/ST/stm32f301x8.h -text
 os/ext/CMSIS/ST/stm32f302x8.h -text
 os/ext/CMSIS/ST/stm32f302xc.h -text
@@ -797,6 +805,7 @@ os/ext/CMSIS/ST/stm32l4xx.h -text
 os/ext/CMSIS/ST/system_stm32f0xx.h -text
 os/ext/CMSIS/ST/system_stm32f10x.h -text
 os/ext/CMSIS/ST/system_stm32f1xx.h -text
+os/ext/CMSIS/ST/system_stm32f2xx.h -text
 os/ext/CMSIS/ST/system_stm32f3xx.h -text
 os/ext/CMSIS/ST/system_stm32f4xx.h -text
 os/ext/CMSIS/ST/system_stm32f7xx.h -text
