@@ -237,8 +237,11 @@ demos/STM32/RT-STM32F072-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F072-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F072-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F072-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F072RB-NUCLEO/.cproject -text
+demos/STM32/RT-STM32F072RB-NUCLEO/.project -text
 demos/STM32/RT-STM32F072RB-NUCLEO/Makefile -text
 demos/STM32/RT-STM32F072RB-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F072RB-NUCLEO/debug/RT-STM32F091RC-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F072RB-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32F072RB-NUCLEO/main.c -text
 demos/STM32/RT-STM32F072RB-NUCLEO/mcuconf.h -text
