@@ -237,6 +237,12 @@ demos/STM32/RT-STM32F072-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F072-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F072-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F072-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F072RB-NUCLEO/Makefile -text
+demos/STM32/RT-STM32F072RB-NUCLEO/chconf.h -text
+demos/STM32/RT-STM32F072RB-NUCLEO/halconf.h -text
+demos/STM32/RT-STM32F072RB-NUCLEO/main.c -text
+demos/STM32/RT-STM32F072RB-NUCLEO/mcuconf.h -text
+demos/STM32/RT-STM32F072RB-NUCLEO/readme.txt -text
 demos/STM32/RT-STM32F091RC-NUCLEO/.cproject -text
 demos/STM32/RT-STM32F091RC-NUCLEO/.project -text
 demos/STM32/RT-STM32F091RC-NUCLEO/Makefile -text
@@ -958,6 +964,10 @@ os/hal/boards/ST_NUCLEO_F030R8/board.c -text
 os/hal/boards/ST_NUCLEO_F030R8/board.h -text
 os/hal/boards/ST_NUCLEO_F030R8/board.mk -text
 os/hal/boards/ST_NUCLEO_F030R8/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO_F072RB/board.c -text
+os/hal/boards/ST_NUCLEO_F072RB/board.h -text
+os/hal/boards/ST_NUCLEO_F072RB/board.mk -text
+os/hal/boards/ST_NUCLEO_F072RB/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_F091RC/board.c -text
 os/hal/boards/ST_NUCLEO_F091RC/board.h -text
 os/hal/boards/ST_NUCLEO_F091RC/board.mk -text
