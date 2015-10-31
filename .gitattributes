@@ -2309,6 +2309,15 @@ testhal/STM32/STM32L1xx/ADC/halconf.h -text
 testhal/STM32/STM32L1xx/ADC/main.c -text
 testhal/STM32/STM32L1xx/ADC/mcuconf.h -text
 testhal/STM32/STM32L1xx/ADC/readme.txt -text
+testhal/STM32/STM32L1xx/DAC/.cproject -text
+testhal/STM32/STM32L1xx/DAC/.project -text
+testhal/STM32/STM32L1xx/DAC/Makefile -text
+testhal/STM32/STM32L1xx/DAC/chconf.h -text
+testhal/STM32/STM32L1xx/DAC/debug/STM32L1xx-DAC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32L1xx/DAC/halconf.h -text
+testhal/STM32/STM32L1xx/DAC/main.c -text
+testhal/STM32/STM32L1xx/DAC/mcuconf.h -text
+testhal/STM32/STM32L1xx/DAC/readme.txt -text
 testhal/STM32/STM32L1xx/EXT/.cproject -text
 testhal/STM32/STM32L1xx/EXT/.project -text
 testhal/STM32/STM32L1xx/EXT/Makefile -text
