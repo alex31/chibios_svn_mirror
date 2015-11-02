@@ -964,10 +964,10 @@ os/hal/boards/ST_EVB_SPC56EL/board.mk -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.c -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.h -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.mk -text
-os/hal/boards/ST_NUCLEO32_F303R8/board.c -text
-os/hal/boards/ST_NUCLEO32_F303R8/board.h -text
-os/hal/boards/ST_NUCLEO32_F303R8/board.mk -text
-os/hal/boards/ST_NUCLEO32_F303R8/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO32_F303K8/board.c -text
+os/hal/boards/ST_NUCLEO32_F303K8/board.h -text
+os/hal/boards/ST_NUCLEO32_F303K8/board.mk -text
+os/hal/boards/ST_NUCLEO32_F303K8/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_F030R8/board.c -text
 os/hal/boards/ST_NUCLEO_F030R8/board.h -text
 os/hal/boards/ST_NUCLEO_F030R8/board.mk -text
