@@ -324,6 +324,15 @@ demos/STM32/RT-STM32F303-DISCOVERY/keil/ch.uvprojx -text
 demos/STM32/RT-STM32F303-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F303-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F303-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/.cproject -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/.project -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/Makefile -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/chconf.h -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/debug/RT-STM32F303K8-NUCLEO32[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/halconf.h -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/main.c -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/mcuconf.h -text
+demos/STM32/RT-STM32F303K8-NUCLEO32/readme.txt -text
 demos/STM32/RT-STM32F334R8-NUCLEO/.cproject -text
 demos/STM32/RT-STM32F334R8-NUCLEO/.project -text
 demos/STM32/RT-STM32F334R8-NUCLEO/Makefile -text
