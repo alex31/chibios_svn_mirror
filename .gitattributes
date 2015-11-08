@@ -1289,6 +1289,8 @@ os/hal/ports/STM32/LLD/SPIv1/i2s_lld.c -text
 os/hal/ports/STM32/LLD/SPIv1/i2s_lld.h -text
 os/hal/ports/STM32/LLD/SPIv1/spi_lld.c -text
 os/hal/ports/STM32/LLD/SPIv1/spi_lld.h -text
+os/hal/ports/STM32/LLD/SPIv2/i2s_lld.c -text
+os/hal/ports/STM32/LLD/SPIv2/i2s_lld.h -text
 os/hal/ports/STM32/LLD/SPIv2/spi_lld.c -text
 os/hal/ports/STM32/LLD/SPIv2/spi_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/gpt_lld.c -text
