@@ -1268,6 +1268,8 @@ os/hal/ports/STM32/LLD/GPIOv1/pal_lld.c -text
 os/hal/ports/STM32/LLD/GPIOv1/pal_lld.h -text
 os/hal/ports/STM32/LLD/GPIOv2/pal_lld.c -text
 os/hal/ports/STM32/LLD/GPIOv2/pal_lld.h -text
+os/hal/ports/STM32/LLD/GPIOv3/pal_lld.c -text
+os/hal/ports/STM32/LLD/GPIOv3/pal_lld.h -text
 os/hal/ports/STM32/LLD/I2Cv1/i2c_lld.c -text
 os/hal/ports/STM32/LLD/I2Cv1/i2c_lld.h -text
 os/hal/ports/STM32/LLD/I2Cv2/i2c_lld.c -text
