@@ -966,6 +966,9 @@ os/hal/boards/RAISONANCE_REVA_STM8S/board.c -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.h -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.c -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.h -text
+os/hal/boards/ST_EVALKITST7580_1/board.c -text
+os/hal/boards/ST_EVALKITST7580_1/board.h -text
+os/hal/boards/ST_EVALKITST7580_1/board.mk -text
 os/hal/boards/ST_EVB_SPC560B/board.c -text
 os/hal/boards/ST_EVB_SPC560B/board.h -text
 os/hal/boards/ST_EVB_SPC560B/board.mk -text
