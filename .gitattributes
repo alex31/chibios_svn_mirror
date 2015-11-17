@@ -98,6 +98,8 @@ demos/SPC5/RT-SPC560B-EVB/chconf.h -text
 demos/SPC5/RT-SPC560B-EVB/halconf.h -text
 demos/SPC5/RT-SPC560B-EVB/main.c -text
 demos/SPC5/RT-SPC560B-EVB/mcuconf.h -text
+demos/SPC5/RT-SPC560D-EVB-CW/cw/ch/ch.mcp -text
+demos/SPC5/RT-SPC560D-EVB-CW/main.c -text
 demos/SPC5/RT-SPC560D-EVB/.cproject -text
 demos/SPC5/RT-SPC560D-EVB/.project -text
 demos/SPC5/RT-SPC560D-EVB/Makefile -text
@@ -682,6 +684,7 @@ os/common/ports/ARMCMx/devices/STM32F7xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L4xx/cmparams.h -text
+os/common/ports/e200/compilers/CW/crt0.s -text
 os/common/ports/e200/compilers/GCC/crt0.s -text
 os/common/ports/e200/compilers/GCC/ld/SPC560B50.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC560B60.ld -text
@@ -712,6 +715,7 @@ os/common/ports/e200/devices/SPC560Bxx/intc.h -text
 os/common/ports/e200/devices/SPC560Bxx/ppcparams.h -text
 os/common/ports/e200/devices/SPC560Dxx/boot.h -text
 os/common/ports/e200/devices/SPC560Dxx/boot.s -text
+os/common/ports/e200/devices/SPC560Dxx/boot_cw.s -text
 os/common/ports/e200/devices/SPC560Dxx/intc.h -text
 os/common/ports/e200/devices/SPC560Dxx/ppcparams.h -text
 os/common/ports/e200/devices/SPC560Pxx/boot.h -text
