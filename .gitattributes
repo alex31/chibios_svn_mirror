@@ -98,6 +98,7 @@ demos/SPC5/RT-SPC560B-EVB/chconf.h -text
 demos/SPC5/RT-SPC560B-EVB/halconf.h -text
 demos/SPC5/RT-SPC560B-EVB/main.c -text
 demos/SPC5/RT-SPC560B-EVB/mcuconf.h -text
+demos/SPC5/RT-SPC560D-EVB-CW/chconf.h -text
 demos/SPC5/RT-SPC560D-EVB-CW/cw/ch/ch.mcp -text
 demos/SPC5/RT-SPC560D-EVB-CW/main.c -text
 demos/SPC5/RT-SPC560D-EVB/.cproject -text
@@ -685,6 +686,8 @@ os/common/ports/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L4xx/cmparams.h -text
 os/common/ports/e200/compilers/CW/crt0.s -text
+os/common/ports/e200/compilers/CW/vectors.h -text
+os/common/ports/e200/compilers/CW/vectors.s -text
 os/common/ports/e200/compilers/GCC/crt0.s -text
 os/common/ports/e200/compilers/GCC/ld/SPC560B50.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC560B60.ld -text
@@ -1590,6 +1593,7 @@ os/rt/ports/SIMIA32/compilers/GCC/chtypes.h -text
 os/rt/ports/SIMIA32/compilers/GCC/port.mk -text
 os/rt/ports/e200/chcore.c -text
 os/rt/ports/e200/chcore.h -text
+os/rt/ports/e200/compilers/CW/chtypes.h -text
 os/rt/ports/e200/compilers/GCC/chtypes.h -text
 os/rt/ports/e200/compilers/GCC/ivor.s -text
 os/rt/ports/e200/compilers/GCC/mk/port_spc560bcxx.mk -text
