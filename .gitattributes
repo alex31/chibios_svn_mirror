@@ -702,6 +702,14 @@ os/common/ports/e200/compilers/GCC/ld/SPC56EL54_LSM.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC56EL60_LSM.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC56EL70_LSM.ld -text
 os/common/ports/e200/compilers/GCC/ld/SPC57EM80_HSM.ld -text
+os/common/ports/e200/compilers/GCC/mk/startup_spc560bcxx.mk -text
+os/common/ports/e200/compilers/GCC/mk/startup_spc560bxx.mk -text
+os/common/ports/e200/compilers/GCC/mk/startup_spc560dxx.mk -text
+os/common/ports/e200/compilers/GCC/mk/startup_spc560pxx.mk -text
+os/common/ports/e200/compilers/GCC/mk/startup_spc563mxx.mk -text
+os/common/ports/e200/compilers/GCC/mk/startup_spc564axx.mk -text
+os/common/ports/e200/compilers/GCC/mk/startup_spc56ecxx.mk -text
+os/common/ports/e200/compilers/GCC/mk/startup_spc56elxx.mk -text
 os/common/ports/e200/compilers/GCC/rules.mk -text
 os/common/ports/e200/compilers/GCC/rules_z0.ld -text
 os/common/ports/e200/compilers/GCC/rules_z3.ld -text
@@ -1594,6 +1602,7 @@ os/rt/ports/SIMIA32/compilers/GCC/port.mk -text
 os/rt/ports/e200/chcore.c -text
 os/rt/ports/e200/chcore.h -text
 os/rt/ports/e200/compilers/CW/chtypes.h -text
+os/rt/ports/e200/compilers/GCC/chcoreasm.s -text
 os/rt/ports/e200/compilers/GCC/chtypes.h -text
 os/rt/ports/e200/compilers/GCC/ivor.s -text
 os/rt/ports/e200/compilers/GCC/mk/port_spc560bcxx.mk -text
