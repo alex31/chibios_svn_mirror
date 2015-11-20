@@ -99,6 +99,7 @@ demos/SPC5/RT-SPC560B-EVB/halconf.h -text
 demos/SPC5/RT-SPC560B-EVB/main.c -text
 demos/SPC5/RT-SPC560B-EVB/mcuconf.h -text
 demos/SPC5/RT-SPC560D-EVB-CW/chconf.h -text
+demos/SPC5/RT-SPC560D-EVB-CW/cw/ch/ch.lcf -text
 demos/SPC5/RT-SPC560D-EVB-CW/cw/ch/ch.mcp -text
 demos/SPC5/RT-SPC560D-EVB-CW/main.c -text
 demos/SPC5/RT-SPC560D-EVB/.cproject -text
