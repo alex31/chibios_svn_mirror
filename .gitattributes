@@ -685,6 +685,7 @@ os/common/ports/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/ports/ARMCMx/devices/STM32L4xx/cmparams.h -text
 os/common/ports/e200/compilers/CW/crt0.s -text
+os/common/ports/e200/compilers/CW/unhandled.s -text
 os/common/ports/e200/compilers/CW/vectors.h -text
 os/common/ports/e200/compilers/CW/vectors.s -text
 os/common/ports/e200/compilers/GCC/crt0.s -text
