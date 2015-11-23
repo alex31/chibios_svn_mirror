@@ -575,6 +575,7 @@ doc/rt/makehtml.bat -text
 doc/rt/readme.txt -text
 doc/rt/reports/LPC2148-48-ARM.txt -text
 doc/rt/reports/LPC2148-48-THUMB.txt -text
+doc/rt/reports/SPC560D-48-CW.txt -text
 doc/rt/reports/SPC560D-48-GCC.txt -text
 doc/rt/reports/SPC560P-64-GCC.txt -text
 doc/rt/reports/SPC563M-80-GCC.txt -text
