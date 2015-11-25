@@ -744,6 +744,7 @@ os/common/ports/e200/devices/SPC564Axx/intc.h -text
 os/common/ports/e200/devices/SPC564Axx/ppcparams.h -text
 os/common/ports/e200/devices/SPC56ECxx/boot.h -text
 os/common/ports/e200/devices/SPC56ECxx/boot.s -text
+os/common/ports/e200/devices/SPC56ECxx/boot_cw.s -text
 os/common/ports/e200/devices/SPC56ECxx/intc.h -text
 os/common/ports/e200/devices/SPC56ECxx/ppcparams.h -text
 os/common/ports/e200/devices/SPC56ELxx/boot.h -text
