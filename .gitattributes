@@ -630,6 +630,7 @@ os/common/ports/ARMCMx/compilers/GCC/ld/STM32F051x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F072xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F091xC.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F100xB.ld -text
+os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103x8.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xB.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xD.ld -text
 os/common/ports/ARMCMx/compilers/GCC/ld/STM32F103xE.ld -text
@@ -985,6 +986,9 @@ os/hal/boards/PJRC_TEENSY_3/board.h -text
 os/hal/boards/PJRC_TEENSY_3/board.mk -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.c -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.h -text
+os/hal/boards/STM32F103C8_MINIMAL/board.c -text
+os/hal/boards/STM32F103C8_MINIMAL/board.h -text
+os/hal/boards/STM32F103C8_MINIMAL/board.mk -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.c -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.h -text
 os/hal/boards/ST_EVALKITST7580_1/board.c -text
