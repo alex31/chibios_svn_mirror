@@ -2314,6 +2314,15 @@ testhal/STM32/STM32F7xx/GPT-ADC/halconf.h -text
 testhal/STM32/STM32F7xx/GPT-ADC/main.c -text
 testhal/STM32/STM32F7xx/GPT-ADC/mcuconf.h -text
 testhal/STM32/STM32F7xx/GPT-ADC/readme.txt -text
+testhal/STM32/STM32F7xx/IRQ_STORM/.cproject -text
+testhal/STM32/STM32F7xx/IRQ_STORM/.project -text
+testhal/STM32/STM32F7xx/IRQ_STORM/Makefile -text
+testhal/STM32/STM32F7xx/IRQ_STORM/chconf.h -text
+testhal/STM32/STM32F7xx/IRQ_STORM/debug/STM32F7xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F7xx/IRQ_STORM/halconf.h -text
+testhal/STM32/STM32F7xx/IRQ_STORM/main.c -text
+testhal/STM32/STM32F7xx/IRQ_STORM/mcuconf.h -text
+testhal/STM32/STM32F7xx/IRQ_STORM/readme.txt -text
 testhal/STM32/STM32F7xx/PWM-ICU/.cproject -text
 testhal/STM32/STM32F7xx/PWM-ICU/.project -text
 testhal/STM32/STM32F7xx/PWM-ICU/Makefile -text
