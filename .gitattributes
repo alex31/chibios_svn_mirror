@@ -675,6 +675,7 @@ os/common/ports/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/ports/ARMCMx/compilers/GCC/rules.ld -text
 os/common/ports/ARMCMx/compilers/GCC/rules.mk -text
 os/common/ports/ARMCMx/compilers/GCC/vectors.c -text
+os/common/ports/ARMCMx/compilers/GCC/vectors.h -text
 os/common/ports/ARMCMx/compilers/IAR/cstartup.s -text
 os/common/ports/ARMCMx/compilers/IAR/vectors.s -text
 os/common/ports/ARMCMx/compilers/RVCT/cstartup.s -text
