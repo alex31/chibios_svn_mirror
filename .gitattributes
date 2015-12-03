@@ -1513,6 +1513,8 @@ os/hal/templates/uart_lld.c -text
 os/hal/templates/uart_lld.h -text
 os/hal/templates/usb_lld.c -text
 os/hal/templates/usb_lld.h -text
+os/hal/templates/wdg_lld.c -text
+os/hal/templates/wdg_lld.h -text
 os/nil/dox/nil.dox -text
 os/nil/include/nil.h -text
 os/nil/nil.mk -text
