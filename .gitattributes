@@ -2144,7 +2144,6 @@ testhal/STM32/STM32F3xx/WDG/halconf.h -text
 testhal/STM32/STM32F3xx/WDG/main.c -text
 testhal/STM32/STM32F3xx/WDG/mcuconf.h -text
 testhal/STM32/STM32F3xx/WDG/readme.txt -text
-testhal/STM32/STM32F3xx/WDG/us.stackdump -text
 testhal/STM32/STM32F4xx/ADC/.cproject -text
 testhal/STM32/STM32F4xx/ADC/.project -text
 testhal/STM32/STM32F4xx/ADC/Makefile -text
