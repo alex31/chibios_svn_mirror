@@ -324,6 +324,16 @@ demos/STM32/RT-STM32F103_INEMO_DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F103_INEMO_DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F103_INEMO_DISCOVERY/usbcfg.c -text
 demos/STM32/RT-STM32F103_INEMO_DISCOVERY/usbcfg.h -text
+demos/STM32/RT-STM32F207-DISCOVERY/.cproject -text
+demos/STM32/RT-STM32F207-DISCOVERY/.project -text
+demos/STM32/RT-STM32F207-DISCOVERY/Makefile -text
+demos/STM32/RT-STM32F207-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F207-DISCOVERY/debug/RT-STM32F407-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F207-DISCOVERY/debug/RT-STM32F407-DISCOVERY[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
+demos/STM32/RT-STM32F207-DISCOVERY/halconf.h -text
+demos/STM32/RT-STM32F207-DISCOVERY/main.c -text
+demos/STM32/RT-STM32F207-DISCOVERY/mcuconf.h -text
+demos/STM32/RT-STM32F207-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F302R8-NUCLEO/.cproject -text
 demos/STM32/RT-STM32F302R8-NUCLEO/.project -text
 demos/STM32/RT-STM32F302R8-NUCLEO/Makefile -text
@@ -1098,6 +1108,10 @@ os/hal/boards/ST_STM32F0_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32F0_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F0_DISCOVERY/board.mk -text
 os/hal/boards/ST_STM32F0_DISCOVERY/cfg/board.chcfg -text
+os/hal/boards/ST_STM32F2_DISCOVERY/board.c -text
+os/hal/boards/ST_STM32F2_DISCOVERY/board.h -text
+os/hal/boards/ST_STM32F2_DISCOVERY/board.mk -text
+os/hal/boards/ST_STM32F2_DISCOVERY/cfg/board.chcfg -text
 os/hal/boards/ST_STM32F3_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32F3_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F3_DISCOVERY/board.mk -text
