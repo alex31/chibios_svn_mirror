@@ -1295,6 +1295,9 @@ os/hal/ports/STM32/LLD/ADCv1/notes.txt -text
 os/hal/ports/STM32/LLD/ADCv2/adc_lld.c -text
 os/hal/ports/STM32/LLD/ADCv2/adc_lld.h -text
 os/hal/ports/STM32/LLD/ADCv2/notes.txt -text
+os/hal/ports/STM32/LLD/ADCv3/adc_lld.c -text
+os/hal/ports/STM32/LLD/ADCv3/adc_lld.h -text
+os/hal/ports/STM32/LLD/ADCv3/notes.txt -text
 os/hal/ports/STM32/LLD/CANv1/can_lld.c -text
 os/hal/ports/STM32/LLD/CANv1/can_lld.h -text
 os/hal/ports/STM32/LLD/DACv1/dac_lld.c -text
@@ -2471,5 +2474,15 @@ testhal/STM32/STM32L1xx/UART/halconf.h -text
 testhal/STM32/STM32L1xx/UART/main.c -text
 testhal/STM32/STM32L1xx/UART/mcuconf.h -text
 testhal/STM32/STM32L1xx/UART/readme.txt -text
+testhal/STM32/STM32L4xx/GPT-ADC/.cproject -text
+testhal/STM32/STM32L4xx/GPT-ADC/.project -text
+testhal/STM32/STM32L4xx/GPT-ADC/Makefile -text
+testhal/STM32/STM32L4xx/GPT-ADC/chconf.h -text
+testhal/STM32/STM32L4xx/GPT-ADC/debug/STM32L4xx-GPT-ADC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32L4xx/GPT-ADC/debug/STM32L4xx-GPT-ADC[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
+testhal/STM32/STM32L4xx/GPT-ADC/halconf.h -text
+testhal/STM32/STM32L4xx/GPT-ADC/main.c -text
+testhal/STM32/STM32L4xx/GPT-ADC/mcuconf.h -text
+testhal/STM32/STM32L4xx/GPT-ADC/readme.txt -text
 testhal/common/irq_storm.c -text
 testhal/common/irq_storm.h -text
