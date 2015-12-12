@@ -813,14 +813,17 @@ os/ext/CMSIS/ST/stm32f2xx.h -text
 os/ext/CMSIS/ST/stm32f301x8.h -text
 os/ext/CMSIS/ST/stm32f302x8.h -text
 os/ext/CMSIS/ST/stm32f302xc.h -text
+os/ext/CMSIS/ST/stm32f302xe.h -text
 os/ext/CMSIS/ST/stm32f303x8.h -text
 os/ext/CMSIS/ST/stm32f303xc.h -text
+os/ext/CMSIS/ST/stm32f303xe.h -text
 os/ext/CMSIS/ST/stm32f318xx.h -text
 os/ext/CMSIS/ST/stm32f328xx.h -text
 os/ext/CMSIS/ST/stm32f334x8.h -text
 os/ext/CMSIS/ST/stm32f358xx.h -text
 os/ext/CMSIS/ST/stm32f373xc.h -text
 os/ext/CMSIS/ST/stm32f378xx.h -text
+os/ext/CMSIS/ST/stm32f398xx.h -text
 os/ext/CMSIS/ST/stm32f3xx.h -text
 os/ext/CMSIS/ST/stm32f401xc.h -text
 os/ext/CMSIS/ST/stm32f401xe.h -text
