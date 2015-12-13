@@ -1579,6 +1579,7 @@ os/rt/dox/rt.dox -text
 os/rt/include/ch.h -text
 os/rt/include/chbsem.h -text
 os/rt/include/chcond.h -text
+os/rt/include/chcustomer.h -text
 os/rt/include/chdebug.h -text
 os/rt/include/chdynamic.h -text
 os/rt/include/chevents.h -text
