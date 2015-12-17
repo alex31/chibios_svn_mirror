@@ -1199,6 +1199,7 @@ os/hal/include/dac.h -text
 os/hal/include/ext.h -text
 os/hal/include/gpt.h -text
 os/hal/include/hal.h -text
+os/hal/include/hal_buffers.h -text
 os/hal/include/hal_channels.h -text
 os/hal/include/hal_files.h -text
 os/hal/include/hal_ioblock.h -text
@@ -1484,6 +1485,7 @@ os/hal/src/dac.c -text
 os/hal/src/ext.c -text
 os/hal/src/gpt.c -text
 os/hal/src/hal.c -text
+os/hal/src/hal_buffers.c -text
 os/hal/src/hal_mmcsd.c -text
 os/hal/src/hal_queues.c -text
 os/hal/src/i2c.c -text
