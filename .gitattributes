@@ -1909,6 +1909,8 @@ testhal/STM32/STM32F0xx/USB_CDC/halconf.h -text
 testhal/STM32/STM32F0xx/USB_CDC/main.c -text
 testhal/STM32/STM32F0xx/USB_CDC/mcuconf.h -text
 testhal/STM32/STM32F0xx/USB_CDC/readme.txt -text
+testhal/STM32/STM32F0xx/USB_CDC/usbcfg.c -text
+testhal/STM32/STM32F0xx/USB_CDC/usbcfg.h -text
 testhal/STM32/STM32F1xx/ADC/.cproject -text
 testhal/STM32/STM32F1xx/ADC/.project -text
 testhal/STM32/STM32F1xx/ADC/Makefile -text
@@ -1986,6 +1988,8 @@ testhal/STM32/STM32F1xx/USB_CDC/halconf.h -text
 testhal/STM32/STM32F1xx/USB_CDC/main.c -text
 testhal/STM32/STM32F1xx/USB_CDC/mcuconf.h -text
 testhal/STM32/STM32F1xx/USB_CDC/readme.txt -text
+testhal/STM32/STM32F1xx/USB_CDC/usbcfg.c -text
+testhal/STM32/STM32F1xx/USB_CDC/usbcfg.h -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/.cproject -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/.project -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/Makefile -text
@@ -2075,6 +2079,8 @@ testhal/STM32/STM32F37x/USB_CDC/halconf.h -text
 testhal/STM32/STM32F37x/USB_CDC/main.c -text
 testhal/STM32/STM32F37x/USB_CDC/mcuconf.h -text
 testhal/STM32/STM32F37x/USB_CDC/readme.txt -text
+testhal/STM32/STM32F37x/USB_CDC/usbcfg.c -text
+testhal/STM32/STM32F37x/USB_CDC/usbcfg.h -text
 testhal/STM32/STM32F3xx/ADC/.cproject -text
 testhal/STM32/STM32F3xx/ADC/.project -text
 testhal/STM32/STM32F3xx/ADC/Makefile -text
@@ -2161,6 +2167,8 @@ testhal/STM32/STM32F3xx/USB_CDC/halconf.h -text
 testhal/STM32/STM32F3xx/USB_CDC/main.c -text
 testhal/STM32/STM32F3xx/USB_CDC/mcuconf.h -text
 testhal/STM32/STM32F3xx/USB_CDC/readme.txt -text
+testhal/STM32/STM32F3xx/USB_CDC/usbcfg.c -text
+testhal/STM32/STM32F3xx/USB_CDC/usbcfg.h -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/.cproject -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/.project -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/Makefile -text
