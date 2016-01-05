@@ -1187,6 +1187,7 @@ os/hal/dox/i2s.dox -text
 os/hal/dox/icu.dox -text
 os/hal/dox/mac.dox -text
 os/hal/dox/main.dox -text
+os/hal/dox/mii.dox -text
 os/hal/dox/mmc_spi.dox -text
 os/hal/dox/mmcsd.dox -text
 os/hal/dox/pal.dox -text
@@ -1199,6 +1200,7 @@ os/hal/dox/spi.dox -text
 os/hal/dox/st.dox -text
 os/hal/dox/uart.dox -text
 os/hal/dox/usb.dox -text
+os/hal/dox/usb_cdc.dox -text
 os/hal/dox/wdg.dox -text
 os/hal/hal.mk -text
 os/hal/include/adc.h -text
@@ -1230,6 +1232,7 @@ os/hal/include/spi.h -text
 os/hal/include/st.h -text
 os/hal/include/uart.h -text
 os/hal/include/usb.h -text
+os/hal/include/usb_cdc.h -text
 os/hal/include/wdg.h -text
 os/hal/lib/streams/chprintf.c -text
 os/hal/lib/streams/chprintf.h -text
