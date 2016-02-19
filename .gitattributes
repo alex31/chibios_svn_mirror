@@ -908,6 +908,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/rules.mk -text
+os/common/startup/ARMCMx/compilers/GCC/rules_ram.ld -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.c -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.h -text
 os/common/startup/ARMCMx/compilers/IAR/cstartup.s -text
