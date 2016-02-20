@@ -1315,6 +1315,7 @@ os/hal/lib/streams/memstreams.c -text
 os/hal/lib/streams/memstreams.h -text
 os/hal/lib/streams/nullstreams.c -text
 os/hal/lib/streams/nullstreams.h -text
+os/hal/lib/streams/streams.mk -text
 os/hal/osal/nil/osal.c -text
 os/hal/osal/nil/osal.h -text
 os/hal/osal/nil/osal.mk -text
@@ -1705,8 +1706,11 @@ os/various/lwip_bindings/lwip.mk -text
 os/various/lwip_bindings/lwipthread.c -text
 os/various/lwip_bindings/lwipthread.h -text
 os/various/lwip_bindings/readme.txt -text
-os/various/shell.c -text
-os/various/shell.h -text
+os/various/shell/shell.c -text
+os/various/shell/shell.h -text
+os/various/shell/shell.mk -text
+os/various/shell/shell_cmd.c -text
+os/various/shell/shell_cmd.h -text
 os/various/syscalls.c -text
 os/various/various.dox -text
 /readme.txt -text
