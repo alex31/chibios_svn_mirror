@@ -1714,7 +1714,7 @@ os/various/shell/shell_cmd.h -text
 os/various/syscalls.c -text
 os/various/various.dox -text
 /readme.txt -text
-/release_note_16.1.0.txt -text
+/release_note_next.txt -text
 test/hal/testbuild/.cproject -text
 test/hal/testbuild/.project -text
 test/hal/testbuild/Makefile -text
