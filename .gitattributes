@@ -814,13 +814,11 @@ os/common/ext/CMSIS/include/core_cmSimd.h -text
 os/common/ext/CMSIS/readme.txt -text
 os/common/ext/readme.txt -text
 os/common/oslib/include/chbsem.h -text
-os/common/oslib/include/chdynamic.h -text
 os/common/oslib/include/chheap.h -text
 os/common/oslib/include/chmboxes.h -text
 os/common/oslib/include/chmemcore.h -text
 os/common/oslib/include/chmempools.h -text
 os/common/oslib/readme.txt -text
-os/common/oslib/src/chdynamic.c -text
 os/common/oslib/src/chheap.c -text
 os/common/oslib/src/chmboxes.c -text
 os/common/oslib/src/chmemcore.c -text
@@ -1680,6 +1678,7 @@ os/rt/include/chalign.h -text
 os/rt/include/chcond.h -text
 os/rt/include/chcustomer.h -text
 os/rt/include/chdebug.h -text
+os/rt/include/chdynamic.h -text
 os/rt/include/chevents.h -text
 os/rt/include/chlicense.h -text
 os/rt/include/chmsg.h -text
@@ -1698,6 +1697,7 @@ os/rt/include/chvt.h -text
 os/rt/rt.mk -text
 os/rt/src/chcond.c -text
 os/rt/src/chdebug.c -text
+os/rt/src/chdynamic.c -text
 os/rt/src/chevents.c -text
 os/rt/src/chmsg.c -text
 os/rt/src/chmtx.c -text
