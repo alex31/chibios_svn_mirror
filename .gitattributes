@@ -923,7 +923,11 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L151x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L152xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_STM32F7xx.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/rules_stacks.ld -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_k20x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_kl2x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
@@ -935,7 +939,6 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f7xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
-os/common/startup/ARMCMx/compilers/GCC/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/rules.mk -text
 os/common/startup/ARMCMx/compilers/GCC/rules_ram.ld -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.c -text
