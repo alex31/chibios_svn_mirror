@@ -1261,6 +1261,10 @@ os/hal/boards/ST_STM32F746G_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32F746G_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F746G_DISCOVERY/board.mk -text
 os/hal/boards/ST_STM32F746G_DISCOVERY/cfg/board.chcfg -text
+os/hal/boards/ST_STM32L476_DISCOVERY/board.c -text
+os/hal/boards/ST_STM32L476_DISCOVERY/board.h -text
+os/hal/boards/ST_STM32L476_DISCOVERY/board.mk -text
+os/hal/boards/ST_STM32L476_DISCOVERY/cfg/board.chcfg -text
 os/hal/boards/ST_STM32L_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32L_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32L_DISCOVERY/board.mk -text
