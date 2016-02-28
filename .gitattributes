@@ -544,6 +544,15 @@ demos/STM32/RT-STM32L152RE-NUCLEO/halconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/main.c -text
 demos/STM32/RT-STM32L152RE-NUCLEO/mcuconf.h -text
 demos/STM32/RT-STM32L152RE-NUCLEO/readme.txt -text
+demos/STM32/RT-STM32L476-DISCOVERY/.cproject -text
+demos/STM32/RT-STM32L476-DISCOVERY/.project -text
+demos/STM32/RT-STM32L476-DISCOVERY/Makefile -text
+demos/STM32/RT-STM32L476-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32L476-DISCOVERY/debug/RT-STM32L476-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32L476-DISCOVERY/halconf.h -text
+demos/STM32/RT-STM32L476-DISCOVERY/main.c -text
+demos/STM32/RT-STM32L476-DISCOVERY/mcuconf.h -text
+demos/STM32/RT-STM32L476-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32L476RG-NUCLEO/.cproject -text
 demos/STM32/RT-STM32L476RG-NUCLEO/.project -text
 demos/STM32/RT-STM32L476RG-NUCLEO/Makefile -text
