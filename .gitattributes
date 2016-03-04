@@ -1782,6 +1782,11 @@ test/lib/templates/test_root.c -text
 test/lib/templates/test_root.h -text
 test/lib/templates/test_sequence_XXX.c -text
 test/lib/templates/test_sequence_XXX.h -text
+test/nasa_osal/test.mk -text
+test/nasa_osal/test_root.c -text
+test/nasa_osal/test_root.h -text
+test/nasa_osal/test_sequence_001.c -text
+test/nasa_osal/test_sequence_001.h -text
 test/nil/test.mk -text
 test/nil/test_root.c -text
 test/nil/test_root.h -text
