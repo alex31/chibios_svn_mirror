@@ -1799,8 +1799,6 @@ test/nasa_osal/source/test/test_root.h -text
 test/nasa_osal/source/test/test_sequence_001.c -text
 test/nasa_osal/source/test/test_sequence_001.h -text
 test/nasa_osal/test.mk -text
-test/nasa_osal/test_sequence_001.c -text
-test/nasa_osal/test_sequence_001.h -text
 test/nil/test.mk -text
 test/nil/test_root.c -text
 test/nil/test_root.h -text
