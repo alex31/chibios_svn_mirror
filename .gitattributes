@@ -1036,9 +1036,9 @@ os/common/startup/e200/devices/SPC57EMxx_HSM/boot.h -text
 os/common/startup/e200/devices/SPC57EMxx_HSM/boot.s -text
 os/common/startup/e200/devices/SPC57EMxx_HSM/intc.h -text
 os/common/startup/e200/devices/SPC57EMxx_HSM/ppcparams.h -text
-os/ex/gyroscope/ST/l3gd20.c -text
-os/ex/gyroscope/ST/l3gd20.h -text
-os/ex/gyroscope/ST/l3gd20.mk -text
+os/ex/ST/l3gd20.c -text
+os/ex/ST/l3gd20.h -text
+os/ex/ST/l3gd20.mk -text
 os/hal/boards/ARDUINO_MEGA/board.c -text
 os/hal/boards/ARDUINO_MEGA/board.h -text
 os/hal/boards/ARDUINO_MEGA/board.mk -text
