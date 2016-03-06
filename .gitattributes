@@ -2604,7 +2604,6 @@ testhal/STM32/STM32L4xx/CAN/halconf.h -text
 testhal/STM32/STM32L4xx/CAN/main.c -text
 testhal/STM32/STM32L4xx/CAN/mcuconf.h -text
 testhal/STM32/STM32L4xx/CAN/readme.txt -text
-testhal/STM32/STM32L4xx/CAN/us.stackdump -text
 testhal/STM32/STM32L4xx/EXT/.cproject -text
 testhal/STM32/STM32L4xx/EXT/.project -text
 testhal/STM32/STM32L4xx/EXT/Makefile -text
@@ -2633,5 +2632,14 @@ testhal/STM32/STM32L4xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32L4xx/IRQ_STORM/main.c -text
 testhal/STM32/STM32L4xx/IRQ_STORM/mcuconf.h -text
 testhal/STM32/STM32L4xx/IRQ_STORM/readme.txt -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/.cproject -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/.project -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/Makefile -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/chconf.h -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/debug/STM32L4xx_SPI-L3GD20[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/halconf.h -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/main.c -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/mcuconf.h -text
+testhal/STM32/STM32L4xx/SPI-L3GD20/readme.txt -text
 testhal/common/irq_storm.c -text
 testhal/common/irq_storm.h -text
