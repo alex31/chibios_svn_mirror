@@ -1055,10 +1055,6 @@ os/hal/boards/ARDUINO_MEGA/board.mk -text
 os/hal/boards/ARDUINO_UNO/board.c -text
 os/hal/boards/ARDUINO_UNO/board.h -text
 os/hal/boards/ARDUINO_UNO/board.mk -text
-os/hal/boards/CLICKER_2_FOR_STM32/board.c -text
-os/hal/boards/CLICKER_2_FOR_STM32/board.h -text
-os/hal/boards/CLICKER_2_FOR_STM32/board.mk -text
-os/hal/boards/CLICKER_2_FOR_STM32/cfg/board.chcfg -text
 os/hal/boards/EA_LPCXPRESSO_11C24/board.c -text
 os/hal/boards/EA_LPCXPRESSO_11C24/board.h -text
 os/hal/boards/EA_LPCXPRESSO_11C24/board.mk -text
@@ -1086,6 +1082,10 @@ os/hal/boards/MAPLEMINI_STM32_F103/board.mk -text
 os/hal/boards/MCHCK_K20/board.c -text
 os/hal/boards/MCHCK_K20/board.h -text
 os/hal/boards/MCHCK_K20/board.mk -text
+os/hal/boards/MIKROE_CLICKER2_STM32/board.c -text
+os/hal/boards/MIKROE_CLICKER2_STM32/board.h -text
+os/hal/boards/MIKROE_CLICKER2_STM32/board.mk -text
+os/hal/boards/MIKROE_CLICKER2_STM32/cfg/board.chcfg -text
 os/hal/boards/NGX_BB_LPC11U14/board.c -text
 os/hal/boards/NGX_BB_LPC11U14/board.h -text
 os/hal/boards/NGX_BB_LPC11U14/board.mk -text
