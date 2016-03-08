@@ -690,6 +690,7 @@ os/common/abstractions/cmsis_os/cmsis_os.h -text
 os/common/abstractions/cmsis_os/cmsis_os.mk -text
 os/common/abstractions/nasa_osal/include/common_types.h -text
 os/common/abstractions/nasa_osal/include/osapi-os-core.h -text
+os/common/abstractions/nasa_osal/include/osapi-os-custom.h -text
 os/common/abstractions/nasa_osal/include/osapi-os-filesys.h -text
 os/common/abstractions/nasa_osal/include/osapi-os-loader.h -text
 os/common/abstractions/nasa_osal/include/osapi-os-net.h -text
