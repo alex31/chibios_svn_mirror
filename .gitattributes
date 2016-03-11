@@ -1050,6 +1050,9 @@ os/common/startup/e200/devices/SPC57EMxx_HSM/ppcparams.h -text
 os/ex/ST/l3gd20.c -text
 os/ex/ST/l3gd20.h -text
 os/ex/ST/l3gd20.mk -text
+os/ex/ST/lsm6ds0.c -text
+os/ex/ST/lsm6ds0.h -text
+os/ex/ST/lsm6ds0.mk -text
 os/hal/boards/ARDUINO_MEGA/board.c -text
 os/hal/boards/ARDUINO_MEGA/board.h -text
 os/hal/boards/ARDUINO_MEGA/board.mk -text
