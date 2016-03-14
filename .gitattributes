@@ -1622,6 +1622,7 @@ os/hal/ports/STM32/STM32L4xx/hal_lld.h -text
 os/hal/ports/STM32/STM32L4xx/platform.mk -text
 os/hal/ports/STM32/STM32L4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L4xx/stm32_registry.h -text
+os/hal/ports/STM32/todo.txt -text
 os/hal/ports/common/ARMCMx/mpu.h -text
 os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
