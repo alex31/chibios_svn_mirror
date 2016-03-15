@@ -1388,6 +1388,7 @@ os/hal/include/uart.h -text
 os/hal/include/usb.h -text
 os/hal/include/usb_cdc.h -text
 os/hal/include/wdg.h -text
+os/hal/lib/peripherals/displays/hal_displays.h -text
 os/hal/lib/peripherals/sensors/hal_accelerometer.h -text
 os/hal/lib/peripherals/sensors/hal_compass.h -text
 os/hal/lib/peripherals/sensors/hal_gyroscope.h -text
