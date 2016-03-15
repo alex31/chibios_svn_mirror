@@ -2252,6 +2252,16 @@ testhal/STM32/STM32F3xx/PWM-ICU/halconf.h -text
 testhal/STM32/STM32F3xx/PWM-ICU/main.c -text
 testhal/STM32/STM32F3xx/PWM-ICU/mcuconf.h -text
 testhal/STM32/STM32F3xx/PWM-ICU/readme.txt -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/.cproject -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/Makefile -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/chconf.h -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/debug/STM32F3xx-SPI-L3GD20[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/halconf.h -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/main.c -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/mcuconf.h -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/readme.txt -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/usbcfg.c -text
+testhal/STM32/STM32F3xx/SPI-L3GD20/usbcfg.h -text
 testhal/STM32/STM32F3xx/SPI/.cproject -text
 testhal/STM32/STM32F3xx/SPI/.project -text
 testhal/STM32/STM32F3xx/SPI/Makefile -text
