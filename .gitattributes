@@ -1739,12 +1739,10 @@ os/rt/include/chevents.h -text
 os/rt/include/chlicense.h -text
 os/rt/include/chmsg.h -text
 os/rt/include/chmtx.h -text
-os/rt/include/chqueues.h -text
 os/rt/include/chregistry.h -text
 os/rt/include/chschd.h -text
 os/rt/include/chsem.h -text
 os/rt/include/chstats.h -text
-os/rt/include/chstreams.h -text
 os/rt/include/chsys.h -text
 os/rt/include/chsystypes.h -text
 os/rt/include/chthreads.h -text
@@ -1757,7 +1755,6 @@ os/rt/src/chdynamic.c -text
 os/rt/src/chevents.c -text
 os/rt/src/chmsg.c -text
 os/rt/src/chmtx.c -text
-os/rt/src/chqueues.c -text
 os/rt/src/chregistry.c -text
 os/rt/src/chschd.c -text
 os/rt/src/chsem.c -text
@@ -1806,7 +1803,6 @@ test/hal/testbuild/.cproject -text
 test/hal/testbuild/.project -text
 test/hal/testbuild/Makefile -text
 test/hal/testbuild/board.h -text
-test/hal/testbuild/chconf.h -text
 test/hal/testbuild/main.c -text
 test/hal/testbuild/pclint/au-misra3.lnt -text
 test/hal/testbuild/pclint/co-gcc.h -text
