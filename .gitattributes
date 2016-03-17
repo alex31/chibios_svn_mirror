@@ -1856,6 +1856,8 @@ test/nil/source/test/test_sequence_002.c -text
 test/nil/source/test/test_sequence_002.h -text
 test/nil/source/test/test_sequence_003.c -text
 test/nil/source/test/test_sequence_003.h -text
+test/nil/source/test/test_sequence_004.c -text
+test/nil/source/test/test_sequence_004.h -text
 test/nil/specgen/Doxyfile -text
 test/nil/specgen/makedoc.bat -text
 test/nil/specgen/rsc/custom.css -text
