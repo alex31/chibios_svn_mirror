@@ -1860,6 +1860,8 @@ test/nil/source/test/test_sequence_004.c -text
 test/nil/source/test/test_sequence_004.h -text
 test/nil/source/test/test_sequence_005.c -text
 test/nil/source/test/test_sequence_005.h -text
+test/nil/source/test/test_sequence_006.c -text
+test/nil/source/test/test_sequence_006.h -text
 test/nil/specgen/Doxyfile -text
 test/nil/specgen/makedoc.bat -text
 test/nil/specgen/rsc/custom.css -text
