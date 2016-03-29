@@ -1814,10 +1814,6 @@ test/hal/testbuild/pclint/size-options.lnt -text
 test/hal/testbuild/pclint/waivers.lnt -text
 test/lib/ch_test.c -text
 test/lib/ch_test.h -text
-test/lib/templates/test_root.c -text
-test/lib/templates/test_root.h -text
-test/lib/templates/test_sequence_XXX.c -text
-test/lib/templates/test_sequence_XXX.h -text
 test/nasa_osal/.cproject -text
 test/nasa_osal/.project -text
 test/nasa_osal/.spc5project -text
