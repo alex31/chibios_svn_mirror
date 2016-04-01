@@ -1904,6 +1904,8 @@ test/rt/source/test/test_sequence_009.c -text
 test/rt/source/test/test_sequence_009.h -text
 test/rt/source/test/test_sequence_010.c -text
 test/rt/source/test/test_sequence_010.h -text
+test/rt/source/test/test_sequence_011.c -text
+test/rt/source/test/test_sequence_011.h -text
 test/rt/specgen/Doxyfile -text
 test/rt/specgen/makedoc.bat -text
 test/rt/specgen/rsc/custom.css -text
