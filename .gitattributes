@@ -1651,13 +1651,13 @@ os/hal/ports/simulator/win32/hal_lld.h -text
 os/hal/ports/simulator/win32/platform.mk -text
 os/hal/ports/simulator/win32/serial_lld.c -text
 os/hal/ports/simulator/win32/serial_lld.h -text
+os/hal/src/hal.c -text
 os/hal/src/hal_adc.c -text
 os/hal/src/hal_buffers.c -text
 os/hal/src/hal_can.c -text
 os/hal/src/hal_dac.c -text
 os/hal/src/hal_ext.c -text
 os/hal/src/hal_gpt.c -text
-os/hal/src/hal_hal.c -text
 os/hal/src/hal_i2c.c -text
 os/hal/src/hal_i2s.c -text
 os/hal/src/hal_icu.c -text
