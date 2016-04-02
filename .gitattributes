@@ -1556,8 +1556,8 @@ os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.h -text
 os/hal/ports/STM32/LLD/USBv1/stm32_usb.h -text
 os/hal/ports/STM32/LLD/xWDGv1/hal_wdg_lld.c -text
 os/hal/ports/STM32/LLD/xWDGv1/hal_wdg_lld.h -text
-os/hal/ports/STM32/STM32F0xx/ext_lld_isr.c -text
-os/hal/ports/STM32/STM32F0xx/ext_lld_isr.h -text
+os/hal/ports/STM32/STM32F0xx/hal_ext_lld_isr.c -text
+os/hal/ports/STM32/STM32F0xx/hal_ext_lld_isr.h -text
 os/hal/ports/STM32/STM32F0xx/hal_lld.c -text
 os/hal/ports/STM32/STM32F0xx/hal_lld.h -text
 os/hal/ports/STM32/STM32F0xx/platform.mk -text
