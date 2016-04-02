@@ -1371,6 +1371,7 @@ os/hal/include/hal_i2s.h -text
 os/hal/include/hal_icu.h -text
 os/hal/include/hal_ioblock.h -text
 os/hal/include/hal_mac.h -text
+os/hal/include/hal_mii.h -text
 os/hal/include/hal_mmc_spi.h -text
 os/hal/include/hal_mmcsd.h -text
 os/hal/include/hal_pal.h -text
@@ -1385,9 +1386,8 @@ os/hal/include/hal_st.h -text
 os/hal/include/hal_streams.h -text
 os/hal/include/hal_uart.h -text
 os/hal/include/hal_usb.h -text
+os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
-os/hal/include/mii.h -text
-os/hal/include/usb_cdc.h -text
 os/hal/lib/peripherals/displays/hal_displays.h -text
 os/hal/lib/peripherals/sensors/hal_accelerometer.h -text
 os/hal/lib/peripherals/sensors/hal_compass.h -text
