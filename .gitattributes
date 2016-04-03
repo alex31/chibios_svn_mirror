@@ -1640,6 +1640,7 @@ os/hal/ports/STM32/STM32L4xx/stm32_registry.h -text
 os/hal/ports/STM32/todo.txt -text
 os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
+os/hal/ports/common/platform.mk -text
 os/hal/ports/simulator/console.c -text
 os/hal/ports/simulator/console.h -text
 os/hal/ports/simulator/hal_pal_lld.c -text
@@ -1676,6 +1677,9 @@ os/hal/src/hal_st.c -text
 os/hal/src/hal_uart.c -text
 os/hal/src/hal_usb.c -text
 os/hal/src/hal_wdg.c -text
+os/hal/templates/board/board.c -text
+os/hal/templates/board/board.h -text
+os/hal/templates/board/board.mk -text
 os/hal/templates/hal_adc_lld.c -text
 os/hal/templates/hal_adc_lld.h -text
 os/hal/templates/hal_can_lld.c -text
@@ -1721,7 +1725,6 @@ os/hal/templates/mcuconf.h -text
 os/hal/templates/osal/osal.c -text
 os/hal/templates/osal/osal.h -text
 os/hal/templates/osal/osal.mk -text
-os/hal/templates/platform.mk -text
 os/nil/dox/nil.dox -text
 os/nil/include/ch.h -text
 os/nil/nil.mk -text
@@ -1802,7 +1805,6 @@ os/various/various.dox -text
 test/hal/testbuild/.cproject -text
 test/hal/testbuild/.project -text
 test/hal/testbuild/Makefile -text
-test/hal/testbuild/board.h -text
 test/hal/testbuild/main.c -text
 test/hal/testbuild/pclint/au-misra3.lnt -text
 test/hal/testbuild/pclint/co-gcc.h -text
