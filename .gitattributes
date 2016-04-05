@@ -1749,6 +1749,7 @@ os/rt/include/chsys.h -text
 os/rt/include/chsystypes.h -text
 os/rt/include/chthreads.h -text
 os/rt/include/chtm.h -text
+os/rt/include/chtrace.h -text
 os/rt/include/chvt.h -text
 os/rt/rt.mk -text
 os/rt/src/chcond.c -text
@@ -1764,6 +1765,7 @@ os/rt/src/chstats.c -text
 os/rt/src/chsys.c -text
 os/rt/src/chthreads.c -text
 os/rt/src/chtm.c -text
+os/rt/src/chtrace.c -text
 os/rt/src/chvt.c -text
 os/rt/templates/chconf.h -text
 os/rt/templates/meta/module.c -text
