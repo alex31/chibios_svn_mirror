@@ -2722,3 +2722,5 @@ testhal/STM32/STM32L4xx/SPI-L3GD20/mcuconf.h -text
 testhal/STM32/STM32L4xx/SPI-L3GD20/readme.txt -text
 testhal/common/irq_storm.c -text
 testhal/common/irq_storm.h -text
+tools/stylecheck.pl -text
+tools/test.c -text
