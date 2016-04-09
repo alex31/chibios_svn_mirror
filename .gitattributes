@@ -635,6 +635,7 @@ ext/readme.txt -text
 os/common/abstractions/cmsis_os/cmsis_os.c -text
 os/common/abstractions/cmsis_os/cmsis_os.h -text
 os/common/abstractions/cmsis_os/cmsis_os.mk -text
+os/common/abstractions/nasa_cfe/cfe_osal/cfe_osal.mk -text
 os/common/abstractions/nasa_cfe/cfe_osal/include/common_types.h -text
 os/common/abstractions/nasa_cfe/cfe_osal/include/osapi-os-core.h -text
 os/common/abstractions/nasa_cfe/cfe_osal/include/osapi-os-custom.h -text
@@ -644,7 +645,6 @@ os/common/abstractions/nasa_cfe/cfe_osal/include/osapi-os-net.h -text
 os/common/abstractions/nasa_cfe/cfe_osal/include/osapi-os-timer.h -text
 os/common/abstractions/nasa_cfe/cfe_osal/include/osapi-version.h -text
 os/common/abstractions/nasa_cfe/cfe_osal/include/osapi.h -text
-os/common/abstractions/nasa_cfe/cfe_osal/nasa_osal.mk -text
 os/common/abstractions/nasa_cfe/cfe_osal/src/osapi.c -text
 os/common/abstractions/nasa_cfe/cfe_psp/cfe_psp.mk -text
 os/common/abstractions/nasa_cfe/cfe_psp/src/cfe_psp_support.c -text
