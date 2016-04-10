@@ -448,6 +448,15 @@ demos/STM32/RT-STM32F429-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F429-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F429-DISCOVERY/usbcfg.c -text
 demos/STM32/RT-STM32F429-DISCOVERY/usbcfg.h -text
+demos/STM32/RT-STM32F469I-DISCOVERY/.cproject -text
+demos/STM32/RT-STM32F469I-DISCOVERY/.project -text
+demos/STM32/RT-STM32F469I-DISCOVERY/Makefile -text
+demos/STM32/RT-STM32F469I-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F469I-DISCOVERY/debug/RT-STM32F469I-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F469I-DISCOVERY/halconf.h -text
+demos/STM32/RT-STM32F469I-DISCOVERY/main.c -text
+demos/STM32/RT-STM32F469I-DISCOVERY/mcuconf.h -text
+demos/STM32/RT-STM32F469I-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/.cproject -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/.project -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/Makefile -text
@@ -884,6 +893,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F407xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F411xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F411xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F429xI.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F469xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_ETH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_MAX.ld -text
@@ -1223,6 +1233,10 @@ os/hal/boards/ST_STM32F429I_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32F429I_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F429I_DISCOVERY/board.mk -text
 os/hal/boards/ST_STM32F429I_DISCOVERY/cfg/board.chcfg -text
+os/hal/boards/ST_STM32F469I_DISCOVERY/board.c -text
+os/hal/boards/ST_STM32F469I_DISCOVERY/board.h -text
+os/hal/boards/ST_STM32F469I_DISCOVERY/board.mk -text
+os/hal/boards/ST_STM32F469I_DISCOVERY/cfg/board.chcfg -text
 os/hal/boards/ST_STM32F4_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32F4_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F4_DISCOVERY/board.mk -text
