@@ -483,6 +483,15 @@ demos/STM32/RT-STM32F746G-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F746G-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/.project -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/debug/RT-STM32F746ZE-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/halconf.h -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/main.c -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/mcuconf.h -text
+demos/STM32/RT-STM32F746ZE-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32L053R8-NUCLEO64/.cproject -text
 demos/STM32/RT-STM32L053R8-NUCLEO64/.project -text
 demos/STM32/RT-STM32L053R8-NUCLEO64/Makefile -text
@@ -1137,6 +1146,10 @@ os/hal/boards/ST_EVB_SPC56EL/board.mk -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.c -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.h -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.mk -text
+os/hal/boards/ST_NUCLEO144_F746ZE/board.c -text
+os/hal/boards/ST_NUCLEO144_F746ZE/board.h -text
+os/hal/boards/ST_NUCLEO144_F746ZE/board.mk -text
+os/hal/boards/ST_NUCLEO144_F746ZE/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.c -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.h -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.mk -text
