@@ -1630,6 +1630,8 @@ os/hal/templates/mcuconf.h -text
 os/hal/templates/osal/osal.c -text
 os/hal/templates/osal/osal.h -text
 os/hal/templates/osal/osal.mk -text
+os/license/chcustomer.h -text
+os/license/chlicense.h -text
 os/nil/dox/nil.dox -text
 os/nil/include/ch.h -text
 os/nil/nil.mk -text
@@ -1644,7 +1646,6 @@ os/rt/include/chcustomer.h -text
 os/rt/include/chdebug.h -text
 os/rt/include/chdynamic.h -text
 os/rt/include/chevents.h -text
-os/rt/include/chlicense.h -text
 os/rt/include/chmsg.h -text
 os/rt/include/chmtx.h -text
 os/rt/include/chregistry.h -text
