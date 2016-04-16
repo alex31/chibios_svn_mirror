@@ -1641,6 +1641,7 @@ os/readme.txt -text
 os/rt/dox/rt.dox -text
 os/rt/include/ch.h -text
 os/rt/include/chalign.h -text
+os/rt/include/chchecks.h -text
 os/rt/include/chcond.h -text
 os/rt/include/chcustomer.h -text
 os/rt/include/chdebug.h -text
