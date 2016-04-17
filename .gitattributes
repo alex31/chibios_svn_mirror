@@ -448,6 +448,15 @@ demos/STM32/RT-STM32F429-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F429-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F429-DISCOVERY/usbcfg.c -text
 demos/STM32/RT-STM32F429-DISCOVERY/usbcfg.h -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/.project -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/debug/RT-STM32F429ZI-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/halconf.h -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/main.c -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/mcuconf.h -text
+demos/STM32/RT-STM32F429ZI-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32F469I-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F469I-DISCOVERY/.project -text
 demos/STM32/RT-STM32F469I-DISCOVERY/Makefile -text
@@ -1146,6 +1155,10 @@ os/hal/boards/ST_EVB_SPC56EL/board.mk -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.c -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.h -text
 os/hal/boards/ST_INEMO_M1_DISCOVERY/board.mk -text
+os/hal/boards/ST_NUCLEO144_F429ZI/board.c -text
+os/hal/boards/ST_NUCLEO144_F429ZI/board.h -text
+os/hal/boards/ST_NUCLEO144_F429ZI/board.mk -text
+os/hal/boards/ST_NUCLEO144_F429ZI/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.c -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.h -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.mk -text
