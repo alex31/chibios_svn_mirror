@@ -466,6 +466,15 @@ demos/STM32/RT-STM32F429ZI-NUCLEO144/halconf.h -text
 demos/STM32/RT-STM32F429ZI-NUCLEO144/main.c -text
 demos/STM32/RT-STM32F429ZI-NUCLEO144/mcuconf.h -text
 demos/STM32/RT-STM32F429ZI-NUCLEO144/readme.txt -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/.project -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/debug/RT-STM32F446ZE-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/halconf.h -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/main.c -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/mcuconf.h -text
+demos/STM32/RT-STM32F446ZE-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32F469I-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F469I-DISCOVERY/.project -text
 demos/STM32/RT-STM32F469I-DISCOVERY/Makefile -text
@@ -921,6 +930,8 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F407xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F411xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F411xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F429xI.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F446xC.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F446xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F469xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_ETH.ld -text
@@ -1173,6 +1184,10 @@ os/hal/boards/ST_NUCLEO144_F429ZI/board.c -text
 os/hal/boards/ST_NUCLEO144_F429ZI/board.h -text
 os/hal/boards/ST_NUCLEO144_F429ZI/board.mk -text
 os/hal/boards/ST_NUCLEO144_F429ZI/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO144_F446ZE/board.c -text
+os/hal/boards/ST_NUCLEO144_F446ZE/board.h -text
+os/hal/boards/ST_NUCLEO144_F446ZE/board.mk -text
+os/hal/boards/ST_NUCLEO144_F446ZE/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.c -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.h -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.mk -text
