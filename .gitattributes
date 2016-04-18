@@ -1003,6 +1003,9 @@ os/common/startup/e200/compilers/GCC/ld/SPC56EL54_LSM.ld -text
 os/common/startup/e200/compilers/GCC/ld/SPC56EL60_LSM.ld -text
 os/common/startup/e200/compilers/GCC/ld/SPC56EL70_LSM.ld -text
 os/common/startup/e200/compilers/GCC/ld/SPC57EM80_HSM.ld -text
+os/common/startup/e200/compilers/GCC/ld/rules_z0.ld -text
+os/common/startup/e200/compilers/GCC/ld/rules_z3.ld -text
+os/common/startup/e200/compilers/GCC/ld/rules_z4.ld -text
 os/common/startup/e200/compilers/GCC/mk/startup_spc560bcxx.mk -text
 os/common/startup/e200/compilers/GCC/mk/startup_spc560bxx.mk -text
 os/common/startup/e200/compilers/GCC/mk/startup_spc560dxx.mk -text
@@ -1012,9 +1015,6 @@ os/common/startup/e200/compilers/GCC/mk/startup_spc564axx.mk -text
 os/common/startup/e200/compilers/GCC/mk/startup_spc56ecxx.mk -text
 os/common/startup/e200/compilers/GCC/mk/startup_spc56elxx.mk -text
 os/common/startup/e200/compilers/GCC/rules.mk -text
-os/common/startup/e200/compilers/GCC/rules_z0.ld -text
-os/common/startup/e200/compilers/GCC/rules_z3.ld -text
-os/common/startup/e200/compilers/GCC/rules_z4.ld -text
 os/common/startup/e200/compilers/GCC/vectors.h -text
 os/common/startup/e200/compilers/GCC/vectors.s -text
 os/common/startup/e200/devices/SPC560BCxx/boot.h -text
