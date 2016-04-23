@@ -832,6 +832,9 @@ os/common/ext/CMSIS/ST/STM32L4xx/system_stm32l4xx.h -text
 os/common/ext/CMSIS/include/arm_common_tables.h -text
 os/common/ext/CMSIS/include/arm_const_structs.h -text
 os/common/ext/CMSIS/include/arm_math.h -text
+os/common/ext/CMSIS/include/cmsis_armcc.h -text
+os/common/ext/CMSIS/include/cmsis_armcc_V6.h -text
+os/common/ext/CMSIS/include/cmsis_gcc.h -text
 os/common/ext/CMSIS/include/core_cm0.h -text
 os/common/ext/CMSIS/include/core_cm0plus.h -text
 os/common/ext/CMSIS/include/core_cm3.h -text
@@ -840,6 +843,8 @@ os/common/ext/CMSIS/include/core_cm7.h -text
 os/common/ext/CMSIS/include/core_cmFunc.h -text
 os/common/ext/CMSIS/include/core_cmInstr.h -text
 os/common/ext/CMSIS/include/core_cmSimd.h -text
+os/common/ext/CMSIS/include/core_sc000.h -text
+os/common/ext/CMSIS/include/core_sc300.h -text
 os/common/ext/CMSIS/readme.txt -text
 os/common/ext/readme.txt -text
 os/common/oslib/include/chbsem.h -text
