@@ -1063,6 +1063,7 @@ os/common/startup/e200/devices/SPC57EMxx_HSM/ppcparams.h -text
 os/ex/ST/l3gd20.c -text
 os/ex/ST/l3gd20.h -text
 os/ex/ST/l3gd20.mk -text
+os/ex/ST/lis3mdl.c -text
 os/ex/ST/lis3mdl.h -text
 os/ex/ST/lis3mdl.mk -text
 os/ex/ST/lsm6ds0.c -text
@@ -2684,6 +2685,15 @@ testhal/STM32/STM32L4xx/GPT-ADC/halconf.h -text
 testhal/STM32/STM32L4xx/GPT-ADC/main.c -text
 testhal/STM32/STM32L4xx/GPT-ADC/mcuconf.h -text
 testhal/STM32/STM32L4xx/GPT-ADC/readme.txt -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/.cproject -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/.project -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/Makefile -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/chconf.h -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/debug/STM32L4xx-I2C-LIS3MDL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/halconf.h -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/main.c -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/mcuconf.h -text
+testhal/STM32/STM32L4xx/I2C-LIS3MLD/readme.txt -text
 testhal/STM32/STM32L4xx/I2C-LSM6DS0/.cproject -text
 testhal/STM32/STM32L4xx/I2C-LSM6DS0/.project -text
 testhal/STM32/STM32L4xx/I2C-LSM6DS0/Makefile -text
