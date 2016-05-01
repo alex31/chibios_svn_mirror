@@ -1252,6 +1252,10 @@ os/hal/boards/ST_NUCLEO64_F030R8/board.c -text
 os/hal/boards/ST_NUCLEO64_F030R8/board.h -text
 os/hal/boards/ST_NUCLEO64_F030R8/board.mk -text
 os/hal/boards/ST_NUCLEO64_F030R8/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_F070RB/board.c -text
+os/hal/boards/ST_NUCLEO64_F070RB/board.h -text
+os/hal/boards/ST_NUCLEO64_F070RB/board.mk -text
+os/hal/boards/ST_NUCLEO64_F070RB/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_F072RB/board.c -text
 os/hal/boards/ST_NUCLEO64_F072RB/board.h -text
 os/hal/boards/ST_NUCLEO64_F072RB/board.mk -text
@@ -1267,6 +1271,10 @@ os/hal/boards/ST_NUCLEO64_F302R8/board.c -text
 os/hal/boards/ST_NUCLEO64_F302R8/board.h -text
 os/hal/boards/ST_NUCLEO64_F302R8/board.mk -text
 os/hal/boards/ST_NUCLEO64_F302R8/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_F303RE/board.c -text
+os/hal/boards/ST_NUCLEO64_F303RE/board.h -text
+os/hal/boards/ST_NUCLEO64_F303RE/board.mk -text
+os/hal/boards/ST_NUCLEO64_F303RE/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_F334R8/board.c -text
 os/hal/boards/ST_NUCLEO64_F334R8/board.h -text
 os/hal/boards/ST_NUCLEO64_F334R8/board.mk -text
@@ -1283,6 +1291,10 @@ os/hal/boards/ST_NUCLEO64_F411RE/board.c -text
 os/hal/boards/ST_NUCLEO64_F411RE/board.h -text
 os/hal/boards/ST_NUCLEO64_F411RE/board.mk -text
 os/hal/boards/ST_NUCLEO64_F411RE/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_F446RE/board.c -text
+os/hal/boards/ST_NUCLEO64_F446RE/board.h -text
+os/hal/boards/ST_NUCLEO64_F446RE/board.mk -text
+os/hal/boards/ST_NUCLEO64_F446RE/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.c -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.h -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.mk -text
