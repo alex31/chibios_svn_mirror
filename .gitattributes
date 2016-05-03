@@ -585,6 +585,15 @@ demos/STM32/RT-STM32L053R8-NUCLEO64/halconf.h -text
 demos/STM32/RT-STM32L053R8-NUCLEO64/main.c -text
 demos/STM32/RT-STM32L053R8-NUCLEO64/mcuconf.h -text
 demos/STM32/RT-STM32L053R8-NUCLEO64/readme.txt -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/.cproject -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/.project -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/Makefile -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/chconf.h -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/debug/RT-STM32L073RZ-NUCLEO64[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/halconf.h -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/main.c -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/mcuconf.h -text
+demos/STM32/RT-STM32L073RZ-NUCLEO64/readme.txt -text
 demos/STM32/RT-STM32L152-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32L152-DISCOVERY/.project -text
 demos/STM32/RT-STM32L152-DISCOVERY/Makefile -text
@@ -1345,6 +1354,10 @@ os/hal/boards/ST_NUCLEO64_L053R8/board.c -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.h -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.mk -text
 os/hal/boards/ST_NUCLEO64_L053R8/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_L073RZ/board.c -text
+os/hal/boards/ST_NUCLEO64_L073RZ/board.h -text
+os/hal/boards/ST_NUCLEO64_L073RZ/board.mk -text
+os/hal/boards/ST_NUCLEO64_L073RZ/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_L152RE/board.c -text
 os/hal/boards/ST_NUCLEO64_L152RE/board.h -text
 os/hal/boards/ST_NUCLEO64_L152RE/board.mk -text
