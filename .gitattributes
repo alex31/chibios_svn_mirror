@@ -184,6 +184,14 @@ demos/STM32/NIL-STM32F746G-DISCOVERY/debug/NIL-STM32F746G-DISCOVERY[!!-~](OpenOC
 demos/STM32/NIL-STM32F746G-DISCOVERY/halconf.h -text
 demos/STM32/NIL-STM32F746G-DISCOVERY/main.c -text
 demos/STM32/NIL-STM32F746G-DISCOVERY/mcuconf.h -text
+demos/STM32/NIL-STM32L011K4-NUCLEO32/.cproject -text
+demos/STM32/NIL-STM32L011K4-NUCLEO32/.project -text
+demos/STM32/NIL-STM32L011K4-NUCLEO32/Makefile -text
+demos/STM32/NIL-STM32L011K4-NUCLEO32/chconf.h -text
+demos/STM32/NIL-STM32L011K4-NUCLEO32/debug/NIL-STM32L011K4-NUCLEO32[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/NIL-STM32L011K4-NUCLEO32/halconf.h -text
+demos/STM32/NIL-STM32L011K4-NUCLEO32/main.c -text
+demos/STM32/NIL-STM32L011K4-NUCLEO32/mcuconf.h -text
 demos/STM32/NIL-STM32L152-DISCOVERY/.cproject -text
 demos/STM32/NIL-STM32L152-DISCOVERY/.project -text
 demos/STM32/NIL-STM32L152-DISCOVERY/Makefile -text
@@ -1312,6 +1320,10 @@ os/hal/boards/ST_NUCLEO32_F303K8/board.c -text
 os/hal/boards/ST_NUCLEO32_F303K8/board.h -text
 os/hal/boards/ST_NUCLEO32_F303K8/board.mk -text
 os/hal/boards/ST_NUCLEO32_F303K8/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO32_L011K4/board.c -text
+os/hal/boards/ST_NUCLEO32_L011K4/board.h -text
+os/hal/boards/ST_NUCLEO32_L011K4/board.mk -text
+os/hal/boards/ST_NUCLEO32_L011K4/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO32_L031K6/board.c -text
 os/hal/boards/ST_NUCLEO32_L031K6/board.h -text
 os/hal/boards/ST_NUCLEO32_L031K6/board.mk -text
