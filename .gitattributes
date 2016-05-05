@@ -1532,6 +1532,7 @@ os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
 os/hal/lib/peripherals/displays/hal_displays.h -text
+os/hal/lib/peripherals/flash/hal_flash.h -text
 os/hal/lib/peripherals/sensors/hal_accelerometer.h -text
 os/hal/lib/peripherals/sensors/hal_compass.h -text
 os/hal/lib/peripherals/sensors/hal_gyroscope.h -text
