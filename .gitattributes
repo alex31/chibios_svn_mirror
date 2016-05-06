@@ -1152,6 +1152,9 @@ os/common/startup/e200/devices/SPC57EMxx_HSM/boot.h -text
 os/common/startup/e200/devices/SPC57EMxx_HSM/boot.s -text
 os/common/startup/e200/devices/SPC57EMxx_HSM/intc.h -text
 os/common/startup/e200/devices/SPC57EMxx_HSM/ppcparams.h -text
+os/ex/Micron/n25q128.c -text
+os/ex/Micron/n25q128.h -text
+os/ex/Micron/n25q128.mk -text
 os/ex/ST/l3gd20.c -text
 os/ex/ST/l3gd20.h -text
 os/ex/ST/l3gd20.mk -text
