@@ -2424,6 +2424,15 @@ testhal/STM32/STM32F3xx/SPI-L3GD20/mcuconf.h -text
 testhal/STM32/STM32F3xx/SPI-L3GD20/readme.txt -text
 testhal/STM32/STM32F3xx/SPI-L3GD20/usbcfg.c -text
 testhal/STM32/STM32F3xx/SPI-L3GD20/usbcfg.h -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/.cproject -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/.project -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/Makefile -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/chconf.h -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/debug/STM32F3xx-SPI-N25Q128[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/halconf.h -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/main.c -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/mcuconf.h -text
+testhal/STM32/STM32F3xx/SPI-N25Q128/readme.txt -text
 testhal/STM32/STM32F3xx/SPI/.cproject -text
 testhal/STM32/STM32F3xx/SPI/.project -text
 testhal/STM32/STM32F3xx/SPI/Makefile -text
