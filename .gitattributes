@@ -1164,6 +1164,9 @@ os/ex/ST/lis3mdl.mk -text
 os/ex/ST/lsm6ds0.c -text
 os/ex/ST/lsm6ds0.h -text
 os/ex/ST/lsm6ds0.mk -text
+os/ex/subsystems/mfs/mfs.c -text
+os/ex/subsystems/mfs/mfs.h -text
+os/ex/subsystems/mfs/mfs.mk -text
 os/hal/boards/ARDUINO_MEGA/board.c -text
 os/hal/boards/ARDUINO_MEGA/board.h -text
 os/hal/boards/ARDUINO_MEGA/board.mk -text
