@@ -1158,6 +1158,9 @@ os/ex/Micron/n25q128.mk -text
 os/ex/ST/l3gd20.c -text
 os/ex/ST/l3gd20.h -text
 os/ex/ST/l3gd20.mk -text
+os/ex/ST/lis302dl.c -text
+os/ex/ST/lis302dl.h -text
+os/ex/ST/lis302dl.mk -text
 os/ex/ST/lis3mdl.c -text
 os/ex/ST/lis3mdl.h -text
 os/ex/ST/lis3mdl.mk -text
@@ -2628,6 +2631,17 @@ testhal/STM32/STM32F4xx/SPI-L3GD20/mcuconf.h -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/readme.txt -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/usbcfg.c -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/usbcfg.h -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/.cproject -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/.project -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/Makefile -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/chconf.h -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/debug/STM32F4xx-SPI-LIS302DL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/halconf.h -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/main.c -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/mcuconf.h -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/readme.txt -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/usbcfg.c -text
+testhal/STM32/STM32F4xx/SPI-LIS302DL/usbcfg.h -text
 testhal/STM32/STM32F4xx/SPI/.cproject -text
 testhal/STM32/STM32F4xx/SPI/.project -text
 testhal/STM32/STM32F4xx/SPI/Makefile -text
