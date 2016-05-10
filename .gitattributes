@@ -2621,7 +2621,7 @@ testhal/STM32/STM32F4xx/SPI-L3GD20/.cproject -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/.project -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/Makefile -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/chconf.h -text
-testhal/STM32/STM32F4xx/SPI-L3GD20/debug/STM32F4xx_SPI-L3GD20[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F4xx/SPI-L3GD20/debug/STM32F4xx-SPI-L3GD20[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/halconf.h -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/main.c -text
 testhal/STM32/STM32F4xx/SPI-L3GD20/mcuconf.h -text
