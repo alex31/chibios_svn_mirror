@@ -1529,6 +1529,7 @@ os/hal/include/hal_mmc_spi.h -text
 os/hal/include/hal_mmcsd.h -text
 os/hal/include/hal_pal.h -text
 os/hal/include/hal_pwm.h -text
+os/hal/include/hal_qspi.h -text
 os/hal/include/hal_queues.h -text
 os/hal/include/hal_rtc.h -text
 os/hal/include/hal_sdc.h -text
@@ -1787,6 +1788,7 @@ os/hal/src/hal_mmc_spi.c -text
 os/hal/src/hal_mmcsd.c -text
 os/hal/src/hal_pal.c -text
 os/hal/src/hal_pwm.c -text
+os/hal/src/hal_qspi.c -text
 os/hal/src/hal_queues.c -text
 os/hal/src/hal_rtc.c -text
 os/hal/src/hal_sdc.c -text
