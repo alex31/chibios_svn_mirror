@@ -1480,6 +1480,7 @@ os/hal/dox/adc.dox -text
 os/hal/dox/can.dox -text
 os/hal/dox/dac.dox -text
 os/hal/dox/ext.dox -text
+os/hal/dox/flash.dox -text
 os/hal/dox/gpt.dox -text
 os/hal/dox/hal.dox -text
 os/hal/dox/hal_buffers.dox -text
@@ -1541,6 +1542,7 @@ os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
 os/hal/lib/peripherals/displays/hal_displays.h -text
+os/hal/lib/peripherals/flash/hal_flash.c -text
 os/hal/lib/peripherals/flash/hal_flash.h -text
 os/hal/lib/peripherals/sensors/hal_accelerometer.h -text
 os/hal/lib/peripherals/sensors/hal_compass.h -text
