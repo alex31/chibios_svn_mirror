@@ -1161,6 +1161,9 @@ os/ex/ST/l3gd20.mk -text
 os/ex/ST/lis302dl.c -text
 os/ex/ST/lis302dl.h -text
 os/ex/ST/lis302dl.mk -text
+os/ex/ST/lis3dsh.c -text
+os/ex/ST/lis3dsh.h -text
+os/ex/ST/lis3dsh.mk -text
 os/ex/ST/lis3mdl.c -text
 os/ex/ST/lis3mdl.h -text
 os/ex/ST/lis3mdl.mk -text
@@ -2646,6 +2649,17 @@ testhal/STM32/STM32F4xx/SPI-LIS302DL/mcuconf.h -text
 testhal/STM32/STM32F4xx/SPI-LIS302DL/readme.txt -text
 testhal/STM32/STM32F4xx/SPI-LIS302DL/usbcfg.c -text
 testhal/STM32/STM32F4xx/SPI-LIS302DL/usbcfg.h -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/.cproject -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/.project -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/Makefile -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/chconf.h -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/debug/STM32F4xx-SPI-LIS3DSH[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/halconf.h -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/main.c -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/mcuconf.h -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/readme.txt -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/usbcfg.c -text
+testhal/STM32/STM32F4xx/SPI-LIS3DSH/usbcfg.h -text
 testhal/STM32/STM32F4xx/SPI/.cproject -text
 testhal/STM32/STM32F4xx/SPI/.project -text
 testhal/STM32/STM32F4xx/SPI/Makefile -text
