@@ -1025,6 +1025,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F373xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F401xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F401xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F405xG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F407xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F407xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F410x8.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F410xB.ld -text
