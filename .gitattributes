@@ -1641,6 +1641,8 @@ os/hal/ports/STM32/LLD/MACv1/hal_mac_lld.h -text
 os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld.c -text
 os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld.h -text
 os/hal/ports/STM32/LLD/OTGv1/stm32_otg.h -text
+os/hal/ports/STM32/LLD/QUADSPIv1/hal_qspi_lld.c -text
+os/hal/ports/STM32/LLD/QUADSPIv1/hal_qspi_lld.h -text
 os/hal/ports/STM32/LLD/RTCv1/hal_rtc_lld.c -text
 os/hal/ports/STM32/LLD/RTCv1/hal_rtc_lld.h -text
 os/hal/ports/STM32/LLD/RTCv2/hal_rtc_lld.c -text
