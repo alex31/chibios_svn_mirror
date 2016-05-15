@@ -22,6 +22,14 @@ demos/AVR/RT-ARDUINOUNO/halconf.h -text
 demos/AVR/RT-ARDUINOUNO/main.c -text
 demos/AVR/RT-ARDUINOUNO/mcuconf.h -text
 demos/AVR/RT-ARDUINOUNO/readme.txt -text
+demos/AVR/RT-PRO_MICRO/Makefile -text
+demos/AVR/RT-PRO_MICRO/chconf.h -text
+demos/AVR/RT-PRO_MICRO/halconf.h -text
+demos/AVR/RT-PRO_MICRO/main.c -text
+demos/AVR/RT-PRO_MICRO/mcuconf.h -text
+demos/AVR/RT-PRO_MICRO/readme.txt -text
+demos/AVR/RT-PRO_MICRO/usbcfg.c -text
+demos/AVR/RT-PRO_MICRO/usbcfg.h -text
 demos/AVR/RT-TEENSY2-USB/Makefile -text
 demos/AVR/RT-TEENSY2-USB/chconf.h -text
 demos/AVR/RT-TEENSY2-USB/halconf.h -text
@@ -1277,6 +1285,9 @@ os/hal/boards/PJRC_TEENSY_2PLUSPLUS/board.h -text
 os/hal/boards/PJRC_TEENSY_2PLUSPLUS/board.mk -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.c -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.h -text
+os/hal/boards/SPARKFUN_PRO_MICRO/board.c -text
+os/hal/boards/SPARKFUN_PRO_MICRO/board.h -text
+os/hal/boards/SPARKFUN_PRO_MICRO/board.mk -text
 os/hal/boards/STM32F103C8_MINIMAL/board.c -text
 os/hal/boards/STM32F103C8_MINIMAL/board.h -text
 os/hal/boards/STM32F103C8_MINIMAL/board.mk -text
