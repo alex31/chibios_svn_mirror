@@ -22,6 +22,14 @@ demos/AVR/RT-ARDUINOUNO/halconf.h -text
 demos/AVR/RT-ARDUINOUNO/main.c -text
 demos/AVR/RT-ARDUINOUNO/mcuconf.h -text
 demos/AVR/RT-ARDUINOUNO/readme.txt -text
+demos/AVR/RT-TEENSY2-USB/Makefile -text
+demos/AVR/RT-TEENSY2-USB/chconf.h -text
+demos/AVR/RT-TEENSY2-USB/halconf.h -text
+demos/AVR/RT-TEENSY2-USB/main.c -text
+demos/AVR/RT-TEENSY2-USB/mcuconf.h -text
+demos/AVR/RT-TEENSY2-USB/readme.txt -text
+demos/AVR/RT-TEENSY2-USB/usbcfg.c -text
+demos/AVR/RT-TEENSY2-USB/usbcfg.h -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/.cproject -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/.project -text
 demos/LPC21xx/RT-LPC214x-OLIMEX/Makefile -text
@@ -1264,6 +1272,9 @@ os/hal/boards/OLIMEX_STM32_P107/board.mk -text
 os/hal/boards/OLIMEX_STM32_P407/board.c -text
 os/hal/boards/OLIMEX_STM32_P407/board.h -text
 os/hal/boards/OLIMEX_STM32_P407/board.mk -text
+os/hal/boards/PJRC_TEENSY_2PLUSPLUS/board.c -text
+os/hal/boards/PJRC_TEENSY_2PLUSPLUS/board.h -text
+os/hal/boards/PJRC_TEENSY_2PLUSPLUS/board.mk -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.c -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.h -text
 os/hal/boards/STM32F103C8_MINIMAL/board.c -text
@@ -1591,6 +1602,8 @@ os/hal/ports/AVR/hal_spi_lld.c -text
 os/hal/ports/AVR/hal_spi_lld.h -text
 os/hal/ports/AVR/hal_st_lld.c -text
 os/hal/ports/AVR/hal_st_lld.h -text
+os/hal/ports/AVR/hal_usb_lld.c -text
+os/hal/ports/AVR/hal_usb_lld.h -text
 os/hal/ports/AVR/platform.mk -text
 os/hal/ports/LPC/LPC214x/hal_lld.c -text
 os/hal/ports/LPC/LPC214x/hal_lld.h -text
