@@ -10,6 +10,14 @@ demos/AVR/NIL-ARDUINOUNO/halconf.h -text
 demos/AVR/NIL-ARDUINOUNO/main.c -text
 demos/AVR/NIL-ARDUINOUNO/mcuconf.h -text
 demos/AVR/NIL-ARDUINOUNO/nilconf.h -text
+demos/AVR/RT-ARDUINOLEONARDO/Makefile -text
+demos/AVR/RT-ARDUINOLEONARDO/chconf.h -text
+demos/AVR/RT-ARDUINOLEONARDO/halconf.h -text
+demos/AVR/RT-ARDUINOLEONARDO/main.c -text
+demos/AVR/RT-ARDUINOLEONARDO/mcuconf.h -text
+demos/AVR/RT-ARDUINOLEONARDO/readme.txt -text
+demos/AVR/RT-ARDUINOLEONARDO/usbcfg.c -text
+demos/AVR/RT-ARDUINOLEONARDO/usbcfg.h -text
 demos/AVR/RT-ARDUINOMEGA/Makefile -text
 demos/AVR/RT-ARDUINOMEGA/chconf.h -text
 demos/AVR/RT-ARDUINOMEGA/halconf.h -text
@@ -1193,6 +1201,9 @@ os/ex/ST/lsm6ds0.mk -text
 os/ex/subsystems/mfs/mfs.c -text
 os/ex/subsystems/mfs/mfs.h -text
 os/ex/subsystems/mfs/mfs.mk -text
+os/hal/boards/ARDUINO_LEONARDO/board.c -text
+os/hal/boards/ARDUINO_LEONARDO/board.h -text
+os/hal/boards/ARDUINO_LEONARDO/board.mk -text
 os/hal/boards/ARDUINO_MEGA/board.c -text
 os/hal/boards/ARDUINO_MEGA/board.h -text
 os/hal/boards/ARDUINO_MEGA/board.mk -text
