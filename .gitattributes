@@ -870,6 +870,10 @@ os/common/ext/CMSIS/ST/STM32F4xx/stm32f410cx.h -text
 os/common/ext/CMSIS/ST/STM32F4xx/stm32f410rx.h -text
 os/common/ext/CMSIS/ST/STM32F4xx/stm32f410tx.h -text
 os/common/ext/CMSIS/ST/STM32F4xx/stm32f411xe.h -text
+os/common/ext/CMSIS/ST/STM32F4xx/stm32f412cx.h -text
+os/common/ext/CMSIS/ST/STM32F4xx/stm32f412rx.h -text
+os/common/ext/CMSIS/ST/STM32F4xx/stm32f412vx.h -text
+os/common/ext/CMSIS/ST/STM32F4xx/stm32f412zx.h -text
 os/common/ext/CMSIS/ST/STM32F4xx/stm32f415xx.h -text
 os/common/ext/CMSIS/ST/STM32F4xx/stm32f417xx.h -text
 os/common/ext/CMSIS/ST/STM32F4xx/stm32f427xx.h -text
