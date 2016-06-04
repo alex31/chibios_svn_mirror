@@ -473,17 +473,6 @@ demos/STM32/RT-STM32F401RE-NUCLEO64/readme.txt -text
 demos/STM32/RT-STM32F407-DISCOVERY-G++/.cproject -text
 demos/STM32/RT-STM32F407-DISCOVERY-G++/.project -text
 demos/STM32/RT-STM32F407-DISCOVERY-G++/debug/RT-STM32F407-DISCOVERY-G++[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/.cproject -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/.project -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/Makefile -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/chconf.h -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/debug/RT-STM32F407-DISCOVERY-MEMS[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/halconf.h -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/main.c -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/mcuconf.h -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/readme.txt -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/usbcfg.c -text
-demos/STM32/RT-STM32F407-DISCOVERY-MEMS/usbcfg.h -text
 demos/STM32/RT-STM32F407-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F407-DISCOVERY/.project -text
 demos/STM32/RT-STM32F407-DISCOVERY/Makefile -text
