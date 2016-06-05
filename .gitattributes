@@ -921,6 +921,11 @@ os/common/ext/CMSIS/ST/STM32L1xx/stm32l162xdx.h -text
 os/common/ext/CMSIS/ST/STM32L1xx/stm32l162xe.h -text
 os/common/ext/CMSIS/ST/STM32L1xx/stm32l1xx.h -text
 os/common/ext/CMSIS/ST/STM32L1xx/system_stm32l1xx.h -text
+os/common/ext/CMSIS/ST/STM32L4xx/stm32l431xx.h -text
+os/common/ext/CMSIS/ST/STM32L4xx/stm32l432xx.h -text
+os/common/ext/CMSIS/ST/STM32L4xx/stm32l433xx.h -text
+os/common/ext/CMSIS/ST/STM32L4xx/stm32l442xx.h -text
+os/common/ext/CMSIS/ST/STM32L4xx/stm32l443xx.h -text
 os/common/ext/CMSIS/ST/STM32L4xx/stm32l471xx.h -text
 os/common/ext/CMSIS/ST/STM32L4xx/stm32l475xx.h -text
 os/common/ext/CMSIS/ST/STM32L4xx/stm32l476xx.h -text
