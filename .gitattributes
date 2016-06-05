@@ -877,6 +877,11 @@ os/common/ext/CMSIS/ST/STM32F4xx/system_stm32f4xx.h -text
 os/common/ext/CMSIS/ST/STM32F7xx/stm32f745xx.h -text
 os/common/ext/CMSIS/ST/STM32F7xx/stm32f746xx.h -text
 os/common/ext/CMSIS/ST/STM32F7xx/stm32f756xx.h -text
+os/common/ext/CMSIS/ST/STM32F7xx/stm32f765xx.h -text
+os/common/ext/CMSIS/ST/STM32F7xx/stm32f767xx.h -text
+os/common/ext/CMSIS/ST/STM32F7xx/stm32f769xx.h -text
+os/common/ext/CMSIS/ST/STM32F7xx/stm32f777xx.h -text
+os/common/ext/CMSIS/ST/STM32F7xx/stm32f779xx.h -text
 os/common/ext/CMSIS/ST/STM32F7xx/stm32f7xx.h -text
 os/common/ext/CMSIS/ST/STM32F7xx/system_stm32f7xx.h -text
 os/common/ext/CMSIS/ST/STM32L0xx/stm32l011xx.h -text
