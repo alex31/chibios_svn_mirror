@@ -660,6 +660,12 @@ demos/STM32/RT-STM32L476RG-NUCLEO64/halconf.h -text
 demos/STM32/RT-STM32L476RG-NUCLEO64/main.c -text
 demos/STM32/RT-STM32L476RG-NUCLEO64/mcuconf.h -text
 demos/STM32/RT-STM32L476RG-NUCLEO64/readme.txt -text
+demos/XMC/RT-XMC1100-XMC_2GO/.cproject -text
+demos/XMC/RT-XMC1100-XMC_2GO/.project -text
+demos/XMC/RT-XMC1100-XMC_2GO/Makefile -text
+demos/XMC/RT-XMC1100-XMC_2GO/chconf.h -text
+demos/XMC/RT-XMC1100-XMC_2GO/main.c -text
+demos/XMC/RT-XMC1100-XMC_2GO/readme.txt -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
@@ -1083,6 +1089,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L151x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L152xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/XMC1100x0064.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
@@ -1096,6 +1103,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f7xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_xmc1100.mk -text
 os/common/startup/ARMCMx/compilers/GCC/rules.mk -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.c -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.h -text
