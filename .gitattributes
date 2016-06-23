@@ -586,6 +586,15 @@ demos/STM32/RT-STM32F746ZG-NUCLEO144/halconf.h -text
 demos/STM32/RT-STM32F746ZG-NUCLEO144/main.c -text
 demos/STM32/RT-STM32F746ZG-NUCLEO144/mcuconf.h -text
 demos/STM32/RT-STM32F746ZG-NUCLEO144/readme.txt -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/.project -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/debug/RT-STM32F767ZI-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/halconf.h -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/main.c -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/mcuconf.h -text
+demos/STM32/RT-STM32F767ZI-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/.cproject -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/.project -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/Makefile -text
@@ -1074,6 +1083,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F469xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_ETH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_MAX.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F767Zx.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L011x3.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L011x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L031x4.ld -text
@@ -1373,6 +1383,10 @@ os/hal/boards/ST_NUCLEO144_F746ZG/board.c -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.h -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.mk -text
 os/hal/boards/ST_NUCLEO144_F746ZG/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO144_F767ZI/board.c -text
+os/hal/boards/ST_NUCLEO144_F767ZI/board.h -text
+os/hal/boards/ST_NUCLEO144_F767ZI/board.mk -text
+os/hal/boards/ST_NUCLEO144_F767ZI/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.c -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.h -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.mk -text
