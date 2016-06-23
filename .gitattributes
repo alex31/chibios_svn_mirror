@@ -795,6 +795,9 @@ os/common/abstractions/nasa_cfe/psp/src/cfe_psp_exception.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_memory.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_support.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_timer.c -text
+os/common/ext/CMSIS/Infineon/XMC1100/XMC1000_RomFunctionTable.h -text
+os/common/ext/CMSIS/Infineon/XMC1100/XMC1100.h -text
+os/common/ext/CMSIS/Infineon/XMC1100/system_XMC1100.h -text
 os/common/ext/CMSIS/ST/STM32F0xx/stm32f030x6.h -text
 os/common/ext/CMSIS/ST/STM32F0xx/stm32f030x8.h -text
 os/common/ext/CMSIS/ST/STM32F0xx/stm32f030xc.h -text
@@ -1109,6 +1112,7 @@ os/common/startup/ARMCMx/devices/STM32F7xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L4xx/cmparams.h -text
+os/common/startup/ARMCMx/devices/XMC1100/cmparams.h -text
 os/common/startup/SIMIA32/compilers/GCC/rules.mk -text
 os/common/startup/e200/compilers/CW/crt0.s -text
 os/common/startup/e200/compilers/CW/unhandled.s -text
