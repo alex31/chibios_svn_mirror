@@ -595,6 +595,15 @@ demos/STM32/RT-STM32F767ZI-NUCLEO144/halconf.h -text
 demos/STM32/RT-STM32F767ZI-NUCLEO144/main.c -text
 demos/STM32/RT-STM32F767ZI-NUCLEO144/mcuconf.h -text
 demos/STM32/RT-STM32F767ZI-NUCLEO144/readme.txt -text
+demos/STM32/RT-STM32F769I-DISCOVERY/.cproject -text
+demos/STM32/RT-STM32F769I-DISCOVERY/.project -text
+demos/STM32/RT-STM32F769I-DISCOVERY/Makefile -text
+demos/STM32/RT-STM32F769I-DISCOVERY/chconf.h -text
+demos/STM32/RT-STM32F769I-DISCOVERY/debug/RT-STM32F769I-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F769I-DISCOVERY/halconf.h -text
+demos/STM32/RT-STM32F769I-DISCOVERY/main.c -text
+demos/STM32/RT-STM32F769I-DISCOVERY/mcuconf.h -text
+demos/STM32/RT-STM32F769I-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/.cproject -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/.project -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/Makefile -text
@@ -1523,6 +1532,10 @@ os/hal/boards/ST_STM32F746G_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32F746G_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F746G_DISCOVERY/board.mk -text
 os/hal/boards/ST_STM32F746G_DISCOVERY/cfg/board.chcfg -text
+os/hal/boards/ST_STM32F769I_DISCOVERY/board.c -text
+os/hal/boards/ST_STM32F769I_DISCOVERY/board.h -text
+os/hal/boards/ST_STM32F769I_DISCOVERY/board.mk -text
+os/hal/boards/ST_STM32F769I_DISCOVERY/cfg/board.chcfg -text
 os/hal/boards/ST_STM32L053_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32L053_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32L053_DISCOVERY/board.mk -text
