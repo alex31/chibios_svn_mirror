@@ -682,6 +682,7 @@ demos/XMC/RT-XMC1100-XMC_2GO/.cproject -text
 demos/XMC/RT-XMC1100-XMC_2GO/.project -text
 demos/XMC/RT-XMC1100-XMC_2GO/Makefile -text
 demos/XMC/RT-XMC1100-XMC_2GO/chconf.h -text
+demos/XMC/RT-XMC1100-XMC_2GO/debug/RT-XMC1100-XMC_2GO[!!-~](Segger[!!-~]JLink,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/XMC/RT-XMC1100-XMC_2GO/main.c -text
 demos/XMC/RT-XMC1100-XMC_2GO/readme.txt -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
