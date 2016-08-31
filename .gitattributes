@@ -2650,6 +2650,15 @@ testhal/STM32/STM32F4xx/GPT/halconf.h -text
 testhal/STM32/STM32F4xx/GPT/main.c -text
 testhal/STM32/STM32F4xx/GPT/mcuconf.h -text
 testhal/STM32/STM32F4xx/GPT/readme.txt -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/.cproject -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/.project -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/Makefile -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/chconf.h -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/debug/STM32F4xx-I2C-LIS3MDL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/halconf.h -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/main.c -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/mcuconf.h -text
+testhal/STM32/STM32F4xx/I2C-LIS3MLD/readme.txt -text
 testhal/STM32/STM32F4xx/I2C-LSM303DLHC/.cproject -text
 testhal/STM32/STM32F4xx/I2C-LSM303DLHC/.project -text
 testhal/STM32/STM32F4xx/I2C-LSM303DLHC/Makefile -text
