@@ -2665,7 +2665,6 @@ testhal/STM32/STM32F4xx/I2C-LIS3MLD/readme.txt -text
 testhal/STM32/STM32F4xx/I2C-LPS25H/.cproject -text
 testhal/STM32/STM32F4xx/I2C-LPS25H/.project -text
 testhal/STM32/STM32F4xx/I2C-LPS25H/Makefile -text
-testhal/STM32/STM32F4xx/I2C-LPS25H/build/ch.elf -text
 testhal/STM32/STM32F4xx/I2C-LPS25H/chconf.h -text
 testhal/STM32/STM32F4xx/I2C-LPS25H/debug/STM32F4xx-I2C-LPS25H[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/I2C-LPS25H/halconf.h -text
