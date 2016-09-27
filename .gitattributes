@@ -1213,6 +1213,9 @@ os/common/startup/e200/devices/SPC56ELxx/ppcparams.h -text
 os/ex/Micron/m25q.c -text
 os/ex/Micron/m25q.h -text
 os/ex/Micron/m25q.mk -text
+os/ex/ST/hts221.c -text
+os/ex/ST/hts221.h -text
+os/ex/ST/hts221.mk -text
 os/ex/ST/l3gd20.c -text
 os/ex/ST/l3gd20.h -text
 os/ex/ST/l3gd20.mk -text
