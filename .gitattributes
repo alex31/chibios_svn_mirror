@@ -2401,6 +2401,15 @@ testhal/STM32/STM32F0xx/USB_CDC/mcuconf.h -text
 testhal/STM32/STM32F0xx/USB_CDC/readme.txt -text
 testhal/STM32/STM32F0xx/USB_CDC/usbcfg.c -text
 testhal/STM32/STM32F0xx/USB_CDC/usbcfg.h -text
+testhal/STM32/STM32F0xx/WDG/.cproject -text
+testhal/STM32/STM32F0xx/WDG/.project -text
+testhal/STM32/STM32F0xx/WDG/Makefile -text
+testhal/STM32/STM32F0xx/WDG/chconf.h -text
+testhal/STM32/STM32F0xx/WDG/debug/STM32F0xx-WDG[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32F0xx/WDG/halconf.h -text
+testhal/STM32/STM32F0xx/WDG/main.c -text
+testhal/STM32/STM32F0xx/WDG/mcuconf.h -text
+testhal/STM32/STM32F0xx/WDG/readme.txt -text
 testhal/STM32/STM32F1xx/ADC/.cproject -text
 testhal/STM32/STM32F1xx/ADC/.project -text
 testhal/STM32/STM32F1xx/ADC/Makefile -text
