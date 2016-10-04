@@ -2631,6 +2631,7 @@ testhal/STM32/STM32F3xx/CAN/.cproject -text
 testhal/STM32/STM32F3xx/CAN/.project -text
 testhal/STM32/STM32F3xx/CAN/Makefile -text
 testhal/STM32/STM32F3xx/CAN/chconf.h -text
+testhal/STM32/STM32F3xx/CAN/debug/STM32F3xx-CAN[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/CAN/halconf.h -text
 testhal/STM32/STM32F3xx/CAN/main.c -text
 testhal/STM32/STM32F3xx/CAN/mcuconf.h -text
