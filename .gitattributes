@@ -1664,6 +1664,8 @@ os/hal/ports/AVR/avr_pins.h -text
 os/hal/ports/AVR/avr_timers.h -text
 os/hal/ports/AVR/hal_adc_lld.c -text
 os/hal/ports/AVR/hal_adc_lld.h -text
+os/hal/ports/AVR/hal_ext_lld.c -text
+os/hal/ports/AVR/hal_ext_lld.h -text
 os/hal/ports/AVR/hal_gpt_lld.c -text
 os/hal/ports/AVR/hal_gpt_lld.h -text
 os/hal/ports/AVR/hal_i2c_lld.c -text
@@ -2304,6 +2306,12 @@ testex/STM32/STM32L4xx/SPI-L3GD20/halconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32L4xx/SPI-L3GD20/mcuconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/readme.txt -text
+testhal/AVR/EXT/Makefile -text
+testhal/AVR/EXT/chconf.h -text
+testhal/AVR/EXT/halconf.h -text
+testhal/AVR/EXT/main.c -text
+testhal/AVR/EXT/mcuconf.h -text
+testhal/AVR/EXT/readme.txt -text
 testhal/AVR/GPT/Makefile -text
 testhal/AVR/GPT/chconf.h -text
 testhal/AVR/GPT/halconf.h -text
