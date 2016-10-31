@@ -1093,8 +1093,8 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F469xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_ETH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_MAX.ld -text
-os/common/startup/ARMCMx/compilers/GCC/ld/STM32F767Zx.ld -text
-os/common/startup/ARMCMx/compilers/GCC/ld/STM32F769Ix.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L011x3.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L011x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L031x4.ld -text
