@@ -2306,6 +2306,12 @@ testex/STM32/STM32L4xx/SPI-L3GD20/halconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32L4xx/SPI-L3GD20/mcuconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/readme.txt -text
+testhal/AVR/ADC/Makefile -text
+testhal/AVR/ADC/chconf.h -text
+testhal/AVR/ADC/halconf.h -text
+testhal/AVR/ADC/main.c -text
+testhal/AVR/ADC/mcuconf.h -text
+testhal/AVR/ADC/readme.txt -text
 testhal/AVR/EXT/Makefile -text
 testhal/AVR/EXT/chconf.h -text
 testhal/AVR/EXT/halconf.h -text
