@@ -24,6 +24,12 @@ demos/AVR/RT-ARDUINOMEGA/halconf.h -text
 demos/AVR/RT-ARDUINOMEGA/main.c -text
 demos/AVR/RT-ARDUINOMEGA/mcuconf.h -text
 demos/AVR/RT-ARDUINOMEGA/readme.txt -text
+demos/AVR/RT-ARDUINONANO/Makefile -text
+demos/AVR/RT-ARDUINONANO/chconf.h -text
+demos/AVR/RT-ARDUINONANO/halconf.h -text
+demos/AVR/RT-ARDUINONANO/main.c -text
+demos/AVR/RT-ARDUINONANO/mcuconf.h -text
+demos/AVR/RT-ARDUINONANO/readme.txt -text
 demos/AVR/RT-ARDUINOUNO/Makefile -text
 demos/AVR/RT-ARDUINOUNO/chconf.h -text
 demos/AVR/RT-ARDUINOUNO/halconf.h -text
@@ -1246,6 +1252,9 @@ os/hal/boards/ARDUINO_LEONARDO/board.mk -text
 os/hal/boards/ARDUINO_MEGA/board.c -text
 os/hal/boards/ARDUINO_MEGA/board.h -text
 os/hal/boards/ARDUINO_MEGA/board.mk -text
+os/hal/boards/ARDUINO_NANO/board.c -text
+os/hal/boards/ARDUINO_NANO/board.h -text
+os/hal/boards/ARDUINO_NANO/board.mk -text
 os/hal/boards/ARDUINO_UNO/board.c -text
 os/hal/boards/ARDUINO_UNO/board.h -text
 os/hal/boards/ARDUINO_UNO/board.mk -text
