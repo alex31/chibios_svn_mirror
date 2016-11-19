@@ -1121,6 +1121,8 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L073xZ.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L151x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L152xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32L432xB.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32L432xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/XMC1100x0064.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
