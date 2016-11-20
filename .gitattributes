@@ -516,6 +516,15 @@ demos/STM32/RT-STM32F411RE-NUCLEO64/halconf.h -text
 demos/STM32/RT-STM32F411RE-NUCLEO64/main.c -text
 demos/STM32/RT-STM32F411RE-NUCLEO64/mcuconf.h -text
 demos/STM32/RT-STM32F411RE-NUCLEO64/readme.txt -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/.project -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/debug/RT-STM32F412ZG-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/halconf.h -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/main.c -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/mcuconf.h -text
+demos/STM32/RT-STM32F412ZG-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32F429-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F429-DISCOVERY/.project -text
 demos/STM32/RT-STM32F429-DISCOVERY/Makefile -text
