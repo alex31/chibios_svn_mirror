@@ -1890,6 +1890,7 @@ os/hal/ports/STM32/STM32L4xx/hal_ext_lld_isr.h -text
 os/hal/ports/STM32/STM32L4xx/hal_lld.c -text
 os/hal/ports/STM32/STM32L4xx/hal_lld.h -text
 os/hal/ports/STM32/STM32L4xx/platform.mk -text
+os/hal/ports/STM32/STM32L4xx/platform_l432.mk -text
 os/hal/ports/STM32/STM32L4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L4xx/stm32_registry.h -text
 os/hal/ports/STM32/todo.txt -text
