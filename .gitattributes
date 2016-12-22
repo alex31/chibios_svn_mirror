@@ -1711,6 +1711,8 @@ os/hal/lib/streams/memstreams.h -text
 os/hal/lib/streams/nullstreams.c -text
 os/hal/lib/streams/nullstreams.h -text
 os/hal/lib/streams/streams.mk -text
+os/hal/osal/lib/osal_vt.c -text
+os/hal/osal/lib/osal_vt.h -text
 os/hal/osal/nil/osal.c -text
 os/hal/osal/nil/osal.h -text
 os/hal/osal/nil/osal.mk -text
