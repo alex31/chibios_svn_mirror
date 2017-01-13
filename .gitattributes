@@ -837,6 +837,7 @@ doc/rt/src/concepts.dox -text
 doc/rt/src/main.dox -text
 /documentation.html -text
 ext/fatfs-0.10b-patched.7z -text
+ext/fatfs-0.12b-patched.7z -text
 ext/lwip-1.4.1_patched.7z -text
 ext/readme.txt -text
 /license.txt -text
