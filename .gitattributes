@@ -837,6 +837,7 @@ doc/rt/src/concepts.dox -text
 doc/rt/src/main.dox -text
 doc/various/chibios_c.xml -text
 doc/various/readme.txt -text
+doc/various/st_usb_cdc_driver.inf -text
 /documentation.html -text
 ext/fatfs-0.10b-patched.7z -text
 ext/fatfs-0.12b-patched.7z -text
