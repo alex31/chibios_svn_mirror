@@ -835,6 +835,8 @@ doc/rt/rsc/workspace.svg -text
 doc/rt/rsync_web.sh -text
 doc/rt/src/concepts.dox -text
 doc/rt/src/main.dox -text
+doc/various/chibios_c.xml -text
+doc/various/readme.txt -text
 /documentation.html -text
 ext/fatfs-0.10b-patched.7z -text
 ext/fatfs-0.12b-patched.7z -text
