@@ -1706,6 +1706,8 @@ os/hal/include/hal_uart.h -text
 os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
+os/hal/lib/fallback/I2C/hal_i2c_lld.c -text
+os/hal/lib/fallback/I2C/hal_i2c_lld.h -text
 os/hal/lib/peripherals/displays/hal_displays.h -text
 os/hal/lib/peripherals/flash/hal_flash.c -text
 os/hal/lib/peripherals/flash/hal_flash.h -text
