@@ -783,6 +783,13 @@ demos/various/RT-ARMCM4-GENERIC/chconf.h -text
 demos/various/RT-ARMCM4-GENERIC/debug/RT-ARMCM4-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM4-GENERIC/main.c -text
 demos/various/RT-ARMCM4-GENERIC/readme.txt -text
+demos/various/RT-Posix-Simulator/.cproject -text
+demos/various/RT-Posix-Simulator/.project -text
+demos/various/RT-Posix-Simulator/Makefile -text
+demos/various/RT-Posix-Simulator/chconf.h -text
+demos/various/RT-Posix-Simulator/halconf.h -text
+demos/various/RT-Posix-Simulator/main.c -text
+demos/various/RT-Posix-Simulator/readme.txt -text
 demos/various/RT-Win32-Simulator/.cproject -text
 demos/various/RT-Win32-Simulator/.project -text
 demos/various/RT-Win32-Simulator/Makefile -text
@@ -1997,6 +2004,11 @@ os/hal/ports/simulator/hal_pal_lld.c -text
 os/hal/ports/simulator/hal_pal_lld.h -text
 os/hal/ports/simulator/hal_st_lld.c -text
 os/hal/ports/simulator/hal_st_lld.h -text
+os/hal/ports/simulator/posix/hal_lld.c -text
+os/hal/ports/simulator/posix/hal_lld.h -text
+os/hal/ports/simulator/posix/hal_serial_lld.c -text
+os/hal/ports/simulator/posix/hal_serial_lld.h -text
+os/hal/ports/simulator/posix/platform.mk -text
 os/hal/ports/simulator/win32/hal_lld.c -text
 os/hal/ports/simulator/win32/hal_lld.h -text
 os/hal/ports/simulator/win32/hal_serial_lld.c -text
