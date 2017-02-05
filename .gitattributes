@@ -2286,6 +2286,7 @@ test/rt/specgen/rsc/custom.css -text
 test/rt/specgen/rsc/footer_chm.html -text
 test/rt/specgen/rsc/header_chm.html -text
 test/rt/test.mk -text
+test/rt/testbuild/Makefile -text
 test/rt/testbuild/Makefile_win32 -text
 test/rt/testbuild/chconf.h -text
 test/rt/testbuild/go.sh -text
