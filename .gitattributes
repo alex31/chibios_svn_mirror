@@ -1691,6 +1691,7 @@ os/hal/dox/mmc_spi.dox -text
 os/hal/dox/mmcsd.dox -text
 os/hal/dox/pal.dox -text
 os/hal/dox/pwm.dox -text
+os/hal/dox/qspi.dox -text
 os/hal/dox/rtc.dox -text
 os/hal/dox/sdc.dox -text
 os/hal/dox/serial.dox -text
