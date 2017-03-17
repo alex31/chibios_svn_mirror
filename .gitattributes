@@ -845,11 +845,9 @@ doc/rt/reports/LPC2148-48-ARM.txt -text
 doc/rt/reports/LPC2148-48-THUMB.txt -text
 doc/rt/reports/SPC560D-48-CW.txt -text
 doc/rt/reports/SPC560D-48-GCC.txt -text
-doc/rt/reports/SPC560P-64-GCC.txt -text
 doc/rt/reports/SPC563M-80-GCC.txt -text
 doc/rt/reports/SPC56EC-120-CW.txt -text
 doc/rt/reports/SPC56EC-120-GCC.txt -text
-doc/rt/reports/SPC56EL-120-GCC.txt -text
 doc/rt/reports/STM32F051-48-GCC.txt -text
 doc/rt/reports/STM32F303-72-GCC-FPU.txt -text
 doc/rt/reports/STM32F303-72-GCC.txt -text
