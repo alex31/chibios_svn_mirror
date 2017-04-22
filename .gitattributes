@@ -1898,7 +1898,6 @@ os/hal/ports/STM32/LLD/TIMv1/hal_pwm_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/hal_pwm_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h -text
-os/hal/ports/STM32/LLD/TIMv1/stm32_tim.c -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim.h -text
 os/hal/ports/STM32/LLD/TIMv1/tim_irq_mapping.txt -text
 os/hal/ports/STM32/LLD/USARTv1/driver.mk -text
