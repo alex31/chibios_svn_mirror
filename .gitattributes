@@ -2487,6 +2487,12 @@ testhal/AVR/PWM/halconf.h -text
 testhal/AVR/PWM/main.c -text
 testhal/AVR/PWM/mcuconf.h -text
 testhal/AVR/PWM/readme.txt -text
+testhal/AVR/SPI/Makefile -text
+testhal/AVR/SPI/chconf.h -text
+testhal/AVR/SPI/halconf.h -text
+testhal/AVR/SPI/main.c -text
+testhal/AVR/SPI/mcuconf.h -text
+testhal/AVR/SPI/readme.txt -text
 testhal/STM32/STM32F0xx/ADC/.cproject -text
 testhal/STM32/STM32F0xx/ADC/.project -text
 testhal/STM32/STM32F0xx/ADC/Makefile -text
