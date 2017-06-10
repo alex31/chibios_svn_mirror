@@ -6,10 +6,10 @@ demos/AVR/NIL-ARDUINO-MEGA/main.c -text
 demos/AVR/NIL-ARDUINO-MEGA/mcuconf.h -text
 demos/AVR/NIL-ARDUINO-MEGA/nilconf.h -text
 demos/AVR/NIL-ARDUINO-UNO/Makefile -text
+demos/AVR/NIL-ARDUINO-UNO/chconf.h -text
 demos/AVR/NIL-ARDUINO-UNO/halconf.h -text
 demos/AVR/NIL-ARDUINO-UNO/main.c -text
 demos/AVR/NIL-ARDUINO-UNO/mcuconf.h -text
-demos/AVR/NIL-ARDUINO-UNO/nilconf.h -text
 demos/AVR/RT-ARDUINO-LEONARDO/Makefile -text
 demos/AVR/RT-ARDUINO-LEONARDO/chconf.h -text
 demos/AVR/RT-ARDUINO-LEONARDO/halconf.h -text
