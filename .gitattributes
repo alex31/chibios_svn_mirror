@@ -1,10 +1,10 @@
 * text=auto !eol
 /.project -text
 demos/AVR/NIL-ARDUINO-MEGA/Makefile -text
+demos/AVR/NIL-ARDUINO-MEGA/chconf.h -text
 demos/AVR/NIL-ARDUINO-MEGA/halconf.h -text
 demos/AVR/NIL-ARDUINO-MEGA/main.c -text
 demos/AVR/NIL-ARDUINO-MEGA/mcuconf.h -text
-demos/AVR/NIL-ARDUINO-MEGA/nilconf.h -text
 demos/AVR/NIL-ARDUINO-UNO/Makefile -text
 demos/AVR/NIL-ARDUINO-UNO/chconf.h -text
 demos/AVR/NIL-ARDUINO-UNO/halconf.h -text
