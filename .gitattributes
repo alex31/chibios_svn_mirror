@@ -1,5 +1,11 @@
 * text=auto !eol
 /.project -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.cproject -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.project -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/Makefile -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/debug/RT-SAMA5D2-XPLAINED[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/main.c -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/readme.txt -text
 demos/AVR/NIL-ARDUINO-MEGA/Makefile -text
 demos/AVR/NIL-ARDUINO-MEGA/chconf.h -text
 demos/AVR/NIL-ARDUINO-MEGA/halconf.h -text
