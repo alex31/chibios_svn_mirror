@@ -1135,12 +1135,15 @@ os/common/ports/templates/chtypes.h -text
 os/common/startup/ARM/compilers/GCC/crt0.S -text
 os/common/startup/ARM/compilers/GCC/crt1.c -text
 os/common/startup/ARM/compilers/GCC/ld/LPC2148.ld -text
+os/common/startup/ARM/compilers/GCC/ld/SAMA5D2-T.ld -text
 os/common/startup/ARM/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARM/compilers/GCC/mk/startup_lpc214x.mk -text
+os/common/startup/ARM/compilers/GCC/mk/startup_sama5d2.mk -text
 os/common/startup/ARM/compilers/GCC/rules.mk -text
 os/common/startup/ARM/compilers/GCC/vectors.S -text
 os/common/startup/ARM/devices/LPC214x/armparams.h -text
 os/common/startup/ARM/devices/LPC214x/lpc214x.h -text
+os/common/startup/ARM/devices/SAMA5D2/armparams.h -text
 os/common/startup/ARMCMx/compilers/GCC/crt0_v6m.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt0_v7m.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt1.c -text
