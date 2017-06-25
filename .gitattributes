@@ -3,6 +3,7 @@
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.cproject -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.project -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/Makefile -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/chconf.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/debug/RT-SAMA5D2-XPLAINED[!!-~](Load[!!-~]and[!!-~]Run).launch -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/main.c -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/readme.txt -text
@@ -1091,6 +1092,12 @@ os/common/ports/ARM/chcore_timer.h -text
 os/common/ports/ARM/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARM/compilers/GCC/chtypes.h -text
 os/common/ports/ARM/compilers/GCC/mk/port_generic.mk -text
+os/common/ports/ARMCMAx-TZ/chcore.c -text
+os/common/ports/ARMCMAx-TZ/chcore.h -text
+os/common/ports/ARMCMAx-TZ/chcore_timer.h -text
+os/common/ports/ARMCMAx-TZ/compilers/GCC/chcoreasm.S -text
+os/common/ports/ARMCMAx-TZ/compilers/GCC/chtypes.h -text
+os/common/ports/ARMCMAx-TZ/compilers/GCC/mk/port_generic.mk -text
 os/common/ports/ARMCMx/chcore.c -text
 os/common/ports/ARMCMx/chcore.h -text
 os/common/ports/ARMCMx/chcore_timer.h -text
