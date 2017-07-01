@@ -1359,6 +1359,9 @@ os/ex/ST/lsm303dlhc.mk -text
 os/ex/ST/lsm6ds0.c -text
 os/ex/ST/lsm6ds0.h -text
 os/ex/ST/lsm6ds0.mk -text
+os/ex/dox/gyro.dox -text
+os/ex/dox/hal.dox -text
+os/ex/dox/main.dox -text
 os/ex/subsystems/mfs/mfs.c -text
 os/ex/subsystems/mfs/mfs.h -text
 os/ex/subsystems/mfs/mfs.mk -text
