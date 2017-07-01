@@ -812,6 +812,8 @@ doc/common/rsc/header_chm.html -text
 doc/common/rsc/header_html.html -text
 doc/common/rsc/layout.xml -text
 doc/common/rsc/logo.png -text
+doc/ex/Doxyfile_html -text
+doc/ex/src/main.dox -text
 doc/hal-stm32f3/Doxyfile_html -text
 doc/hal-stm32f3/index.html -text
 doc/hal-stm32f3/makehtml.bat -text
