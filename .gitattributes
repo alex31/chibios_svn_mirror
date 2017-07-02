@@ -1719,7 +1719,6 @@ os/hal/dox/adc.dox -text
 os/hal/dox/can.dox -text
 os/hal/dox/dac.dox -text
 os/hal/dox/ext.dox -text
-os/hal/dox/flash.dox -text
 os/hal/dox/gpt.dox -text
 os/hal/dox/hal.dox -text
 os/hal/dox/hal_buffers.dox -text
@@ -1736,6 +1735,7 @@ os/hal/dox/main.dox -text
 os/hal/dox/mii.dox -text
 os/hal/dox/mmc_spi.dox -text
 os/hal/dox/mmcsd.dox -text
+os/hal/dox/norflash.dox -text
 os/hal/dox/pal.dox -text
 os/hal/dox/pwm.dox -text
 os/hal/dox/qspi.dox -text
