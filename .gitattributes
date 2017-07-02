@@ -1363,9 +1363,11 @@ os/ex/ST/lsm6ds0.mk -text
 os/ex/dox/accelerometer.dox -text
 os/ex/dox/barometer.dox -text
 os/ex/dox/compass.dox -text
+os/ex/dox/flash.dox -text
 os/ex/dox/gyro.dox -text
 os/ex/dox/hal.dox -text
 os/ex/dox/hygrometer.dox -text
+os/ex/dox/jesd216flash.dox -text
 os/ex/dox/main.dox -text
 os/ex/dox/sensor.dox -text
 os/ex/dox/thermometer.dox -text
