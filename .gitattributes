@@ -54,6 +54,12 @@ demos/AVR/RT-ARDUINO-UNO/halconf.h -text
 demos/AVR/RT-ARDUINO-UNO/main.c -text
 demos/AVR/RT-ARDUINO-UNO/mcuconf.h -text
 demos/AVR/RT-ARDUINO-UNO/readme.txt -text
+demos/AVR/RT-DIGISPARK-ATTINY-167/Makefile -text
+demos/AVR/RT-DIGISPARK-ATTINY-167/chconf.h -text
+demos/AVR/RT-DIGISPARK-ATTINY-167/halconf.h -text
+demos/AVR/RT-DIGISPARK-ATTINY-167/main.c -text
+demos/AVR/RT-DIGISPARK-ATTINY-167/mcuconf.h -text
+demos/AVR/RT-DIGISPARK-ATTINY-167/readme.txt -text
 demos/AVR/RT-PRO-MICRO/Makefile -text
 demos/AVR/RT-PRO-MICRO/chconf.h -text
 demos/AVR/RT-PRO-MICRO/halconf.h -text
