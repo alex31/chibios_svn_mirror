@@ -22,6 +22,7 @@ demos/AVR/NIL-DIGISPARK-ATTINY-167/chconf.h -text
 demos/AVR/NIL-DIGISPARK-ATTINY-167/halconf.h -text
 demos/AVR/NIL-DIGISPARK-ATTINY-167/main.c -text
 demos/AVR/NIL-DIGISPARK-ATTINY-167/mcuconf.h -text
+demos/AVR/NIL-DIGISPARK-ATTINY-167/readme.txt -text
 demos/AVR/RT-ARDUINO-LEONARDO/Makefile -text
 demos/AVR/RT-ARDUINO-LEONARDO/chconf.h -text
 demos/AVR/RT-ARDUINO-LEONARDO/halconf.h -text
