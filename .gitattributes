@@ -1983,6 +1983,7 @@ os/hal/ports/SAMA/SAMA5D2x/hal_lld.h -text
 os/hal/ports/SAMA/SAMA5D2x/hal_st_lld.c -text
 os/hal/ports/SAMA/SAMA5D2x/hal_st_lld.h -text
 os/hal/ports/SAMA/SAMA5D2x/platform.mk -text
+os/hal/ports/SAMA/SAMA5D2x/sama_registry.h -text
 os/hal/ports/STM32/LLD/ADCv1/driver.mk -text
 os/hal/ports/STM32/LLD/ADCv1/hal_adc_lld.c -text
 os/hal/ports/STM32/LLD/ADCv1/hal_adc_lld.h -text
