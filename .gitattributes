@@ -1968,6 +1968,9 @@ os/hal/ports/AVR/TINY/platform.mk -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/hal_lld.c -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/hal_lld.h -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/platform.mk -text
+os/hal/ports/AVR/XMEGA/LLD/TIMv1/driver.mk -text
+os/hal/ports/AVR/XMEGA/LLD/TIMv1/hal_st_lld.c -text
+os/hal/ports/AVR/XMEGA/LLD/TIMv1/hal_st_lld.h -text
 os/hal/ports/LPC/LPC214x/hal_lld.c -text
 os/hal/ports/LPC/LPC214x/hal_lld.h -text
 os/hal/ports/LPC/LPC214x/hal_pal_lld.c -text
