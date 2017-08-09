@@ -1492,6 +1492,9 @@ os/hal/boards/MIKROE_CLICKER2_STM32/board.c -text
 os/hal/boards/MIKROE_CLICKER2_STM32/board.h -text
 os/hal/boards/MIKROE_CLICKER2_STM32/board.mk -text
 os/hal/boards/MIKROE_CLICKER2_STM32/cfg/board.chcfg -text
+os/hal/boards/MT-DB-X4/board.c -text
+os/hal/boards/MT-DB-X4/board.h -text
+os/hal/boards/MT-DB-X4/board.mk -text
 os/hal/boards/NGX_BB_LPC11U14/board.c -text
 os/hal/boards/NGX_BB_LPC11U14/board.h -text
 os/hal/boards/NGX_BB_LPC11U14/board.mk -text
