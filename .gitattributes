@@ -69,6 +69,12 @@ demos/AVR/RT-DIGISPARK-ATTINY-167/halconf.h -text
 demos/AVR/RT-DIGISPARK-ATTINY-167/main.c -text
 demos/AVR/RT-DIGISPARK-ATTINY-167/mcuconf.h -text
 demos/AVR/RT-DIGISPARK-ATTINY-167/readme.txt -text
+demos/AVR/RT-MT-DB-X4/Makefile -text
+demos/AVR/RT-MT-DB-X4/chconf.h -text
+demos/AVR/RT-MT-DB-X4/halconf.h -text
+demos/AVR/RT-MT-DB-X4/main.c -text
+demos/AVR/RT-MT-DB-X4/makefile.mk -text
+demos/AVR/RT-MT-DB-X4/mcuconf.h -text
 demos/AVR/RT-PRO-MICRO/Makefile -text
 demos/AVR/RT-PRO-MICRO/chconf.h -text
 demos/AVR/RT-PRO-MICRO/halconf.h -text
