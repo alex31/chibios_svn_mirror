@@ -1996,6 +1996,7 @@ os/hal/ports/LPC/LPC214x/hal_st_lld.h -text
 os/hal/ports/LPC/LPC214x/platform.mk -text
 os/hal/ports/LPC/LPC214x/vic.c -text
 os/hal/ports/LPC/LPC214x/vic.h -text
+os/hal/ports/SAMA/SAMA5D2x/aic.c -text
 os/hal/ports/SAMA/SAMA5D2x/hal_lld.c -text
 os/hal/ports/SAMA/SAMA5D2x/hal_lld.h -text
 os/hal/ports/SAMA/SAMA5D2x/hal_st_lld.c -text
@@ -2190,7 +2191,6 @@ os/hal/ports/STM32/STM32L4xx/platform_l432.mk -text
 os/hal/ports/STM32/STM32L4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L4xx/stm32_registry.h -text
 os/hal/ports/STM32/todo.txt -text
-os/hal/ports/common/ARMCAx/aic.c -text
 os/hal/ports/common/ARMCAx/aic.h -text
 os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
