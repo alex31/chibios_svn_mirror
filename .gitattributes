@@ -1974,8 +1974,6 @@ os/hal/ports/AVR/TINY/LLD/TIMv1/hal_pwm_lld.h -text
 os/hal/ports/AVR/TINY/LLD/TIMv1/hal_st_lld.c -text
 os/hal/ports/AVR/TINY/LLD/TIMv1/hal_st_lld.h -text
 os/hal/ports/AVR/TINY/LLD/USARTv1/driver.mk -text
-os/hal/ports/AVR/TINY/LLD/USARTv1/hal_serial_lld.c -text
-os/hal/ports/AVR/TINY/LLD/USARTv1/hal_serial_lld.h -text
 os/hal/ports/AVR/TINY/LLD/USARTv1/hal_uart_lld.c -text
 os/hal/ports/AVR/TINY/LLD/USARTv1/hal_uart_lld.h -text
 os/hal/ports/AVR/TINY/LLD/avr_pins.h -text
