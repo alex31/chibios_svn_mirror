@@ -19,6 +19,11 @@ demos/AVR/NIL-ARDUINO-MINI/chconf.h -text
 demos/AVR/NIL-ARDUINO-MINI/halconf.h -text
 demos/AVR/NIL-ARDUINO-MINI/main.c -text
 demos/AVR/NIL-ARDUINO-MINI/mcuconf.h -text
+demos/AVR/NIL-ARDUINO-NANO/Makefile -text
+demos/AVR/NIL-ARDUINO-NANO/chconf.h -text
+demos/AVR/NIL-ARDUINO-NANO/halconf.h -text
+demos/AVR/NIL-ARDUINO-NANO/main.c -text
+demos/AVR/NIL-ARDUINO-NANO/mcuconf.h -text
 demos/AVR/NIL-ARDUINO-UNO/Makefile -text
 demos/AVR/NIL-ARDUINO-UNO/chconf.h -text
 demos/AVR/NIL-ARDUINO-UNO/halconf.h -text
