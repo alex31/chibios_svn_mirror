@@ -2004,6 +2004,9 @@ os/hal/ports/LPC/LPC214x/hal_st_lld.h -text
 os/hal/ports/LPC/LPC214x/platform.mk -text
 os/hal/ports/LPC/LPC214x/vic.c -text
 os/hal/ports/LPC/LPC214x/vic.h -text
+os/hal/ports/SAMA/LLD/DMAv1/driver.mk -text
+os/hal/ports/SAMA/LLD/DMAv1/sama_xdmac.c -text
+os/hal/ports/SAMA/LLD/DMAv1/sama_xdmac.h -text
 os/hal/ports/SAMA/SAMA5D2x/aic.c -text
 os/hal/ports/SAMA/SAMA5D2x/aic.h -text
 os/hal/ports/SAMA/SAMA5D2x/hal_lld.c -text
