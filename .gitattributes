@@ -3361,6 +3361,17 @@ testhal/STM32/STM32L0xx/SPI/halconf.h -text
 testhal/STM32/STM32L0xx/SPI/main.c -text
 testhal/STM32/STM32L0xx/SPI/mcuconf.h -text
 testhal/STM32/STM32L0xx/SPI/readme.txt -text
+testhal/STM32/STM32L0xx/USB_CDC/.cproject -text
+testhal/STM32/STM32L0xx/USB_CDC/.project -text
+testhal/STM32/STM32L0xx/USB_CDC/Makefile -text
+testhal/STM32/STM32L0xx/USB_CDC/chconf.h -text
+testhal/STM32/STM32L0xx/USB_CDC/debug/STM32L0xx-USB_CDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/STM32L0xx/USB_CDC/halconf.h -text
+testhal/STM32/STM32L0xx/USB_CDC/main.c -text
+testhal/STM32/STM32L0xx/USB_CDC/mcuconf.h -text
+testhal/STM32/STM32L0xx/USB_CDC/readme.txt -text
+testhal/STM32/STM32L0xx/USB_CDC/usbcfg.c -text
+testhal/STM32/STM32L0xx/USB_CDC/usbcfg.h -text
 testhal/STM32/STM32L1xx/ADC/.cproject -text
 testhal/STM32/STM32L1xx/ADC/.project -text
 testhal/STM32/STM32L1xx/ADC/Makefile -text
