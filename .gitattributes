@@ -3513,5 +3513,9 @@ testhal/STM32/USB_CDC/src/usbcfg.c -text
 testhal/STM32/USB_CDC/src/usbcfg.h -text
 testhal/common/irq_storm.c -text
 testhal/common/irq_storm.h -text
+tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]Olimex[!!-~]ARM-USB-OCD[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
+tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V1[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
+tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V2[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
+tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V2-1[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/stylecheck.pl -text
 tools/test.c -text
