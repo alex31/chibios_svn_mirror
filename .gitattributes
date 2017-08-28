@@ -3501,7 +3501,7 @@ testhal/STM32/USB_CDC/cfg-stm32l476_discovery/portab.c -text
 testhal/STM32/USB_CDC/cfg-stm32l476_discovery/portab.h -text
 testhal/STM32/USB_CDC/debug/STM32-USB_CDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/USB_CDC/main.c -text
-testhal/STM32/USB_CDC/makefile-stm32l476_discovery -text
+testhal/STM32/USB_CDC/mmakefile-stm32l476_discovery -text
 testhal/STM32/USB_CDC/readme.txt -text
 testhal/STM32/USB_CDC/src/usbcfg.c -text
 testhal/STM32/USB_CDC/src/usbcfg.h -text
