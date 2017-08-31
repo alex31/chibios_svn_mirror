@@ -3503,7 +3503,7 @@ testhal/STM32/multi/PAL/cfg-stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32l476_discovery/mcuconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32l476_discovery/portab.c -text
 testhal/STM32/multi/PAL/cfg-stm32l476_discovery/portab.h -text
-testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~]for[!!-~]STM32L476-Discovery[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/PAL/main.c -text
 testhal/STM32/multi/PAL/readme.txt -text
 testhal/STM32/multi/USB_CDC/.cproject -text
