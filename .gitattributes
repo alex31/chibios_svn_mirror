@@ -3521,7 +3521,8 @@ testhal/STM32/multi/USB_CDC/cfg-stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/USB_CDC/cfg-stm32l476_discovery/mcuconf.h -text
 testhal/STM32/multi/USB_CDC/cfg-stm32l476_discovery/portab.c -text
 testhal/STM32/multi/USB_CDC/cfg-stm32l476_discovery/portab.h -text
-testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~]for[!!-~]STM32F303-Discovery[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~]for[!!-~]STM32L476-Discovery[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/USB_CDC/main.c -text
 testhal/STM32/multi/USB_CDC/readme.txt -text
 testhal/STM32/multi/USB_CDC/src/usbcfg.c -text
