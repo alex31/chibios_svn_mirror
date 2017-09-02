@@ -2124,8 +2124,6 @@ os/hal/ports/STM32/LLD/USBv1/stm32_usb.h -text
 os/hal/ports/STM32/LLD/xWDGv1/driver.mk -text
 os/hal/ports/STM32/LLD/xWDGv1/hal_wdg_lld.c -text
 os/hal/ports/STM32/LLD/xWDGv1/hal_wdg_lld.h -text
-os/hal/ports/STM32/STM32F0xx/hal_ext_lld_isr.c -text
-os/hal/ports/STM32/STM32F0xx/hal_ext_lld_isr.h -text
 os/hal/ports/STM32/STM32F0xx/hal_lld.c -text
 os/hal/ports/STM32/STM32F0xx/hal_lld.h -text
 os/hal/ports/STM32/STM32F0xx/platform.mk -text
@@ -2149,11 +2147,10 @@ os/hal/ports/STM32/STM32F1xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F1xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32F37x/hal_adc_lld.c -text
 os/hal/ports/STM32/STM32F37x/hal_adc_lld.h -text
-os/hal/ports/STM32/STM32F37x/hal_ext_lld_isr.c -text
-os/hal/ports/STM32/STM32F37x/hal_ext_lld_isr.h -text
 os/hal/ports/STM32/STM32F37x/hal_lld.c -text
 os/hal/ports/STM32/STM32F37x/hal_lld.h -text
 os/hal/ports/STM32/STM32F37x/platform.mk -text
+os/hal/ports/STM32/STM32F37x/stm32_isr.c -text
 os/hal/ports/STM32/STM32F37x/stm32_isr.h -text
 os/hal/ports/STM32/STM32F37x/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F37x/stm32_registry.h -text
@@ -3498,6 +3495,7 @@ testhal/STM32/multi/PAL/.project -text
 testhal/STM32/multi/PAL/Makefile -text
 testhal/STM32/multi/PAL/Makefile-stm32f051_discovery -text
 testhal/STM32/multi/PAL/Makefile-stm32f303_discovery -text
+testhal/STM32/multi/PAL/Makefile-stm32f373_eval -text
 testhal/STM32/multi/PAL/Makefile-stm32f407_discovery -text
 testhal/STM32/multi/PAL/Makefile-stm32l476_discovery -text
 testhal/STM32/multi/PAL/cfg-stm32f051_discovery/chconf.h -text
@@ -3510,6 +3508,11 @@ testhal/STM32/multi/PAL/cfg-stm32f303_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32f303_discovery/mcuconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32f303_discovery/portab.c -text
 testhal/STM32/multi/PAL/cfg-stm32f303_discovery/portab.h -text
+testhal/STM32/multi/PAL/cfg-stm32f373_eval/chconf.h -text
+testhal/STM32/multi/PAL/cfg-stm32f373_eval/halconf.h -text
+testhal/STM32/multi/PAL/cfg-stm32f373_eval/mcuconf.h -text
+testhal/STM32/multi/PAL/cfg-stm32f373_eval/portab.c -text
+testhal/STM32/multi/PAL/cfg-stm32f373_eval/portab.h -text
 testhal/STM32/multi/PAL/cfg-stm32f407_discovery/chconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32f407_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32f407_discovery/mcuconf.h -text
@@ -3522,6 +3525,7 @@ testhal/STM32/multi/PAL/cfg-stm32l476_discovery/portab.c -text
 testhal/STM32/multi/PAL/cfg-stm32l476_discovery/portab.h -text
 testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~]for[!!-~]STM32F051-Discovery[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~]for[!!-~]STM32F303-Discovery[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~]for[!!-~]STM32F373-Eval[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~]for[!!-~]STM32F407-Discovery[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~]for[!!-~]STM32L476-Discovery[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/PAL/main.c -text
