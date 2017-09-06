@@ -3499,6 +3499,7 @@ testhal/STM32/multi/PAL/Makefile-stm32f103_olimex -text
 testhal/STM32/multi/PAL/Makefile-stm32f303_discovery -text
 testhal/STM32/multi/PAL/Makefile-stm32f373_eval -text
 testhal/STM32/multi/PAL/Makefile-stm32f407_discovery -text
+testhal/STM32/multi/PAL/Makefile-stm32f429_discovery -text
 testhal/STM32/multi/PAL/Makefile-stm32f746_discovery -text
 testhal/STM32/multi/PAL/Makefile-stm32l053_discovery -text
 testhal/STM32/multi/PAL/Makefile-stm32l151_discovery -text
@@ -3528,6 +3529,11 @@ testhal/STM32/multi/PAL/cfg-stm32f407_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32f407_discovery/mcuconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32f407_discovery/portab.c -text
 testhal/STM32/multi/PAL/cfg-stm32f407_discovery/portab.h -text
+testhal/STM32/multi/PAL/cfg-stm32f429_discovery/chconf.h -text
+testhal/STM32/multi/PAL/cfg-stm32f429_discovery/halconf.h -text
+testhal/STM32/multi/PAL/cfg-stm32f429_discovery/mcuconf.h -text
+testhal/STM32/multi/PAL/cfg-stm32f429_discovery/portab.c -text
+testhal/STM32/multi/PAL/cfg-stm32f429_discovery/portab.h -text
 testhal/STM32/multi/PAL/cfg-stm32f746_discovery/chconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32f746_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg-stm32f746_discovery/mcuconf.h -text
