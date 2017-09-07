@@ -926,8 +926,7 @@ doc/various/chibios_java.xml -text
 doc/various/readme.txt -text
 doc/various/st_usb_cdc_driver.inf -text
 /documentation.html -text
-ext/fatfs-0.10b-patched.7z -text
-ext/fatfs-0.12b-patched.7z -text
+ext/fatfs-0.13-patched.7z -text
 ext/lwip-1.4.1_patched.7z -text
 ext/readme.txt -text
 /license.txt -text
