@@ -2393,6 +2393,7 @@ test/lib/ch_test.h -text
 test/nasa_osal/.cproject -text
 test/nasa_osal/.project -text
 test/nasa_osal/.spc5project -text
+test/nasa_osal/config.fmpp -text
 test/nasa_osal/configuration.xml -text
 test/nasa_osal/patch.xml -text
 test/nasa_osal/source/test/test_root.c -text
@@ -2418,6 +2419,7 @@ test/nasa_osal/test.mk -text
 test/nil/.cproject -text
 test/nil/.project -text
 test/nil/.spc5project -text
+test/nil/config.fmpp -text
 test/nil/configuration.xml -text
 test/nil/patch.xml -text
 test/nil/source/test/test_root.c -text
@@ -2456,6 +2458,7 @@ test/nil/testbuild/pclint/waivers.lnt -text
 test/rt/.cproject -text
 test/rt/.project -text
 test/rt/.spc5project -text
+test/rt/config.fmpp -text
 test/rt/configuration.xml -text
 test/rt/patch.xml -text
 test/rt/source/test/test_root.c -text
@@ -3628,5 +3631,10 @@ tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]Olimex[!!-~]ARM-USB-OCD[!!-~](prompts[!
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V1[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V2[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V2-1[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
+tools/ftl/libs/libutils.ftl -text
+tools/ftl/processors/unittest/test/test_root.c.ftl -text
+tools/ftl/processors/unittest/test/test_root.h.ftl -text
+tools/ftl/processors/unittest/test/test_sequence.c.ftl -text
+tools/ftl/processors/unittest/test/test_sequence.h.ftl -text
 tools/stylecheck.pl -text
 tools/test.c -text
