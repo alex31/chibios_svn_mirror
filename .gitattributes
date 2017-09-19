@@ -875,6 +875,7 @@ doc/nil/makechm.bat -text
 doc/nil/makehtml.bat -text
 doc/nil/makehtml.sh -text
 doc/nil/reports/SPC560D-48-GCC.txt -text
+doc/nil/reports/STM32F051-48-GCC.txt -text
 doc/nil/reports/STM32F303-72-GCC.txt -text
 doc/nil/reports/STM32F746-216-GCC.txt -text
 doc/nil/reports/misra.txt -text
