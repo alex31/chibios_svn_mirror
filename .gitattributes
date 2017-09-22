@@ -167,6 +167,7 @@ demos/SPC5/RT-SPC564A-EVB/mcuconf.h -text
 demos/SPC5/RT-SPC56EC-EVB/.cproject -text
 demos/SPC5/RT-SPC56EC-EVB/.project -text
 demos/SPC5/RT-SPC56EC-EVB/Makefile -text
+demos/SPC5/RT-SPC56EC-EVB/Makefile_ghs -text
 demos/SPC5/RT-SPC56EC-EVB/UDE/debug.wsx -text
 demos/SPC5/RT-SPC56EC-EVB/UDE/stm_spc56ec74a256s_spc56ec74_minimodule_debug_jtag.cfg -text
 demos/SPC5/RT-SPC56EC-EVB/chconf.h -text
