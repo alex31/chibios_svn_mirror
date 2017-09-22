@@ -1194,6 +1194,10 @@ os/common/ports/e200/compilers/GCC/chcoreasm.S -text
 os/common/ports/e200/compilers/GCC/chtypes.h -text
 os/common/ports/e200/compilers/GCC/ivor.S -text
 os/common/ports/e200/compilers/GCC/mk/port.mk -text
+os/common/ports/e200/compilers/GHS/chcoreasm.s -text
+os/common/ports/e200/compilers/GHS/chtypes.h -text
+os/common/ports/e200/compilers/GHS/ivor.s -text
+os/common/ports/e200/compilers/GHS/mk/port.mk -text
 os/common/ports/readme.txt -text
 os/common/ports/templates/chcore.c -text
 os/common/ports/templates/chcore.h -text
@@ -1452,6 +1456,7 @@ os/common/startup/e200/devices/SPC564Axx/ppcparams.h -text
 os/common/startup/e200/devices/SPC56ECxx/boot.S -text
 os/common/startup/e200/devices/SPC56ECxx/boot.h -text
 os/common/startup/e200/devices/SPC56ECxx/boot_cw.s -text
+os/common/startup/e200/devices/SPC56ECxx/boot_ghs.s -text
 os/common/startup/e200/devices/SPC56ECxx/intc.h -text
 os/common/startup/e200/devices/SPC56ECxx/ppcparams.h -text
 os/common/startup/e200/devices/SPC56ELxx/boot.S -text
