@@ -786,13 +786,6 @@ demos/STM32/RT-STM32L476RG-NUCLEO64/halconf.h -text
 demos/STM32/RT-STM32L476RG-NUCLEO64/main.c -text
 demos/STM32/RT-STM32L476RG-NUCLEO64/mcuconf.h -text
 demos/STM32/RT-STM32L476RG-NUCLEO64/readme.txt -text
-demos/XMC/RT-XMC1100-XMC_2GO/.cproject -text
-demos/XMC/RT-XMC1100-XMC_2GO/.project -text
-demos/XMC/RT-XMC1100-XMC_2GO/Makefile -text
-demos/XMC/RT-XMC1100-XMC_2GO/chconf.h -text
-demos/XMC/RT-XMC1100-XMC_2GO/debug/RT-XMC1100-XMC_2GO[!!-~](Segger[!!-~]JLink,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/XMC/RT-XMC1100-XMC_2GO/main.c -text
-demos/XMC/RT-XMC1100-XMC_2GO/readme.txt -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
@@ -952,9 +945,6 @@ os/common/abstractions/nasa_cfe/psp/src/cfe_psp_exception.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_memory.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_support.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_timer.c -text
-os/common/ext/CMSIS/Infineon/XMC1100/XMC1000_RomFunctionTable.h -text
-os/common/ext/CMSIS/Infineon/XMC1100/XMC1100.h -text
-os/common/ext/CMSIS/Infineon/XMC1100/system_XMC1100.h -text
 os/common/ext/CMSIS/ST/STM32F0xx/stm32f030x6.h -text
 os/common/ext/CMSIS/ST/STM32F0xx/stm32f030x8.h -text
 os/common/ext/CMSIS/ST/STM32F0xx/stm32f030xc.h -text
@@ -1335,7 +1325,6 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L152xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L432xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L432xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
-os/common/startup/ARMCMx/compilers/GCC/ld/XMC1100x0064.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
@@ -1349,7 +1338,6 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f7xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
-os/common/startup/ARMCMx/compilers/GCC/mk/startup_xmc1100.mk -text
 os/common/startup/ARMCMx/compilers/GCC/rules.mk -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.c -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.h -text
@@ -1366,8 +1354,6 @@ os/common/startup/ARMCMx/devices/STM32F7xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L4xx/cmparams.h -text
-os/common/startup/ARMCMx/devices/XMC1100/cmparams.h -text
-os/common/startup/ARMCMx/devices/XMC1100/veneers_gcc.S -text
 os/common/startup/SIMIA32/compilers/GCC/rules.mk -text
 os/common/startup/e200/compilers/CW/crt0.s -text
 os/common/startup/e200/compilers/CW/unhandled.s -text
