@@ -2652,6 +2652,12 @@ testex/STM32/STM32F3xx/SPI-N25Q128/halconf.h -text
 testex/STM32/STM32F3xx/SPI-N25Q128/main.c -text
 testex/STM32/STM32F3xx/SPI-N25Q128/mcuconf.h -text
 testex/STM32/STM32F3xx/SPI-N25Q128/readme.txt -text
+testex/STM32/STM32F4xx/I2C-BMP085/Makefile -text
+testex/STM32/STM32F4xx/I2C-BMP085/chconf.h -text
+testex/STM32/STM32F4xx/I2C-BMP085/halconf.h -text
+testex/STM32/STM32F4xx/I2C-BMP085/main.c -text
+testex/STM32/STM32F4xx/I2C-BMP085/mcuconf.h -text
+testex/STM32/STM32F4xx/I2C-BMP085/readme.txt -text
 testex/STM32/STM32F4xx/I2C-HTS221/.cproject -text
 testex/STM32/STM32F4xx/I2C-HTS221/.project -text
 testex/STM32/STM32F4xx/I2C-HTS221/Makefile -text
