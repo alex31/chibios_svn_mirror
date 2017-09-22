@@ -1214,6 +1214,7 @@ os/common/startup/ARM/compilers/GCC/vectors.S -text
 os/common/startup/ARM/devices/LPC214x/armparams.h -text
 os/common/startup/ARM/devices/LPC214x/lpc214x.h -text
 os/common/startup/ARM/devices/SAMA5D2/armparams.h -text
+os/common/startup/ARM/devices/SAMA5D2/boot.S -text
 os/common/startup/ARM/devices/SAMA5D2/component/component_acc.h -text
 os/common/startup/ARM/devices/SAMA5D2/component/component_adc.h -text
 os/common/startup/ARM/devices/SAMA5D2/component/component_aes.h -text
