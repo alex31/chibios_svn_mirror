@@ -2407,6 +2407,7 @@ os/hal/templates/osal/osal.mk -text
 os/hal/templates/platform.mk -text
 os/license/chcustomer.h -text
 os/license/chlicense.h -text
+os/license/chversion.h -text
 os/nil/dox/nil.dox -text
 os/nil/include/ch.h -text
 os/nil/nil.mk -text
