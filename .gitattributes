@@ -1125,11 +1125,13 @@ os/common/ext/CMSIS/include/core_sc300.h -text
 os/common/ext/CMSIS/readme.txt -text
 os/common/ext/readme.txt -text
 os/common/oslib/include/chbsem.h -text
+os/common/oslib/include/chfactory.h -text
 os/common/oslib/include/chheap.h -text
 os/common/oslib/include/chmboxes.h -text
 os/common/oslib/include/chmemcore.h -text
 os/common/oslib/include/chmempools.h -text
 os/common/oslib/readme.txt -text
+os/common/oslib/src/chfactory.c -text
 os/common/oslib/src/chheap.c -text
 os/common/oslib/src/chmboxes.c -text
 os/common/oslib/src/chmemcore.c -text
