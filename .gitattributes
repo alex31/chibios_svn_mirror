@@ -2040,6 +2040,8 @@ os/hal/ports/SAMA/LLD/SPIv1/hal_spi_lld.h -text
 os/hal/ports/SAMA/LLD/USARTv1/driver.mk -text
 os/hal/ports/SAMA/LLD/USARTv1/hal_serial_lld.c -text
 os/hal/ports/SAMA/LLD/USARTv1/hal_serial_lld.h -text
+os/hal/ports/SAMA/LLD/USARTv1/hal_uart_lld.c -text
+os/hal/ports/SAMA/LLD/USARTv1/hal_uart_lld.h -text
 os/hal/ports/SAMA/SAMA5D2x/aic.c -text
 os/hal/ports/SAMA/SAMA5D2x/aic.h -text
 os/hal/ports/SAMA/SAMA5D2x/hal_lld.c -text
