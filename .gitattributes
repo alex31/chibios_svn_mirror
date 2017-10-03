@@ -3765,6 +3765,7 @@ tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]Olimex[!!-~]ARM-USB-OCD[!!-~](prompts[!
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V1[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V2[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ST-Link[!!-~]V2-1[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
+tools/eclipse/fmpp/Run[!!-~]FMPP[!!-~](pre-select[!!-~]folder[!!-~]containing[!!-~]config.fmpp).launch -text
 tools/ftl/libs/libutils.ftl -text
 tools/ftl/processors/unittest/test/test_root.c.ftl -text
 tools/ftl/processors/unittest/test/test_root.h.ftl -text
