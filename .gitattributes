@@ -2469,11 +2469,6 @@ os/various/cpp_wrappers/ch.hpp -text
 os/various/cpp_wrappers/chcpp.mk -text
 os/various/cpp_wrappers/syscalls_cpp.cpp -text
 os/various/cpp_wrappers/syscalls_cpp.hpp -text
-os/various/devices_lib/accel/lis302dl.c -text
-os/various/devices_lib/accel/lis302dl.dox -text
-os/various/devices_lib/accel/lis302dl.h -text
-os/various/devices_lib/lcd/lcd3310.c -text
-os/various/devices_lib/lcd/lcd3310.h -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
 os/various/fatfs_bindings/fatfs.mk -text
