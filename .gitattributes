@@ -927,6 +927,7 @@ doc/various/st_usb_cdc_driver.inf -text
 /documentation.html -text
 ext/fatfs-0.13-patched.7z -text
 ext/lwip-1.4.1_patched.7z -text
+ext/lwip-2.0.3-patched.7z -text
 ext/readme.txt -text
 /license.txt -text
 os/common/abstractions/cmsis_os/cmsis_os.c -text
