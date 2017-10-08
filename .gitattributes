@@ -664,6 +664,7 @@ demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/debug/RT-STM32F746G-DISCOVERY
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/debug/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/ffconf.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/halconf.h -text
+demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/httpd_opts.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/lwipopts.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/main.c -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/mcuconf.h -text
@@ -923,7 +924,7 @@ doc/various/chibios_java.xml -text
 doc/various/readme.txt -text
 doc/various/st_usb_cdc_driver.inf -text
 /documentation.html -text
-ext/fatfs-0.13-patched.7z -text
+ext/fatfs-0.13_patched.7z -text
 ext/lwip-1.4.1_patched.7z -text
 ext/lwip-2.0.3-patched.7z -text
 ext/readme.txt -text
