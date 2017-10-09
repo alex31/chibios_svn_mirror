@@ -664,6 +664,7 @@ demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/cfg/ffconf.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/cfg/halconf.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/cfg/httpd_opts.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/cfg/lwipopts.h -text
+demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/cfg/lwipopts_old.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/cfg/mcuconf.h -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/debug/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB/debug/RT-STM32F746G-DISCOVERY-LWIP-FATFS-USB[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
@@ -2483,6 +2484,7 @@ os/various/lwip_bindings/lwip.mk -text
 os/various/lwip_bindings/lwipthread.c -text
 os/various/lwip_bindings/lwipthread.h -text
 os/various/lwip_bindings/readme.txt -text
+os/various/lwip_bindings/static_lwipopts.h -text
 os/various/shell/shell.c -text
 os/various/shell/shell.h -text
 os/various/shell/shell.mk -text
