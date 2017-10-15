@@ -1139,6 +1139,12 @@ os/common/ext/ST/STM32L4xx/stm32l485xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l486xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l496xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l4a6xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l4r5xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l4r7xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l4r9xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l4s5xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l4s7xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l4s9xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l4xx.h -text
 os/common/ext/ST/STM32L4xx/system_stm32l4xx.h -text
 os/common/ext/readme.txt -text
