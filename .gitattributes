@@ -2460,6 +2460,7 @@ os/rt/include/chstats.h -text
 os/rt/include/chsys.h -text
 os/rt/include/chsystypes.h -text
 os/rt/include/chthreads.h -text
+os/rt/include/chtime.h -text
 os/rt/include/chtm.h -text
 os/rt/include/chtrace.h -text
 os/rt/include/chvt.h -text
