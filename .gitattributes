@@ -2608,8 +2608,6 @@ test/oslib/source/test/oslib_test_sequence_002.c -text
 test/oslib/source/test/oslib_test_sequence_002.h -text
 test/oslib/source/test/oslib_test_sequence_003.c -text
 test/oslib/source/test/oslib_test_sequence_003.h -text
-test/oslib/source/test/oslib_test_sequence_004.c -text
-test/oslib/source/test/oslib_test_sequence_004.h -text
 test/oslib/specgen/Doxyfile -text
 test/oslib/specgen/makedoc.bat -text
 test/oslib/specgen/rsc/custom.css -text
@@ -2621,6 +2619,7 @@ test/rt/.spc5project -text
 test/rt/config.fmpp -text
 test/rt/configuration.xml -text
 test/rt/patch.xml -text
+test/rt/rt_test.mk -text
 test/rt/source/test/rt_test_root.c -text
 test/rt/source/test/rt_test_root.h -text
 test/rt/source/test/rt_test_sequence_001.c -text
@@ -2643,18 +2642,11 @@ test/rt/source/test/rt_test_sequence_009.c -text
 test/rt/source/test/rt_test_sequence_009.h -text
 test/rt/source/test/rt_test_sequence_010.c -text
 test/rt/source/test/rt_test_sequence_010.h -text
-test/rt/source/test/rt_test_sequence_011.c -text
-test/rt/source/test/rt_test_sequence_011.h -text
-test/rt/source/test/rt_test_sequence_012.c -text
-test/rt/source/test/rt_test_sequence_012.h -text
-test/rt/source/test/rt_test_sequence_013.c -text
-test/rt/source/test/rt_test_sequence_013.h -text
 test/rt/specgen/Doxyfile -text
 test/rt/specgen/makedoc.bat -text
 test/rt/specgen/rsc/custom.css -text
 test/rt/specgen/rsc/footer_chm.html -text
 test/rt/specgen/rsc/header_chm.html -text
-test/rt/test.mk -text
 test/rt/testbuild/Makefile -text
 test/rt/testbuild/Makefile_win32 -text
 test/rt/testbuild/chconf.h -text
