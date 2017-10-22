@@ -2077,6 +2077,10 @@ os/hal/ports/SAMA/SAMA5D2x/hal_lld.h -text
 os/hal/ports/SAMA/SAMA5D2x/hal_st_lld.c -text
 os/hal/ports/SAMA/SAMA5D2x/hal_st_lld.h -text
 os/hal/ports/SAMA/SAMA5D2x/platform.mk -text
+os/hal/ports/SAMA/SAMA5D2x/sama_cache.c -text
+os/hal/ports/SAMA/SAMA5D2x/sama_cache.h -text
+os/hal/ports/SAMA/SAMA5D2x/sama_matrix.c -text
+os/hal/ports/SAMA/SAMA5D2x/sama_matrix.h -text
 os/hal/ports/SAMA/SAMA5D2x/sama_pmc.h -text
 os/hal/ports/SAMA/SAMA5D2x/sama_registry.h -text
 os/hal/ports/SPC5/LLD/DSPI_v1/cfg/hal_spi_lld_cfg.c.ftl -text
