@@ -2820,6 +2820,13 @@ testex/STM32/STM32L4xx/SPI-L3GD20/halconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32L4xx/SPI-L3GD20/mcuconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/readme.txt -text
+testhal/ATSAMA5D2/MATRIX/Makefile -text
+testhal/ATSAMA5D2/MATRIX/chconf.h -text
+testhal/ATSAMA5D2/MATRIX/debug/SAMA5D2-MATRIX[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+testhal/ATSAMA5D2/MATRIX/halconf.h -text
+testhal/ATSAMA5D2/MATRIX/main.c -text
+testhal/ATSAMA5D2/MATRIX/mcuconf.h -text
+testhal/ATSAMA5D2/MATRIX/readme.txt -text
 testhal/AVR/MEGA/ADC/Makefile -text
 testhal/AVR/MEGA/ADC/chconf.h -text
 testhal/AVR/MEGA/ADC/halconf.h -text
