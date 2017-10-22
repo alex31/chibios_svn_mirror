@@ -2395,6 +2395,7 @@ os/hal/templates/hal_adc_lld.c -text
 os/hal/templates/hal_adc_lld.h -text
 os/hal/templates/hal_can_lld.c -text
 os/hal/templates/hal_can_lld.h -text
+os/hal/templates/hal_crypto_lld.c -text
 os/hal/templates/hal_crypto_lld.h -text
 os/hal/templates/hal_dac_lld.c -text
 os/hal/templates/hal_dac_lld.h -text
