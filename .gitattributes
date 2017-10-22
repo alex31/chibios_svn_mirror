@@ -1920,6 +1920,7 @@ os/hal/include/hal_adc.h -text
 os/hal/include/hal_buffers.h -text
 os/hal/include/hal_can.h -text
 os/hal/include/hal_channels.h -text
+os/hal/include/hal_crypto.h -text
 os/hal/include/hal_dac.h -text
 os/hal/include/hal_ext.h -text
 os/hal/include/hal_files.h -text
@@ -2173,6 +2174,9 @@ os/hal/ports/STM32/LLD/ADCv3/notes.txt -text
 os/hal/ports/STM32/LLD/CANv1/driver.mk -text
 os/hal/ports/STM32/LLD/CANv1/hal_can_lld.c -text
 os/hal/ports/STM32/LLD/CANv1/hal_can_lld.h -text
+os/hal/ports/STM32/LLD/CRYPv1/driver.mk -text
+os/hal/ports/STM32/LLD/CRYPv1/hal_crypto_lld.c -text
+os/hal/ports/STM32/LLD/CRYPv1/hal_crypto_lld.h -text
 os/hal/ports/STM32/LLD/DACv1/driver.mk -text
 os/hal/ports/STM32/LLD/DACv1/hal_dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv1/hal_dac_lld.h -text
@@ -2361,6 +2365,7 @@ os/hal/src/hal.c -text
 os/hal/src/hal_adc.c -text
 os/hal/src/hal_buffers.c -text
 os/hal/src/hal_can.c -text
+os/hal/src/hal_crypto.c -text
 os/hal/src/hal_dac.c -text
 os/hal/src/hal_ext.c -text
 os/hal/src/hal_gpt.c -text
@@ -2390,6 +2395,7 @@ os/hal/templates/hal_adc_lld.c -text
 os/hal/templates/hal_adc_lld.h -text
 os/hal/templates/hal_can_lld.c -text
 os/hal/templates/hal_can_lld.h -text
+os/hal/templates/hal_crypto_lld.h -text
 os/hal/templates/hal_dac_lld.c -text
 os/hal/templates/hal_dac_lld.h -text
 os/hal/templates/hal_ext_lld.c -text
