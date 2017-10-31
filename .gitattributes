@@ -2848,6 +2848,15 @@ testhal/ATSAMA5D2/SPI/halconf.h -text
 testhal/ATSAMA5D2/SPI/main.c -text
 testhal/ATSAMA5D2/SPI/mcuconf.h -text
 testhal/ATSAMA5D2/SPI/readme.txt -text
+testhal/ATSAMA5D2/TC/.cproject -text
+testhal/ATSAMA5D2/TC/.project -text
+testhal/ATSAMA5D2/TC/Makefile -text
+testhal/ATSAMA5D2/TC/chconf.h -text
+testhal/ATSAMA5D2/TC/debug/SAMA5D2-TC[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+testhal/ATSAMA5D2/TC/halconf.h -text
+testhal/ATSAMA5D2/TC/main.c -text
+testhal/ATSAMA5D2/TC/mcuconf.h -text
+testhal/ATSAMA5D2/TC/readme.txt -text
 testhal/ATSAMA5D2/UART/.cproject -text
 testhal/ATSAMA5D2/UART/.project -text
 testhal/ATSAMA5D2/UART/Makefile -text
