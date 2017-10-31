@@ -1163,6 +1163,7 @@ os/common/oslib/src/chheap.c -text
 os/common/oslib/src/chmboxes.c -text
 os/common/oslib/src/chmemcore.c -text
 os/common/oslib/src/chmempools.c -text
+os/common/portability/GCC/ccportab.h -text
 os/common/ports/ARM/chcore.c -text
 os/common/ports/ARM/chcore.h -text
 os/common/ports/ARM/chcore_timer.h -text
