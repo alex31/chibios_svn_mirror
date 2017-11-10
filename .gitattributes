@@ -2065,6 +2065,9 @@ os/hal/ports/SAMA/LLD/DMAv1/sama_xdmac.h -text
 os/hal/ports/SAMA/LLD/PIOv1/driver.mk -text
 os/hal/ports/SAMA/LLD/PIOv1/hal_pal_lld.c -text
 os/hal/ports/SAMA/LLD/PIOv1/hal_pal_lld.h -text
+os/hal/ports/SAMA/LLD/RTCv1/driver.mk -text
+os/hal/ports/SAMA/LLD/RTCv1/hal_rtc_lld.c -text
+os/hal/ports/SAMA/LLD/RTCv1/hal_rtc_lld.h -text
 os/hal/ports/SAMA/LLD/SPIv1/driver.mk -text
 os/hal/ports/SAMA/LLD/SPIv1/hal_spi_lld.c -text
 os/hal/ports/SAMA/LLD/SPIv1/hal_spi_lld.h -text
