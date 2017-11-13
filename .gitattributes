@@ -1872,10 +1872,6 @@ os/hal/boards/readme.txt -text
 os/hal/boards/simulator/board.c -text
 os/hal/boards/simulator/board.h -text
 os/hal/boards/simulator/board.mk -text
-os/hal/complex/mfs/mfs.c -text
-os/hal/complex/mfs/mfs.h -text
-os/hal/complex/mfs/mfs.mk -text
-os/hal/complex/readme.txt -text
 os/hal/dox/accelerometer.dox -text
 os/hal/dox/adc.dox -text
 os/hal/dox/barometer.dox -text
@@ -1954,6 +1950,10 @@ os/hal/include/hal_uart.h -text
 os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
+os/hal/lib/complex/mfs/mfs.c -text
+os/hal/lib/complex/mfs/mfs.h -text
+os/hal/lib/complex/mfs/mfs.mk -text
+os/hal/lib/complex/readme.txt -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.c -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.h -text
 os/hal/lib/peripherals/displays/hal_displays.h -text
