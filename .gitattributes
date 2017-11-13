@@ -1522,9 +1522,6 @@ os/ex/dox/jesd216flash.dox -text
 os/ex/dox/main.dox -text
 os/ex/dox/sensor.dox -text
 os/ex/dox/thermometer.dox -text
-os/ex/subsystems/mfs/mfs.c -text
-os/ex/subsystems/mfs/mfs.h -text
-os/ex/subsystems/mfs/mfs.mk -text
 os/hal/boards/ARDUINO_LEONARDO/board.c -text
 os/hal/boards/ARDUINO_LEONARDO/board.h -text
 os/hal/boards/ARDUINO_LEONARDO/board.mk -text
@@ -1875,6 +1872,10 @@ os/hal/boards/readme.txt -text
 os/hal/boards/simulator/board.c -text
 os/hal/boards/simulator/board.h -text
 os/hal/boards/simulator/board.mk -text
+os/hal/complex/mfs/mfs.c -text
+os/hal/complex/mfs/mfs.h -text
+os/hal/complex/mfs/mfs.mk -text
+os/hal/complex/readme.txt -text
 os/hal/dox/accelerometer.dox -text
 os/hal/dox/adc.dox -text
 os/hal/dox/barometer.dox -text
