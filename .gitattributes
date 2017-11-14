@@ -1178,6 +1178,7 @@ os/common/ports/ARMCAx-TZ/chcore_timer.h -text
 os/common/ports/ARMCAx-TZ/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMCAx-TZ/compilers/GCC/chtypes.h -text
 os/common/ports/ARMCAx-TZ/compilers/GCC/mk/port_generic.mk -text
+os/common/ports/ARMCAx-TZ/compilers/GCC/monitor.S -text
 os/common/ports/ARMCMx/chcore.c -text
 os/common/ports/ARMCMx/chcore.h -text
 os/common/ports/ARMCMx/chcore_timer.h -text
