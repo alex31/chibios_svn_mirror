@@ -2585,6 +2585,13 @@ test/hal/testbuild/pclint/waivers.lnt -text
 test/lib/ch_test.c -text
 test/lib/ch_test.h -text
 test/lib/test.mk -text
+test/mfs/.cproject -text
+test/mfs/.project -text
+test/mfs/.spc5project -text
+test/mfs/config.fmpp -text
+test/mfs/configuration.xml -text
+test/mfs/nil_test.mk -text
+test/mfs/patch.xml -text
 test/nasa_osal/.cproject -text
 test/nasa_osal/.project -text
 test/nasa_osal/.spc5project -text
