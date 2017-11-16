@@ -2131,6 +2131,8 @@ os/hal/ports/SAMA/LLD/CRYPTOv1/sama_aes_lld.c -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_aes_lld.h -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_crypto_lld.c -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_crypto_lld.h -text
+os/hal/ports/SAMA/LLD/CRYPTOv1/sama_sha_lld.c -text
+os/hal/ports/SAMA/LLD/CRYPTOv1/sama_sha_lld.h -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_tdes_lld.c -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_tdes_lld.h -text
 os/hal/ports/SAMA/LLD/DMAv1/driver.mk -text
