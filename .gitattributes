@@ -2659,8 +2659,12 @@ test/mfs/.project -text
 test/mfs/.spc5project -text
 test/mfs/config.fmpp -text
 test/mfs/configuration.xml -text
-test/mfs/nil_test.mk -text
+test/mfs/mfs_test.mk -text
 test/mfs/patch.xml -text
+test/mfs/source/test/mfs_test_root.c -text
+test/mfs/source/test/mfs_test_root.h -text
+test/mfs/source/test/mfs_test_sequence_001.c -text
+test/mfs/source/test/mfs_test_sequence_001.h -text
 test/nasa_osal/.cproject -text
 test/nasa_osal/.project -text
 test/nasa_osal/.spc5project -text
