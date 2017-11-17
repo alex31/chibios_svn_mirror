@@ -2667,6 +2667,8 @@ test/mfs/source/test/mfs_test_root.c -text
 test/mfs/source/test/mfs_test_root.h -text
 test/mfs/source/test/mfs_test_sequence_001.c -text
 test/mfs/source/test/mfs_test_sequence_001.h -text
+test/mfs/source/test/mfs_test_sequence_002.c -text
+test/mfs/source/test/mfs_test_sequence_002.h -text
 test/nasa_osal/.cproject -text
 test/nasa_osal/.project -text
 test/nasa_osal/.spc5project -text
