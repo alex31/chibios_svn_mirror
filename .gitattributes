@@ -536,7 +536,6 @@ demos/STM32/RT-STM32F303RE-NUCLEO64/halconf.h -text
 demos/STM32/RT-STM32F303RE-NUCLEO64/main.c -text
 demos/STM32/RT-STM32F303RE-NUCLEO64/mcuconf.h -text
 demos/STM32/RT-STM32F303RE-NUCLEO64/readme.txt -text
-demos/STM32/RT-STM32F303RE-NUCLEO64/us.stackdump -text
 demos/STM32/RT-STM32F303ZE-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32F303ZE-NUCLEO144/.project -text
 demos/STM32/RT-STM32F303ZE-NUCLEO144/Makefile -text
