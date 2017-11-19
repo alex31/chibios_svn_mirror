@@ -3493,15 +3493,6 @@ testhal/STM32/STM32F4xx/SDC/halconf.h -text
 testhal/STM32/STM32F4xx/SDC/main.c -text
 testhal/STM32/STM32F4xx/SDC/mcuconf.h -text
 testhal/STM32/STM32F4xx/SDC/readme.txt -text
-testhal/STM32/STM32F4xx/SPI/.cproject -text
-testhal/STM32/STM32F4xx/SPI/.project -text
-testhal/STM32/STM32F4xx/SPI/Makefile -text
-testhal/STM32/STM32F4xx/SPI/chconf.h -text
-testhal/STM32/STM32F4xx/SPI/debug/STM32F4xx-SPI[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/STM32F4xx/SPI/halconf.h -text
-testhal/STM32/STM32F4xx/SPI/main.c -text
-testhal/STM32/STM32F4xx/SPI/mcuconf.h -text
-testhal/STM32/STM32F4xx/SPI/readme.txt -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/.cproject -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/.project -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/Makefile -text
