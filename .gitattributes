@@ -2540,6 +2540,7 @@ os/hal/templates/platform.mk -text
 os/license/chcustomer.h -text
 os/license/chlicense.h -text
 os/license/chversion.h -text
+os/license/license.mk -text
 os/nil/dox/nil.dox -text
 os/nil/include/ch.h -text
 os/nil/nil.mk -text
