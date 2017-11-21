@@ -3832,5 +3832,6 @@ tools/ftl/processors/unittest/test/test_root.c.ftl -text
 tools/ftl/processors/unittest/test/test_root.h.ftl -text
 tools/ftl/processors/unittest/test/test_sequence.c.ftl -text
 tools/ftl/processors/unittest/test/test_sequence.h.ftl -text
+tools/mk/autobuild.mk -text
 tools/stylecheck.pl -text
 tools/test.c -text
