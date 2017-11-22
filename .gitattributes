@@ -1350,6 +1350,8 @@ os/common/startup/ARMCAx-TZ/devices/SAMA5D2/component/component_udphs.h -text
 os/common/startup/ARMCAx-TZ/devices/SAMA5D2/component/component_usart.h -text
 os/common/startup/ARMCAx-TZ/devices/SAMA5D2/component/component_wdt.h -text
 os/common/startup/ARMCAx-TZ/devices/SAMA5D2/component/component_xdmac.h -text
+os/common/startup/ARMCAx-TZ/devices/SAMA5D2/mmu.c -text
+os/common/startup/ARMCAx-TZ/devices/SAMA5D2/mmu.h -text
 os/common/startup/ARMCAx-TZ/devices/SAMA5D2/sama5d21.h -text
 os/common/startup/ARMCAx-TZ/devices/SAMA5D2/sama5d22.h -text
 os/common/startup/ARMCAx-TZ/devices/SAMA5D2/sama5d23.h -text
