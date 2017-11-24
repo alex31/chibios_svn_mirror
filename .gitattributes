@@ -1158,12 +1158,14 @@ os/common/oslib/include/chheap.h -text
 os/common/oslib/include/chmboxes.h -text
 os/common/oslib/include/chmemcore.h -text
 os/common/oslib/include/chmempools.h -text
+os/common/oslib/include/chpreempt.h -text
 os/common/oslib/readme.txt -text
 os/common/oslib/src/chfactory.c -text
 os/common/oslib/src/chheap.c -text
 os/common/oslib/src/chmboxes.c -text
 os/common/oslib/src/chmemcore.c -text
 os/common/oslib/src/chmempools.c -text
+os/common/oslib/src/chpreempt.c -text
 os/common/portability/GCC/ccportab.h -text
 os/common/ports/ARM/chcore.c -text
 os/common/ports/ARM/chcore.h -text
