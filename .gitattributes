@@ -2560,6 +2560,7 @@ os/rt/include/chevents.h -text
 os/rt/include/chmsg.h -text
 os/rt/include/chmtx.h -text
 os/rt/include/chregistry.h -text
+os/rt/include/chrestrictions.h -text
 os/rt/include/chschd.h -text
 os/rt/include/chsem.h -text
 os/rt/include/chstats.h -text
