@@ -2151,9 +2151,6 @@ os/hal/ports/SAMA/LLD/RTCv1/hal_rtc_lld.h -text
 os/hal/ports/SAMA/LLD/SPIv1/driver.mk -text
 os/hal/ports/SAMA/LLD/SPIv1/hal_spi_lld.c -text
 os/hal/ports/SAMA/LLD/SPIv1/hal_spi_lld.h -text
-os/hal/ports/SAMA/LLD/TRNGv1/driver.mk -text
-os/hal/ports/SAMA/LLD/TRNGv1/sama_trng_lld.c -text
-os/hal/ports/SAMA/LLD/TRNGv1/sama_trng_lld.h -text
 os/hal/ports/SAMA/LLD/USARTv1/driver.mk -text
 os/hal/ports/SAMA/LLD/USARTv1/hal_serial_lld.c -text
 os/hal/ports/SAMA/LLD/USARTv1/hal_serial_lld.h -text
@@ -2633,6 +2630,7 @@ test/crypto/ref/gen_testref.bat -text
 test/crypto/ref/genfile.py -text
 test/crypto/ref/ref_data.bat -text
 test/crypto/ref/setpath.bat -text
+test/crypto/ref/sha_ref.bat -text
 test/crypto/source/test/cry_test_root.c -text
 test/crypto/source/test/cry_test_root.h -text
 test/crypto/source/test/cry_test_sequence_001.c -text
@@ -2643,10 +2641,16 @@ test/crypto/source/test/cry_test_sequence_003.c -text
 test/crypto/source/test/cry_test_sequence_003.h -text
 test/crypto/source/test/cry_test_sequence_004.c -text
 test/crypto/source/test/cry_test_sequence_004.h -text
+test/crypto/source/test/cry_test_sequence_005.c -text
+test/crypto/source/test/cry_test_sequence_005.h -text
+test/crypto/source/test/cry_test_sequence_006.c -text
+test/crypto/source/test/cry_test_sequence_006.h -text
 test/crypto/source/testref/ref_aes.c -text
 test/crypto/source/testref/ref_aes.h -text
 test/crypto/source/testref/ref_des.c -text
 test/crypto/source/testref/ref_des.h -text
+test/crypto/source/testref/ref_sha.c -text
+test/crypto/source/testref/ref_sha.h -text
 test/hal/testbuild/.cproject -text
 test/hal/testbuild/.project -text
 test/hal/testbuild/Makefile -text
