@@ -288,8 +288,14 @@ demos/STM32/NIL-STM32L152-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/.cproject -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/.project -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/Makefile -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/Makefile-stm32f107_goldbull -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/Makefile-stm32f407_olimex -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/Makefile-stm32f746_discovery -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg-stm32f107_goldbull/chconf.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg-stm32f107_goldbull/halconf.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg-stm32f107_goldbull/mcuconf.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg-stm32f107_goldbull/portab.c -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg-stm32f107_goldbull/portab.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg-stm32f407_olimex/chconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg-stm32f407_olimex/halconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg-stm32f407_olimex/mcuconf.h -text
