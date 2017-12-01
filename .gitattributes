@@ -1628,6 +1628,9 @@ os/hal/boards/EA_LPCXPRESSO_BB_1343/board.mk -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.c -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.h -text
 os/hal/boards/EA_LPCXPRESSO_LPC812/board.mk -text
+os/hal/boards/GOLDBULL_STM32_F107VC/board.c -text
+os/hal/boards/GOLDBULL_STM32_F107VC/board.h -text
+os/hal/boards/GOLDBULL_STM32_F107VC/board.mk -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.c -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.h -text
 os/hal/boards/MAPLEMINI_STM32_F103/board.mk -text
