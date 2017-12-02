@@ -3893,8 +3893,8 @@ testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](Select[!!-~]ELF[!!-~]file)
 testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/USB_CDC/main.c -text
 testhal/STM32/multi/USB_CDC/readme.txt -text
-testhal/STM32/multi/USB_CDC/src/usbcfg.c -text
-testhal/STM32/multi/USB_CDC/src/usbcfg.h -text
+testhal/STM32/multi/USB_CDC/source/usbcfg.c -text
+testhal/STM32/multi/USB_CDC/source/usbcfg.h -text
 testhal/common/irq_storm.c -text
 testhal/common/irq_storm.h -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]Olimex[!!-~]ARM-USB-OCD[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
