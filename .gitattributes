@@ -2710,6 +2710,8 @@ test/crypto/source/test/cry_test_sequence_005.c -text
 test/crypto/source/test/cry_test_sequence_005.h -text
 test/crypto/source/test/cry_test_sequence_006.c -text
 test/crypto/source/test/cry_test_sequence_006.h -text
+test/crypto/source/test/cry_test_sequence_007.c -text
+test/crypto/source/test/cry_test_sequence_007.h -text
 test/crypto/source/testref/ref_aes.c -text
 test/crypto/source/testref/ref_aes.h -text
 test/crypto/source/testref/ref_des.c -text
