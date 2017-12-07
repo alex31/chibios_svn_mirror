@@ -135,6 +135,8 @@ demos/SPC5/RT-SPC560B-EVB/mcuconf.h -text
 demos/SPC5/RT-SPC560D-EVB/.cproject -text
 demos/SPC5/RT-SPC560D-EVB/.project -text
 demos/SPC5/RT-SPC560D-EVB/Makefile -text
+demos/SPC5/RT-SPC560D-EVB/Makefile-ghs -text
+demos/SPC5/RT-SPC560D-EVB/Makefile-ht -text
 demos/SPC5/RT-SPC560D-EVB/UDE/debug.wsx -text
 demos/SPC5/RT-SPC560D-EVB/UDE/stm_xpc560b_spc560d40_minimodule_debug_jtag.cfg -text
 demos/SPC5/RT-SPC560D-EVB/chconf.h -text
@@ -1532,6 +1534,7 @@ os/common/startup/e200/devices/SPC560Bxx/ppcparams.h -text
 os/common/startup/e200/devices/SPC560Dxx/boot.S -text
 os/common/startup/e200/devices/SPC560Dxx/boot.h -text
 os/common/startup/e200/devices/SPC560Dxx/boot_cw.s -text
+os/common/startup/e200/devices/SPC560Dxx/boot_ghs.s -text
 os/common/startup/e200/devices/SPC560Dxx/intc.h -text
 os/common/startup/e200/devices/SPC560Dxx/ppcparams.h -text
 os/common/startup/e200/devices/SPC560Pxx/boot.S -text
