@@ -300,6 +300,8 @@ demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/cfg-stm32f746_discovery/portab.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/cfg/ffconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/cfg/httpd_opts.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/cfg/lwipopts.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/debug/RT-STM32-LWIP-FATFS-USB-HTTPS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/debug/RT-STM32-LWIP-FATFS-USB-HTTPS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/main.c -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/readme.txt -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/usbcfg.c -text
