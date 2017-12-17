@@ -745,6 +745,16 @@ demos/STM32/RT-STM32F769I-DISCOVERY/halconf.h -text
 demos/STM32/RT-STM32F769I-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F769I-DISCOVERY/mcuconf.h -text
 demos/STM32/RT-STM32F769I-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32H743I-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32H743I-NUCLEO144/.project -text
+demos/STM32/RT-STM32H743I-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32H743I-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32H743I-NUCLEO144/debug/RT-STM32H743I-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32H743I-NUCLEO144/debug/RT-STM32H743I-NUCLEO144[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
+demos/STM32/RT-STM32H743I-NUCLEO144/halconf.h -text
+demos/STM32/RT-STM32H743I-NUCLEO144/main.c -text
+demos/STM32/RT-STM32H743I-NUCLEO144/mcuconf.h -text
+demos/STM32/RT-STM32H743I-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/.cproject -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/.project -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/Makefile -text
@@ -1442,6 +1452,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_ETH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_MAX.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxI.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32H743xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L011x3.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L011x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L031x4.ld -text
@@ -1470,6 +1481,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f2xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f3xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f7xx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32h7xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
@@ -1486,6 +1498,7 @@ os/common/startup/ARMCMx/devices/STM32F2xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F3xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F4xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F7xx/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32H7xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L4xx/cmparams.h -text
