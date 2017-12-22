@@ -2243,6 +2243,9 @@ os/hal/ports/SAMA/LLD/CRYPTOv1/sama_tdes_lld.h -text
 os/hal/ports/SAMA/LLD/DMAv1/driver.mk -text
 os/hal/ports/SAMA/LLD/DMAv1/sama_xdmac.c -text
 os/hal/ports/SAMA/LLD/DMAv1/sama_xdmac.h -text
+os/hal/ports/SAMA/LLD/MACv1/driver.mk -text
+os/hal/ports/SAMA/LLD/MACv1/hal_mac_lld.c -text
+os/hal/ports/SAMA/LLD/MACv1/hal_mac_lld.h -text
 os/hal/ports/SAMA/LLD/PIOv1/driver.mk -text
 os/hal/ports/SAMA/LLD/PIOv1/hal_pal_lld.c -text
 os/hal/ports/SAMA/LLD/PIOv1/hal_pal_lld.h -text
