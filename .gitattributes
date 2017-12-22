@@ -1,5 +1,24 @@
 * text=auto !eol
 /.project -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/.cproject -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/.project -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/Makefile -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/cfg/chconf.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/cfg/ffconf.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/cfg/halconf.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/cfg/httpd_opts.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/cfg/lwip.mk -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/cfg/lwipopts.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/cfg/mcuconf.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/cfg/static_lwipopts.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/debug/RT-SAMA5D2-XPLAINED-LWIP[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/debug/RT-SAMA5D2-XPLAINED-LWIP[!!-~](bootstrap).launch -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/lwipthread.c -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/lwipthread.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/main.c -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/readme.txt -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/web/web.c -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-LWIP/web/web.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.cproject -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.project -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/Makefile -text
