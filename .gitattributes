@@ -124,7 +124,6 @@ demos/AVR/RT-TEENSY2-USB/mcuconf.h -text
 demos/AVR/RT-TEENSY2-USB/readme.txt -text
 demos/AVR/RT-TEENSY2-USB/usbcfg.c -text
 demos/AVR/RT-TEENSY2-USB/usbcfg.h -text
-demos/AVR/TEST-SUITE-NIL/: -text
 demos/AVR/TEST-SUITE-NIL/Makefile -text
 demos/AVR/TEST-SUITE-NIL/chconf.h -text
 demos/AVR/TEST-SUITE-NIL/halconf.h -text
