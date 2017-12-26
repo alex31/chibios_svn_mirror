@@ -2431,6 +2431,10 @@ os/hal/ports/STM32/LLD/DMAv2/driver.mk -text
 os/hal/ports/STM32/LLD/DMAv2/notes.txt -text
 os/hal/ports/STM32/LLD/DMAv2/stm32_dma.c -text
 os/hal/ports/STM32/LLD/DMAv2/stm32_dma.h -text
+os/hal/ports/STM32/LLD/DMAv3/driver.mk -text
+os/hal/ports/STM32/LLD/DMAv3/notes.txt -text
+os/hal/ports/STM32/LLD/DMAv3/stm32_dma.c -text
+os/hal/ports/STM32/LLD/DMAv3/stm32_dma.h -text
 os/hal/ports/STM32/LLD/EXTIv1/driver.mk -text
 os/hal/ports/STM32/LLD/EXTIv1/hal_ext_lld.c -text
 os/hal/ports/STM32/LLD/EXTIv1/hal_ext_lld.h -text
@@ -2486,6 +2490,11 @@ os/hal/ports/STM32/LLD/SPIv2/hal_i2s_lld.c -text
 os/hal/ports/STM32/LLD/SPIv2/hal_i2s_lld.h -text
 os/hal/ports/STM32/LLD/SPIv2/hal_spi_lld.c -text
 os/hal/ports/STM32/LLD/SPIv2/hal_spi_lld.h -text
+os/hal/ports/STM32/LLD/SPIv3/driver.mk -text
+os/hal/ports/STM32/LLD/SPIv3/hal_i2s_lld.c -text
+os/hal/ports/STM32/LLD/SPIv3/hal_i2s_lld.h -text
+os/hal/ports/STM32/LLD/SPIv3/hal_spi_lld.c -text
+os/hal/ports/STM32/LLD/SPIv3/hal_spi_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/driver.mk -text
 os/hal/ports/STM32/LLD/TIMv1/hal_gpt_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/hal_gpt_lld.h -text
