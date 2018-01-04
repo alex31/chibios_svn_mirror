@@ -3949,6 +3949,7 @@ testhal/STM32/multi/SPI/Makefile -text
 testhal/STM32/multi/SPI/Makefile-stm32f091_nucleo64 -text
 testhal/STM32/multi/SPI/Makefile-stm32f303_discovery -text
 testhal/STM32/multi/SPI/Makefile-stm32f407_discovery -text
+testhal/STM32/multi/SPI/Makefile-stm32h743_nucleo144 -text
 testhal/STM32/multi/SPI/cfg-stm32f091_nucleo64/chconf.h -text
 testhal/STM32/multi/SPI/cfg-stm32f091_nucleo64/halconf.h -text
 testhal/STM32/multi/SPI/cfg-stm32f091_nucleo64/mcuconf.h -text
@@ -3964,6 +3965,11 @@ testhal/STM32/multi/SPI/cfg-stm32f407_discovery/halconf.h -text
 testhal/STM32/multi/SPI/cfg-stm32f407_discovery/mcuconf.h -text
 testhal/STM32/multi/SPI/cfg-stm32f407_discovery/portab.c -text
 testhal/STM32/multi/SPI/cfg-stm32f407_discovery/portab.h -text
+testhal/STM32/multi/SPI/cfg-stm32h743_nucleo144/chconf.h -text
+testhal/STM32/multi/SPI/cfg-stm32h743_nucleo144/halconf.h -text
+testhal/STM32/multi/SPI/cfg-stm32h743_nucleo144/mcuconf.h -text
+testhal/STM32/multi/SPI/cfg-stm32h743_nucleo144/portab.c -text
+testhal/STM32/multi/SPI/cfg-stm32h743_nucleo144/portab.h -text
 testhal/STM32/multi/SPI/debug/STM32-SPI[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/SPI/debug/STM32-SPI[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/SPI/main.c -text
