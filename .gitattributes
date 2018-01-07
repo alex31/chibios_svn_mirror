@@ -2437,6 +2437,10 @@ os/hal/ports/STM32/LLD/ADCv3/driver.mk -text
 os/hal/ports/STM32/LLD/ADCv3/hal_adc_lld.c -text
 os/hal/ports/STM32/LLD/ADCv3/hal_adc_lld.h -text
 os/hal/ports/STM32/LLD/ADCv3/notes.txt -text
+os/hal/ports/STM32/LLD/BDMAv1/driver.mk -text
+os/hal/ports/STM32/LLD/BDMAv1/notes.txt -text
+os/hal/ports/STM32/LLD/BDMAv1/stm32_bdma.c -text
+os/hal/ports/STM32/LLD/BDMAv1/stm32_bdma.h -text
 os/hal/ports/STM32/LLD/CANv1/driver.mk -text
 os/hal/ports/STM32/LLD/CANv1/hal_can_lld.c -text
 os/hal/ports/STM32/LLD/CANv1/hal_can_lld.h -text
