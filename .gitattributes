@@ -2634,6 +2634,7 @@ os/hal/ports/STM32/STM32L4xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32L4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L4xx/stm32_registry.h -text
 os/hal/ports/STM32/todo.txt -text
+os/hal/ports/common/ARMCMx/cache.h -text
 os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
 os/hal/ports/simulator/console.c -text
