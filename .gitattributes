@@ -3185,6 +3185,16 @@ testhal/ATSAMA5D2/MATRIX/halconf.h -text
 testhal/ATSAMA5D2/MATRIX/main.c -text
 testhal/ATSAMA5D2/MATRIX/mcuconf.h -text
 testhal/ATSAMA5D2/MATRIX/readme.txt -text
+testhal/ATSAMA5D2/SECUMOD/.cproject -text
+testhal/ATSAMA5D2/SECUMOD/.project -text
+testhal/ATSAMA5D2/SECUMOD/Makefile -text
+testhal/ATSAMA5D2/SECUMOD/chconf.h -text
+testhal/ATSAMA5D2/SECUMOD/debug/SAMA5D2-SECUMOD[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+testhal/ATSAMA5D2/SECUMOD/debug/SAMA5D2-SECUMOD[!!-~](bootstrap).launch -text
+testhal/ATSAMA5D2/SECUMOD/halconf.h -text
+testhal/ATSAMA5D2/SECUMOD/main.c -text
+testhal/ATSAMA5D2/SECUMOD/mcuconf.h -text
+testhal/ATSAMA5D2/SECUMOD/readme.txt -text
 testhal/ATSAMA5D2/SPI/.cproject -text
 testhal/ATSAMA5D2/SPI/.project -text
 testhal/ATSAMA5D2/SPI/Makefile -text
