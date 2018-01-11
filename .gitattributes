@@ -2302,6 +2302,7 @@ os/hal/ports/SAMA/LLD/SDMMCv1/ch_sdmmc_cmds.c -text
 os/hal/ports/SAMA/LLD/SDMMCv1/ch_sdmmc_cmds.h -text
 os/hal/ports/SAMA/LLD/SDMMCv1/ch_sdmmc_device.c -text
 os/hal/ports/SAMA/LLD/SDMMCv1/ch_sdmmc_device.h -text
+os/hal/ports/SAMA/LLD/SDMMCv1/ch_sdmmc_ff.c -text
 os/hal/ports/SAMA/LLD/SDMMCv1/ch_sdmmc_macros.h -text
 os/hal/ports/SAMA/LLD/SDMMCv1/ch_sdmmc_mmc.c -text
 os/hal/ports/SAMA/LLD/SDMMCv1/ch_sdmmc_mmc.h -text
@@ -3189,6 +3190,16 @@ testhal/ATSAMA5D2/MATRIX/halconf.h -text
 testhal/ATSAMA5D2/MATRIX/main.c -text
 testhal/ATSAMA5D2/MATRIX/mcuconf.h -text
 testhal/ATSAMA5D2/MATRIX/readme.txt -text
+testhal/ATSAMA5D2/SDMMC/.cproject -text
+testhal/ATSAMA5D2/SDMMC/.project -text
+testhal/ATSAMA5D2/SDMMC/Makefile -text
+testhal/ATSAMA5D2/SDMMC/chconf.h -text
+testhal/ATSAMA5D2/SDMMC/debug/SAMA5D2-SDMMC[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+testhal/ATSAMA5D2/SDMMC/debug/SAMA5D2-SDMMC[!!-~](bootstrap).launch -text
+testhal/ATSAMA5D2/SDMMC/halconf.h -text
+testhal/ATSAMA5D2/SDMMC/main.c -text
+testhal/ATSAMA5D2/SDMMC/mcuconf.h -text
+testhal/ATSAMA5D2/SDMMC/readme.txt -text
 testhal/ATSAMA5D2/SECUMOD/.cproject -text
 testhal/ATSAMA5D2/SECUMOD/.project -text
 testhal/ATSAMA5D2/SECUMOD/Makefile -text
