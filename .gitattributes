@@ -3221,6 +3221,7 @@ testhal/ATSAMA5D2/SPI/.project -text
 testhal/ATSAMA5D2/SPI/Makefile -text
 testhal/ATSAMA5D2/SPI/chconf.h -text
 testhal/ATSAMA5D2/SPI/debug/SAMA5D2-SPI[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+testhal/ATSAMA5D2/SPI/debug/SAMA5D2-SPI[!!-~](bootstrap).launch -text
 testhal/ATSAMA5D2/SPI/halconf.h -text
 testhal/ATSAMA5D2/SPI/main.c -text
 testhal/ATSAMA5D2/SPI/mcuconf.h -text
