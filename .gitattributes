@@ -1407,6 +1407,7 @@ os/common/startup/ARM/devices/SAMA5D2/sama5d2x.h -text
 os/common/startup/ARMCAx-TZ/compilers/GCC/crt0.S -text
 os/common/startup/ARMCAx-TZ/compilers/GCC/crt1.c -text
 os/common/startup/ARMCAx-TZ/compilers/GCC/ld/SAMA5D2.ld -text
+os/common/startup/ARMCAx-TZ/compilers/GCC/ld/SAMA5D2ddr.ld -text
 os/common/startup/ARMCAx-TZ/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCAx-TZ/compilers/GCC/mk/startup_sama5d2.mk -text
 os/common/startup/ARMCAx-TZ/compilers/GCC/rules.mk -text
