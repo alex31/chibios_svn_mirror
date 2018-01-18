@@ -1336,6 +1336,7 @@ os/common/startup/ARM/compilers/GCC/crt0.S -text
 os/common/startup/ARM/compilers/GCC/crt1.c -text
 os/common/startup/ARM/compilers/GCC/ld/LPC2148.ld -text
 os/common/startup/ARM/compilers/GCC/ld/SAMA5D2.ld -text
+os/common/startup/ARM/compilers/GCC/ld/SAMA5D2ddr.ld -text
 os/common/startup/ARM/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARM/compilers/GCC/mk/startup_lpc214x.mk -text
 os/common/startup/ARM/compilers/GCC/mk/startup_sama5d2.mk -text
