@@ -1280,6 +1280,8 @@ os/common/ports/ARM/compilers/GCC/mk/port_generic.mk -text
 os/common/ports/ARMCAx-TZ/chcore.c -text
 os/common/ports/ARMCAx-TZ/chcore.h -text
 os/common/ports/ARMCAx-TZ/chcore_timer.h -text
+os/common/ports/ARMCAx-TZ/chsmc.c -text
+os/common/ports/ARMCAx-TZ/chsmc.h -text
 os/common/ports/ARMCAx-TZ/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMCAx-TZ/compilers/GCC/chtypes.h -text
 os/common/ports/ARMCAx-TZ/compilers/GCC/mk/port_generic.mk -text
