@@ -1734,6 +1734,12 @@ os/hal/boards/ARDUINO_UNO/board.mk -text
 os/hal/boards/ATSAMA5D2_XULT/board.c -text
 os/hal/boards/ATSAMA5D2_XULT/board.h -text
 os/hal/boards/ATSAMA5D2_XULT/board.mk -text
+os/hal/boards/ATSAMA5D2_XULT_NSEC/board.c -text
+os/hal/boards/ATSAMA5D2_XULT_NSEC/board.h -text
+os/hal/boards/ATSAMA5D2_XULT_NSEC/board.mk -text
+os/hal/boards/ATSAMA5D2_XULT_SEC/board.c -text
+os/hal/boards/ATSAMA5D2_XULT_SEC/board.h -text
+os/hal/boards/ATSAMA5D2_XULT_SEC/board.mk -text
 os/hal/boards/DIGISPARK_ATTINY_167/board.c -text
 os/hal/boards/DIGISPARK_ATTINY_167/board.h -text
 os/hal/boards/DIGISPARK_ATTINY_167/board.mk -text
