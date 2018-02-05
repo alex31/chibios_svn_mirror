@@ -4162,7 +4162,8 @@ testhal/STM32/multi/USB_CDC/source/usbcfg.c -text
 testhal/STM32/multi/USB_CDC/source/usbcfg.h -text
 testhal/common/irq_storm.c -text
 testhal/common/irq_storm.h -text
-tools/eclipse/debug/OpenOCD[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
+tools/eclipse/debug/OpenOCD[!!-~]no[!!-~]interface[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]board[!!-~]configuration).launch -text
+tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]STLink[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/fmpp/Run[!!-~]FMPP[!!-~](pre-select[!!-~]folder[!!-~]containing[!!-~]config.fmpp).launch -text
 tools/ftl/libs/liblicense.ftl -text
 tools/ftl/libs/libutils.ftl -text
