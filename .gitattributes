@@ -2314,6 +2314,8 @@ os/hal/ports/AVR/XMEGA/LLD/GPIOv1/hal_pal_lld.h -text
 os/hal/ports/AVR/XMEGA/LLD/TIMv1/driver.mk -text
 os/hal/ports/AVR/XMEGA/LLD/TIMv1/hal_st_lld.c -text
 os/hal/ports/AVR/XMEGA/LLD/TIMv1/hal_st_lld.h -text
+os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_serial_lld.c -text
+os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_serial_lld.h -text
 os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_uart_lld.c -text
 os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_uart_lld.h -text
 os/hal/ports/LPC/LPC214x/hal_lld.c -text
