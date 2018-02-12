@@ -3345,6 +3345,12 @@ testhal/AVR/MEGA/SPI/halconf.h -text
 testhal/AVR/MEGA/SPI/main.c -text
 testhal/AVR/MEGA/SPI/mcuconf.h -text
 testhal/AVR/MEGA/SPI/readme.txt -text
+testhal/AVR/XMEGA/USART/Makefile -text
+testhal/AVR/XMEGA/USART/chconf.h -text
+testhal/AVR/XMEGA/USART/halconf.h -text
+testhal/AVR/XMEGA/USART/main.c -text
+testhal/AVR/XMEGA/USART/mcuconf.h -text
+testhal/AVR/XMEGA/USART/readme.txt -text
 testhal/AVR/multi/PAL/Makefile -text
 testhal/AVR/multi/PAL/Makefile-arduino_mega -text
 testhal/AVR/multi/PAL/Makefile-arduino_mini -text
