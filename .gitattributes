@@ -3262,6 +3262,7 @@ testhal/ATSAMA5D2/SERIAL/.cproject -text
 testhal/ATSAMA5D2/SERIAL/.project -text
 testhal/ATSAMA5D2/SERIAL/Makefile -text
 testhal/ATSAMA5D2/SERIAL/chconf.h -text
+testhal/ATSAMA5D2/SERIAL/debug/SAMA5D2-SERIAL[!!-~](DDRAM).launch -text
 testhal/ATSAMA5D2/SERIAL/debug/SAMA5D2-SERIAL[!!-~](Load[!!-~]and[!!-~]Run).launch -text
 testhal/ATSAMA5D2/SERIAL/debug/SAMA5D2-SERIAL[!!-~](bootstrap).launch -text
 testhal/ATSAMA5D2/SERIAL/halconf.h -text
