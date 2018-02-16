@@ -3234,6 +3234,17 @@ testex/STM32/STM32L4xx/SPI-L3GD20/halconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32L4xx/SPI-L3GD20/mcuconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/readme.txt -text
+testhal/ATSAMA5D2/FLEX-SPI/.cproject -text
+testhal/ATSAMA5D2/FLEX-SPI/.project -text
+testhal/ATSAMA5D2/FLEX-SPI/Makefile -text
+testhal/ATSAMA5D2/FLEX-SPI/chconf.h -text
+testhal/ATSAMA5D2/FLEX-SPI/debug/SAMA5D2-FLEX-SPI[!!-~](DDRAM).launch -text
+testhal/ATSAMA5D2/FLEX-SPI/debug/SAMA5D2-FLEX-SPI[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+testhal/ATSAMA5D2/FLEX-SPI/debug/SAMA5D2-FLEX-SPI[!!-~](bootstrap).launch -text
+testhal/ATSAMA5D2/FLEX-SPI/halconf.h -text
+testhal/ATSAMA5D2/FLEX-SPI/main.c -text
+testhal/ATSAMA5D2/FLEX-SPI/mcuconf.h -text
+testhal/ATSAMA5D2/FLEX-SPI/readme.txt -text
 testhal/ATSAMA5D2/MATRIX/.cproject -text
 testhal/ATSAMA5D2/MATRIX/.project -text
 testhal/ATSAMA5D2/MATRIX/Makefile -text
