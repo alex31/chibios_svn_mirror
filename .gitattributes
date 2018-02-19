@@ -3358,6 +3358,12 @@ testhal/AVR/XMEGA/SERIAL/halconf.h -text
 testhal/AVR/XMEGA/SERIAL/main.c -text
 testhal/AVR/XMEGA/SERIAL/mcuconf.h -text
 testhal/AVR/XMEGA/SERIAL/readme.txt -text
+testhal/AVR/XMEGA/TEST-SUITE-OSLIB/Makefile -text
+testhal/AVR/XMEGA/TEST-SUITE-OSLIB/chconf.h -text
+testhal/AVR/XMEGA/TEST-SUITE-OSLIB/halconf.h -text
+testhal/AVR/XMEGA/TEST-SUITE-OSLIB/main.c -text
+testhal/AVR/XMEGA/TEST-SUITE-OSLIB/mcuconf.h -text
+testhal/AVR/XMEGA/TEST-SUITE-OSLIB/readme.txt -text
 testhal/AVR/XMEGA/USART/Makefile -text
 testhal/AVR/XMEGA/USART/chconf.h -text
 testhal/AVR/XMEGA/USART/halconf.h -text
