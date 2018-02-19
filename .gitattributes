@@ -3373,6 +3373,12 @@ testhal/AVR/XMEGA/USART/halconf.h -text
 testhal/AVR/XMEGA/USART/main.c -text
 testhal/AVR/XMEGA/USART/mcuconf.h -text
 testhal/AVR/XMEGA/USART/readme.txt -text
+testhal/AVR/XMEGA/WDT/Makefile -text
+testhal/AVR/XMEGA/WDT/chconf.h -text
+testhal/AVR/XMEGA/WDT/halconf.h -text
+testhal/AVR/XMEGA/WDT/main.c -text
+testhal/AVR/XMEGA/WDT/mcuconf.h -text
+testhal/AVR/XMEGA/WDT/readme.txt -text
 testhal/AVR/multi/PAL/Makefile -text
 testhal/AVR/multi/PAL/Makefile-arduino_mega -text
 testhal/AVR/multi/PAL/Makefile-arduino_mini -text
