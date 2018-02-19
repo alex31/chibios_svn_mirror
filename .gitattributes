@@ -2319,6 +2319,9 @@ os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_serial_lld.c -text
 os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_serial_lld.h -text
 os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_uart_lld.c -text
 os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_uart_lld.h -text
+os/hal/ports/AVR/XMEGA/LLD/WDGv1/driver.mk -text
+os/hal/ports/AVR/XMEGA/LLD/WDGv1/hal_wdg_lld.c -text
+os/hal/ports/AVR/XMEGA/LLD/WDGv1/hal_wdg_lld.h -text
 os/hal/ports/LPC/LPC214x/hal_lld.c -text
 os/hal/ports/LPC/LPC214x/hal_lld.h -text
 os/hal/ports/LPC/LPC214x/hal_pal_lld.c -text
