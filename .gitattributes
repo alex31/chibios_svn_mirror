@@ -2308,6 +2308,9 @@ os/hal/ports/AVR/TINY/LLD/avr_timers.h -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/hal_lld.c -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/hal_lld.h -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/platform.mk -text
+os/hal/ports/AVR/XMEGA/LLD/DMAv1/driver.mk -text
+os/hal/ports/AVR/XMEGA/LLD/DMAv1/xmega_dma_lld.c -text
+os/hal/ports/AVR/XMEGA/LLD/DMAv1/xmega_dma_lld.h -text
 os/hal/ports/AVR/XMEGA/LLD/GPIOv1/driver.mk -text
 os/hal/ports/AVR/XMEGA/LLD/GPIOv1/hal_pal_lld.c -text
 os/hal/ports/AVR/XMEGA/LLD/GPIOv1/hal_pal_lld.h -text
