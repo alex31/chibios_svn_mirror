@@ -3362,6 +3362,7 @@ testhal/ATSAMA5D2/TC/.cproject -text
 testhal/ATSAMA5D2/TC/.project -text
 testhal/ATSAMA5D2/TC/Makefile -text
 testhal/ATSAMA5D2/TC/chconf.h -text
+testhal/ATSAMA5D2/TC/debug/SAMA5D2-TC[!!-~](DDRAM).launch -text
 testhal/ATSAMA5D2/TC/debug/SAMA5D2-TC[!!-~](Load[!!-~]and[!!-~]Run).launch -text
 testhal/ATSAMA5D2/TC/halconf.h -text
 testhal/ATSAMA5D2/TC/main.c -text
