@@ -3329,6 +3329,7 @@ testhal/ATSAMA5D2/SECUMOD/.cproject -text
 testhal/ATSAMA5D2/SECUMOD/.project -text
 testhal/ATSAMA5D2/SECUMOD/Makefile -text
 testhal/ATSAMA5D2/SECUMOD/chconf.h -text
+testhal/ATSAMA5D2/SECUMOD/debug/SAMA5D2-SECUMOD[!!-~](DDRAM).launch -text
 testhal/ATSAMA5D2/SECUMOD/debug/SAMA5D2-SECUMOD[!!-~](Load[!!-~]and[!!-~]Run).launch -text
 testhal/ATSAMA5D2/SECUMOD/debug/SAMA5D2-SECUMOD[!!-~](bootstrap).launch -text
 testhal/ATSAMA5D2/SECUMOD/halconf.h -text
