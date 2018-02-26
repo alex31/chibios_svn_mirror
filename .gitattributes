@@ -3290,6 +3290,7 @@ testhal/ATSAMA5D2/MATRIX/.cproject -text
 testhal/ATSAMA5D2/MATRIX/.project -text
 testhal/ATSAMA5D2/MATRIX/Makefile -text
 testhal/ATSAMA5D2/MATRIX/chconf.h -text
+testhal/ATSAMA5D2/MATRIX/debug/SAMA5D2-MATRIX[!!-~](DDRAM).launch -text
 testhal/ATSAMA5D2/MATRIX/debug/SAMA5D2-MATRIX[!!-~](Load[!!-~]and[!!-~]Run).launch -text
 testhal/ATSAMA5D2/MATRIX/halconf.h -text
 testhal/ATSAMA5D2/MATRIX/main.c -text
