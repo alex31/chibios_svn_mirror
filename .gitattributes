@@ -3372,6 +3372,7 @@ testhal/ATSAMA5D2/UART/.cproject -text
 testhal/ATSAMA5D2/UART/.project -text
 testhal/ATSAMA5D2/UART/Makefile -text
 testhal/ATSAMA5D2/UART/chconf.h -text
+testhal/ATSAMA5D2/UART/debug/SAMA5D2-UART[!!-~](DDRAM).launch -text
 testhal/ATSAMA5D2/UART/debug/SAMA5D2-UART[!!-~](Load[!!-~]and[!!-~]Run).launch -text
 testhal/ATSAMA5D2/UART/halconf.h -text
 testhal/ATSAMA5D2/UART/main.c -text
