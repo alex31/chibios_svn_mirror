@@ -3296,6 +3296,17 @@ testhal/ATSAMA5D2/MATRIX/halconf.h -text
 testhal/ATSAMA5D2/MATRIX/main.c -text
 testhal/ATSAMA5D2/MATRIX/mcuconf.h -text
 testhal/ATSAMA5D2/MATRIX/readme.txt -text
+testhal/ATSAMA5D2/RTC/.cproject -text
+testhal/ATSAMA5D2/RTC/.project -text
+testhal/ATSAMA5D2/RTC/Makefile -text
+testhal/ATSAMA5D2/RTC/chconf.h -text
+testhal/ATSAMA5D2/RTC/debug/SAMA5D2-RTC[!!-~](DDRAM).launch -text
+testhal/ATSAMA5D2/RTC/debug/SAMA5D2-RTC[!!-~](Load[!!-~]and[!!-~]Run).launch -text
+testhal/ATSAMA5D2/RTC/debug/SAMA5D2-RTC[!!-~](bootstrap).launch -text
+testhal/ATSAMA5D2/RTC/halconf.h -text
+testhal/ATSAMA5D2/RTC/main.c -text
+testhal/ATSAMA5D2/RTC/mcuconf.h -text
+testhal/ATSAMA5D2/RTC/readme.txt -text
 testhal/ATSAMA5D2/SDMMC/.cproject -text
 testhal/ATSAMA5D2/SDMMC/.project -text
 testhal/ATSAMA5D2/SDMMC/Makefile -text
