@@ -3128,8 +3128,6 @@ testex/STM32/STM32F3xx/I2C-LSM303DLHC/halconf.h -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/main.c -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/mcuconf.h -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/readme.txt -text
-testex/STM32/STM32F3xx/I2C-LSM303DLHC/usbcfg.c -text
-testex/STM32/STM32F3xx/I2C-LSM303DLHC/usbcfg.h -text
 testex/STM32/STM32F3xx/SPI-L3GD20/.cproject -text
 testex/STM32/STM32F3xx/SPI-L3GD20/.project -text
 testex/STM32/STM32F3xx/SPI-L3GD20/Makefile -text
