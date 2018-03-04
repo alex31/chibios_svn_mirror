@@ -2082,6 +2082,11 @@ os/hal/boards/ST_STM32F334_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F334_DISCOVERY/board.mk -text
 os/hal/boards/ST_STM32F334_DISCOVERY/cfg/board.chcfg -text
 os/hal/boards/ST_STM32F334_DISCOVERY/cfg/board.fmpp -text
+os/hal/boards/ST_STM32F3_DISCOVERY/board.c -text
+os/hal/boards/ST_STM32F3_DISCOVERY/board.h -text
+os/hal/boards/ST_STM32F3_DISCOVERY/board.mk -text
+os/hal/boards/ST_STM32F3_DISCOVERY/cfg/board.chcfg -text
+os/hal/boards/ST_STM32F3_DISCOVERY/cfg/board.fmpp -text
 os/hal/boards/ST_STM32F401C_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32F401C_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F401C_DISCOVERY/board.mk -text
