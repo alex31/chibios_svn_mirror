@@ -3118,8 +3118,6 @@ testex/STM32/STM32F3xx/SPI-L3GD20/halconf.h -text
 testex/STM32/STM32F3xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32F3xx/SPI-L3GD20/mcuconf.h -text
 testex/STM32/STM32F3xx/SPI-L3GD20/readme.txt -text
-testex/STM32/STM32F3xx/SPI-L3GD20/usbcfg.c -text
-testex/STM32/STM32F3xx/SPI-L3GD20/usbcfg.h -text
 testex/STM32/STM32F3xx/SPI-N25Q128/.cproject -text
 testex/STM32/STM32F3xx/SPI-N25Q128/.project -text
 testex/STM32/STM32F3xx/SPI-N25Q128/Makefile -text
