@@ -1631,13 +1631,7 @@ os/common/startup/e200/compilers/GHS/ld/SPC560B60.ld -text
 os/common/startup/e200/compilers/GHS/ld/SPC560B64.ld -text
 os/common/startup/e200/compilers/GHS/ld/SPC560D40.ld -text
 os/common/startup/e200/compilers/GHS/ld/SPC560P50.ld -text
-os/common/startup/e200/compilers/GHS/ld/SPC563M64.ld -text
-os/common/startup/e200/compilers/GHS/ld/SPC564A70.ld -text
-os/common/startup/e200/compilers/GHS/ld/SPC564A80.ld -text
 os/common/startup/e200/compilers/GHS/ld/SPC56EC74.ld -text
-os/common/startup/e200/compilers/GHS/ld/SPC56EL54_LSM.ld -text
-os/common/startup/e200/compilers/GHS/ld/SPC56EL60_LSM.ld -text
-os/common/startup/e200/compilers/GHS/ld/SPC56EL70_LSM.ld -text
 os/common/startup/e200/compilers/GHS/mk/startup_spc560bcxx.mk -text
 os/common/startup/e200/compilers/GHS/mk/startup_spc560bxx.mk -text
 os/common/startup/e200/compilers/GHS/mk/startup_spc560dxx.mk -text
