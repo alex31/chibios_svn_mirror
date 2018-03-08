@@ -2217,6 +2217,11 @@ os/hal/include/hal_uart.h -text
 os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
+os/hal/lib/complex/m25q/devices/micron_n25q/m25q_flash.c -text
+os/hal/lib/complex/m25q/devices/micron_n25q/m25q_flash.h -text
+os/hal/lib/complex/m25q/devices/micron_n25q/micron_n25q.mk -text
+os/hal/lib/complex/m25q/m25q.c -text
+os/hal/lib/complex/m25q/m25q.h -text
 os/hal/lib/complex/mfs/mfs.c -text
 os/hal/lib/complex/mfs/mfs.h -text
 os/hal/lib/complex/mfs/mfs.mk -text
