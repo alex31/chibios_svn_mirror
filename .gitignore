@@ -6,7 +6,6 @@ demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/.dep
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/build
 os/common/ext/fatfs
 os/common/ext/lwip
-os/hal/boards/NONSTANDARD_STM32F4_BARTHESS1/*.origin
 os/hal/boards/OLIMEX_STM32_103STK/board.lst
 os/hal/boards/OLIMEX_STM32_P103/*.lst
 os/hal/boards/OLIMEX_STM32_P103/*.origin
