@@ -1719,6 +1719,9 @@ os/ex/ST/lis3dsh.mk -text
 os/ex/ST/lis3mdl.c -text
 os/ex/ST/lis3mdl.h -text
 os/ex/ST/lis3mdl.mk -text
+os/ex/ST/lps22hb.c -text
+os/ex/ST/lps22hb.h -text
+os/ex/ST/lps22hb.mk -text
 os/ex/ST/lps25h.c -text
 os/ex/ST/lps25h.h -text
 os/ex/ST/lps25h.mk -text
@@ -3170,6 +3173,15 @@ testex/STM32/STM32F4xx/I2C-LIS3MLD/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LIS3MLD/main.c -text
 testex/STM32/STM32F4xx/I2C-LIS3MLD/mcuconf.h -text
 testex/STM32/STM32F4xx/I2C-LIS3MLD/readme.txt -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/.cproject -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/.project -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/Makefile -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/chconf.h -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/debug/STM32F4xx-I2C-LPS22HB[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/halconf.h -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/main.c -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/mcuconf.h -text
+testex/STM32/STM32F4xx/I2C-LPS22HB/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LPS25H/.cproject -text
 testex/STM32/STM32F4xx/I2C-LPS25H/.project -text
 testex/STM32/STM32F4xx/I2C-LPS25H/Makefile -text
