@@ -4275,5 +4275,5 @@ tools/ftl/processors/unittest/test/test_sequence.h.ftl -text
 tools/mk/autobuild.mk -text
 tools/stylecheck.pl -text
 tools/test.c -text
-tools/updater/chconf.fmpp -text
+tools/updater/chconf_rt.fmpp -text
 tools/updater/update_chconf_rt.sh -text
