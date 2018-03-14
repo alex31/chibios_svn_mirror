@@ -1710,6 +1710,9 @@ os/ex/ST/lps22hb.mk -text
 os/ex/ST/lps25h.c -text
 os/ex/ST/lps25h.h -text
 os/ex/ST/lps25h.mk -text
+os/ex/ST/lsm303agr.c -text
+os/ex/ST/lsm303agr.h -text
+os/ex/ST/lsm303agr.mk -text
 os/ex/ST/lsm303dlhc.c -text
 os/ex/ST/lsm303dlhc.h -text
 os/ex/ST/lsm303dlhc.mk -text
