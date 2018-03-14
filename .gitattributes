@@ -4267,6 +4267,7 @@ tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]STLink[!!-~](prompts[!!-~]for[!!-~].cfg
 tools/eclipse/fmpp/Run[!!-~]FMPP[!!-~](pre-select[!!-~]folder[!!-~]containing[!!-~]config.fmpp).launch -text
 tools/ftl/libs/liblicense.ftl -text
 tools/ftl/libs/libutils.ftl -text
+tools/ftl/processors/conf/chconf_rt/chconf.h.ftl -text
 tools/ftl/processors/unittest/test/test_root.c.ftl -text
 tools/ftl/processors/unittest/test/test_root.h.ftl -text
 tools/ftl/processors/unittest/test/test_sequence.c.ftl -text
@@ -4274,3 +4275,5 @@ tools/ftl/processors/unittest/test/test_sequence.h.ftl -text
 tools/mk/autobuild.mk -text
 tools/stylecheck.pl -text
 tools/test.c -text
+tools/updater/chconf.fmpp -text
+tools/updater/update_chconf_rt.sh -text
