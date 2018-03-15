@@ -94,6 +94,7 @@ demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tssockstub.c -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tssockstub.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/readme.txt -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/tservices.c -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/tservices.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.cproject -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.project -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/Makefile -text
