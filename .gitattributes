@@ -65,6 +65,9 @@ demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/.cproject -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/.project -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/Makefile -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/chconf.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/daemons/tscommon.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/daemons/tssockskel.c -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/daemons/tssockskel.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/halconf.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/main.c -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/mcuconf.h -text
