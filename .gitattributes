@@ -1006,6 +1006,7 @@ demos/various/RT-Posix-Simulator/Makefile -text
 demos/various/RT-Posix-Simulator/chconf.h -text
 demos/various/RT-Posix-Simulator/halconf.h -text
 demos/various/RT-Posix-Simulator/main.c -text
+demos/various/RT-Posix-Simulator/mcuconf.h -text
 demos/various/RT-Posix-Simulator/readme.txt -text
 demos/various/RT-Win32-Simulator/.cproject -text
 demos/various/RT-Win32-Simulator/.project -text
@@ -1013,6 +1014,7 @@ demos/various/RT-Win32-Simulator/Makefile -text
 demos/various/RT-Win32-Simulator/chconf.h -text
 demos/various/RT-Win32-Simulator/halconf.h -text
 demos/various/RT-Win32-Simulator/main.c -text
+demos/various/RT-Win32-Simulator/mcuconf.h -text
 demos/various/RT-Win32-Simulator/readme.txt -text
 doc/common/rsc/custom.css -text
 doc/common/rsc/footer_chm.html -text
@@ -3146,6 +3148,7 @@ test/rt/testbuild/chconf.h -text
 test/rt/testbuild/go.sh -text
 test/rt/testbuild/halconf.h -text
 test/rt/testbuild/main.c -text
+test/rt/testbuild/mcuconf.h -text
 test/rt/testbuild/pclint/au-misra3.lnt -text
 test/rt/testbuild/pclint/co-gcc.h -text
 test/rt/testbuild/pclint/co-gcc.lnt -text
