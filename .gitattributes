@@ -2868,6 +2868,7 @@ os/lib/include/chlib.h -text
 os/lib/include/chmboxes.h -text
 os/lib/include/chmemcore.h -text
 os/lib/include/chmempools.h -text
+os/lib/include/chpipes.h -text
 os/lib/lib.mk -text
 os/lib/readme.txt -text
 os/lib/src/chfactory.c -text
