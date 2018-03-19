@@ -2876,6 +2876,7 @@ os/lib/src/chmboxes.c -text
 os/lib/src/chmemcore.c -text
 os/lib/src/chmemheaps.c -text
 os/lib/src/chmempools.c -text
+os/lib/src/chpipes.c -text
 os/license/chcustomer.h -text
 os/license/chlicense.h -text
 os/license/chversion.h -text
