@@ -2412,6 +2412,8 @@ os/hal/ports/SAMA/LLD/CRYPTOv1/sama_aes_lld.c -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_aes_lld.h -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_crypto_lld.c -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_crypto_lld.h -text
+os/hal/ports/SAMA/LLD/CRYPTOv1/sama_gcm_lld.c -text
+os/hal/ports/SAMA/LLD/CRYPTOv1/sama_gcm_lld.h -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_sha_lld.c -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_sha_lld.h -text
 os/hal/ports/SAMA/LLD/CRYPTOv1/sama_tdes_lld.c -text
@@ -3012,10 +3014,14 @@ test/crypto/source/test/cry_test_sequence_006.c -text
 test/crypto/source/test/cry_test_sequence_006.h -text
 test/crypto/source/test/cry_test_sequence_007.c -text
 test/crypto/source/test/cry_test_sequence_007.h -text
+test/crypto/source/test/cry_test_sequence_008.c -text
+test/crypto/source/test/cry_test_sequence_008.h -text
 test/crypto/source/testref/ref_aes.c -text
 test/crypto/source/testref/ref_aes.h -text
 test/crypto/source/testref/ref_des.c -text
 test/crypto/source/testref/ref_des.h -text
+test/crypto/source/testref/ref_gcm.c -text
+test/crypto/source/testref/ref_gcm.h -text
 test/crypto/source/testref/ref_sha.c -text
 test/crypto/source/testref/ref_sha.h -text
 test/hal/testbuild/.cproject -text
