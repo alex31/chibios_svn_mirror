@@ -2575,6 +2575,8 @@ os/hal/ports/SAMA/SAMA5D2x/sama_pmc.h -text
 os/hal/ports/SAMA/SAMA5D2x/sama_registry.h -text
 os/hal/ports/SAMA/SAMA5D2x/sama_secumod.c -text
 os/hal/ports/SAMA/SAMA5D2x/sama_secumod.h -text
+os/hal/ports/SAMA/SAMA5D2x/sama_trng.c -text
+os/hal/ports/SAMA/SAMA5D2x/sama_trng.h -text
 os/hal/ports/SPC5/LLD/DSPI_v1/cfg/hal_spi_lld_cfg.c.ftl -text
 os/hal/ports/SPC5/LLD/DSPI_v1/cfg/hal_spi_lld_cfg.h.ftl -text
 os/hal/ports/SPC5/LLD/DSPI_v1/hal_spi_lld.c -text
