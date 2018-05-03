@@ -1136,6 +1136,17 @@ doc/ex/makehtml.bat -text
 doc/ex/makehtml.sh -text
 doc/ex/rsync_web.sh -text
 doc/ex/src/main.dox -text
+doc/full_rm/Doxyfile_html -text
+doc/full_rm/index.html -text
+doc/full_rm/makechm.bat -text
+doc/full_rm/makehtml.bat -text
+doc/full_rm/makehtml.sh -text
+doc/full_rm/rsc/workspace.eps -text
+doc/full_rm/rsc/workspace.png -text
+doc/full_rm/rsc/workspace.svg -text
+doc/full_rm/rsync_web.sh -text
+doc/full_rm/src/concepts.dox -text
+doc/full_rm/src/main.dox -text
 doc/hal-stm32f3/Doxyfile_html -text
 doc/hal-stm32f3/index.html -text
 doc/hal-stm32f3/makehtml.bat -text
