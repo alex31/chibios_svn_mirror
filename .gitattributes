@@ -1505,6 +1505,7 @@ os/common/ports/e200/compilers/GHS/ivor.s -text
 os/common/ports/e200/compilers/GHS/mk/port.mk -text
 os/common/ports/readme.txt -text
 os/common/ports/templates/chcore.c -text
+os/common/ports/templates/chcore.dox -text
 os/common/ports/templates/chcore.h -text
 os/common/ports/templates/chtypes.h -text
 os/common/startup/ARM/compilers/GCC/crt0.S -text
