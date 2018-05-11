@@ -200,6 +200,11 @@ demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/imgs.gdb -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/main.c -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/mcuconf.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tscommon.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tsioblksstub.c -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tsioblksstub.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tsproxystubs.c -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tsproxystubs.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tssockets.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tssockstub.c -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tssockstub.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/readme.txt -text
