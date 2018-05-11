@@ -191,6 +191,7 @@ demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-NSEC/tsclient.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/.cproject -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/.project -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/Makefile -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/ch_sec_nsec.cmm -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/chconf.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/debug/RT-SAMA5D2-XPLAINED-SEC[!!-~](Bootstrap).launch -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/debug/RT-SAMA5D2-XPLAINED-SEC[!!-~](DDRAM).launch -text
@@ -208,6 +209,8 @@ demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tssockets.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tssockstub.c -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/proxies/tssockstub.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/readme.txt -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/redconf.h -text
+demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/reliance.mk -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/tsconf.h -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/tservices.c -text
 demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED-SEC/tservices.h -text
