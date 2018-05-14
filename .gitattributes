@@ -903,6 +903,7 @@ demos/STM32/RT-STM32F413ZH-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32F413ZH-NUCLEO144/.project -text
 demos/STM32/RT-STM32F413ZH-NUCLEO144/Makefile -text
 demos/STM32/RT-STM32F413ZH-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/debug/RT-STM32F413ZH-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32F413ZH-NUCLEO144/halconf.h -text
 demos/STM32/RT-STM32F413ZH-NUCLEO144/main.c -text
 demos/STM32/RT-STM32F413ZH-NUCLEO144/mcuconf.h -text
