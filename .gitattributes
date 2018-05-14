@@ -899,6 +899,14 @@ demos/STM32/RT-STM32F412ZG-NUCLEO144/halconf.h -text
 demos/STM32/RT-STM32F412ZG-NUCLEO144/main.c -text
 demos/STM32/RT-STM32F412ZG-NUCLEO144/mcuconf.h -text
 demos/STM32/RT-STM32F412ZG-NUCLEO144/readme.txt -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/.project -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/halconf.h -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/main.c -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/mcuconf.h -text
+demos/STM32/RT-STM32F413ZH-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32F429-DISCOVERY/.cproject -text
 demos/STM32/RT-STM32F429-DISCOVERY/.project -text
 demos/STM32/RT-STM32F429-DISCOVERY/Makefile -text
@@ -1700,6 +1708,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F411xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F411xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F412xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F412xG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F413xH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F429xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F446xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F446xE.ld -text
@@ -2077,6 +2086,11 @@ os/hal/boards/ST_NUCLEO144_F412ZG/board.h -text
 os/hal/boards/ST_NUCLEO144_F412ZG/board.mk -text
 os/hal/boards/ST_NUCLEO144_F412ZG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO144_F412ZG/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO144_F413ZH/board.c -text
+os/hal/boards/ST_NUCLEO144_F413ZH/board.h -text
+os/hal/boards/ST_NUCLEO144_F413ZH/board.mk -text
+os/hal/boards/ST_NUCLEO144_F413ZH/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO144_F413ZH/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO144_F429ZI/board.c -text
 os/hal/boards/ST_NUCLEO144_F429ZI/board.h -text
 os/hal/boards/ST_NUCLEO144_F429ZI/board.mk -text
