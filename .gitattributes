@@ -1123,7 +1123,7 @@ demos/various/RT-ARMCM0-GENERIC/readme.txt -text
 demos/various/RT-ARMCM4-GENERIC/.cproject -text
 demos/various/RT-ARMCM4-GENERIC/.project -text
 demos/various/RT-ARMCM4-GENERIC/Makefile -text
-demos/various/RT-ARMCM4-GENERIC/chconf.h -text
+demos/various/RT-ARMCM4-GENERIC/cfg/chconf.h -text
 demos/various/RT-ARMCM4-GENERIC/debug/RT-ARMCM4-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM4-GENERIC/main.c -text
 demos/various/RT-ARMCM4-GENERIC/readme.txt -text
