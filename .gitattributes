@@ -4496,6 +4496,8 @@ tools/ftl/libs/libutils.ftl -text
 tools/ftl/processors/conf/chconf_nil/chconf.h.ftl -text
 tools/ftl/processors/conf/chconf_rt/chconf.h.ftl -text
 tools/ftl/processors/conf/halconf/halconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32f413xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/notes.txt -text
 tools/ftl/processors/unittest/test/test_root.c.ftl -text
 tools/ftl/processors/unittest/test/test_root.h.ftl -text
 tools/ftl/processors/unittest/test/test_sequence.c.ftl -text
@@ -4506,6 +4508,8 @@ tools/test.c -text
 tools/updater/chconf_nil.fmpp -text
 tools/updater/chconf_rt.fmpp -text
 tools/updater/halconf.fmpp -text
+tools/updater/mcuconf_stm32f413xx.fmpp -text
 tools/updater/update_chconf_nil.sh -text
 tools/updater/update_chconf_rt.sh -text
 tools/updater/update_halconf.sh -text
+tools/updater/update_mcuconf_stm32f413xx.sh -text
