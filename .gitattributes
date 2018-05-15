@@ -1116,7 +1116,7 @@ demos/various/RT-ARM7-GENERIC/readme.txt -text
 demos/various/RT-ARMCM0-GENERIC/.cproject -text
 demos/various/RT-ARMCM0-GENERIC/.project -text
 demos/various/RT-ARMCM0-GENERIC/Makefile -text
-demos/various/RT-ARMCM0-GENERIC/chconf.h -text
+demos/various/RT-ARMCM0-GENERIC/cfg/chconf.h -text
 demos/various/RT-ARMCM0-GENERIC/debug/RT-ARMCM0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM0-GENERIC/main.c -text
 demos/various/RT-ARMCM0-GENERIC/readme.txt -text
