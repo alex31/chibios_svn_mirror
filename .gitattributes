@@ -3135,6 +3135,7 @@ test/crypto/ref/des_ref.bat -text
 test/crypto/ref/gen_cfiles.bat -text
 test/crypto/ref/gen_testref.bat -text
 test/crypto/ref/genfile.py -text
+test/crypto/ref/hmac_ref.bat -text
 test/crypto/ref/ref_data.bat -text
 test/crypto/ref/setpath.bat -text
 test/crypto/ref/sha_ref.bat -text
@@ -3156,12 +3157,16 @@ test/crypto/source/test/cry_test_sequence_007.c -text
 test/crypto/source/test/cry_test_sequence_007.h -text
 test/crypto/source/test/cry_test_sequence_008.c -text
 test/crypto/source/test/cry_test_sequence_008.h -text
+test/crypto/source/test/cry_test_sequence_009.c -text
+test/crypto/source/test/cry_test_sequence_009.h -text
 test/crypto/source/testref/ref_aes.c -text
 test/crypto/source/testref/ref_aes.h -text
 test/crypto/source/testref/ref_des.c -text
 test/crypto/source/testref/ref_des.h -text
 test/crypto/source/testref/ref_gcm.c -text
 test/crypto/source/testref/ref_gcm.h -text
+test/crypto/source/testref/ref_hmac.c -text
+test/crypto/source/testref/ref_hmac.h -text
 test/crypto/source/testref/ref_sha.c -text
 test/crypto/source/testref/ref_sha.h -text
 test/hal/testbuild/.cproject -text
