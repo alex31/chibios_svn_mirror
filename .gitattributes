@@ -2408,6 +2408,7 @@ os/hal/include/hal_uart.h -text
 os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
+os/hal/include/hal_wspi.h -text
 os/hal/lib/complex/m25q/devices/micron_n25q/m25q_flash.c -text
 os/hal/lib/complex/m25q/devices/micron_n25q/m25q_flash.h -text
 os/hal/lib/complex/m25q/devices/micron_n25q/micron_n25q.mk -text
@@ -2953,6 +2954,7 @@ os/hal/src/hal_st.c -text
 os/hal/src/hal_uart.c -text
 os/hal/src/hal_usb.c -text
 os/hal/src/hal_wdg.c -text
+os/hal/src/hal_wspi.c -text
 os/hal/templates/board/board.c -text
 os/hal/templates/board/board.h -text
 os/hal/templates/board/board.mk -text
