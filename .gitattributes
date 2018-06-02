@@ -1742,6 +1742,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L496xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/rules_memory.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_stacks.ld -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk -text
