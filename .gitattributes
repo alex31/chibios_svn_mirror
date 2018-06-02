@@ -1787,7 +1787,6 @@ os/common/startup/e200/compilers/GCC/ld/SPC56EC74.ld -text
 os/common/startup/e200/compilers/GCC/ld/SPC56EL54_LSM.ld -text
 os/common/startup/e200/compilers/GCC/ld/SPC56EL60_LSM.ld -text
 os/common/startup/e200/compilers/GCC/ld/SPC56EL70_LSM.ld -text
-os/common/startup/e200/compilers/GCC/ld/SPC57EM80_HSM.ld -text
 os/common/startup/e200/compilers/GCC/ld/rules_z0.ld -text
 os/common/startup/e200/compilers/GCC/ld/rules_z3.ld -text
 os/common/startup/e200/compilers/GCC/ld/rules_z4.ld -text
