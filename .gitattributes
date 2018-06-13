@@ -3650,6 +3650,12 @@ testhal/AVR/MEGA/SPI/halconf.h -text
 testhal/AVR/MEGA/SPI/main.c -text
 testhal/AVR/MEGA/SPI/mcuconf.h -text
 testhal/AVR/MEGA/SPI/readme.txt -text
+testhal/AVR/XMEGA/AES/Makefile -text
+testhal/AVR/XMEGA/AES/chconf.h -text
+testhal/AVR/XMEGA/AES/halconf.h -text
+testhal/AVR/XMEGA/AES/main.c -text
+testhal/AVR/XMEGA/AES/mcuconf.h -text
+testhal/AVR/XMEGA/AES/readme.txt -text
 testhal/AVR/XMEGA/SERIAL/Makefile -text
 testhal/AVR/XMEGA/SERIAL/chconf.h -text
 testhal/AVR/XMEGA/SERIAL/halconf.h -text
