@@ -853,11 +853,11 @@ demos/STM32/RT-STM32F401C-DISCOVERY/readme.txt -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/.cproject -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/.project -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/Makefile -text
-demos/STM32/RT-STM32F401RE-NUCLEO64/chconf.h -text
+demos/STM32/RT-STM32F401RE-NUCLEO64/cfg/chconf.h -text
+demos/STM32/RT-STM32F401RE-NUCLEO64/cfg/halconf.h -text
+demos/STM32/RT-STM32F401RE-NUCLEO64/cfg/mcuconf.h -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/debug/RT-STM32F401RE-NUCLEO64[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/STM32/RT-STM32F401RE-NUCLEO64/halconf.h -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/main.c -text
-demos/STM32/RT-STM32F401RE-NUCLEO64/mcuconf.h -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/readme.txt -text
 demos/STM32/RT-STM32F407-DISCOVERY-G++/.cproject -text
 demos/STM32/RT-STM32F407-DISCOVERY-G++/.project -text
@@ -1744,6 +1744,8 @@ os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_memory.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_stacks.ld -text
+os/common/startup/ARMCMx/compilers/GCC/mk/arm-none-eabi.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/rules.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f2xx.mk -text
@@ -1754,7 +1756,6 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32h7xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
-os/common/startup/ARMCMx/compilers/GCC/rules.mk -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.S -text
 os/common/startup/ARMCMx/compilers/IAR/cstartup.s -text
 os/common/startup/ARMCMx/compilers/IAR/vectors.s -text
