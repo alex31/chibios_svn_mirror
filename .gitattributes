@@ -1276,6 +1276,7 @@ os/common/ext/ARM/CMSIS/Core/Include/cmsis_armcc.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_armclang.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_compiler.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_gcc.h -text
+os/common/ext/ARM/CMSIS/Core/Include/cmsis_iccarm.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_version.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_armv8mbl.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_armv8mml.h -text
@@ -1289,15 +1290,17 @@ os/common/ext/ARM/CMSIS/Core/Include/core_cm7.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_sc000.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_sc300.h -text
 os/common/ext/ARM/CMSIS/Core/Include/mpu_armv7.h -text
+os/common/ext/ARM/CMSIS/Core/Include/mpu_armv8.h -text
 os/common/ext/ARM/CMSIS/Core/Include/tz_context.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/ARMCA5.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/cmsis_armcc.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/cmsis_armclang.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/cmsis_compiler.h -text
+os/common/ext/ARM/CMSIS/Core_A/Include/cmsis_cp15.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/cmsis_gcc.h -text
+os/common/ext/ARM/CMSIS/Core_A/Include/cmsis_iccarm.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/core_ca.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/irq_ctrl.h -text
-os/common/ext/ARM/CMSIS/Core_A/Include/system_ARMCA5.h -text
 os/common/ext/ARM/CMSIS/Core_A/Source/irq_ctrl_gic.c -text
 os/common/ext/ARM/CMSIS/readme.txt -text
 os/common/ext/ST/STM32F0xx/stm32f030x6.h -text
