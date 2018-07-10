@@ -1762,8 +1762,10 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.S -text
 os/common/startup/ARMCMx/compilers/IAR/cstartup.s -text
 os/common/startup/ARMCMx/compilers/IAR/vectors.s -text
+os/common/startup/ARMCMx/compilers/LLVM/ld/STM32F401xE.ld -text
 os/common/startup/ARMCMx/compilers/LLVM/mk/clang.mk -text
 os/common/startup/ARMCMx/compilers/LLVM/mk/rules.mk -text
+os/common/startup/ARMCMx/compilers/LLVM/mk/startup_stm32f4xx.mk -text
 os/common/startup/ARMCMx/compilers/RVCT/cstartup.s -text
 os/common/startup/ARMCMx/compilers/RVCT/vectors.s -text
 os/common/startup/ARMCMx/devices/STM32F0xx/cmparams.h -text
