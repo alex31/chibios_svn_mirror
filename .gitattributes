@@ -1742,6 +1742,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L432xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L432xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L496xG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R5xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
@@ -2917,6 +2918,9 @@ os/hal/ports/STM32/STM32L1xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L1xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32L4xx+/hal_lld.c -text
 os/hal/ports/STM32/STM32L4xx+/hal_lld.h -text
+os/hal/ports/STM32/STM32L4xx+/platform.mk -text
+os/hal/ports/STM32/STM32L4xx+/stm32_isr.c -text
+os/hal/ports/STM32/STM32L4xx+/stm32_isr.h -text
 os/hal/ports/STM32/STM32L4xx+/stm32_registry.h -text
 os/hal/ports/STM32/STM32L4xx/hal_lld.c -text
 os/hal/ports/STM32/STM32L4xx/hal_lld.h -text
