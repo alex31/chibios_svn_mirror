@@ -1291,6 +1291,7 @@ os/common/ext/ARM/CMSIS/Core/Include/core_armv8mbl.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_armv8mml.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_cm0.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_cm0plus.h -text
+os/common/ext/ARM/CMSIS/Core/Include/core_cm1.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_cm23.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_cm3.h -text
 os/common/ext/ARM/CMSIS/Core/Include/core_cm33.h -text
