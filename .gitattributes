@@ -1310,6 +1310,7 @@ os/common/ext/ARM/CMSIS/Core_A/Include/cmsis_gcc.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/cmsis_iccarm.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/core_ca.h -text
 os/common/ext/ARM/CMSIS/Core_A/Include/irq_ctrl.h -text
+os/common/ext/ARM/CMSIS/Core_A/Include/system_ARMCA5.h -text
 os/common/ext/ARM/CMSIS/Core_A/Source/irq_ctrl_gic.c -text
 os/common/ext/ARM/CMSIS/readme.txt -text
 os/common/ext/ST/STM32F0xx/stm32f030x6.h -text
