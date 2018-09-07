@@ -983,6 +983,15 @@ demos/STM32/RT-STM32F746ZG-NUCLEO144/halconf.h -text
 demos/STM32/RT-STM32F746ZG-NUCLEO144/main.c -text
 demos/STM32/RT-STM32F746ZG-NUCLEO144/mcuconf.h -text
 demos/STM32/RT-STM32F746ZG-NUCLEO144/readme.txt -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/.project -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/chconf.h -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/debug/RT-STM32F756ZG-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/halconf.h -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/main.c -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/mcuconf.h -text
+demos/STM32/RT-STM32F756ZG-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32F767ZI-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32F767ZI-NUCLEO144/.project -text
 demos/STM32/RT-STM32F767ZI-NUCLEO144/Makefile -text
@@ -1732,6 +1741,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F722xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_ETH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_MAX.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F756xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H743xI.ld -text
