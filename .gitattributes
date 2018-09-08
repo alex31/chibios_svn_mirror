@@ -2142,6 +2142,11 @@ os/hal/boards/ST_NUCLEO144_F746ZG/board.h -text
 os/hal/boards/ST_NUCLEO144_F746ZG/board.mk -text
 os/hal/boards/ST_NUCLEO144_F746ZG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO144_F746ZG/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO144_F756ZG/board.c -text
+os/hal/boards/ST_NUCLEO144_F756ZG/board.h -text
+os/hal/boards/ST_NUCLEO144_F756ZG/board.mk -text
+os/hal/boards/ST_NUCLEO144_F756ZG/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO144_F756ZG/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO144_F767ZI/board.c -text
 os/hal/boards/ST_NUCLEO144_F767ZI/board.h -text
 os/hal/boards/ST_NUCLEO144_F767ZI/board.mk -text
