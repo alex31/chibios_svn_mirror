@@ -2444,6 +2444,7 @@ os/hal/include/hal_serial_usb.h -text
 os/hal/include/hal_spi.h -text
 os/hal/include/hal_st.h -text
 os/hal/include/hal_streams.h -text
+os/hal/include/hal_trng.h -text
 os/hal/include/hal_uart.h -text
 os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
@@ -3003,6 +3004,7 @@ os/hal/src/hal_serial.c -text
 os/hal/src/hal_serial_usb.c -text
 os/hal/src/hal_spi.c -text
 os/hal/src/hal_st.c -text
+os/hal/src/hal_trng.c -text
 os/hal/src/hal_uart.c -text
 os/hal/src/hal_usb.c -text
 os/hal/src/hal_wdg.c -text
@@ -3048,6 +3050,8 @@ os/hal/templates/hal_spi_lld.c -text
 os/hal/templates/hal_spi_lld.h -text
 os/hal/templates/hal_st_lld.c -text
 os/hal/templates/hal_st_lld.h -text
+os/hal/templates/hal_trng_lld.c -text
+os/hal/templates/hal_trng_lld.h -text
 os/hal/templates/hal_uart_lld.c -text
 os/hal/templates/hal_uart_lld.h -text
 os/hal/templates/hal_usb_lld.c -text
