@@ -4583,12 +4583,7 @@ tools/ftl/processors/unittest/test/test_sequence.h.ftl -text
 tools/mk/autobuild.mk -text
 tools/stylecheck.pl -text
 tools/test.c -text
-tools/updater/chconf_nil.fmpp -text
-tools/updater/chconf_rt.fmpp -text
-tools/updater/halconf.fmpp -text
-tools/updater/mcuconf_stm32f413xx.fmpp -text
-tools/updater/mcuconf_stm32h743xx.fmpp -text
-tools/updater/mcuconf_stm32l4r5xx.fmpp -text
+tools/updater/conf.fmpp -text
 tools/updater/update_chconf_nil.sh -text
 tools/updater/update_chconf_rt.sh -text
 tools/updater/update_halconf.sh -text
