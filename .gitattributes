@@ -2167,6 +2167,11 @@ os/hal/boards/ST_NUCLEO144_H743ZI/board.h -text
 os/hal/boards/ST_NUCLEO144_H743ZI/board.mk -text
 os/hal/boards/ST_NUCLEO144_H743ZI/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO144_H743ZI/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO144_L496ZG/board.c -text
+os/hal/boards/ST_NUCLEO144_L496ZG/board.h -text
+os/hal/boards/ST_NUCLEO144_L496ZG/board.mk -text
+os/hal/boards/ST_NUCLEO144_L496ZG/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO144_L496ZG/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO144_L4R5ZI/board.c -text
 os/hal/boards/ST_NUCLEO144_L4R5ZI/board.h -text
 os/hal/boards/ST_NUCLEO144_L4R5ZI/board.mk -text
@@ -2451,6 +2456,7 @@ os/hal/include/hal_rtc.h -text
 os/hal/include/hal_sdc.h -text
 os/hal/include/hal_serial.h -text
 os/hal/include/hal_serial_usb.h -text
+os/hal/include/hal_sio.h -text
 os/hal/include/hal_spi.h -text
 os/hal/include/hal_st.h -text
 os/hal/include/hal_streams.h -text
@@ -3056,6 +3062,7 @@ os/hal/templates/hal_sdc_lld.c -text
 os/hal/templates/hal_sdc_lld.h -text
 os/hal/templates/hal_serial_lld.c -text
 os/hal/templates/hal_serial_lld.h -text
+os/hal/templates/hal_sio_lld.h -text
 os/hal/templates/hal_spi_lld.c -text
 os/hal/templates/hal_spi_lld.h -text
 os/hal/templates/hal_st_lld.c -text
