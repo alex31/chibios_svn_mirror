@@ -2429,6 +2429,7 @@ os/hal/dox/uart.dox -text
 os/hal/dox/usb.dox -text
 os/hal/dox/usb_cdc.dox -text
 os/hal/dox/wdg.dox -text
+os/hal/dox/wspi.dox -text
 os/hal/hal.mk -text
 os/hal/include/hal.h -text
 os/hal/include/hal_adc.h -text
@@ -3078,6 +3079,8 @@ os/hal/templates/hal_usb_lld.c -text
 os/hal/templates/hal_usb_lld.h -text
 os/hal/templates/hal_wdg_lld.c -text
 os/hal/templates/hal_wdg_lld.h -text
+os/hal/templates/hal_wspi_lld.c -text
+os/hal/templates/hal_wspi_lld.h -text
 os/hal/templates/halconf.h -text
 os/hal/templates/mcuconf.h -text
 os/hal/templates/osal/osal.c -text
