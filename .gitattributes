@@ -2475,8 +2475,6 @@ os/hal/lib/complex/readme.txt -text
 os/hal/lib/complex/serial_nor/devices/micron_n25q/flash_device.c -text
 os/hal/lib/complex/serial_nor/devices/micron_n25q/flash_device.h -text
 os/hal/lib/complex/serial_nor/devices/micron_n25q/flash_device.mk -text
-os/hal/lib/complex/serial_nor/hal_jesd216_flash.c -text
-os/hal/lib/complex/serial_nor/hal_jesd216_flash.h -text
 os/hal/lib/complex/serial_nor/serial_nor.c -text
 os/hal/lib/complex/serial_nor/serial_nor.h -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.c -text
