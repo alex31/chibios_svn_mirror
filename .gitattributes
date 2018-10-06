@@ -1899,9 +1899,6 @@ os/common/startup/e200/devices/SPC56ELxx/ppcparams.h -text
 os/ex/Bosch/bmp085.c -text
 os/ex/Bosch/bmp085.h -text
 os/ex/Bosch/bmp085.mk -text
-os/ex/Micron/m25q.c -text
-os/ex/Micron/m25q.h -text
-os/ex/Micron/m25q.mk -text
 os/ex/ST/hts221.c -text
 os/ex/ST/hts221.h -text
 os/ex/ST/hts221.mk -text
@@ -2415,7 +2412,6 @@ os/hal/dox/mmcsd.dox -text
 os/hal/dox/norflash.dox -text
 os/hal/dox/pal.dox -text
 os/hal/dox/pwm.dox -text
-os/hal/dox/qspi.dox -text
 os/hal/dox/rtc.dox -text
 os/hal/dox/sdc.dox -text
 os/hal/dox/sensor.dox -text
@@ -2452,7 +2448,6 @@ os/hal/include/hal_mmcsd.h -text
 os/hal/include/hal_objects.h -text
 os/hal/include/hal_pal.h -text
 os/hal/include/hal_pwm.h -text
-os/hal/include/hal_qspi.h -text
 os/hal/include/hal_queues.h -text
 os/hal/include/hal_rtc.h -text
 os/hal/include/hal_sdc.h -text
@@ -2482,8 +2477,6 @@ os/hal/lib/fallback/I2C/hal_i2c_lld.h -text
 os/hal/lib/peripherals/displays/hal_displays.h -text
 os/hal/lib/peripherals/flash/hal_flash.c -text
 os/hal/lib/peripherals/flash/hal_flash.h -text
-os/hal/lib/peripherals/flash/hal_jesd216_flash.c -text
-os/hal/lib/peripherals/flash/hal_jesd216_flash.h -text
 os/hal/lib/peripherals/sensors/hal_accelerometer.h -text
 os/hal/lib/peripherals/sensors/hal_barometer.h -text
 os/hal/lib/peripherals/sensors/hal_compass.h -text
@@ -2827,8 +2820,6 @@ os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld_alt.c -text
 os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld_alt.h -text
 os/hal/ports/STM32/LLD/OTGv1/stm32_otg.h -text
 os/hal/ports/STM32/LLD/QUADSPIv1/driver.mk -text
-os/hal/ports/STM32/LLD/QUADSPIv1/hal_qspi_lld.c -text
-os/hal/ports/STM32/LLD/QUADSPIv1/hal_qspi_lld.h -text
 os/hal/ports/STM32/LLD/QUADSPIv1/hal_wspi_lld.c -text
 os/hal/ports/STM32/LLD/QUADSPIv1/hal_wspi_lld.h -text
 os/hal/ports/STM32/LLD/RTCv1/driver.mk -text
@@ -3016,7 +3007,6 @@ os/hal/src/hal_mmc_spi.c -text
 os/hal/src/hal_mmcsd.c -text
 os/hal/src/hal_pal.c -text
 os/hal/src/hal_pwm.c -text
-os/hal/src/hal_qspi.c -text
 os/hal/src/hal_queues.c -text
 os/hal/src/hal_rtc.c -text
 os/hal/src/hal_sdc.c -text
@@ -3059,8 +3049,6 @@ os/hal/templates/hal_pal_lld.c -text
 os/hal/templates/hal_pal_lld.h -text
 os/hal/templates/hal_pwm_lld.c -text
 os/hal/templates/hal_pwm_lld.h -text
-os/hal/templates/hal_qspi_lld.c -text
-os/hal/templates/hal_qspi_lld.h -text
 os/hal/templates/hal_rtc_lld.c -text
 os/hal/templates/hal_rtc_lld.h -text
 os/hal/templates/hal_sdc_lld.c -text
@@ -3558,15 +3546,6 @@ testex/STM32/STM32F4xx/SPI-LIS3DSH/mcuconf.h -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/readme.txt -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/usbcfg.c -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/usbcfg.h -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/.cproject -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/.project -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/Makefile -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/chconf.h -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/debug/QSPI-N25Q128[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/halconf.h -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/main.c -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/mcuconf.h -text
-testex/STM32/STM32L4xx/QSPI-N25Q128/readme.txt -text
 testex/STM32/STM32L4xx/SPI-L3GD20/.cproject -text
 testex/STM32/STM32L4xx/SPI-L3GD20/.project -text
 testex/STM32/STM32L4xx/SPI-L3GD20/Makefile -text
@@ -4481,19 +4460,6 @@ testhal/STM32/multi/PAL/make/stm32l053_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32l151_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32l476_discovery.make -text
 testhal/STM32/multi/PAL/readme.txt -text
-testhal/STM32/multi/QSPI-MFS/.cproject -text
-testhal/STM32/multi/QSPI-MFS/.project -text
-testhal/STM32/multi/QSPI-MFS/Makefile -text
-testhal/STM32/multi/QSPI-MFS/cfg/stm32l476_discovery/chconf.h -text
-testhal/STM32/multi/QSPI-MFS/cfg/stm32l476_discovery/halconf.h -text
-testhal/STM32/multi/QSPI-MFS/cfg/stm32l476_discovery/mcuconf.h -text
-testhal/STM32/multi/QSPI-MFS/cfg/stm32l476_discovery/portab.c -text
-testhal/STM32/multi/QSPI-MFS/cfg/stm32l476_discovery/portab.h -text
-testhal/STM32/multi/QSPI-MFS/debug/STM32-QSPI-MFS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/QSPI-MFS/debug/STM32-QSPI-MFS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
-testhal/STM32/multi/QSPI-MFS/main.c -text
-testhal/STM32/multi/QSPI-MFS/make/stm32l476_discovery.make -text
-testhal/STM32/multi/QSPI-MFS/readme.txt -text
 testhal/STM32/multi/SPI/.cproject -text
 testhal/STM32/multi/SPI/.project -text
 testhal/STM32/multi/SPI/Makefile -text
