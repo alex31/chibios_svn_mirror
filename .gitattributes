@@ -2463,9 +2463,9 @@ os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
 os/hal/include/hal_wspi.h -text
-os/hal/lib/complex/mfs/mfs.c -text
-os/hal/lib/complex/mfs/mfs.h -text
-os/hal/lib/complex/mfs/mfs.mk -text
+os/hal/lib/complex/mfs/hal_mfs.c -text
+os/hal/lib/complex/mfs/hal_mfs.h -text
+os/hal/lib/complex/mfs/hal_mfs.mk -text
 os/hal/lib/complex/readme.txt -text
 os/hal/lib/complex/serial_nor/devices/micron_n25q/hal_flash_device.c -text
 os/hal/lib/complex/serial_nor/devices/micron_n25q/hal_flash_device.h -text
