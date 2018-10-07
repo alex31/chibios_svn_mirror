@@ -2467,11 +2467,11 @@ os/hal/lib/complex/mfs/mfs.c -text
 os/hal/lib/complex/mfs/mfs.h -text
 os/hal/lib/complex/mfs/mfs.mk -text
 os/hal/lib/complex/readme.txt -text
-os/hal/lib/complex/serial_nor/devices/micron_n25q/flash_device.c -text
-os/hal/lib/complex/serial_nor/devices/micron_n25q/flash_device.h -text
-os/hal/lib/complex/serial_nor/devices/micron_n25q/flash_device.mk -text
-os/hal/lib/complex/serial_nor/serial_nor.c -text
-os/hal/lib/complex/serial_nor/serial_nor.h -text
+os/hal/lib/complex/serial_nor/devices/micron_n25q/hal_flash_device.c -text
+os/hal/lib/complex/serial_nor/devices/micron_n25q/hal_flash_device.h -text
+os/hal/lib/complex/serial_nor/devices/micron_n25q/hal_flash_device.mk -text
+os/hal/lib/complex/serial_nor/hal_serial_nor.c -text
+os/hal/lib/complex/serial_nor/hal_serial_nor.h -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.c -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.h -text
 os/hal/lib/peripherals/displays/hal_displays.h -text
