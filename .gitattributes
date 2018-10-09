@@ -4606,6 +4606,7 @@ testhal/STM32/multi/WSPI-MFS/readme.txt -text
 testhal/common/irq_storm.c -text
 testhal/common/irq_storm.h -text
 tools/.project -text
+tools/calc/STM32L4+.ods -text
 tools/eclipse/debug/OpenOCD[!!-~]no[!!-~]interface[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]board[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ICDI[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]STLink[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
