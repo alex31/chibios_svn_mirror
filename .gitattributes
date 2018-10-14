@@ -2447,6 +2447,7 @@ os/hal/include/hal_mmc_spi.h -text
 os/hal/include/hal_mmcsd.h -text
 os/hal/include/hal_objects.h -text
 os/hal/include/hal_pal.h -text
+os/hal/include/hal_persistent.h -text
 os/hal/include/hal_pwm.h -text
 os/hal/include/hal_queues.h -text
 os/hal/include/hal_rtc.h -text
