@@ -2814,6 +2814,9 @@ os/hal/ports/STM32/LLD/I2Cv3/hal_i2c_lld.h -text
 os/hal/ports/STM32/LLD/MACv1/driver.mk -text
 os/hal/ports/STM32/LLD/MACv1/hal_mac_lld.c -text
 os/hal/ports/STM32/LLD/MACv1/hal_mac_lld.h -text
+os/hal/ports/STM32/LLD/OCTOSPIv1/driver.mk -text
+os/hal/ports/STM32/LLD/OCTOSPIv1/hal_wspi_lld.c -text
+os/hal/ports/STM32/LLD/OCTOSPIv1/hal_wspi_lld.h -text
 os/hal/ports/STM32/LLD/OTGv1/driver.mk -text
 os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld.c -text
 os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld.h -text
