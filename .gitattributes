@@ -1114,6 +1114,7 @@ demos/STM32/RT-STM32L4R5ZI-NUCLEO144/readme.txt -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
+demos/various/NIL-ARMCM0-GENERIC/cfg/chconf.h -text
 demos/various/NIL-ARMCM0-GENERIC/chconf.h -text
 demos/various/NIL-ARMCM0-GENERIC/debug/NIL-ARMC0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/NIL-ARMCM0-GENERIC/main.c -text
