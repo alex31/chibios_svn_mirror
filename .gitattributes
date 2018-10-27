@@ -1117,6 +1117,15 @@ demos/STM32/RT-STM32L4R5ZI-NUCLEO144/cfg/mcuconf.h -text
 demos/STM32/RT-STM32L4R5ZI-NUCLEO144/debug/RT-STM32L4R5ZI-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L4R5ZI-NUCLEO144/main.c -text
 demos/STM32/RT-STM32L4R5ZI-NUCLEO144/readme.txt -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/.cproject -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/.project -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/Makefile -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/cfg/chconf.h -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/cfg/halconf.h -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/cfg/mcuconf.h -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/debug/RT-STM32L4R9-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/main.c -text
+demos/STM32/RT-STM32L4R9-DISCOVERY/readme.txt -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
@@ -1770,6 +1779,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L432xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L496xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R5xI.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R9xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
@@ -2357,6 +2367,11 @@ os/hal/boards/ST_STM32L476_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32L476_DISCOVERY/board.mk -text
 os/hal/boards/ST_STM32L476_DISCOVERY/cfg/board.chcfg -text
 os/hal/boards/ST_STM32L476_DISCOVERY/cfg/board.fmpp -text
+os/hal/boards/ST_STM32L4R9I_DISCOVERY/board.c -text
+os/hal/boards/ST_STM32L4R9I_DISCOVERY/board.h -text
+os/hal/boards/ST_STM32L4R9I_DISCOVERY/board.mk -text
+os/hal/boards/ST_STM32L4R9I_DISCOVERY/cfg/board.chcfg -text
+os/hal/boards/ST_STM32L4R9I_DISCOVERY/cfg/board.fmpp -text
 os/hal/boards/ST_STM32L_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32L_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32L_DISCOVERY/board.mk -text
