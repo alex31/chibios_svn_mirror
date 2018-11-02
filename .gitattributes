@@ -2479,6 +2479,9 @@ os/hal/lib/complex/mfs/hal_mfs.c -text
 os/hal/lib/complex/mfs/hal_mfs.h -text
 os/hal/lib/complex/mfs/hal_mfs.mk -text
 os/hal/lib/complex/readme.txt -text
+os/hal/lib/complex/serial_nor/devices/macronix_mx25/hal_flash_device.c -text
+os/hal/lib/complex/serial_nor/devices/macronix_mx25/hal_flash_device.h -text
+os/hal/lib/complex/serial_nor/devices/macronix_mx25/hal_flash_device.mk -text
 os/hal/lib/complex/serial_nor/devices/micron_n25q/hal_flash_device.c -text
 os/hal/lib/complex/serial_nor/devices/micron_n25q/hal_flash_device.h -text
 os/hal/lib/complex/serial_nor/devices/micron_n25q/hal_flash_device.mk -text
