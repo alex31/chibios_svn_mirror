@@ -4515,6 +4515,11 @@ testhal/STM32/multi/SPI/cfg/stm32l4r5_nucleo144/halconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32l4r5_nucleo144/mcuconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32l4r5_nucleo144/portab.c -text
 testhal/STM32/multi/SPI/cfg/stm32l4r5_nucleo144/portab.h -text
+testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/chconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/halconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/mcuconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/portab.c -text
+testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/portab.h -text
 testhal/STM32/multi/SPI/debug/STM32-SPI[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/SPI/debug/STM32-SPI[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/SPI/main.c -text
@@ -4524,6 +4529,7 @@ testhal/STM32/multi/SPI/make/stm32f407_discovery.make -text
 testhal/STM32/multi/SPI/make/stm32h743_nucleo144.make -text
 testhal/STM32/multi/SPI/make/stm32l476_discovery.make -text
 testhal/STM32/multi/SPI/make/stm32l4r5_nucleo144.make -text
+testhal/STM32/multi/SPI/make/stm32l4r9_discovery.make -text
 testhal/STM32/multi/SPI/readme.txt -text
 testhal/STM32/multi/TRNG/.cproject -text
 testhal/STM32/multi/TRNG/.project -text
