@@ -2805,6 +2805,10 @@ os/hal/ports/STM32/LLD/DMAv3/driver.mk -text
 os/hal/ports/STM32/LLD/DMAv3/notes.txt -text
 os/hal/ports/STM32/LLD/DMAv3/stm32_dma.c -text
 os/hal/ports/STM32/LLD/DMAv3/stm32_dma.h -text
+os/hal/ports/STM32/LLD/EXTIv1/driver.mk -text
+os/hal/ports/STM32/LLD/EXTIv1/notes.txt -text
+os/hal/ports/STM32/LLD/EXTIv1/stm32_exti.c -text
+os/hal/ports/STM32/LLD/EXTIv1/stm32_exti.h -text
 os/hal/ports/STM32/LLD/GPIOv1/driver.mk -text
 os/hal/ports/STM32/LLD/GPIOv1/hal_pal_lld.c -text
 os/hal/ports/STM32/LLD/GPIOv1/hal_pal_lld.h -text
