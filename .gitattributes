@@ -4507,6 +4507,16 @@ testhal/STM32/multi/PAL/readme.txt -text
 testhal/STM32/multi/RTC/.cproject -text
 testhal/STM32/multi/RTC/.project -text
 testhal/STM32/multi/RTC/Makefile -text
+testhal/STM32/multi/RTC/cfg/stm32f051_discovery/chconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f051_discovery/halconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f051_discovery/mcuconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f051_discovery/portab.c -text
+testhal/STM32/multi/RTC/cfg/stm32f051_discovery/portab.h -text
+testhal/STM32/multi/RTC/cfg/stm32f303_discovery/chconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f303_discovery/halconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f303_discovery/mcuconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f303_discovery/portab.c -text
+testhal/STM32/multi/RTC/cfg/stm32f303_discovery/portab.h -text
 testhal/STM32/multi/RTC/cfg/stm32l476_discovery/chconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l476_discovery/mcuconf.h -text
