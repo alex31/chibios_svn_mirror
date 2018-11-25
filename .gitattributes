@@ -4517,6 +4517,11 @@ testhal/STM32/multi/RTC/cfg/stm32f303_discovery/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32f303_discovery/mcuconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32f303_discovery/portab.c -text
 testhal/STM32/multi/RTC/cfg/stm32f303_discovery/portab.h -text
+testhal/STM32/multi/RTC/cfg/stm32f407_discovery/chconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f407_discovery/halconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f407_discovery/mcuconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f407_discovery/portab.c -text
+testhal/STM32/multi/RTC/cfg/stm32f407_discovery/portab.h -text
 testhal/STM32/multi/RTC/cfg/stm32l053_discovery/chconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l053_discovery/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l053_discovery/mcuconf.h -text
