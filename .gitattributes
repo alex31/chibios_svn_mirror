@@ -2411,7 +2411,6 @@ os/hal/dox/hygrometer.dox -text
 os/hal/dox/i2c.dox -text
 os/hal/dox/i2s.dox -text
 os/hal/dox/icu.dox -text
-os/hal/dox/jesd216flash.dox -text
 os/hal/dox/mac.dox -text
 os/hal/dox/main.dox -text
 os/hal/dox/mfs.dox -text
