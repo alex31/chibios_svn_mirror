@@ -3469,6 +3469,15 @@ testex/STM32/STM32F4xx/I2C-HTS221/halconf.h -text
 testex/STM32/STM32F4xx/I2C-HTS221/main.c -text
 testex/STM32/STM32F4xx/I2C-HTS221/mcuconf.h -text
 testex/STM32/STM32F4xx/I2C-HTS221/readme.txt -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/.cproject -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/.project -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/Makefile -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/chconf.h -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/debug/STM32F4xx-I2C-IKS01A2[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/halconf.h -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/main.c -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/mcuconf.h -text
+testex/STM32/STM32F4xx/I2C-IKS01A2/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LIS3MLD/.cproject -text
 testex/STM32/STM32F4xx/I2C-LIS3MLD/.project -text
 testex/STM32/STM32F4xx/I2C-LIS3MLD/Makefile -text
