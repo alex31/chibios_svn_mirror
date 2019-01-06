@@ -1276,7 +1276,6 @@ doc/various/readme.txt -text
 doc/various/st_usb_cdc_driver.inf -text
 /documentation.html -text
 ext/fatfs-0.13_patched.7z -text
-ext/lwip-1.4.1_patched.7z -text
 ext/lwip-2.0.3-patched.7z -text
 ext/readme.txt -text
 ext/wolfssl-3.12.2-patched-halcrypto.7z -text
