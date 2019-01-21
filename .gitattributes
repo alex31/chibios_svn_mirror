@@ -2176,7 +2176,7 @@ os/hal/dox/gpt.dox -text
 os/hal/dox/gyro.dox -text
 os/hal/dox/hal.dox -text
 os/hal/dox/hal_buffers.dox -text
-os/hal/dox/hal_interfacesdox -text
+os/hal/dox/hal_interfaces.dox -text
 os/hal/dox/hal_ioblock.dox -text
 os/hal/dox/hal_objects.dox -text
 os/hal/dox/hal_peripherals.dox -text
