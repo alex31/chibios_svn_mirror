@@ -2181,6 +2181,7 @@ os/hal/dox/hal_files.dox -text
 os/hal/dox/hal_ioblock.dox -text
 os/hal/dox/hal_objects.dox -text
 os/hal/dox/hal_peripherals.dox -text
+os/hal/dox/hal_persistent.dox -text
 os/hal/dox/hal_queues.dox -text
 os/hal/dox/hal_streams.dox -text
 os/hal/dox/hygrometer.dox -text
