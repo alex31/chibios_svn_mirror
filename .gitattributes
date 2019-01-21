@@ -2176,14 +2176,11 @@ os/hal/dox/gpt.dox -text
 os/hal/dox/gyro.dox -text
 os/hal/dox/hal.dox -text
 os/hal/dox/hal_buffers.dox -text
-os/hal/dox/hal_channels.dox -text
-os/hal/dox/hal_files.dox -text
+os/hal/dox/hal_interfacesdox -text
 os/hal/dox/hal_ioblock.dox -text
 os/hal/dox/hal_objects.dox -text
 os/hal/dox/hal_peripherals.dox -text
-os/hal/dox/hal_persistent.dox -text
 os/hal/dox/hal_queues.dox -text
-os/hal/dox/hal_streams.dox -text
 os/hal/dox/hygrometer.dox -text
 os/hal/dox/i2c.dox -text
 os/hal/dox/i2s.dox -text
