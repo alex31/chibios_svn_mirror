@@ -1712,6 +1712,7 @@ os/ex/dox/hygrometer.dox -text
 os/ex/dox/main.dox -text
 os/ex/dox/sensor.dox -text
 os/ex/dox/thermometer.dox -text
+os/ex/include/ex.h -text
 os/hal/boards/ARDUINO_LEONARDO/board.c -text
 os/hal/boards/ARDUINO_LEONARDO/board.h -text
 os/hal/boards/ARDUINO_LEONARDO/board.mk -text
