@@ -4206,6 +4206,11 @@ testhal/STM32/multi/RTC/cfg/stm32f407_discovery/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32f407_discovery/mcuconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32f407_discovery/portab.c -text
 testhal/STM32/multi/RTC/cfg/stm32f407_discovery/portab.h -text
+testhal/STM32/multi/RTC/cfg/stm32f746_discovery/chconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f746_discovery/halconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f746_discovery/mcuconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32f746_discovery/portab.c -text
+testhal/STM32/multi/RTC/cfg/stm32f746_discovery/portab.h -text
 testhal/STM32/multi/RTC/cfg/stm32l053_discovery/chconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l053_discovery/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l053_discovery/mcuconf.h -text
@@ -4216,6 +4221,11 @@ testhal/STM32/multi/RTC/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l476_discovery/mcuconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l476_discovery/portab.c -text
 testhal/STM32/multi/RTC/cfg/stm32l476_discovery/portab.h -text
+testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/chconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/halconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/mcuconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/portab.c -text
+testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/portab.h -text
 testhal/STM32/multi/RTC/debug/STM32-RTC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/multi/RTC/debug/STM32-RTC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/RTC/main.c -text
