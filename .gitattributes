@@ -3221,15 +3221,6 @@ testex/STM32/STM32F3xx/SPI-L3GD20/halconf.h -text
 testex/STM32/STM32F3xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32F3xx/SPI-L3GD20/mcuconf.h -text
 testex/STM32/STM32F3xx/SPI-L3GD20/readme.txt -text
-testex/STM32/STM32F3xx/SPI-N25Q128/.cproject -text
-testex/STM32/STM32F3xx/SPI-N25Q128/.project -text
-testex/STM32/STM32F3xx/SPI-N25Q128/Makefile -text
-testex/STM32/STM32F3xx/SPI-N25Q128/chconf.h -text
-testex/STM32/STM32F3xx/SPI-N25Q128/debug/STM32F3xx-SPI-N25Q128[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testex/STM32/STM32F3xx/SPI-N25Q128/halconf.h -text
-testex/STM32/STM32F3xx/SPI-N25Q128/main.c -text
-testex/STM32/STM32F3xx/SPI-N25Q128/mcuconf.h -text
-testex/STM32/STM32F3xx/SPI-N25Q128/readme.txt -text
 testex/STM32/STM32F4xx/I2C-BMP085/.cproject -text
 testex/STM32/STM32F4xx/I2C-BMP085/.project -text
 testex/STM32/STM32F4xx/I2C-BMP085/Makefile -text
