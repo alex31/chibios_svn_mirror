@@ -308,6 +308,14 @@ demos/STM32/NIL-STM32L152-DISCOVERY/cfg/halconf.h -text
 demos/STM32/NIL-STM32L152-DISCOVERY/cfg/mcuconf.h -text
 demos/STM32/NIL-STM32L152-DISCOVERY/debug/NIL-STM32L152-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/NIL-STM32L152-DISCOVERY/main.c -text
+demos/STM32/NIL-STM32L476-DISCOVERY/.cproject -text
+demos/STM32/NIL-STM32L476-DISCOVERY/.project -text
+demos/STM32/NIL-STM32L476-DISCOVERY/Makefile -text
+demos/STM32/NIL-STM32L476-DISCOVERY/cfg/chconf.h -text
+demos/STM32/NIL-STM32L476-DISCOVERY/cfg/halconf.h -text
+demos/STM32/NIL-STM32L476-DISCOVERY/cfg/mcuconf.h -text
+demos/STM32/NIL-STM32L476-DISCOVERY/debug/NIL-STM32L476-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/NIL-STM32L476-DISCOVERY/main.c -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/.cproject -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/.project -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/Makefile -text
