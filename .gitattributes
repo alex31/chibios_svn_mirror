@@ -2892,8 +2892,14 @@ os/license/license.dox -text
 os/license/license.mk -text
 os/nil/dox/nil.dox -text
 os/nil/include/ch.h -text
+os/nil/include/chevt.h -text
+os/nil/include/chmsg.h -text
+os/nil/include/chsem.h -text
 os/nil/nil.mk -text
 os/nil/src/ch.c -text
+os/nil/src/chevt.c -text
+os/nil/src/chmsg.c -text
+os/nil/src/chsem.c -text
 os/nil/templates/chconf.h -text
 os/oslib/dox/lib.dox -text
 os/oslib/include/chbsem.h -text
