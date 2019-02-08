@@ -2274,6 +2274,7 @@ os/hal/lib/peripherals/sensors/hal_barometer.h -text
 os/hal/lib/peripherals/sensors/hal_compass.h -text
 os/hal/lib/peripherals/sensors/hal_gyroscope.h -text
 os/hal/lib/peripherals/sensors/hal_hygrometer.h -text
+os/hal/lib/peripherals/sensors/hal_rangefinder.h -text
 os/hal/lib/peripherals/sensors/hal_sensors.h -text
 os/hal/lib/peripherals/sensors/hal_thermometer.h -text
 os/hal/lib/streams/chprintf.c -text
