@@ -2297,6 +2297,9 @@ os/hal/osal/os-less/ARMCMx/osal.mk -text
 os/hal/osal/os-less/AVR/osal.c -text
 os/hal/osal/os-less/AVR/osal.h -text
 os/hal/osal/os-less/AVR/osal.mk -text
+os/hal/osal/rt-nil/osal.c -text
+os/hal/osal/rt-nil/osal.h -text
+os/hal/osal/rt-nil/osal.mk -text
 os/hal/osal/rt/osal.c -text
 os/hal/osal/rt/osal.h -text
 os/hal/osal/rt/osal.mk -text
