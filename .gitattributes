@@ -1711,6 +1711,8 @@ os/ex/ST/lsm6ds0.mk -text
 os/ex/ST/lsm6dsl.c -text
 os/ex/ST/lsm6dsl.h -text
 os/ex/ST/lsm6dsl.mk -text
+os/ex/ST/vl53l0x.h -text
+os/ex/ST/vl53l0x.mk -text
 os/ex/dox/accelerometer.dox -text
 os/ex/dox/barometer.dox -text
 os/ex/dox/compass.dox -text
