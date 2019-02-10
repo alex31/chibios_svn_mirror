@@ -3135,6 +3135,8 @@ test/nil/source/test/nil_test_sequence_005.c -text
 test/nil/source/test/nil_test_sequence_005.h -text
 test/nil/source/test/nil_test_sequence_006.c -text
 test/nil/source/test/nil_test_sequence_006.h -text
+test/nil/source/test/nil_test_sequence_007.c -text
+test/nil/source/test/nil_test_sequence_007.h -text
 test/nil/specgen/Doxyfile -text
 test/nil/specgen/makedoc.bat -text
 test/nil/specgen/rsc/custom.css -text
