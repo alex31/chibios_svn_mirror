@@ -3015,7 +3015,6 @@ os/various/wolfssl_bindings/user_settings.h -text
 os/various/wolfssl_bindings/wolfssl.mk -text
 os/various/wolfssl_bindings/wolfssl_chibios.c -text
 os/various/wolfssl_bindings/wolfssl_chibios.h -text
-/readme.txt -text
 /release_note_next.txt -text
 test/crypto/config.fmpp -text
 test/crypto/configuration.xml -text
