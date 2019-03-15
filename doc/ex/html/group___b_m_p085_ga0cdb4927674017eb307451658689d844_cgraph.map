@@ -1,0 +1,5 @@
+<map id="baro_read_raw" name="baro_read_raw">
+<area shape="rect" id="node2" href="$group___b_m_p085.html#ga892af3eb6aecbabacc02766f1c74c08c" title="Read the uncompensated pressure from the BMP085 register. " alt="" coords="149,29,224,53"/>
+<area shape="rect" id="node3" href="$group___b_m_p085.html#ga9dab0b471b0b0f90702de05eddfe3642" title="Reads registers value using I2C. " alt="" coords="272,5,416,29"/>
+<area shape="rect" id="node4" href="$group___b_m_p085.html#ga4c81881868c373fb882038fd063b92e1" title="Start the pressure measurment. " alt="" coords="281,53,407,77"/>
+</map>

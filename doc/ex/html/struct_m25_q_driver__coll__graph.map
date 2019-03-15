@@ -1,0 +1,4 @@
+<map id="M25QDriver" name="M25QDriver">
+<area shape="rect" id="node2" href="$struct_m25_q_config.html" title="Type of a M25Q configuration structure. " alt="" coords="5,5,88,75"/>
+<area shape="rect" id="node3" href="$struct_m25_q_driver_v_m_t.html" title="M25Q virtual methods table. " alt="" coords="113,5,215,75"/>
+</map>

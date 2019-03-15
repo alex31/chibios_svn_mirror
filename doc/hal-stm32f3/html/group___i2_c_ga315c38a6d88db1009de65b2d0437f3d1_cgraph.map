@@ -1,0 +1,7 @@
+<map id="i2c_lld_master_receive_timeout" name="i2c_lld_master_receive_timeout">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#gab569a17bed66a936f70a59e0679ad1df" title="Current system time. " alt="" coords="184,5,321,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="213,53,293,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="207,101,298,125"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga1ccb58191bbb7e148b99a13e1fe0fe01" title="Adds an interval to a system time returning a system time. " alt="" coords="207,149,298,173"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga7b4feb955660ae342ae31441b64920a0" title="Checks if the specified time is within the specified time window. " alt="" coords="192,197,313,221"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OSAL_IRQ_HANDLER" name="OSAL_IRQ_HANDLER">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga69467ffb54100ca8735cde149cd5a48c" title="System timer handler. " alt="" coords="193,5,315,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga32db980c54089fe21370432a7a884e9f" title="Enters a critical zone from ISR context. " alt="" coords="192,53,316,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#gab53a8f4b21ad79b9d2203eff4c72b529" title="Leaves a critical zone from ISR context. " alt="" coords="187,101,321,125"/>
+</map>

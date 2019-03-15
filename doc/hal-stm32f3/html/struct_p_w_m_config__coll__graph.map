@@ -1,0 +1,5 @@
+<map id="PWMConfig" name="PWMConfig">
+<area shape="rect" id="node2" href="$struct_p_w_m_driver.html" title="Structure representing a PWM driver. " alt="" coords="122,255,199,372"/>
+<area shape="rect" id="node4" href="$struct_p_w_m_channel_config.html" title="Type of a PWM driver channel configuration structure. " alt="" coords="5,432,124,501"/>
+<area shape="rect" id="node3" href="$structstm32__tim__t.html" title="STM32 TIM registers block. " alt="" coords="187,5,279,195"/>
+</map>

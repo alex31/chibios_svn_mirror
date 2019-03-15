@@ -1,0 +1,5 @@
+<map id="canTransmitTimeout" name="canTransmitTimeout">
+<area shape="rect" id="node2" href="$group___c_a_n.html#gae128d76f1601498a747c584cc49a5464" title="Determines whether a frame can be transmitted. " alt="" coords="197,5,315,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="216,53,296,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga04971ea0e1c6201d0ea73920520d9f2b" title="Enqueues the caller thread. " alt="" coords="173,101,339,125"/>
+</map>

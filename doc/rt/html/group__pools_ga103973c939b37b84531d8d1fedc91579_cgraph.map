@@ -1,0 +1,6 @@
+<map id="chGuardedPoolAllocI" name="chGuardedPoolAllocI">
+<area shape="rect" id="node2" href="$group__pools.html#ga0fb08e687397c6ba657886752a032384" title="Allocates an object from a memory pool. " alt="" coords="193,5,271,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gabf1864766da833070d61948d67a190a0" title="Decreases the semaphore counter. " alt="" coords="182,53,282,77"/>
+<area shape="rect" id="node5" href="$group__semaphores.html#ga0f47e935dc651550ff52b8b20c9b9c2d" title="Returns the semaphore counter current value. " alt="" coords="175,101,289,125"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="337,53,449,77"/>
+</map>

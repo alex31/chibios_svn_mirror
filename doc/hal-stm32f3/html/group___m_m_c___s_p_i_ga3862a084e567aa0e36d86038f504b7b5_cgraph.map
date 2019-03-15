@@ -1,0 +1,6 @@
+<map id="recvr1" name="recvr1">
+<area shape="rect" id="node2" href="$group___s_p_i.html#gadd99ad823b391dde114f04dedafe5e80" title="Receives data from the SPI bus. " alt="" coords="105,53,179,77"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="249,5,329,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga49573c45ca88cd172ee03da252f69ae4" title="Sends the current thread sleeping and sets a reference variable. " alt="" coords="227,53,352,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="244,101,335,125"/>
+</map>

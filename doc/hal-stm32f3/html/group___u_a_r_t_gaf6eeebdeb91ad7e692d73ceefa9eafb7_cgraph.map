@@ -1,0 +1,3 @@
+<map id="uart_lld_stop_receive" name="uart_lld_stop_receive">
+<area shape="rect" id="node2" href="$group___u_a_r_t.html#gac51617b9c08f922aed2a951a23001af7" title="Puts the receiver in the UART_RX_IDLE state. " alt="" coords="176,5,311,29"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="chVTIsArmed" name="chVTIsArmed">
+<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="149,60,221,84"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="144,143,227,167"/>
+<area shape="rect" id="node8" href="$group__time.html#ga4835e21a3055a578850f12d98c1a0267" title="Returns true if the specified timer is armed. " alt="" coords="140,193,231,217"/>
+<area shape="rect" id="node3" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="290,5,393,29"/>
+<area shape="rect" id="node4" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="279,54,404,90"/>
+<area shape="rect" id="node6" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="284,115,399,139"/>
+<area shape="rect" id="node7" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="279,163,403,199"/>
+<area shape="rect" id="node9" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="285,224,397,248"/>
+</map>

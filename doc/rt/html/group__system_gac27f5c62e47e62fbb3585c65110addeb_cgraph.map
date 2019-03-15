@@ -1,0 +1,6 @@
+<map id="chSysLockFromISR" name="chSysLockFromISR">
+<area shape="rect" id="node2" href="$group__debug.html#ga07c370ca71cdca3ec5ad01f44a2ff815" title="Guard code for chSysLockFromIsr(). " alt="" coords="169,5,317,29"/>
+<area shape="rect" id="node4" href="$group__statistics.html#ga599796228b45329e8fdc6c81ec843671" title="Starts the measurement of an ISR critical zone. " alt="" coords="181,54,306,90"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="403,5,473,29"/>
+<area shape="rect" id="node5" href="$group__time__measurement.html#gac4b9d505d3e741917491cb5aec253c06" title="Starts a measurement. " alt="" coords="365,60,511,84"/>
+</map>

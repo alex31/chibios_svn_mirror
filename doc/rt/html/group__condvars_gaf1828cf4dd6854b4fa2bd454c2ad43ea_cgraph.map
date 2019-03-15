@@ -1,0 +1,15 @@
+<map id="chCondWait" name="chCondWait">
+<area shape="rect" id="node2" href="$group__condvars.html#gaec560823aebbc92b21f1c92ab2c2996c" title="Waits on the condition variable releasing the mutex lock. " alt="" coords="133,124,220,148"/>
+<area shape="rect" id="node9" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="141,299,213,323"/>
+<area shape="rect" id="node12" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="135,380,218,404"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="597,75,713,99"/>
+<area shape="rect" id="node4" href="$group__mutexes.html#gadc409ca9bd7628c0c6fc9576ec4e1640" title="Returns the next mutex in the mutexes stack of the current thread. " alt="" coords="268,223,393,247"/>
+<area shape="rect" id="node5" href="$group__mutexes.html#gac9ccd2e7b142de84a3fde7e9c8e6e445" title="Unlocks the specified mutex. " alt="" coords="451,25,540,49"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#ga77b181c31a97a1b724cee544718805fd" title="Inserts a thread into a priority ordered queue. " alt="" coords="441,75,549,99"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state. " alt="" coords="446,173,545,197"/>
+<area shape="rect" id="node8" href="$group__mutexes.html#gac4b8d302ec2616e2d805375a8cb8ae9d" title="Locks the specified mutex. " alt="" coords="291,124,370,148"/>
+<area shape="rect" id="node10" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="279,271,382,295"/>
+<area shape="rect" id="node11" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="268,319,393,355"/>
+<area shape="rect" id="node13" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="273,380,388,404"/>
+<area shape="rect" id="node14" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="269,429,393,465"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="chMtxLockS" name="chMtxLockS">
+<area shape="rect" id="node2" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="288,5,404,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state. " alt="" coords="137,53,235,77"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="143,101,229,125"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga2061d80ce782ea1c9822d158d7ae88b4" title="Removes a thread from a queue and returns it. " alt="" coords="136,149,236,173"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#ga77b181c31a97a1b724cee544718805fd" title="Inserts a thread into a priority ordered queue. " alt="" coords="132,197,240,221"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="452,53,521,77"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="289,53,403,77"/>
+<area shape="rect" id="node7" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="290,101,402,125"/>
+</map>

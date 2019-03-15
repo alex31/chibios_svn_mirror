@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_base_sequential_stream_v_m_t.html" title="BaseSequentialStream virtual methods table. " alt="" coords="5,53,160,77"/>
+<area shape="rect" id="node2" href="$struct_base_channel_v_m_t.html" title="BaseChannel virtual methods table. " alt="" coords="208,29,317,53"/>
+<area shape="rect" id="node6" href="$struct_file_stream_v_m_t.html" title="FileStream virtual methods table. " alt="" coords="214,77,311,101"/>
+<area shape="rect" id="node3" href="$struct_base_asynchronous_channel_v_m_t.html" title="BaseAsynchronousChannel virtual methods table. " alt="" coords="365,29,541,53"/>
+<area shape="rect" id="node4" href="$struct_serial_driver_v_m_t.html" title="SerialDriver virtual methods table. " alt="" coords="600,5,701,29"/>
+<area shape="rect" id="node5" href="$struct_serial_u_s_b_driver_v_m_t.html" title="SerialDriver virtual methods table. " alt="" coords="589,53,712,77"/>
+</map>

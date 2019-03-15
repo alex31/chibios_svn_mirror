@@ -1,0 +1,7 @@
+<map id="rtcSetTime" name="rtcSetTime">
+<area shape="rect" id="node2" href="$group___r_t_c.html#ga2aa2d6a95ef295eafacedaeaec71ba4a" title="Set current time. " alt="" coords="128,77,224,101"/>
+<area shape="rect" id="node3" href="$group___r_t_c.html#gab4616873e85eae7352deacc195f5d164" title="Converts time from timespec to TR register encoding. " alt="" coords="298,5,399,29"/>
+<area shape="rect" id="node4" href="$group___r_t_c.html#gad7cc62b9d0c01d621df5bc4ee5cc4574" title="Converts a date from timespec to DR register encoding. " alt="" coords="297,53,400,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#gab22201fb46c57d6f3fc673731fc9da18" title="Returns the execution status and enters a critical zone. " alt="" coords="272,101,425,125"/>
+<area shape="rect" id="node6" href="$group___r_t_c.html#ga2cbfcf70b0ad8d7f18c6f90949946a28" title="Beginning of configuration procedure. " alt="" coords="307,149,391,173"/>
+</map>

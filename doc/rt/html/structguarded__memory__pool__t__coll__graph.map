@@ -1,0 +1,6 @@
+<map id="guarded_memory_pool_t" name="guarded_memory_pool_t">
+<area shape="rect" id="node2" href="$structch__semaphore.html" title="Semaphore structure. " alt="" coords="15,147,109,216"/>
+<area shape="rect" id="node3" href="$structch__threads__queue.html" title="Generic threads bidirectional linked list header and element. " alt="" coords="5,5,116,75"/>
+<area shape="rect" id="node4" href="$structmemory__pool__t.html" title="Memory pool descriptor. " alt="" coords="133,135,229,228"/>
+<area shape="rect" id="node5" href="$structpool__header.html" title="Memory pool free object header. " alt="" coords="141,5,223,75"/>
+</map>

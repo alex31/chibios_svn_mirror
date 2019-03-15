@@ -1,0 +1,8 @@
+<map id="i2sStart" name="i2sStart">
+<area shape="rect" id="node2" href="$group___i2_s.html#gac29220167e0419922766bbeae8a8c5e6" title="Configures and activates the I2S peripheral. " alt="" coords="118,53,197,77"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="117,101,197,125"/>
+<area shape="rect" id="node7" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="112,149,203,173"/>
+<area shape="rect" id="node3" href="$group___s_t_m32___d_m_a.html#ga2779cd46d0f5e9d7a6e549391e05cdd0" title="Allocates a DMA stream. " alt="" coords="265,5,380,29"/>
+<area shape="rect" id="node4" href="$group___i2_s.html#ga6799b0b297241e85aeda104e7c317463" title="Shared end&#45;of&#45;rx service routine. " alt="" coords="251,53,395,77"/>
+<area shape="rect" id="node5" href="$group___i2_s.html#gad8200eacd02d0b5ca833bec5c84c4794" title="Shared end&#45;of&#45;tx service routine. " alt="" coords="251,101,394,125"/>
+</map>

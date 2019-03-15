@@ -1,0 +1,4 @@
+<map id="uartStopSend" name="uartStopSend">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="157,5,237,29"/>
+<area shape="rect" id="node3" href="$group___u_a_r_t.html#gaec269894b7a38cc224a92469728dac28" title="Stops any ongoing transmission. " alt="" coords="141,53,253,77"/>
+</map>

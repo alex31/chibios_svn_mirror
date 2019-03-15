@@ -1,0 +1,4 @@
+<map id="acc_read_cooked" name="acc_read_cooked">
+<area shape="rect" id="node2" href="$group___l_s_m6_d_s0.html#gaaf84663d8ef1fb8e1e81c3520f15af40" title="Retrieves raw data from the BaseAccelerometer. " alt="" coords="160,5,251,29"/>
+<area shape="rect" id="node3" href="$group___l_s_m6_d_s0.html#gafe1238ca43f8f16670374df6e4710ea5" title="Reads registers value using I2C. " alt="" coords="299,5,443,29"/>
+</map>

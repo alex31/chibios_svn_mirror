@@ -1,0 +1,6 @@
+<map id="sdInit" name="sdInit">
+<area shape="rect" id="node2" href="$group___s_e_r_i_a_l.html#gad05320e8f231f3e092b7042c574da015" title="Low level serial driver initialization. " alt="" coords="100,53,168,77"/>
+<area shape="rect" id="node3" href="$group___s_e_r_i_a_l.html#gacb9838adcf51106f4e481f41a851cc34" title="Initializes a generic full duplex driver object. " alt="" coords="217,5,294,29"/>
+<area shape="rect" id="node4" href="$group___h_a_l___q_u_e_u_e_s.html#ga46c5fb4c3dc323450eb63e94fde43185" title="Initializes an input queue. " alt="" coords="218,53,293,77"/>
+<area shape="rect" id="node5" href="$group___h_a_l___q_u_e_u_e_s.html#gad8d193061f9e6e71e0fd69ced74dcb81" title="Initializes an output queue. " alt="" coords="216,101,295,125"/>
+</map>

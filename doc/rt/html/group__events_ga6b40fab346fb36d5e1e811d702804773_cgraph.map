@@ -1,0 +1,11 @@
+<map id="chEvtWaitOneTimeout" name="chEvtWaitOneTimeout">
+<area shape="rect" id="node2" href="$group__scheduler.html#gae638842e01309c38d888bb91a4845b2b" title="Puts the current thread to sleep into the specified state with timeout specification. " alt="" coords="181,53,320,77"/>
+<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="215,129,287,153"/>
+<area shape="rect" id="node8" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="209,211,292,235"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="373,5,489,29"/>
+<area shape="rect" id="node4" href="$group__time.html#ga1d70201287f59c1d60844859aa90a4dc" title="Enables a virtual timer. " alt="" coords="391,53,471,77"/>
+<area shape="rect" id="node6" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="379,101,482,125"/>
+<area shape="rect" id="node7" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="368,150,493,186"/>
+<area shape="rect" id="node9" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="373,211,488,235"/>
+<area shape="rect" id="node10" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="369,259,493,295"/>
+</map>

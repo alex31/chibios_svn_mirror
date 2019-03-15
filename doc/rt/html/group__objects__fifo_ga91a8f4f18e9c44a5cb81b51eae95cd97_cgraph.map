@@ -1,0 +1,6 @@
+<map id="chFifoSendObjectI" name="chFifoSendObjectI">
+<area shape="rect" id="node2" href="$group__mailboxes.html#gaa5fc86cac60832cab1efc53e4e14c19b" title="Posts a message into a mailbox. " alt="" coords="163,29,236,53"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="453,5,565,29"/>
+<area shape="rect" id="node4" href="$group__mailboxes.html#gab8460d4d099ba8df173fdd16aa289baf" title="Returns the number of free message slots into a mailbox. " alt="" coords="284,29,405,53"/>
+<area shape="rect" id="node5" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any. " alt="" coords="284,77,405,101"/>
+</map>

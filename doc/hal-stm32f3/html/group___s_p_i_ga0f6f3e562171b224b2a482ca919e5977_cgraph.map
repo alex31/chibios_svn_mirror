@@ -1,0 +1,4 @@
+<map id="spiAbortI" name="spiAbortI">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga6b620eb4daf8bd0ce536d2a9bac266f9" title="Wakes up a thread waiting on a thread reference object. " alt="" coords="117,5,236,29"/>
+<area shape="rect" id="node3" href="$group___s_p_i.html#ga310f1e846d00dba377b3274e11044694" title="Aborts the ongoing SPI operation, if any. " alt="" coords="135,53,218,77"/>
+</map>

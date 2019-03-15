@@ -1,0 +1,4 @@
+<map id="_usb_suspend" name="_usb_suspend">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga32db980c54089fe21370432a7a884e9f" title="Enters a critical zone from ISR context. " alt="" coords="144,5,268,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga6b620eb4daf8bd0ce536d2a9bac266f9" title="Wakes up a thread waiting on a thread reference object. " alt="" coords="147,53,265,77"/>
+</map>

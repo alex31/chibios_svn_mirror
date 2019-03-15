@@ -1,0 +1,6 @@
+<map id="chSysInit" name="chSysInit">
+<area shape="rect" id="node2" href="$group__memcore.html#ga85a43fd09e82ea76e16c36da833d7b14" title="Low level memory manager initialization. " alt="" coords="123,5,191,29"/>
+<area shape="rect" id="node3" href="$group__objects__factory.html#gad8cbf74312ba5a5f15b16c91ad89a018" title="Initializes the objects factory. " alt="" coords="117,53,196,77"/>
+<area shape="rect" id="node4" href="$group__heaps.html#ga777708769d35996ed5f0d8bd4642217c" title="Initializes the default heap. " alt="" coords="121,101,192,125"/>
+<area shape="rect" id="node5" href="$group__memcore.html#ga111b8298de9f8671842c79b29bd5d28f" title="Allocates a memory block. " alt="" coords="244,101,407,125"/>
+</map>

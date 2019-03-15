@@ -1,0 +1,8 @@
+<map id="chGuardedPoolFreeS" name="chGuardedPoolFreeS">
+<area shape="rect" id="node2" href="$group__pools.html#ga2f52185539edc32f4ee7d811d1c52310" title="Releases an object into a guarded memory pool. " alt="" coords="180,53,303,77"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Reschedules if needed. " alt="" coords="184,101,299,125"/>
+<area shape="rect" id="node3" href="$group__pools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool. " alt="" coords="371,5,451,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="368,53,455,77"/>
+<area shape="rect" id="node6" href="$group___n_i_l___k_e_r_n_e_l.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="353,101,469,125"/>
+<area shape="rect" id="node7" href="$group___n_i_l___k_e_r_n_e_l.html#ga46ffa866557e26da879f2d04b7efebb5" title="Switches to the first thread on the runnable queue. " alt="" coords="351,149,472,173"/>
+</map>

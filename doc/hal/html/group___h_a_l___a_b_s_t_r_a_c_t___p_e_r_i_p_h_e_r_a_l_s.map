@@ -1,0 +1,12 @@
+<map id="Abstract Peripheral Interfaces" name="Abstract Peripheral Interfaces">
+<area shape="rect" id="node1" href="$group___h_a_l___g_y_r_o_s_c_o_p_e.html" title="HAL Generic Gyroscope Interface. " alt="" coords="345,5,504,29"/>
+<area shape="rect" id="node2" href="$group___h_a_l___a_c_c_e_l_e_r_o_m_e_t_e_r.html" title="HAL Generic Accelerometer Interface. " alt="" coords="359,54,490,90"/>
+<area shape="rect" id="node3" href="$group___h_a_l___s_e_n_s_o_r_s.html" title="HAL Generic Sensor Interface. " alt="" coords="354,115,495,139"/>
+<area shape="rect" id="node4" href="$group___h_a_l___f_l_a_s_h.html" title="HAL Generic Flash Driver Interface. " alt="" coords="365,163,485,199"/>
+<area shape="rect" id="node5" href="$group___h_a_l___i_n_t_e_r_f_a_c_e_s.html" title="HAL Interfaces and Classes. " alt="" coords="5,229,136,253"/>
+<area shape="rect" id="node7" href="$group___h_a_l___t_h_e_r_m_o_m_e_t_e_r.html" title="HAL Generic Thermometer Interface. " alt="" coords="361,223,489,259"/>
+<area shape="rect" id="node8" href="$group___h_a_l___j_e_s_d216___f_l_a_s_h.html" title="HAL JESD216 Compliant Flash Driver Interface. " alt="" coords="351,283,498,319"/>
+<area shape="rect" id="node9" href="$group___h_a_l___b_a_r_o_m_e_t_e_r.html" title="HAL Generic Barometer Interface. " alt="" coords="345,344,504,368"/>
+<area shape="rect" id="node10" href="$group___h_a_l___h_y_g_r_o_m_e_t_e_r.html" title="HAL Generic Hygrometer Interface. " alt="" coords="365,393,484,429"/>
+<area shape="rect" id="node11" href="$group___h_a_l___c_o_m_p_a_s_s.html" title="HAL Generic Compass Interface. " alt="" coords="349,453,501,477"/>
+</map>

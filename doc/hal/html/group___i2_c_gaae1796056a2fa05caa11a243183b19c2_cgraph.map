@@ -1,0 +1,4 @@
+<map id="i2c_lld_init" name="i2c_lld_init">
+<area shape="rect" id="node2" href="$group___i2_c.html#ga2dd7be686d8e136b1deebfeb20e868f9" title="Initializes the standard part of a I2CDriver structure. " alt="" coords="124,5,203,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga156fb36e0f0ea799f2bfe31970337de7" title="Initializes s mutex_t object. " alt="" coords="251,5,365,29"/>
+</map>

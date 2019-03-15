@@ -1,0 +1,9 @@
+<map id="MMCDriver" name="MMCDriver">
+<area shape="rect" id="node2" href="$struct_m_m_c_s_d_block_device.html" title="MCC/SD block device class. " alt="" coords="13,396,133,465"/>
+<area shape="rect" id="node3" href="$struct_base_block_device.html" title="Base block device class. " alt="" coords="5,225,108,294"/>
+<area shape="rect" id="node4" href="$struct_m_m_c_s_d_block_device_v_m_t.html" title="MMCSDBlockDevice virtual methods table. " alt="" coords="132,225,275,294"/>
+<area shape="rect" id="node8" href="$struct_m_m_c_driver_v_m_t.html" title="MMCDriver virtual methods table. " alt="" coords="157,396,257,465"/>
+<area shape="rect" id="node5" href="$struct_m_m_c_config.html" title="MMC/SD over SPI driver configuration structure. " alt="" coords="284,396,363,465"/>
+<area shape="rect" id="node6" href="$struct_s_p_i_driver.html" title="Structure representing an SPI driver. " alt="" coords="323,5,411,135"/>
+<area shape="rect" id="node7" href="$struct_s_p_i_config.html" title="Driver configuration structure. " alt="" coords="377,195,448,324"/>
+</map>

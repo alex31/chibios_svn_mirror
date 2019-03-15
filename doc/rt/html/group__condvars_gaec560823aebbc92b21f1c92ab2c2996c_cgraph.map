@@ -1,0 +1,14 @@
+<map id="chCondWaitS" name="chCondWaitS">
+<area shape="rect" id="node2" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="497,155,613,179"/>
+<area shape="rect" id="node4" href="$group__mutexes.html#gadc409ca9bd7628c0c6fc9576ec4e1640" title="Returns the next mutex in the mutexes stack of the current thread. " alt="" coords="140,5,265,29"/>
+<area shape="rect" id="node6" href="$group__mutexes.html#gac4b8d302ec2616e2d805375a8cb8ae9d" title="Locks the specified mutex. " alt="" coords="163,309,242,333"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state. " alt="" coords="332,400,431,424"/>
+<area shape="rect" id="node11" href="$group__scheduler.html#ga77b181c31a97a1b724cee544718805fd" title="Inserts a thread into a priority ordered queue. " alt="" coords="327,448,435,472"/>
+<area shape="rect" id="node12" href="$group__mutexes.html#gac9ccd2e7b142de84a3fde7e9c8e6e445" title="Unlocks the specified mutex. " alt="" coords="158,204,247,228"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="661,155,731,179"/>
+<area shape="rect" id="node5" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t. " alt="" coords="334,5,429,29"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="339,253,424,277"/>
+<area shape="rect" id="node10" href="$group__scheduler.html#ga2061d80ce782ea1c9822d158d7ae88b4" title="Removes a thread from a queue and returns it. " alt="" coords="331,352,431,376"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="498,303,613,327"/>
+<area shape="rect" id="node13" href="$group__mutexes.html#ga89933152191cb4dfce30c2a6f42f8758" title="Returns true if the mutex queue contains at least a waiting thread. " alt="" coords="313,155,449,179"/>
+</map>

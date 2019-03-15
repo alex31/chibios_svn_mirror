@@ -1,0 +1,9 @@
+<map id="chGuardedPoolFreeI" name="chGuardedPoolFreeI">
+<area shape="rect" id="node2" href="$group__pools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool. " alt="" coords="179,6,259,30"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="176,92,263,116"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="463,44,575,68"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="319,68,405,92"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="461,140,576,164"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="315,214,409,238"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="311,116,413,140"/>
+</map>

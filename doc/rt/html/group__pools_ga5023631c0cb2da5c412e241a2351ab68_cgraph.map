@@ -1,0 +1,6 @@
+<map id="chPoolAdd" name="chPoolAdd">
+<area shape="rect" id="node2" href="$group__pools.html#gaf05f38653b302ea0da0c1f7b50854a92" title="Releases an object into a memory pool. " alt="" coords="127,53,204,77"/>
+<area shape="rect" id="node3" href="$group__pools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool. " alt="" coords="253,5,333,29"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="257,53,329,77"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="252,101,335,125"/>
+</map>

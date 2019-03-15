@@ -1,0 +1,8 @@
+<map id="chThdCreateSuspendedI" name="chThdCreateSuspendedI">
+<area shape="rect" id="node2" href="$group__threads.html#ga3a54dd6f478d5e64e019879b9a118481" title="Initializes a thread structure. " alt="" coords="213,65,291,89"/>
+<area shape="rect" id="node6" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="196,125,308,149"/>
+<area shape="rect" id="node3" href="$group__time__measurement.html#ga6dc0dffb0cfbbe76d25a84ba9210ced9" title="Initializes a TimeMeasurement object. " alt="" coords="356,5,449,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga5f224aab9b3e37cb0ac803328294815d" title="Threads list initialization. " alt="" coords="376,53,429,77"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga79bee2577cd8ba9850c8c3d20ea33d30" title="Threads queue initialization. " alt="" coords="367,101,438,125"/>
+<area shape="rect" id="node7" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="368,149,437,173"/>
+</map>

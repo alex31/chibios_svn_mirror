@@ -1,0 +1,5 @@
+<map id="thermo_read_cooked" name="thermo_read_cooked">
+<area shape="rect" id="node2" href="$group___b_m_p085.html#ga74a8515d91d64125409af18f077785b3" title="Calcul the true temperature. " alt="" coords="203,5,260,29"/>
+<area shape="rect" id="node3" href="$group___b_m_p085.html#ga4488647726d87cde77c1efe8dcff0eb5" title="Read thermometer raw data. " alt="" coords="177,53,285,77"/>
+<area shape="rect" id="node4" href="$group___b_m_p085.html#gad970e50623db1f133f80b6f253b9f14c" title="Read the uncompensated temperature from the BMP085 register. " alt="" coords="333,53,405,77"/>
+</map>

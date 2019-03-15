@@ -1,0 +1,5 @@
+<map id="chFifoReturnObjectI" name="chFifoReturnObjectI">
+<area shape="rect" id="node2" href="$group__pools.html#ga2f52185539edc32f4ee7d811d1c52310" title="Releases an object into a guarded memory pool. " alt="" coords="171,29,293,53"/>
+<area shape="rect" id="node3" href="$group__pools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool. " alt="" coords="345,5,425,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="341,53,428,77"/>
+</map>

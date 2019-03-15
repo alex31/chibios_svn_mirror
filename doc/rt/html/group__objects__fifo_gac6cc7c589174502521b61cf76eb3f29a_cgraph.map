@@ -1,0 +1,6 @@
+<map id="chFifoTakeObjectTimeout" name="chFifoTakeObjectTimeout">
+<area shape="rect" id="node2" href="$group__pools.html#ga6ce193e2e6c9afb8703947823d3d5c8d" title="Allocates an object from a guarded memory pool. " alt="" coords="197,53,355,77"/>
+<area shape="rect" id="node3" href="$group__pools.html#ga776189d098fee12f00185ca749db78fe" title="Allocates an object from a guarded memory pool. " alt="" coords="403,5,567,29"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="449,53,521,77"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="443,101,526,125"/>
+</map>

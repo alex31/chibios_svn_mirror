@@ -1,0 +1,4 @@
+<map id="chGuardedPoolLoadArray" name="chGuardedPoolLoadArray">
+<area shape="rect" id="node2" href="$group__pools.html#ga3eaeec195350bdfbda9af5bf3300f4be" title="Adds an object to a guarded memory pool. " alt="" coords="200,5,315,29"/>
+<area shape="rect" id="node3" href="$group__pools.html#gae5bea19ddba702004aa51d5b4d29549d" title="Releases an object into a guarded memory pool. " alt="" coords="363,5,481,29"/>
+</map>

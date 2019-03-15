@@ -1,0 +1,6 @@
+<map id="chThdResume" name="chThdResume">
+<area shape="rect" id="node2" href="$group___n_i_l___k_e_r_n_e_l.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Reschedules if needed. " alt="" coords="145,29,260,53"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#ga559368630d1bbbc02685a040b32787bb" title="Wakes up a thread waiting on a thread reference object. " alt="" coords="155,77,250,101"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="311,5,427,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#ga46ffa866557e26da879f2d04b7efebb5" title="Switches to the first thread on the runnable queue. " alt="" coords="308,53,429,77"/>
+</map>

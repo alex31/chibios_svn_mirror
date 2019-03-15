@@ -1,0 +1,5 @@
+<map id="guarded_memory_pool_t" name="guarded_memory_pool_t">
+<area shape="rect" id="node2" href="$structnil__threads__queue.html" title="Structure representing a queue of threads. " alt="" coords="5,147,116,216"/>
+<area shape="rect" id="node3" href="$structmemory__pool__t.html" title="Memory pool descriptor. " alt="" coords="141,135,237,228"/>
+<area shape="rect" id="node4" href="$structpool__header.html" title="Memory pool free object header. " alt="" coords="147,5,230,75"/>
+</map>

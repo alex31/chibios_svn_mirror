@@ -1,0 +1,14 @@
+<map id="chSemSignalI" name="chSemSignalI">
+<area shape="rect" id="node2" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="300,11,412,35"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="149,5,234,29"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="299,59,413,83"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="144,275,239,299"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="140,155,243,179"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="469,11,539,35"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#gab9b2132009ba2cef65d3fca0cfb354ef" title="Pushes a thread_t on top of a stack list. " alt="" coords="323,347,389,371"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="291,299,421,323"/>
+<area shape="rect" id="node10" href="$group__scheduler.html#ga2061d80ce782ea1c9822d158d7ae88b4" title="Removes a thread from a queue and returns it. " alt="" coords="306,107,406,131"/>
+<area shape="rect" id="node11" href="$group__scheduler.html#ga282dd3f6ff79dd20e251e413e2b9915d" title="Inserts a thread into a queue. " alt="" coords="314,155,398,179"/>
+<area shape="rect" id="node12" href="$group__scheduler.html#gaa29f30122c114fd0ea21e16b68ef1710" title="Removes the last&#45;out thread from a queue and returns it. " alt="" coords="299,203,413,227"/>
+<area shape="rect" id="node13" href="$group__scheduler.html#ga77b181c31a97a1b724cee544718805fd" title="Inserts a thread into a priority ordered queue. " alt="" coords="302,251,410,275"/>
+</map>

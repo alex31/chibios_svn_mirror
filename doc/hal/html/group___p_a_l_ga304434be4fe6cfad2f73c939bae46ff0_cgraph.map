@@ -1,0 +1,6 @@
+<map id="palWaitLineTimeout" name="palWaitLineTimeout">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="191,5,271,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="185,53,276,77"/>
+<area shape="rect" id="node4" href="$group___p_a_l.html#ga8193d226bb32543dd248fd1f8427f6e1" title="Waits for an edge on the specified line. " alt="" coords="169,101,292,125"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga04971ea0e1c6201d0ea73920520d9f2b" title="Enqueues the caller thread. " alt="" coords="340,101,505,125"/>
+</map>

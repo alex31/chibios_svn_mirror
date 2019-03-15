@@ -1,0 +1,5 @@
+<map id="MMCConfig" name="MMCConfig">
+<area shape="rect" id="node2" href="$struct_s_p_i_driver.html" title="Structure representing an SPI driver. " alt="" coords="25,219,113,348"/>
+<area shape="rect" id="node4" href="$struct_s_p_i_config.html" title="Driver configuration structure. " alt="" coords="79,408,149,537"/>
+<area shape="rect" id="node3" href="$structstm32__dma__stream__t.html" title="STM32 DMA stream descriptor structure. " alt="" coords="5,5,132,147"/>
+</map>

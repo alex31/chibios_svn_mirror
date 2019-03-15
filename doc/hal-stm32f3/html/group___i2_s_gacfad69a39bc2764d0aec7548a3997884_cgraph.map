@@ -1,0 +1,6 @@
+<map id="i2sStop" name="i2sStop">
+<area shape="rect" id="node2" href="$group___i2_s.html#ga3a8cc1fe9eb29ab73b55e1ec076777d5" title="Deactivates the I2S peripheral. " alt="" coords="117,5,195,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="116,53,196,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="111,101,201,125"/>
+<area shape="rect" id="node3" href="$group___s_t_m32___d_m_a.html#ga6427d36d4aba6469fd46e53bf972211e" title="Releases a DMA stream. " alt="" coords="249,5,367,29"/>
+</map>

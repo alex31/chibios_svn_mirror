@@ -1,0 +1,5 @@
+<map id="chGuardedPoolAddI" name="chGuardedPoolAddI">
+<area shape="rect" id="node2" href="$group__pools.html#ga2f52185539edc32f4ee7d811d1c52310" title="Releases an object into a guarded memory pool. " alt="" coords="172,29,295,53"/>
+<area shape="rect" id="node3" href="$group__pools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool. " alt="" coords="346,5,426,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="343,53,429,77"/>
+</map>

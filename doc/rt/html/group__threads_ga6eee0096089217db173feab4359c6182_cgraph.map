@@ -1,0 +1,6 @@
+<map id="chThdSuspendS" name="chThdSuspendS">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state. " alt="" coords="155,29,253,53"/>
+<area shape="rect" id="node5" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t. " alt="" coords="157,77,251,101"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="301,5,417,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="302,53,417,77"/>
+</map>

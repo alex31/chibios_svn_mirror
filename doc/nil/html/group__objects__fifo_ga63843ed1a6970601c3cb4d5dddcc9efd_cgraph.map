@@ -1,0 +1,7 @@
+<map id="chFifoObjectInit" name="chFifoObjectInit">
+<area shape="rect" id="node2" href="$group__pools.html#ga953652e0bec92be1efaaa35c3d4cbd4f" title="Loads a guarded memory pool with an array of static objects. " alt="" coords="162,5,309,29"/>
+<area shape="rect" id="node4" href="$group__pools.html#ga0c777691eeabc5a25bb1b4b85015d819" title="Initializes an empty guarded memory pool. " alt="" coords="148,53,323,77"/>
+<area shape="rect" id="node6" href="$group__mailboxes.html#ga16c07e2378312ebbceacbb7e164369e4" title="Initializes a mailbox_t object. " alt="" coords="189,101,282,125"/>
+<area shape="rect" id="node3" href="$group__pools.html#ga3eaeec195350bdfbda9af5bf3300f4be" title="Adds an object to a guarded memory pool. " alt="" coords="380,5,495,29"/>
+<area shape="rect" id="node5" href="$group__pools.html#ga9f15bacf4d35f627ea442d80839ed34e" title="Initializes an empty memory pool. " alt="" coords="371,53,504,77"/>
+</map>

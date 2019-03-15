@@ -1,0 +1,4 @@
+<map id="BaseThermometer" name="BaseThermometer">
+<area shape="rect" id="node2" href="$struct_base_sensor.html" title="Base stream class. " alt="" coords="21,123,101,192"/>
+<area shape="rect" id="node3" href="$struct_base_object.html" title="Base stream class. " alt="" coords="23,5,99,75"/>
+</map>
