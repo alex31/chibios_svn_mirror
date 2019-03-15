@@ -1,0 +1,14 @@
+<map id="chMBPostTimeout" name="chMBPostTimeout">
+<area shape="rect" id="node2" href="$group__mailboxes.html#gadb7ad5c920e9dda2bd0e1b65082d2539" title="Posts a message into a mailbox. " alt="" coords="163,103,279,127"/>
+<area shape="rect" id="node8" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="185,251,257,275"/>
+<area shape="rect" id="node11" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="179,333,262,357"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="516,55,632,79"/>
+<area shape="rect" id="node4" href="$group__mailboxes.html#gab8460d4d099ba8df173fdd16aa289baf" title="Returns the number of free message slots into a mailbox. " alt="" coords="337,31,458,55"/>
+<area shape="rect" id="node5" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any. " alt="" coords="337,79,458,103"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="340,127,455,151"/>
+<area shape="rect" id="node7" href="$group__threads.html#ga0d344ce86a9f38dfa05b6cbe61eda16c" title="Enqueues the caller thread on a threads queue object. " alt="" coords="327,175,468,199"/>
+<area shape="rect" id="node9" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="346,223,449,247"/>
+<area shape="rect" id="node10" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="335,272,460,308"/>
+<area shape="rect" id="node12" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="340,333,455,357"/>
+<area shape="rect" id="node13" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="335,381,459,417"/>
+</map>

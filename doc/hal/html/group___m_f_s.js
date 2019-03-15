@@ -1,0 +1,68 @@
+var group___m_f_s =
+[
+    [ "mfs_bank_header_t", "unionmfs__bank__header__t.html", [
+      [ "magic1", "unionmfs__bank__header__t.html#af07be4c46da36cd169da72230c0ee39f", null ],
+      [ "magic2", "unionmfs__bank__header__t.html#a84c20d0a2ae20a1e935fad0042b40779", null ],
+      [ "counter", "unionmfs__bank__header__t.html#a8b5af728256fdc83c42ca84c213f097d", null ],
+      [ "reserved1", "unionmfs__bank__header__t.html#a5152c66f95be09090f9d51652d48b189", null ],
+      [ "crc", "unionmfs__bank__header__t.html#a2f4d3484a477130d76b5a876647df63a", null ]
+    ] ],
+    [ "mfs_data_header_t", "unionmfs__data__header__t.html", [
+      [ "magic", "unionmfs__data__header__t.html#a4059d4353c1c8457d5a9cb82e4842265", null ],
+      [ "id", "unionmfs__data__header__t.html#a243c81ced349af289bc2d494d8d5e0aa", null ],
+      [ "crc", "unionmfs__data__header__t.html#ab4b43f9403f8b4805e015d6a1bf2732a", null ],
+      [ "size", "unionmfs__data__header__t.html#ae27a08bcbaecf91cc067d378f25e0761", null ]
+    ] ],
+    [ "MFSConfig", "struct_m_f_s_config.html", [
+      [ "flashp", "struct_m_f_s_config.html#add51de97f84764637bf739cb5ad47e19", null ],
+      [ "erased", "struct_m_f_s_config.html#a028bf89c2ea56dfd85c0b4d72605e3bf", null ],
+      [ "bank_size", "struct_m_f_s_config.html#ac2652d7afe2112d13e36180b5936f761", null ],
+      [ "bank0_start", "struct_m_f_s_config.html#aa55cea8411953b807c632f6bdf7d0b0a", null ],
+      [ "bank0_sectors", "struct_m_f_s_config.html#ab4536601a57510d204016d81db189d39", null ],
+      [ "bank1_start", "struct_m_f_s_config.html#a39f912accb86b84d949e1e1dc2ed0a34", null ],
+      [ "bank1_sectors", "struct_m_f_s_config.html#af9812c111289904b7bbed1802ab8314b", null ]
+    ] ],
+    [ "MFSDriver", "struct_m_f_s_driver.html", [
+      [ "state", "struct_m_f_s_driver.html#acc6e1550f5a36f77f2ac6fc28d116075", null ],
+      [ "config", "struct_m_f_s_driver.html#a5156bf2198adb862e972b613a73fdd47", null ],
+      [ "current_bank", "struct_m_f_s_driver.html#a478c6f7768fe80177f0a17a4d3671a4e", null ],
+      [ "current_counter", "struct_m_f_s_driver.html#a00867f15f46b5907cc8ac56641168db2", null ],
+      [ "next_offset", "struct_m_f_s_driver.html#a11587b21e919ff44b2b66bdeaae0396e", null ],
+      [ "used_space", "struct_m_f_s_driver.html#abb468a017bc54a4c62f322deaf2c2d0b", null ],
+      [ "descriptors", "struct_m_f_s_driver.html#a4869ee6524e2cdfc11f8e11559586c77", null ],
+      [ "buffer", "struct_m_f_s_driver.html#af9978bcc8f41e20c294c529be3078504", null ]
+    ] ],
+    [ "RET_ON_ERROR", "group___m_f_s.html#ga0277a2d4d7591173f0275af429e33a13", null ],
+    [ "MFS_CFG_MAX_RECORDS", "group___m_f_s.html#ga0dd05a7bc7d3f69ee9e95c0fe3f26b38", null ],
+    [ "MFS_CFG_MAX_REPAIR_ATTEMPTS", "group___m_f_s.html#ga7370ae665f30570c642799ce51f7730d", null ],
+    [ "MFS_CFG_WRITE_VERIFY", "group___m_f_s.html#ga9387a02dbeca5b8288fd72afaa285ebe", null ],
+    [ "MFS_CFG_STRONG_CHECKING", "group___m_f_s.html#ga5b6511e1ff36948a405373a579ea95fe", null ],
+    [ "MFS_CFG_BUFFER_SIZE", "group___m_f_s.html#ga1b852c8a1778e81373b7e8a4626c5472", null ],
+    [ "mfs_id_t", "group___m_f_s.html#gab1553dd70ef82b0c4a4ba607c660563a", null ],
+    [ "mfs_bank_t", "group___m_f_s.html#gacd79c4165137b0cdce501f1fb9ee9f38", null ],
+    [ "mfs_state_t", "group___m_f_s.html#ga58f14c27920b69ab065a8f73281d2732", null ],
+    [ "mfs_error_t", "group___m_f_s.html#ga4907f190de6357e5dd4d92227c490cac", null ],
+    [ "mfs_bank_state_t", "group___m_f_s.html#gaece589baf17093143049bb73d07e1968", null ],
+    [ "mfs_record_state_t", "group___m_f_s.html#gaf4e3ea9fbb9b415259e2fa0bcfb55c1f", null ],
+    [ "mfs_flash_read", "group___m_f_s.html#gabfee0e57611e55ed09ad89610b9ffdfd", null ],
+    [ "mfs_flash_write", "group___m_f_s.html#ga7ff7f938edf6fc7d7568dff18696ce7c", null ],
+    [ "mfs_flash_copy", "group___m_f_s.html#ga97816ae2db1ccf97bf652877db13aff1", null ],
+    [ "mfs_record_check", "group___m_f_s.html#gafa2fc5d3f323e9a6c3d597432d57471d", null ],
+    [ "mfs_bank_erase", "group___m_f_s.html#gac66b45ab34eea80bfa81422127c430ed", null ],
+    [ "mfs_bank_verify_erase", "group___m_f_s.html#ga7ef3fba2f9e3b9d03811faa1eaf4bd09", null ],
+    [ "mfs_bank_write_header", "group___m_f_s.html#gac1f359bdbdb34e5a45832751f91ed73e", null ],
+    [ "mfs_bank_scan_records", "group___m_f_s.html#ga43672f7618a835997fa771e99e784184", null ],
+    [ "mfs_bank_get_state", "group___m_f_s.html#gae543e9eed45f7236869a8ffc5682c991", null ],
+    [ "mfs_bank_mount", "group___m_f_s.html#gaf98c194cbd68acefc32dc98848c53c59", null ],
+    [ "mfs_garbage_collect", "group___m_f_s.html#ga3880c92a1858f47e85bc21d586db2768", null ],
+    [ "mfs_try_mount", "group___m_f_s.html#ga5625fd5863620167862fc77ac1aedcf6", null ],
+    [ "mfs_mount", "group___m_f_s.html#ga973dac70b5f8ea14000fd262fef8a1fd", null ],
+    [ "mfsObjectInit", "group___m_f_s.html#gab79398dd37917f5ddc8e3f80d16e88b0", null ],
+    [ "mfsStart", "group___m_f_s.html#ga6869dc876ed8621a612ed5dd95afece6", null ],
+    [ "mfsStop", "group___m_f_s.html#gae3f8c1b72b2f060c3c6133ad93d41557", null ],
+    [ "mfsErase", "group___m_f_s.html#gae9f14dce0c75dee4e0a24ea776961a00", null ],
+    [ "mfsReadRecord", "group___m_f_s.html#ga2b6577aeec41970de3b351f27b728d0b", null ],
+    [ "mfsWriteRecord", "group___m_f_s.html#gaa8d796e4f2fda16203809b7eb2015467", null ],
+    [ "mfsEraseRecord", "group___m_f_s.html#ga05869bf0e68cd47e43c98663f1b6fbfc", null ],
+    [ "mfsPerformGarbageCollection", "group___m_f_s.html#ga88081d60d4dfc85bacb918e74809da1e", null ]
+];

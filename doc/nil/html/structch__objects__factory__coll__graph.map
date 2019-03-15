@@ -1,0 +1,6 @@
+<map id="ch_objects_factory" name="ch_objects_factory">
+<area shape="rect" id="node2" href="$structmemory__pool__t.html" title="Memory pool descriptor. " alt="" coords="43,147,139,240"/>
+<area shape="rect" id="node3" href="$structpool__header.html" title="Memory pool free object header. " alt="" coords="5,11,88,81"/>
+<area shape="rect" id="node4" href="$structch__dyn__list.html" title="Type of a dynamic object list. " alt="" coords="171,159,245,228"/>
+<area shape="rect" id="node5" href="$structch__dyn__element.html" title="Type of a dynamic object list element. " alt="" coords="166,5,266,87"/>
+</map>

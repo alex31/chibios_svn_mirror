@@ -1,0 +1,5 @@
+<map id="thermo_read_raw" name="thermo_read_raw">
+<area shape="rect" id="node2" href="$group___b_m_p085.html#gad970e50623db1f133f80b6f253b9f14c" title="Read the uncompensated temperature from the BMP085 register. " alt="" coords="161,29,233,53"/>
+<area shape="rect" id="node3" href="$group___b_m_p085.html#ga9dab0b471b0b0f90702de05eddfe3642" title="Reads registers value using I2C. " alt="" coords="281,5,425,29"/>
+<area shape="rect" id="node4" href="$group___b_m_p085.html#gabfe40544a14541418eda256f080c657f" title="Start temperature measurement. " alt="" coords="291,53,415,77"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="chBSemSignalI" name="chBSemSignalI">
+<area shape="rect" id="node2" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="435,21,547,45"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="148,69,235,93"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="596,21,665,45"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="291,45,377,69"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="433,117,548,141"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="287,192,381,216"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="283,93,385,117"/>
+</map>

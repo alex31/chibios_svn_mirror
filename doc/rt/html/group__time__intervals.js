@@ -1,0 +1,28 @@
+var group__time__intervals =
+[
+    [ "TIME_IMMEDIATE", "group__time__intervals.html#gad1ac15e9e5fc17810a94a779257f3d29", null ],
+    [ "TIME_INFINITE", "group__time__intervals.html#gae1568cf3090c973c3bc47f86ae2f5afb", null ],
+    [ "TIME_MAX_INTERVAL", "group__time__intervals.html#ga9ac34812bb2ce30482aed824cf3fd9d1", null ],
+    [ "TIME_MAX_SYSTIME", "group__time__intervals.html#ga93ff2a7b2bb16578aaa99e9394ad2f08", null ],
+    [ "TIME_S2I", "group__time__intervals.html#gacc53cbd0ba25359a89c90bc8197db4ab", null ],
+    [ "TIME_MS2I", "group__time__intervals.html#gae4cd9740b503480ce463b20777cef87d", null ],
+    [ "TIME_US2I", "group__time__intervals.html#ga847e311c99a0037e57e3a0a96c804d45", null ],
+    [ "TIME_I2S", "group__time__intervals.html#ga339364207f3ed3d2b1b13e285c0f1606", null ],
+    [ "TIME_I2MS", "group__time__intervals.html#gaf22fdc8f05cbbc34237e4ad393469ce8", null ],
+    [ "TIME_I2US", "group__time__intervals.html#gae5ddfa1b6f51a11dba4b56a9bdaa9c38", null ],
+    [ "systime_t", "group__time__intervals.html#ga71ff7dda122c48c3865d7023457389dc", null ],
+    [ "sysinterval_t", "group__time__intervals.html#gad8c7e789fad2b15933d341f706bab40e", null ],
+    [ "time_secs_t", "group__time__intervals.html#ga2cb1620c590a9a6db889710977935aef", null ],
+    [ "time_msecs_t", "group__time__intervals.html#gafebfbe9c6e07107e9f3c58911a6bf48f", null ],
+    [ "time_usecs_t", "group__time__intervals.html#gabf5f6a4ec69a059fe5cbb5b2449fecdd", null ],
+    [ "time_conv_t", "group__time__intervals.html#gaacacfcfdfcc2398ee621dd4c52335cef", null ],
+    [ "chTimeS2I", "group__time__intervals.html#ga69a746cc0477789c8b363c563896d990", null ],
+    [ "chTimeMS2I", "group__time__intervals.html#gade1bc98c712ebb6bdd9103659e606ff1", null ],
+    [ "chTimeUS2I", "group__time__intervals.html#ga141f1f7320e2ad75dd5e117172c1af77", null ],
+    [ "chTimeI2S", "group__time__intervals.html#ga68eccea5a4360a985d76d25760c1e2f2", null ],
+    [ "chTimeI2MS", "group__time__intervals.html#gabe9a299c425d002b66e5118358fbeb19", null ],
+    [ "chTimeI2US", "group__time__intervals.html#gadfc6d4e9830f2890a4e49b4e01454dfc", null ],
+    [ "chTimeAddX", "group__time__intervals.html#ga63f2799ab83096a112d2bbd73de8c4fc", null ],
+    [ "chTimeDiffX", "group__time__intervals.html#ga49404a18a4b3e9da5062d1269341c4bc", null ],
+    [ "chTimeIsInRangeX", "group__time__intervals.html#ga8c154e2f0827300e968f09da6aad9696", null ]
+];

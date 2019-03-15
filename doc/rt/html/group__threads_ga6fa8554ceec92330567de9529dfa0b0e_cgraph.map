@@ -1,0 +1,8 @@
+<map id="chThdRelease" name="chThdRelease">
+<area shape="rect" id="node2" href="$group__heaps.html#ga0fc553df0138f02e0b233be91e413c79" title="Frees a previously allocated memory block. " alt="" coords="172,5,255,29"/>
+<area shape="rect" id="node3" href="$group__pools.html#gaf05f38653b302ea0da0c1f7b50854a92" title="Releases an object into a memory pool. " alt="" coords="175,104,252,128"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="336,56,408,80"/>
+<area shape="rect" id="node6" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="331,152,413,176"/>
+<area shape="rect" id="node7" href="$group__threads.html#gaec1cdb96bf7415738cc56ecd6a688d5f" title="Returns the working area base of the specified thread. " alt="" coords="144,203,283,227"/>
+<area shape="rect" id="node5" href="$group__pools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool. " alt="" coords="332,104,412,128"/>
+</map>

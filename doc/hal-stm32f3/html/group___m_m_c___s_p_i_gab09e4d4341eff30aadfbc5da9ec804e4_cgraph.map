@@ -1,0 +1,8 @@
+<map id="sync" name="sync">
+<area shape="rect" id="node2" href="$group___s_p_i.html#gadd99ad823b391dde114f04dedafe5e80" title="Receives data from the SPI bus. " alt="" coords="97,101,171,125"/>
+<area shape="rect" id="node6" href="$group___s_p_i.html#ga00809152c869db80192aa3e04266a99a" title="Asserts the slave select signal and prepares for transfers. " alt="" coords="102,53,166,77"/>
+<area shape="rect" id="node7" href="$group___s_p_i.html#gae291c012872da9c89dec23581f701b5f" title="Deasserts the slave select signal. " alt="" coords="96,5,172,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="243,53,323,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga49573c45ca88cd172ee03da252f69ae4" title="Sends the current thread sleeping and sets a reference variable. " alt="" coords="220,101,345,125"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="237,5,328,29"/>
+</map>

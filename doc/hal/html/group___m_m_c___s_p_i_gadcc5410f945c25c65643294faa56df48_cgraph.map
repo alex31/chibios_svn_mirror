@@ -1,0 +1,4 @@
+<map id="recvr3" name="recvr3">
+<area shape="rect" id="node2" href="$group___m_m_c___s_p_i.html#ga3862a084e567aa0e36d86038f504b7b5" title="Receives a single byte response. " alt="" coords="105,5,157,29"/>
+<area shape="rect" id="node3" href="$group___s_p_i.html#gadd99ad823b391dde114f04dedafe5e80" title="Receives data from the SPI bus. " alt="" coords="205,31,279,55"/>
+</map>

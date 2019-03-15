@@ -1,0 +1,8 @@
+<map id="chRegFindThreadByName" name="chRegFindThreadByName">
+<area shape="rect" id="node2" href="$group__registry.html#ga474421f8e0d30103c2daeba89b296396" title="Returns the first thread in the system. " alt="" coords="393,122,503,146"/>
+<area shape="rect" id="node5" href="$group__registry.html#gaee72c645f4eda798eca5fcd6cab3398c" title="Returns the name of the specified thread. " alt="" coords="204,158,345,182"/>
+<area shape="rect" id="node6" href="$group__registry.html#ga4c7c1dba560c05eeb170929f13ec0250" title="Returns the thread next to the specified one. " alt="" coords="219,48,330,72"/>
+<area shape="rect" id="node3" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="556,73,628,97"/>
+<area shape="rect" id="node4" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="551,24,633,48"/>
+<area shape="rect" id="node7" href="$group__threads.html#ga6fa8554ceec92330567de9529dfa0b0e" title="Releases a reference to a thread object. " alt="" coords="403,24,493,48"/>
+</map>

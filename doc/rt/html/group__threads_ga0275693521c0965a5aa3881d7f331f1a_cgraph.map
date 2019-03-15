@@ -1,0 +1,9 @@
+<map id="chThdExitS" name="chThdExitS">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state. " alt="" coords="129,53,228,77"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="136,101,221,125"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#ga6af8866807da01ee84fee9f40719955f" title="Evaluates to true if the specified threads list is not empty. " alt="" coords="137,149,221,173"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga5bfc978d477f6d4528bc1970e9ac5aea" title="Pops a thread from the top of a stack list and returns it. " alt="" coords="141,197,217,221"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="276,5,392,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="277,53,391,77"/>
+<area shape="rect" id="node6" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="278,101,390,125"/>
+</map>

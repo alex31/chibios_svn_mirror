@@ -1,0 +1,8 @@
+<map id="LPS25HDriver" name="LPS25HDriver">
+<area shape="rect" id="node2" href="$struct_base_thermometer.html" title="Base thermometer class. " alt="" coords="199,135,311,204"/>
+<area shape="rect" id="node3" href="$struct_base_sensor.html" title="Base stream class. " alt="" coords="149,5,229,75"/>
+<area shape="rect" id="node6" href="$struct_base_barometer.html" title="Base barometer class. " alt="" coords="77,135,174,204"/>
+<area shape="rect" id="node4" href="$struct_base_thermometer_v_m_t.html" title="BaseThermometer virtual methods table. " alt="" coords="254,5,389,75"/>
+<area shape="rect" id="node5" href="$struct_l_p_s25_h_v_m_t.html" title="LPS25H virtual methods table. " alt="" coords="335,135,420,204"/>
+<area shape="rect" id="node7" href="$struct_base_barometer_v_m_t.html" title="BaseBarometer virtual methods table. " alt="" coords="5,5,125,75"/>
+</map>

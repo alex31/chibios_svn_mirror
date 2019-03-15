@@ -1,0 +1,6 @@
+<map id="gptStopTimer" name="gptStopTimer">
+<area shape="rect" id="node2" href="$group___g_p_t.html#gae53d7dcc146cc55a284690bfa82d210f" title="Stops the timer. " alt="" coords="140,5,231,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="145,53,225,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="140,101,231,125"/>
+<area shape="rect" id="node3" href="$group___g_p_t.html#ga79af60d200fd27a59501331b7b26b47d" title="Stops the timer. " alt="" coords="279,5,388,29"/>
+</map>

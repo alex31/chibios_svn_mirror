@@ -1,0 +1,5 @@
+<map id="ch_dyn_mailbox" name="ch_dyn_mailbox">
+<area shape="rect" id="node2" href="$structmailbox__t.html" title="Structure representing a mailbox object. " alt="" coords="27,147,94,276"/>
+<area shape="rect" id="node3" href="$structnil__threads__queue.html" title="Structure representing a queue of threads. " alt="" coords="5,5,116,75"/>
+<area shape="rect" id="node4" href="$structch__dyn__element.html" title="Type of a dynamic object list element. " alt="" coords="119,171,219,252"/>
+</map>

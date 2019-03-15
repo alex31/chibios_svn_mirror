@@ -1,0 +1,6 @@
+<map id="chSysLock" name="chSysLock">
+<area shape="rect" id="node2" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="137,5,239,29"/>
+<area shape="rect" id="node4" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="125,54,251,90"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="337,5,406,29"/>
+<area shape="rect" id="node5" href="$group__time__measurement.html#gac4b9d505d3e741917491cb5aec253c06" title="Starts a measurement. " alt="" coords="299,60,444,84"/>
+</map>

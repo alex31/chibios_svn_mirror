@@ -1,0 +1,5 @@
+<map id="usbStart" name="usbStart">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="121,5,201,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="116,53,207,77"/>
+<area shape="rect" id="node4" href="$group___u_s_b.html#gaac586e9d5ddc6a89c18516a3882bb8f1" title="Configures and activates the USB peripheral. " alt="" coords="120,101,203,125"/>
+</map>

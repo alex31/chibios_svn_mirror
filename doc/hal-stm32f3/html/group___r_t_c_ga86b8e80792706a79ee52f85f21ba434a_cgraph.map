@@ -1,0 +1,4 @@
+<map id="rtc_lld_set_alarm" name="rtc_lld_set_alarm">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#gab22201fb46c57d6f3fc673731fc9da18" title="Returns the execution status and enters a critical zone. " alt="" coords="156,5,309,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gabaa179dabe2ebb4a4e853a4096a3e9b0" title="Restores the specified execution status and leaves a critical zone. " alt="" coords="166,53,299,77"/>
+</map>

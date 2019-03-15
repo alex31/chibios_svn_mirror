@@ -1,0 +1,6 @@
+<map id="sens_read_raw" name="sens_read_raw">
+<area shape="rect" id="node2" href="$group___b_m_p085.html#ga0cdb4927674017eb307451658689d844" title="Read baromether raw data. " alt="" coords="155,5,251,29"/>
+<area shape="rect" id="node4" href="$group___b_m_p085.html#ga4488647726d87cde77c1efe8dcff0eb5" title="Read thermometer raw data. " alt="" coords="149,53,257,77"/>
+<area shape="rect" id="node3" href="$group___b_m_p085.html#ga892af3eb6aecbabacc02766f1c74c08c" title="Read the uncompensated pressure from the BMP085 register. " alt="" coords="305,5,380,29"/>
+<area shape="rect" id="node5" href="$group___b_m_p085.html#gad970e50623db1f133f80b6f253b9f14c" title="Read the uncompensated temperature from the BMP085 register. " alt="" coords="307,53,379,77"/>
+</map>

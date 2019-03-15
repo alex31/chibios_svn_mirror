@@ -1,0 +1,8 @@
+<map id="_usb_ep0out" name="_usb_ep0out">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga32db980c54089fe21370432a7a884e9f" title="Enters a critical zone from ISR context. " alt="" coords="143,5,267,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gab53a8f4b21ad79b9d2203eff4c72b529" title="Leaves a critical zone from ISR context. " alt="" coords="137,53,272,77"/>
+<area shape="rect" id="node4" href="$group___u_s_b.html#gadf46718eb0c2d0bf4982283682d64813" title="Brings an IN endpoint in the stalled state. " alt="" coords="158,101,251,125"/>
+<area shape="rect" id="node5" href="$group___u_s_b.html#gadf16a83ce060c7692c6383d2c61b7924" title="Brings an OUT endpoint in the stalled state. " alt="" coords="155,149,255,173"/>
+<area shape="rect" id="node6" href="$group___u_s_b.html#ga68806a465ab83984d4e4fdb335405079" title="Starts a transmit transaction on an IN endpoint. " alt="" coords="151,197,258,221"/>
+<area shape="rect" id="node7" href="$group___u_s_b.html#gab03273c7bdd1779638ef66bd3b20b2b9" title="Starts a transmit operation on an IN endpoint. " alt="" coords="320,197,416,221"/>
+</map>

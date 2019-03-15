@@ -1,0 +1,5 @@
+<map id="pwmStart" name="pwmStart">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="127,5,207,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="121,53,212,77"/>
+<area shape="rect" id="node4" href="$group___p_w_m.html#ga8a4d803d25a5326b48b3713ffd5fce53" title="Configures and activates the PWM peripheral. " alt="" coords="123,101,211,125"/>
+</map>

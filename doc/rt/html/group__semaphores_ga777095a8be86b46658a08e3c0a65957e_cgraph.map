@@ -1,0 +1,12 @@
+<map id="chSemWait" name="chSemWait">
+<area shape="rect" id="node2" href="$group__semaphores.html#ga7ddfa2a780e98c87891e657867b49ab6" title="Performs a wait operation on a semaphore. " alt="" coords="129,77,212,101"/>
+<area shape="rect" id="node6" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="135,177,207,201"/>
+<area shape="rect" id="node9" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="129,259,212,283"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="265,5,381,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="275,53,370,77"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="271,101,374,125"/>
+<area shape="rect" id="node7" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="271,149,374,173"/>
+<area shape="rect" id="node8" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="260,198,385,234"/>
+<area shape="rect" id="node10" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="265,259,380,283"/>
+<area shape="rect" id="node11" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="261,307,385,343"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="I2SDriver" name="I2SDriver">
+<area shape="rect" id="node2" href="$struct_i2_s_config.html" title="Driver configuration structure. " alt="" coords="31,396,106,513"/>
+<area shape="rect" id="node3" href="$structstm32__dma__stream__t.html" title="STM32 DMA stream descriptor structure. " alt="" coords="5,5,132,147"/>
+</map>

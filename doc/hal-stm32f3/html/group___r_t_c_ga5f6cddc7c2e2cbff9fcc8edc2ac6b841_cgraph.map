@@ -1,0 +1,6 @@
+<map id="rtcInit" name="rtcInit">
+<area shape="rect" id="node2" href="$group___r_t_c.html#ga167649286b06b62ece09ea6857773624" title="Enable access to registers. " alt="" coords="101,53,171,77"/>
+<area shape="rect" id="node3" href="$group___r_t_c.html#gaed3c0ba431fea2baabfc9e031b1f3134" title="Initializes a generic RTC driver object. " alt="" coords="221,5,300,29"/>
+<area shape="rect" id="node4" href="$group___r_t_c.html#ga2cbfcf70b0ad8d7f18c6f90949946a28" title="Beginning of configuration procedure. " alt="" coords="219,53,303,77"/>
+<area shape="rect" id="node5" href="$group___r_t_c.html#gaec9b76b674bb8dead972b08c500dffa5" title="Finalizing of configuration procedure. " alt="" coords="223,101,298,125"/>
+</map>

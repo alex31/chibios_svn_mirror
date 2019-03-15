@@ -1,0 +1,5 @@
+<map id="i2s_lld_start" name="i2s_lld_start">
+<area shape="rect" id="node2" href="$group___s_t_m32___d_m_a.html#ga2779cd46d0f5e9d7a6e549391e05cdd0" title="Allocates a DMA stream. " alt="" coords="147,5,261,29"/>
+<area shape="rect" id="node3" href="$group___i2_s.html#ga6799b0b297241e85aeda104e7c317463" title="Shared end&#45;of&#45;rx service routine. " alt="" coords="132,53,276,77"/>
+<area shape="rect" id="node4" href="$group___i2_s.html#gad8200eacd02d0b5ca833bec5c84c4794" title="Shared end&#45;of&#45;tx service routine. " alt="" coords="133,101,275,125"/>
+</map>

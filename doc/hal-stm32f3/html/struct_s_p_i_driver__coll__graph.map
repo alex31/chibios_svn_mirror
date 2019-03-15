@@ -1,0 +1,5 @@
+<map id="SPIDriver" name="SPIDriver">
+<area shape="rect" id="node3" href="$struct_s_p_i_config.html" title="Driver configuration structure. " alt="" coords="83,504,153,633"/>
+<area shape="rect" id="node2" href="$structstm32__dma__stream__t.html" title="STM32 DMA stream descriptor structure. " alt="" coords="113,5,240,147"/>
+<area shape="rect" id="node4" href="$structstm32__gpio__t.html" title="STM32 GPIO registers block. " alt="" coords="5,219,92,444"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="LIS3MDLDriver" name="LIS3MDLDriver">
+<area shape="rect" id="node2" href="$struct_base_compass.html" title="Base compass class. " alt="" coords="7,135,97,204"/>
+<area shape="rect" id="node3" href="$struct_base_sensor.html" title="Base stream class. " alt="" coords="5,5,85,75"/>
+<area shape="rect" id="node4" href="$struct_base_compass_v_m_t.html" title="BaseCompass virtual methods table. " alt="" coords="109,5,224,75"/>
+<area shape="rect" id="node5" href="$struct_l_i_s3_m_d_l_v_m_t.html" title="LIS3MDL virtual methods table. " alt="" coords="121,135,212,204"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="chMBFetchI" name="chMBFetchI">
+<area shape="rect" id="node2" href="$group___n_i_l___k_e_r_n_e_l.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="314,22,426,46"/>
+<area shape="rect" id="node4" href="$group__mailboxes.html#gab33c27e5b512214ba48233f6d3e01cac" title="Returns the number of used message slots into a mailbox. " alt="" coords="132,22,255,46"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any. " alt="" coords="133,70,254,94"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="485,22,555,46"/>
+<area shape="rect" id="node6" href="$group___n_i_l___k_e_r_n_e_l.html#gae831085cc734039b76cfe83ad53baf38" title="Dequeues and wakes up one thread from the threads queue object. " alt="" coords="303,70,437,94"/>
+</map>

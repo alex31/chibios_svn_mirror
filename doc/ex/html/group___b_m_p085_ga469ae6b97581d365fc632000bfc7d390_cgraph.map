@@ -1,0 +1,19 @@
+<map id="thermo_reset_sensivity" name="thermo_reset_sensivity">
+<area shape="rect" id="node2" href="$group___b_m_p085.html#ga98fc6236d729e27ba2f537bbdbe6b892" title="Get the barometer number of axes. " alt="" coords="374,23,510,47"/>
+<area shape="rect" id="node3" href="$group___b_m_p085.html#gae79372532229a29b56c3a85e45bd2b57" title="Read barometer cooked data. " alt="" coords="386,149,498,173"/>
+<area shape="rect" id="node4" href="$group___b_m_p085.html#ga0cdb4927674017eb307451658689d844" title="Read baromether raw data. " alt="" coords="570,198,666,222"/>
+<area shape="rect" id="node6" href="$group___b_m_p085.html#ga292699bc17c6f14aa9d2d6c9d9b9009f" title="Reset the barometer bias. " alt="" coords="203,447,301,471"/>
+<area shape="rect" id="node7" href="$group___b_m_p085.html#ga86ff5826aecb7e56243bd15f8360013c" title="Reset the barometer sensivity. " alt="" coords="193,495,311,519"/>
+<area shape="rect" id="node8" href="$group___b_m_p085.html#ga99c8a81835f4f3e267f5f8bb428d42c7" title="Set the barometer bias. " alt="" coords="207,543,297,567"/>
+<area shape="rect" id="node9" href="$group___b_m_p085.html#ga8f5c0128ced3c7e569604d4c9f4542b1" title="Set the barometer sensivity. " alt="" coords="197,591,307,615"/>
+<area shape="rect" id="node10" href="$group___b_m_p085.html#gae0d0a836ecc8852ea228722bb1e30566" title="Get the sensor number of axes. " alt="" coords="184,47,320,71"/>
+<area shape="rect" id="node11" href="$group___b_m_p085.html#ga9fb228408580d2781538d2f634ae08d4" title="Get the thermometer number of axes. " alt="" coords="368,71,516,95"/>
+<area shape="rect" id="node12" href="$group___b_m_p085.html#ga8d5870c04b7c0db87ecfad369da4e0f4" title="Read BMP085 sensor cooked data. " alt="" coords="196,298,308,322"/>
+<area shape="rect" id="node13" href="$group___b_m_p085.html#gad32d30f88de83b5c73dc451e806ff0da" title="Read thermometer cooked data. " alt="" coords="380,323,504,347"/>
+<area shape="rect" id="node14" href="$group___b_m_p085.html#ga4488647726d87cde77c1efe8dcff0eb5" title="Read thermometer raw data. " alt="" coords="564,323,672,347"/>
+<area shape="rect" id="node15" href="$group___b_m_p085.html#gaf4491c652ef7470f1fa4069884963dca" title="Read BMP085 sensor raw data. " alt="" coords="394,249,490,273"/>
+<area shape="rect" id="node16" href="$group___b_m_p085.html#gae9fcb7c60c0660b741ef80d9882c586d" title="Reset the thermometer bias. " alt="" coords="197,639,307,663"/>
+<area shape="rect" id="node17" href="$group___b_m_p085.html#ga32d677a76e9cc2e32d8576ac7a7fa616" title="Set the thermometer bias. " alt="" coords="201,687,303,711"/>
+<area shape="rect" id="node18" href="$group___b_m_p085.html#ga27219c51b6028c8f911633dd0d5e1b71" title="Set the thermometer sensivity. " alt="" coords="191,735,313,759"/>
+<area shape="rect" id="node5" href="$group___b_m_p085.html#ga833dacf6be7d61a599b867e08228a02b" title="Calcul the true pressure. " alt="" coords="588,149,648,173"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="uartStart" name="uartStart">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="123,5,203,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="117,53,208,77"/>
+<area shape="rect" id="node4" href="$group___u_a_r_t.html#ga3d362eceb6050bf012b52a61a669674d" title="Configures and activates the UART peripheral. " alt="" coords="121,101,205,125"/>
+<area shape="rect" id="node5" href="$group___s_t_m32___d_m_a.html#ga2779cd46d0f5e9d7a6e549391e05cdd0" title="Allocates a DMA stream. " alt="" coords="272,53,387,77"/>
+<area shape="rect" id="node6" href="$group___u_a_r_t.html#gaf65dea7ee4566c3a457f6bb1407de4c2" title="RX DMA common service routine. " alt="" coords="256,101,403,125"/>
+<area shape="rect" id="node7" href="$group___u_a_r_t.html#ga39788ecd6679f3d4388ac36cfc04d072" title="TX DMA common service routine. " alt="" coords="257,149,402,173"/>
+</map>

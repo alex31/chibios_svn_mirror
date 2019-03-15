@@ -1,0 +1,11 @@
+<map id="mmcStartSequentialWrite" name="mmcStartSequentialWrite">
+<area shape="rect" id="node2" href="$group___m_m_c___s_p_i.html#ga9e3bc1849600a89d28eac5aaa8e5ea14" title="Sends a command header. " alt="" coords="196,76,263,100"/>
+<area shape="rect" id="node8" href="$group___s_p_i.html#ga00809152c869db80192aa3e04266a99a" title="Asserts the slave select signal and prepares for transfers. " alt="" coords="311,149,375,173"/>
+<area shape="rect" id="node9" href="$group___s_p_i.html#ga6752c9f736f8de774a5bef6dfe2aae2e" title="Configures and activates the SPI peripheral. " alt="" coords="313,197,372,221"/>
+<area shape="rect" id="node3" href="$group___m_m_c___s_p_i.html#gac82b7e209601c890c0d1587cefaf0813" title="Calculate the MMC standard CRC&#45;7 based on a lookup table. " alt="" coords="321,5,364,29"/>
+<area shape="rect" id="node4" href="$group___s_p_i.html#ga382cfbdffd2df57cf3843d45164e8bfc" title="Sends data over the SPI bus. " alt="" coords="313,101,373,125"/>
+<area shape="rect" id="node7" href="$group___m_m_c___s_p_i.html#ga2047c3d4f7ce72dcb6c4942f57e92600" title="Waits an idle condition. " alt="" coords="322,53,363,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="428,149,508,173"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="423,101,513,125"/>
+<area shape="rect" id="node10" href="$group___s_p_i.html#gaf35495bd4459608ae22a3f728fd4697b" title="Configures and activates the SPI peripheral. " alt="" coords="429,197,507,221"/>
+</map>

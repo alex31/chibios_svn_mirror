@@ -1,0 +1,7 @@
+<map id="chSchCanYieldS" name="chSchCanYieldS">
+<area shape="rect" id="node2" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="174,5,290,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga00ba2b2d1831c7d7821f9be234750404" title="Switches to the first thread on the runnable queue. " alt="" coords="155,53,309,77"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="380,5,449,29"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="372,53,457,77"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="357,101,472,125"/>
+</map>

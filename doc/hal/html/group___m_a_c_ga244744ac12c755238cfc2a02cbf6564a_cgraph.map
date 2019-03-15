@@ -1,0 +1,5 @@
+<map id="macStop" name="macStop">
+<area shape="rect" id="node2" href="$group___m_a_c.html#ga911fa66cf2aa37f1c981fbf74d140565" title="Deactivates the MAC peripheral. " alt="" coords="121,5,205,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="123,53,203,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="117,101,208,125"/>
+</map>

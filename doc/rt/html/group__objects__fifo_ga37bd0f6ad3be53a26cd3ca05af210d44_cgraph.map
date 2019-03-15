@@ -1,0 +1,7 @@
+<map id="chFifoReturnObject" name="chFifoReturnObject">
+<area shape="rect" id="node2" href="$group__pools.html#gae5bea19ddba702004aa51d5b4d29549d" title="Releases an object into a guarded memory pool. " alt="" coords="168,77,287,101"/>
+<area shape="rect" id="node3" href="$group__pools.html#ga2f52185539edc32f4ee7d811d1c52310" title="Releases an object into a guarded memory pool. " alt="" coords="335,5,457,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="339,53,453,77"/>
+<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="360,101,432,125"/>
+<area shape="rect" id="node6" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="355,149,437,173"/>
+</map>

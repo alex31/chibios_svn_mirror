@@ -1,0 +1,16 @@
+<map id="chSemSignalWait" name="chSemSignalWait">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="167,17,253,41"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="174,341,246,365"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="317,53,432,77"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="163,420,257,444"/>
+<area shape="rect" id="node10" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="159,149,261,173"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="319,5,431,29"/>
+<area shape="rect" id="node5" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="323,341,426,365"/>
+<area shape="rect" id="node6" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="312,390,437,426"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#gab9b2132009ba2cef65d3fca0cfb354ef" title="Pushes a thread_t on top of a stack list. " alt="" coords="341,451,408,475"/>
+<area shape="rect" id="node11" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="309,101,440,125"/>
+<area shape="rect" id="node12" href="$group__scheduler.html#ga2061d80ce782ea1c9822d158d7ae88b4" title="Removes a thread from a queue and returns it. " alt="" coords="325,149,425,173"/>
+<area shape="rect" id="node13" href="$group__scheduler.html#ga282dd3f6ff79dd20e251e413e2b9915d" title="Inserts a thread into a queue. " alt="" coords="333,197,417,221"/>
+<area shape="rect" id="node14" href="$group__scheduler.html#gaa29f30122c114fd0ea21e16b68ef1710" title="Removes the last&#45;out thread from a queue and returns it. " alt="" coords="318,245,431,269"/>
+<area shape="rect" id="node15" href="$group__scheduler.html#ga77b181c31a97a1b724cee544718805fd" title="Inserts a thread into a priority ordered queue. " alt="" coords="321,293,429,317"/>
+</map>

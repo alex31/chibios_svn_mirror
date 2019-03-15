@@ -1,0 +1,8 @@
+<map id="spiStart" name="spiStart">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="117,5,197,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="112,53,203,77"/>
+<area shape="rect" id="node4" href="$group___s_p_i.html#gaf35495bd4459608ae22a3f728fd4697b" title="Configures and activates the SPI peripheral. " alt="" coords="118,101,197,125"/>
+<area shape="rect" id="node5" href="$group___s_t_m32___d_m_a.html#ga2779cd46d0f5e9d7a6e549391e05cdd0" title="Allocates a DMA stream. " alt="" coords="265,53,380,77"/>
+<area shape="rect" id="node6" href="$group___s_p_i.html#gaba8e1940da653bc6ef925c2c2bcc6336" title="Shared end&#45;of&#45;rx service routine. " alt="" coords="251,101,395,125"/>
+<area shape="rect" id="node7" href="$group___s_p_i.html#gaccf0075d83acb850d02c447bc281c32c" title="Shared end&#45;of&#45;tx service routine. " alt="" coords="251,149,394,173"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="chMtxUnlockS" name="chMtxUnlockS">
+<area shape="rect" id="node2" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="327,152,443,176"/>
+<area shape="rect" id="node4" href="$group__mutexes.html#ga89933152191cb4dfce30c2a6f42f8758" title="Returns true if the mutex queue contains at least a waiting thread. " alt="" coords="143,53,279,77"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="491,101,605,125"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="168,5,253,29"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="653,103,723,127"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="333,53,436,77"/>
+<area shape="rect" id="node6" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="492,53,604,77"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="i2c_lld_serve_interrupt" name="i2c_lld_serve_interrupt">
+<area shape="rect" id="node2" href="$group___i2_c.html#ga1dd450c969b3a0b9870f2ffab1b5c294" title="I2C RX transfer setup. " alt="" coords="183,5,324,29"/>
+<area shape="rect" id="node3" href="$group___i2_c.html#ga65ec3b17b817f169dfdef715ed94d82d" title="I2C TX transfer setup. " alt="" coords="183,53,323,77"/>
+</map>

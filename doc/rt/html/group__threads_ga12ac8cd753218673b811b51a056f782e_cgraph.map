@@ -1,0 +1,12 @@
+<map id="chThdCreateSuspended" name="chThdCreateSuspended">
+<area shape="rect" id="node2" href="$group__threads.html#gab1a711303711a9b5fcd284c55ec965df" title="Memory fill utility. " alt="" coords="234,5,333,29"/>
+<area shape="rect" id="node3" href="$group__registry.html#gad61a254c4d4ff6bf0c2df373503360f2" title="Confirms that a working area is being used by some active thread. " alt="" coords="192,152,375,176"/>
+<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="615,104,687,128"/>
+<area shape="rect" id="node6" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="609,152,692,176"/>
+<area shape="rect" id="node9" href="$group__threads.html#gaebe8fd53a7a4630249085179b5f140eb" title="Creates a new thread into a static memory area. " alt="" coords="212,299,355,323"/>
+<area shape="rect" id="node4" href="$group__registry.html#ga474421f8e0d30103c2daeba89b296396" title="Returns the first thread in the system. " alt="" coords="437,152,547,176"/>
+<area shape="rect" id="node7" href="$group__threads.html#gaec1cdb96bf7415738cc56ecd6a688d5f" title="Returns the working area base of the specified thread. " alt="" coords="423,200,561,224"/>
+<area shape="rect" id="node8" href="$group__registry.html#ga4c7c1dba560c05eeb170929f13ec0250" title="Returns the thread next to the specified one. " alt="" coords="437,104,547,128"/>
+<area shape="rect" id="node10" href="$group__threads.html#ga3a54dd6f478d5e64e019879b9a118481" title="Initializes a thread structure. " alt="" coords="453,347,531,371"/>
+<area shape="rect" id="node11" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="436,299,548,323"/>
+</map>

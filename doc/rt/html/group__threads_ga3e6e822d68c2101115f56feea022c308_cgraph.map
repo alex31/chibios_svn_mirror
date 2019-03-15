@@ -1,0 +1,16 @@
+<map id="chThdWait" name="chThdWait">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state. " alt="" coords="127,53,225,77"/>
+<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="465,348,537,372"/>
+<area shape="rect" id="node8" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="460,153,543,177"/>
+<area shape="rect" id="node11" href="$group__threads.html#ga6fa8554ceec92330567de9529dfa0b0e" title="Releases a reference to a thread object. " alt="" coords="131,251,221,275"/>
+<area shape="rect" id="node15" href="$group__scheduler.html#gab9b2132009ba2cef65d3fca0cfb354ef" title="Pushes a thread_t on top of a stack list. " alt="" coords="143,448,209,472"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="285,53,401,77"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="285,5,400,29"/>
+<area shape="rect" id="node6" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="602,320,705,344"/>
+<area shape="rect" id="node7" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="591,369,716,405"/>
+<area shape="rect" id="node9" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="596,125,711,149"/>
+<area shape="rect" id="node10" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="591,174,715,210"/>
+<area shape="rect" id="node12" href="$group__heaps.html#ga0fc553df0138f02e0b233be91e413c79" title="Frees a previously allocated memory block. " alt="" coords="301,251,384,275"/>
+<area shape="rect" id="node13" href="$group__pools.html#gaf05f38653b302ea0da0c1f7b50854a92" title="Releases an object into a memory pool. " alt="" coords="304,203,381,227"/>
+<area shape="rect" id="node14" href="$group__threads.html#gaec1cdb96bf7415738cc56ecd6a688d5f" title="Returns the working area base of the specified thread. " alt="" coords="273,299,412,323"/>
+</map>

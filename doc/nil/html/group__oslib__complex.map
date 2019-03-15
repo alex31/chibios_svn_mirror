@@ -1,0 +1,5 @@
+<map id="Complex Services" name="Complex Services">
+<area shape="rect" id="node1" href="$group__objects__factory.html" title="Dynamic Objects Factory" alt="" coords="281,5,421,29"/>
+<area shape="rect" id="node2" href="$group__objects__fifo.html" title="Objects FIFOs" alt="" coords="306,53,397,77"/>
+<area shape="rect" id="node3" href="$group__oslib.html" title="OS Library" alt="" coords="5,29,79,53"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="icuWaitCapture" name="icuWaitCapture">
+<area shape="rect" id="node2" href="$group___i_c_u.html#ga11ecf6dcdc8b409dad5f2ae7fd5bb978" title="Waits for a completed capture. " alt="" coords="148,5,267,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="167,53,247,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="162,101,253,125"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="OS Library" name="OS Library">
+<area shape="rect" id="node1" href="$group__oslib__memory.html" title="Memory Management" alt="" coords="127,5,253,29"/>
+<area shape="rect" id="node2" href="$group__oslib__synchronization.html" title="Synchronization" alt="" coords="141,53,239,77"/>
+<area shape="rect" id="node3" href="$group__oslib__info.html" title="Version Numbers and\l Identification" alt="" coords="127,102,253,138"/>
+<area shape="rect" id="node5" href="$group__oslib__complex.html" title="Complex Services" alt="" coords="137,163,243,187"/>
+</map>

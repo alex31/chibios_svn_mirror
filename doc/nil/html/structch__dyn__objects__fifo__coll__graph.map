@@ -1,0 +1,6 @@
+<map id="ch_dyn_objects_fifo" name="ch_dyn_objects_fifo">
+<area shape="rect" id="node2" href="$structch__objects__fifo.html" title="Type of an objects FIFO. " alt="" coords="57,201,149,270"/>
+<area shape="rect" id="node3" href="$structmailbox__t.html" title="Structure representing a mailbox object. " alt="" coords="5,5,72,135"/>
+<area shape="rect" id="node4" href="$structguarded__memory__pool__t.html" title="Guarded memory pool descriptor. " alt="" coords="97,35,239,105"/>
+<area shape="rect" id="node5" href="$structch__dyn__element.html" title="Type of a dynamic object list element. " alt="" coords="173,195,273,276"/>
+</map>

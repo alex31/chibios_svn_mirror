@@ -1,0 +1,15 @@
+<map id="chBSemSignal" name="chBSemSignal">
+<area shape="rect" id="node2" href="$group__binary__semaphores.html#ga57935ef53e9909b1cde01474cb726d4c" title="Performs a signal operation on a binary semaphore. " alt="" coords="154,29,249,53"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="144,152,259,176"/>
+<area shape="rect" id="node9" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="165,224,237,248"/>
+<area shape="rect" id="node12" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="160,333,243,357"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="509,5,621,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="339,29,426,53"/>
+<area shape="rect" id="node6" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="507,127,623,151"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#ga6827a67e839462e65b5765ef15709c97" title="Switches to the first thread on the runnable queue. " alt="" coords="307,128,459,152"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="317,176,448,200"/>
+<area shape="rect" id="node10" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="331,224,434,248"/>
+<area shape="rect" id="node11" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="320,273,445,309"/>
+<area shape="rect" id="node13" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="325,333,440,357"/>
+<area shape="rect" id="node14" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="321,382,445,418"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ch_system" name="ch_system">
+<area shape="rect" id="node2" href="$structch__virtual__timers__list.html" title="Virtual timers list header. " alt="" coords="26,243,146,336"/>
+<area shape="rect" id="node3" href="$structch__virtual__timer.html" title="Virtual Timer descriptor structure. " alt="" coords="5,17,103,111"/>
+<area shape="rect" id="node4" href="$structkernel__stats__t.html" title="Type of a kernel statistics structure. " alt="" coords="515,249,603,330"/>
+<area shape="rect" id="node5" href="$structtime__measurement__t.html" title="Type of a Time Measurement object. " alt="" coords="571,5,694,123"/>
+<area shape="rect" id="node7" href="$structch__thread.html" title="Structure representing a thread. " alt="" coords="661,195,748,384"/>
+<area shape="rect" id="node6" href="$structtm__calibration__t.html" title="Type of a time measurement calibration data. " alt="" coords="308,255,405,324"/>
+<area shape="rect" id="node9" href="$structch__threads__queue.html" title="Generic threads bidirectional linked list header and element. " alt="" coords="844,456,955,525"/>
+<area shape="rect" id="node10" href="$structch__threads__list.html" title="Generic threads single link list, it works like a stack. " alt="" coords="726,456,819,525"/>
+<area shape="rect" id="node11" href="$structch__mutex.html" title="Mutex structure. " alt="" coords="627,585,695,655"/>
+<area shape="rect" id="node8" href="$structch__semaphore.html" title="Semaphore structure. " alt="" coords="926,585,1019,655"/>
+<area shape="rect" id="node12" href="$structch__system__debug.html" title="System debug data structure. " alt="" coords="176,243,284,336"/>
+<area shape="rect" id="node13" href="$structch__trace__buffer__t.html" title="Trace buffer header. " alt="" coords="182,23,289,105"/>
+</map>

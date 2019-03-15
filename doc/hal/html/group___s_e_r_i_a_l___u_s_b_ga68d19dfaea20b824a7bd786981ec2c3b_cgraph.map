@@ -1,0 +1,5 @@
+<map id="sduDataReceived" name="sduDataReceived">
+<area shape="rect" id="node2" href="$group___h_a_l___b_u_f_f_e_r_s.html#ga3e94f93761d76e5b8d75b67ab1bcaa6b" title="Posts a new filled buffer to the queue. " alt="" coords="169,5,275,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga32db980c54089fe21370432a7a884e9f" title="Enters a critical zone from ISR context. " alt="" coords="160,53,284,77"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gaf09bde5867505af235277e0a888044b8" title="Dequeues and wakes up one thread from the queue, if any. " alt="" coords="332,5,477,29"/>
+</map>
