@@ -414,7 +414,7 @@ void sduSOFHookI(SerialUSBDriver *sdup) {
   /* Checking if there only a buffer partially filled, if so then it is
      enforced in the queue and transmitted.*/
   if (obqTryFlushI(&sdup->obqueue)) {
-    size_t n;
+    size_t n=0U;
     uint8_t *buf = obqGetFullBufferI(&sdup->obqueue, &n);
 
     osalDbgAssert(buf != NULL, "queue is empty");

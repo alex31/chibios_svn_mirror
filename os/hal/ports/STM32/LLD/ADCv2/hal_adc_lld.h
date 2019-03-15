@@ -1,5 +1,5 @@
 /*
-    ChibiOS - Copyright (C) 2006..2018 Giovanni Di Sirio
+    ChibiOS - Copyright (C) 2006..2016 Giovanni Di Sirio
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -59,9 +59,16 @@
 #define ADC_CR2_EXTEN_RISING    (1U << 28U)
 #define ADC_CR2_EXTEN_FALLING   (2U << 28U)
 #define ADC_CR2_EXTEN_BOTH      (3U << 28U)
+#define ADC_CR2_JEXTEN_MASK      (3U << 20U)
+#define ADC_CR2_JEXTEN_DISABLED  (0U << 20U)
+#define ADC_CR2_JEXTEN_RISING    (1U << 20U)
+#define ADC_CR2_JEXTEN_FALLING   (2U << 20U)
+#define ADC_CR2_JEXTEN_BOTH      (3U << 20U)
 
 #define ADC_CR2_EXTSEL_MASK     (15U << 24U)
 #define ADC_CR2_EXTSEL_SRC(n)   ((n) << 24U)
+#define ADC_CR2_JEXTSEL_MASK    (15U << 16U)
+#define ADC_CR2_JEXTSEL_SRC(n)  ((n) << 16U)
 /** @} */
 
 /**
@@ -116,9 +123,40 @@
 #define ADC_SAMPLE_480          7   /**< @brief 480 cycles sampling time.   */
 /** @} */
 
+
+/**
+ * @name    Multi ADC synchronised mode
+ * @{
+ */
+#define ADC_DUAL_MODE			0x0   /**< @brief Multi mode with ADC1 and ADC2.       */
+#define ADC_TRIPLE_MODE			0x10  /**< @brief Multi mode with ADC1, ADC2 and ADC3. */
+#define ADC_SIMULT_REGULAR_AND_INJECTED	0x1   /**< @brief Regular simultaneous + injected simultaneous mode */
+#define ADC_SIMULT_REGULAR_AND_ALT_TRIG	0x2   /**< @brief Regular simultaneous + alternate trigger mode */
+#define ADC_SIMULT_INJECTED_ONLY	0x5   /**< @brief Injected simultaneous mode only */
+#define ADC_SIMULT_REGULAR_ONLY		0x6   /**< @brief Regular simultaneous mode only */
+#define ADC_INTERLEAVED			0x7   /**< @brief Interleaved mode only */
+#define ADC_ALT_TRIG_ONLY		0x9   /**< @brief Alternate trigger mode only */
+/** @} */
+
+
+
+
 /*===========================================================================*/
 /* Driver pre-compile time settings.                                         */
 /*===========================================================================*/
+
+/**
+ * @name    Configuration options
+ * @{
+ */
+/**
+ * @brief   ADC injected enable switch
+ * @details if set to @p TRUE the support for injected conversion is included
+ * @note    The default is @p FALSE.
+ */
+#if !defined(STM32_ADC_USE_INJECTED) || defined(__DOXYGEN__)
+#define   STM32_ADC_USE_INJECTED            FALSE
+#endif
 
 /**
  * @name    Configuration options
@@ -165,6 +203,11 @@
 /**
  * @brief   DMA stream used for ADC1 operations.
  */
+
+#if !defined(STM32_ADC_ADC1_INJECTED_NO_DMA) || defined(__DOXYGEN__)
+#define STM32_ADC_ADC1_INJECTED_NO_DMA FALSE
+#endif
+
 #if !defined(STM32_ADC_ADC1_DMA_STREAM) || defined(__DOXYGEN__)
 #define STM32_ADC_ADC1_DMA_STREAM           STM32_DMA_STREAM_ID(2, 4)
 #endif
@@ -172,6 +215,10 @@
 /**
  * @brief   DMA stream used for ADC2 operations.
  */
+#if !defined(STM32_ADC_ADC2_INJECTED_NO_DMA) || defined(__DOXYGEN__)
+#define STM32_ADC_ADC2_INJECTED_NO_DMA FALSE
+#endif
+
 #if !defined(STM32_ADC_ADC2_DMA_STREAM) || defined(__DOXYGEN__)
 #define STM32_ADC_ADC2_DMA_STREAM           STM32_DMA_STREAM_ID(2, 2)
 #endif
@@ -179,6 +226,10 @@
 /**
  * @brief   DMA stream used for ADC3 operations.
  */
+#if !defined(STM32_ADC_ADC3_INJECTED_NO_DMA) || defined(__DOXYGEN__)
+#define STM32_ADC_ADC3_INJECTED_NO_DMA FALSE
+#endif
+
 #if !defined(STM32_ADC_ADC3_DMA_STREAM) || defined(__DOXYGEN__)
 #define STM32_ADC_ADC3_DMA_STREAM           STM32_DMA_STREAM_ID(2, 1)
 #endif
@@ -256,17 +307,17 @@
 #error "ADC driver activated but no ADC peripheral assigned"
 #endif
 
-#if STM32_ADC_USE_ADC1 &&                                                   \
+#if STM32_ADC_USE_ADC1 && !STM32_ADC_ADC2_INJECTED_NO_DMA &&          \
     !STM32_DMA_IS_VALID_ID(STM32_ADC_ADC1_DMA_STREAM, STM32_ADC1_DMA_MSK)
 #error "invalid DMA stream associated to ADC1"
 #endif
 
-#if STM32_ADC_USE_ADC2 &&                                                   \
+#if STM32_ADC_USE_ADC2 && !STM32_ADC_ADC2_INJECTED_NO_DMA &&          \
     !STM32_DMA_IS_VALID_ID(STM32_ADC_ADC2_DMA_STREAM, STM32_ADC2_DMA_MSK)
 #error "invalid DMA stream associated to ADC2"
 #endif
 
-#if STM32_ADC_USE_ADC3 &&                                                   \
+#if STM32_ADC_USE_ADC3 && !STM32_ADC_ADC3_INJECTED_NO_DMA &&	       \
     !STM32_DMA_IS_VALID_ID(STM32_ADC_ADC3_DMA_STREAM, STM32_ADC3_DMA_MSK)
 #error "invalid DMA stream associated to ADC3"
 #endif
@@ -331,6 +382,17 @@ typedef struct ADCDriver ADCDriver;
  * @param[in] n         number of buffer rows available starting from @p buffer
  */
 typedef void (*adccallback_t)(ADCDriver *adcp, adcsample_t *buffer, size_t n);
+
+#if STM32_ADC_USE_INJECTED
+/**
+ * @brief   ADC end of injected conversion callback type.
+ *
+ * @param[in] adcp      pointer to the @p ADCDriver object triggering the
+ *                      callback
+ * @param[in] err       ADC error code
+ */
+typedef void (*adcinjectedcallback_t)(ADCDriver *adcp);
+#endif
 
 /**
  * @brief   ADC error callback type.
@@ -417,6 +479,24 @@ typedef struct {
    * @details Conversion group sequence 1...6.
    */
   uint32_t                  sqr3;
+
+#if STM32_ADC_USE_INJECTED
+  /**
+   * @brief   Number of the analog channels belonging to the injected conversion group.
+   */
+  adc_channels_num_t        num_injected_channels;
+  /**
+   * @brief   Callback function associated to the group or @p NULL.
+   */
+  adcinjectedcallback_t             injected_end_cb;
+  /**
+   * @brief   ADC JSQR register initialization data.
+   * @note    All the required bits must be defined into this field except
+   *          @p ADC_JSQR_JL that is enforced inside the driver.
+   */
+  uint32_t                  jsqr;
+#endif // STM32_ADC_USE_INJECTED
+  
 } ADCConversionGroup;
 
 /**
@@ -512,6 +592,18 @@ struct ADCDriver {
 #define ADC_SQR1_SQ14_N(n)      ((n) << 5)  /**< @brief 14th channel in seq.*/
 #define ADC_SQR1_SQ15_N(n)      ((n) << 10) /**< @brief 15th channel in seq.*/
 #define ADC_SQR1_SQ16_N(n)      ((n) << 15) /**< @brief 16th channel in seq.*/
+
+#if STM32_ADC_USE_INJECTED
+/**
+ * @brief   Number of channels in a injected conversion sequence.
+ */
+#define ADC_JSQR_NUM_JCH(n)     (((n) - 1) << 20)
+#define ADC_JSQR_JSQ1_N(n)      ((n) << 0)  /**< @brief 1st channel in injected seq.*/
+#define ADC_JSQR_JSQ2_N(n)      ((n) << 5)  /**< @brief 2nd channel in injected seq.*/
+#define ADC_JSQR_JSQ3_N(n)      ((n) << 10) /**< @brief 3rd channel in injected seq.*/
+#define ADC_JSQR_JSQ4_N(n)      ((n) << 15) /**< @brief 4th channel in injected seq.*/
+#endif // STM32_ADC_USE_INJECTED
+
 /** @} */
 
 /**
@@ -584,6 +676,13 @@ extern "C" {
   void adcSTM32DisableTSVREFE(void);
   void adcSTM32EnableVBATE(void);
   void adcSTM32DisableVBATE(void);
+  void adcSTM32setMULTIbits(const uint32_t multi);
+#if STM32_ADC_USE_INJECTED
+  void adc_lld_start_injected_no_dma(ADCDriver *adcp);
+  void adc_lld_stop_injected_no_dma(ADCDriver *adcp);
+  void adc_lld_start_injected_conversion(ADCDriver *adcp, const ADCConversionGroup *grpp);
+  void adc_lld_stop_injected_conversion(ADCDriver *adcp);
+#endif // STM32_ADC_USE_INJECTED
 #ifdef __cplusplus
 }
 #endif

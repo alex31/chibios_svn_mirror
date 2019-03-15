@@ -1,5 +1,5 @@
 /*
-    ChibiOS - Copyright (C) 2006..2018 Giovanni Di Sirio
+    ChibiOS - Copyright (C) 2006..2016 Giovanni Di Sirio
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -58,6 +58,7 @@ ADCDriver ADCD2;
 ADCDriver ADCD3;
 #endif
 
+
 /*===========================================================================*/
 /* Driver local variables and types.                                         */
 /*===========================================================================*/
@@ -100,6 +101,27 @@ static void adc_lld_serve_rx_interrupt(ADCDriver *adcp, uint32_t flags) {
 /*===========================================================================*/
 /* Driver interrupt handlers.                                                */
 /*===========================================================================*/
+#if STM32_ADC_USE_INJECTED
+/**
+ * @brief   Common ISR code, end of injected conversion
+ * @details This code handles the portable part of the ISR code:
+ *          - Callback invocation.
+ *          .
+ * @note    This macro is meant to be used in the low level drivers
+ *          implementation only.
+ *
+ * @param[in] adcp      pointer to the @p ADCDriver object
+ *
+ * @notapi
+ */
+#define _adc_isr_injected_code(adcp) {                           \
+  if ((adcp)->grpp->injected_end_cb != NULL) {                   \
+    (adcp)->grpp->injected_end_cb(adcp);			 \
+  }                                                              \
+}
+#else
+#define _adc_isr_injected_code(adcp) { }
+#endif
 
 #if STM32_ADC_USE_ADC1 || STM32_ADC_USE_ADC2 || STM32_ADC_USE_ADC3 ||       \
     defined(__DOXYGEN__)
@@ -116,6 +138,9 @@ OSAL_IRQ_HANDLER(STM32_ADC_HANDLER) {
 #if STM32_ADC_USE_ADC1
   sr = ADC1->SR;
   ADC1->SR = 0;
+  // if ISR is triggered by end of injected conversion
+  if (sr & ADC_SR_JEOC)
+    _adc_isr_injected_code(&ADCD1);
   /* Note, an overflow may occur after the conversion ended before the driver
      is able to stop the ADC, this is why the DMA channel is checked too.*/
   if ((sr & ADC_SR_OVR) && (dmaStreamGetTransactionSize(ADCD1.dmastp) > 0)) {
@@ -137,7 +162,10 @@ OSAL_IRQ_HANDLER(STM32_ADC_HANDLER) {
 #if STM32_ADC_USE_ADC2
   sr = ADC2->SR;
   ADC2->SR = 0;
-  /* Note, an overflow may occur after the conversion ended before the driver
+  // if ISR is triggered by end of injected conversion
+  if (sr & ADC_SR_JEOC)
+    _adc_isr_injected_code(&ADCD2);
+   /* Note, an overflow may occur after the conversion ended before the driver
      is able to stop the ADC, this is why the DMA channel is checked too.*/
   if ((sr & ADC_SR_OVR) && (dmaStreamGetTransactionSize(ADCD2.dmastp) > 0)) {
     /* ADC overflow condition, this could happen only if the DMA is unable
@@ -158,6 +186,8 @@ OSAL_IRQ_HANDLER(STM32_ADC_HANDLER) {
 #if STM32_ADC_USE_ADC3
   sr = ADC3->SR;
   ADC3->SR = 0;
+  if (sr & ADC_SR_JEOC)
+    _adc_isr_injected_code(&ADCD3);
   /* Note, an overflow may occur after the conversion ended before the driver
      is able to stop the ADC, this is why the DMA channel is checked too.*/
   if ((sr & ADC_SR_OVR) && (dmaStreamGetTransactionSize(ADCD3.dmastp) > 0)) {
@@ -255,7 +285,7 @@ void adc_lld_start(ADCDriver *adcp) {
                             (void *)adcp);
       osalDbgAssert(!b, "stream already allocated");
       dmaStreamSetPeripheral(adcp->dmastp, &ADC1->DR);
-      rccEnableADC1(true);
+      rccEnableADC1(FALSE);
     }
 #endif /* STM32_ADC_USE_ADC1 */
 
@@ -268,7 +298,7 @@ void adc_lld_start(ADCDriver *adcp) {
                             (void *)adcp);
       osalDbgAssert(!b, "stream already allocated");
       dmaStreamSetPeripheral(adcp->dmastp, &ADC2->DR);
-      rccEnableADC2(true);
+      rccEnableADC2(FALSE);
     }
 #endif /* STM32_ADC_USE_ADC2 */
 
@@ -281,7 +311,7 @@ void adc_lld_start(ADCDriver *adcp) {
                             (void *)adcp);
       osalDbgAssert(!b, "stream already allocated");
       dmaStreamSetPeripheral(adcp->dmastp, &ADC3->DR);
-      rccEnableADC3(true);
+      rccEnableADC3(FALSE);
     }
 #endif /* STM32_ADC_USE_ADC3 */
 
@@ -344,20 +374,24 @@ void adc_lld_start_conversion(ADCDriver *adcp) {
 
   /* DMA setup.*/
   mode = adcp->dmamode;
-  if (grpp->circular) {
-    mode |= STM32_DMA_CR_CIRC;
-    if (adcp->depth > 1) {
-      /* If circular buffer depth > 1, then the half transfer interrupt
-         is enabled in order to allow streaming processing.*/
-      mode |= STM32_DMA_CR_HTIE;
-    }
-  }
-  dmaStreamSetMemory0(adcp->dmastp, adcp->samples);
-  dmaStreamSetTransactionSize(adcp->dmastp, (uint32_t)grpp->num_channels *
-                                            (uint32_t)adcp->depth);
-  dmaStreamSetMode(adcp->dmastp, mode);
-  dmaStreamEnable(adcp->dmastp);
 
+  /* if there is regular conversion, and not only injected one*/
+  if (grpp->num_channels) {
+    if (grpp->circular) {
+      mode |= STM32_DMA_CR_CIRC;
+      if (adcp->depth > 1) {
+	/* If circular buffer depth > 1, then the half transfer interrupt
+	   is enabled in order to allow streaming processing.*/
+	mode |= STM32_DMA_CR_HTIE;
+      }
+    }
+    dmaStreamSetMemory0(adcp->dmastp, adcp->samples);
+    dmaStreamSetTransactionSize(adcp->dmastp, (uint32_t)grpp->num_channels *
+				(uint32_t)adcp->depth);
+    dmaStreamSetMode(adcp->dmastp, mode);
+    dmaStreamEnable(adcp->dmastp);
+  }
+  
   /* ADC setup.*/
   adcp->adc->SR    = 0;
   adcp->adc->SMPR1 = grpp->smpr1;
@@ -368,11 +402,24 @@ void adc_lld_start_conversion(ADCDriver *adcp) {
   adcp->adc->SQR2  = grpp->sqr2;
   adcp->adc->SQR3  = grpp->sqr3;
 
+
+
   /* ADC configuration and start.*/
   adcp->adc->CR1   = grpp->cr1 | ADC_CR1_OVRIE | ADC_CR1_SCAN;
+  
+
+#if STM32_ADC_USE_INJECTED
+  adcp->adc->JSQR  = grpp->jsqr | ADC_JSQR_NUM_JCH(grpp->num_injected_channels);
+  if (grpp->injected_end_cb != NULL)
+    adcp->adc->CR1 |= ADC_CR1_JEOCIE;
+#endif // STM32_ADC_USE_INJECTED
 
   /* Enforcing the mandatory bits in CR2.*/
-  cr2 = grpp->cr2 | ADC_CR2_DMA | ADC_CR2_DDS | ADC_CR2_ADON;
+ if (grpp->num_channels) {
+   cr2 = grpp->cr2 | ADC_CR2_DMA | ADC_CR2_DDS | ADC_CR2_ADON;
+ } else {
+   cr2 = grpp->cr2 | ADC_CR2_ADON;
+ }
 
   /* The start method is different dependign if HW or SW triggered, the
      start is performed using the method specified in the CR2 configuration.*/
@@ -388,6 +435,113 @@ void adc_lld_start_conversion(ADCDriver *adcp) {
 }
 
 /**
+ * @brief   Starts an injected ADC conversion.
+ *
+ * @param[in] adcp      pointer to the @p ADCDriver object
+ *
+ * @notapi
+ */
+#if STM32_ADC_USE_INJECTED
+/**
+ * @brief   Configures and activates the ADC peripheral when we only want to use injected sampling.
+ *          without DMA
+ * @param[in] adcp      pointer to the @p ADCDriver object
+ *
+ */
+void adc_lld_start_injected_no_dma(ADCDriver *adcp) {
+
+  /* If in stopped state then enables the ADC and DMA clocks.*/
+  osalSysLock();
+  if (adcp->state == ADC_STOP) {
+#if STM32_ADC_USE_ADC1
+    if (&ADCD1 == adcp) {
+      rccEnableADC1(FALSE);
+    }
+#endif /* STM32_ADC_USE_ADC1 */
+
+#if STM32_ADC_USE_ADC2
+    if (&ADCD2 == adcp) {
+      rccEnableADC2(FALSE);
+    }
+#endif /* STM32_ADC_USE_ADC2 */
+
+#if STM32_ADC_USE_ADC3
+    if (&ADCD3 == adcp) {
+      rccEnableADC3(FALSE);
+    }
+#endif /* STM32_ADC_USE_ADC3 */
+
+    /* This is a common register but apparently it requires that at least one
+       of the ADCs is clocked in order to allow writing, see bug 3575297.*/
+    ADC->CCR = (ADC->CCR & (ADC_CCR_TSVREFE | ADC_CCR_VBATE)) |
+               (STM32_ADC_ADCPRE << 16);
+
+    /* ADC initial setup, starting the analog part here in order to reduce
+       the latency when starting a conversion.*/
+    adcp->adc->CR1 = 0;
+    adcp->adc->CR2 = 0;
+    adcp->adc->CR2 = ADC_CR2_ADON;
+  }
+  osalSysUnlock();
+}
+
+/**
+ * @brief   Deactivates the ADC peripheral when we only want to use injected sampling.
+ *
+ * @param[in] adcp      pointer to the @p ADCDriver object
+ *
+ */
+void adc_lld_stop_injected_no_dma(ADCDriver *adcp) {
+
+  /* If in ready state then disables the ADC clock.*/
+  osalSysLock();
+  if (adcp->state == ADC_READY) {
+    adcp->adc->CR1 = 0;
+    adcp->adc->CR2 = 0;
+    
+#if STM32_ADC_USE_ADC1
+    if (&ADCD1 == adcp)
+      rccDisableADC1();
+#endif
+    
+#if STM32_ADC_USE_ADC2
+    if (&ADCD2 == adcp)
+      rccDisableADC2();
+#endif
+    
+#if STM32_ADC_USE_ADC3
+    if (&ADCD3 == adcp)
+      rccDisableADC3();
+#endif
+  }
+  osalSysUnlock();
+}
+
+
+void adc_lld_start_injected_conversion(ADCDriver *adcp,
+				       const ADCConversionGroup *grpp) {
+  osalSysLock();
+  adcp->grpp = grpp;
+  adcp->state    = ADC_ACTIVE;
+  adc_lld_start_conversion(adcp);
+  osalSysUnlock();
+}
+
+void adc_lld_stop_injected_conversion(ADCDriver *adcp) {
+  osalSysLock();
+  adcp->state    = ADC_STOP;
+  adc_lld_stop_conversion(adcp);
+  osalSysUnlock();
+}
+
+
+
+
+#endif // STM32_ADC_USE_INJECTED
+
+
+
+/**
  * @brief   Stops an ongoing conversion.
  *
  * @param[in] adcp      pointer to the @p ADCDriver object
@@ -398,8 +552,7 @@ void adc_lld_stop_conversion(ADCDriver *adcp) {
 
   dmaStreamDisable(adcp->dmastp);
   adcp->adc->CR1 = 0;
-  /* Because ticket #822, preserving injected conversions.*/
-  adcp->adc->CR2 &= ~(ADC_CR2_SWSTART);
+  adcp->adc->CR2 = 0;
   adcp->adc->CR2 = ADC_CR2_ADON;
 }
 
@@ -445,6 +598,16 @@ void adcSTM32EnableVBATE(void) {
 void adcSTM32DisableVBATE(void) {
 
   ADC->CCR &= ~ADC_CCR_VBATE;
+}
+
+/**
+ * @brief   set the CCR_MULTI bits
+ * @details The MULTI bits are used to synchronise ADC1 and ADC2 or all three ADCs
+ * @note    This is an STM32-only functionality.
+ * @note    This function is meant to be called after @p adcStart() for all synchronized ADC.
+ */
+void adcSTM32setMULTIbits(const uint32_t multi) {
+  MODIFY_REG(ADC->CCR, ADC_CCR_MULTI, multi);
 }
 
 #endif /* HAL_USE_ADC */
