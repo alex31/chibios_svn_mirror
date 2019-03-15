@@ -1,0 +1,6 @@
+<map id="chFifoReceiveObjectI" name="chFifoReceiveObjectI">
+<area shape="rect" id="node2" href="$group__mailboxes.html#gaeb97e4267b7c67760d56a1492725be64" title="Retrieves a message from a mailbox. " alt="" coords="176,23,255,47"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="473,23,585,47"/>
+<area shape="rect" id="node4" href="$group__mailboxes.html#gab33c27e5b512214ba48233f6d3e01cac" title="Returns the number of used message slots into a mailbox. " alt="" coords="303,23,425,47"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any. " alt="" coords="303,71,425,95"/>
+</map>

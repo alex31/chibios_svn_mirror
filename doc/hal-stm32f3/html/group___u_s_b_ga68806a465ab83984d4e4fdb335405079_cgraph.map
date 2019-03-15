@@ -1,0 +1,4 @@
+<map id="usbStartTransmitI" name="usbStartTransmitI">
+<area shape="rect" id="node2" href="$group___u_s_b.html#gab03273c7bdd1779638ef66bd3b20b2b9" title="Starts a transmit operation on an IN endpoint. " alt="" coords="160,11,256,35"/>
+<area shape="rect" id="node3" href="$group___u_s_b.html#gae3d3a32f6f7ceb2f34f688993e06935c" title="Writes to a dedicated packet buffer. " alt="" coords="304,5,437,41"/>
+</map>

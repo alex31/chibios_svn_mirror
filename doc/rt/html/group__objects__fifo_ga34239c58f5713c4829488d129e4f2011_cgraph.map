@@ -1,0 +1,8 @@
+<map id="chFifoSendObjectAheadS" name="chFifoSendObjectAheadS">
+<area shape="rect" id="node2" href="$group__mailboxes.html#gae68ce0e2a6177b53cf9d77d87d3a7ccf" title="Posts an high priority message into a mailbox. " alt="" coords="197,75,344,99"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="581,27,697,51"/>
+<area shape="rect" id="node4" href="$group__mailboxes.html#gab8460d4d099ba8df173fdd16aa289baf" title="Returns the number of free message slots into a mailbox. " alt="" coords="402,27,523,51"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="405,75,520,99"/>
+<area shape="rect" id="node6" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any. " alt="" coords="402,123,523,147"/>
+<area shape="rect" id="node7" href="$group__threads.html#ga0d344ce86a9f38dfa05b6cbe61eda16c" title="Enqueues the caller thread on a threads queue object. " alt="" coords="392,171,533,195"/>
+</map>

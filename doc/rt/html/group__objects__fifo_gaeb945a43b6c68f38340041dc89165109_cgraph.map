@@ -1,0 +1,8 @@
+<map id="chFifoReceiveObjectTimeoutS" name="chFifoReceiveObjectTimeoutS">
+<area shape="rect" id="node2" href="$group__mailboxes.html#gaf5c40ee2452217121a9f6b90c5d9fb8e" title="Retrieves a message from a mailbox. " alt="" coords="219,76,341,100"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="579,28,695,52"/>
+<area shape="rect" id="node4" href="$group__mailboxes.html#gab33c27e5b512214ba48233f6d3e01cac" title="Returns the number of used message slots into a mailbox. " alt="" coords="399,28,521,52"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="403,76,517,100"/>
+<area shape="rect" id="node6" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any. " alt="" coords="399,124,521,148"/>
+<area shape="rect" id="node7" href="$group__threads.html#ga0d344ce86a9f38dfa05b6cbe61eda16c" title="Enqueues the caller thread on a threads queue object. " alt="" coords="389,172,531,196"/>
+</map>

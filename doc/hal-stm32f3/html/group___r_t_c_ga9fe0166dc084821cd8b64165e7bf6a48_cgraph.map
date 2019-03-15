@@ -1,0 +1,7 @@
+<map id="rtcGetTime" name="rtcGetTime">
+<area shape="rect" id="node2" href="$group___r_t_c.html#ga48ba5473cc2ecd526fceb6282f65a860" title="Get current time. " alt="" coords="128,77,225,101"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gab22201fb46c57d6f3fc673731fc9da18" title="Returns the execution status and enters a critical zone. " alt="" coords="273,5,427,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#gabaa179dabe2ebb4a4e853a4096a3e9b0" title="Restores the specified execution status and leaves a critical zone. " alt="" coords="283,53,417,77"/>
+<area shape="rect" id="node5" href="$group___r_t_c.html#ga6b6214c93d4426ffb8a428e712256cf6" title="Converts time from TR register encoding to timespec. " alt="" coords="299,101,401,125"/>
+<area shape="rect" id="node6" href="$group___r_t_c.html#ga7172497c6c8b01e4b335577ac1c98842" title="Converts date from DR register encoding to timespec. " alt="" coords="299,149,401,173"/>
+</map>

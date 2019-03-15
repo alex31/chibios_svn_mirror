@@ -1,0 +1,6 @@
+<map id="chBSemWait" name="chBSemWait">
+<area shape="rect" id="node2" href="$group__semaphores.html#ga777095a8be86b46658a08e3c0a65957e" title="Performs a wait operation on a semaphore. " alt="" coords="136,53,212,77"/>
+<area shape="rect" id="node3" href="$group__semaphores.html#ga7ddfa2a780e98c87891e657867b49ab6" title="Performs a wait operation on a semaphore. " alt="" coords="260,5,343,29"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="265,53,337,77"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="260,101,343,125"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hts221Start" name="hts221Start">
+<area shape="rect" id="node2" href="$group___h_t_s221.html#ga6915123a051871f681ffeec4814a94f6" title="Computes biases and sensitivities starting from data stored in calibration registers. " alt="" coords="131,5,228,29"/>
+<area shape="rect" id="node3" href="$group___h_t_s221.html#ga550ff25a01365e41f583f70c7fe54c3c" title="Reads registers value using I2C. " alt="" coords="276,5,413,29"/>
+</map>

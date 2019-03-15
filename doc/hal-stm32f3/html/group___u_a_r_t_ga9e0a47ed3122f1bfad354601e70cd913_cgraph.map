@@ -1,0 +1,5 @@
+<map id="uartReceiveTimeout" name="uartReceiveTimeout">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="214,5,294,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gadd8bf7ac6d338b33b927db22aa27a43a" title="Sends the current thread sleeping and sets a reference variable. " alt="" coords="172,53,336,77"/>
+<area shape="rect" id="node4" href="$group___u_a_r_t.html#gaeeef4ed85ed76c1e916c77d4efb8b9c2" title="Starts a receive operation on the UART peripheral. " alt="" coords="192,101,316,125"/>
+</map>

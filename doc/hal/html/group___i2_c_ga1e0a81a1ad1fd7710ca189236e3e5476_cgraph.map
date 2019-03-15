@@ -1,0 +1,4 @@
+<map id="i2cInit" name="i2cInit">
+<area shape="rect" id="node2" href="$group___i2_c.html#gaae1796056a2fa05caa11a243183b19c2" title="Low level I2C driver initialization. " alt="" coords="103,5,173,29"/>
+<area shape="rect" id="node3" href="$group___i2_c.html#ga2dd7be686d8e136b1deebfeb20e868f9" title="Initializes the standard part of a I2CDriver structure. " alt="" coords="221,5,300,29"/>
+</map>

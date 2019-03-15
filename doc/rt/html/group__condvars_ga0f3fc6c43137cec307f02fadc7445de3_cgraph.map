@@ -1,0 +1,17 @@
+<map id="chCondBroadcast" name="chCondBroadcast">
+<area shape="rect" id="node2" href="$group__condvars.html#gaa3f5d79b924c4c75c403de66ac8d63f3" title="Signals all threads that are waiting on the condition variable. " alt="" coords="162,79,273,103"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="160,251,275,275"/>
+<area shape="rect" id="node11" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="181,332,253,356"/>
+<area shape="rect" id="node14" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="176,441,259,465"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="532,29,644,53"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="347,128,450,152"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="531,128,645,152"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="356,29,441,53"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="523,225,653,249"/>
+<area shape="rect" id="node6" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="701,251,817,275"/>
+<area shape="rect" id="node10" href="$group__scheduler.html#ga6827a67e839462e65b5765ef15709c97" title="Switches to the first thread on the runnable queue. " alt="" coords="323,176,475,200"/>
+<area shape="rect" id="node12" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="347,387,450,411"/>
+<area shape="rect" id="node13" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="336,326,461,362"/>
+<area shape="rect" id="node15" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="341,496,456,520"/>
+<area shape="rect" id="node16" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="337,435,461,471"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="sduDataTransmitted" name="sduDataTransmitted">
+<area shape="rect" id="node2" href="$group___h_a_l___b_u_f_f_e_r_s.html#ga4f4a4180bc16647e80899247699cdafb" title="Gets the next filled buffer from the queue. " alt="" coords="189,5,296,29"/>
+<area shape="rect" id="node3" href="$group___h_a_l___b_u_f_f_e_r_s.html#ga6ed8626a2cd0efe7a609d83d2d608bb3" title="Releases the next filled buffer back in the queue. " alt="" coords="172,53,313,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga32db980c54089fe21370432a7a884e9f" title="Enters a critical zone from ISR context. " alt="" coords="181,101,305,125"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#gab53a8f4b21ad79b9d2203eff4c72b529" title="Leaves a critical zone from ISR context. " alt="" coords="175,149,310,173"/>
+<area shape="rect" id="node7" href="$group___u_s_b.html#ga68806a465ab83984d4e4fdb335405079" title="Starts a transmit transaction on an IN endpoint. " alt="" coords="189,197,296,221"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#gaf09bde5867505af235277e0a888044b8" title="Dequeues and wakes up one thread from the queue, if any. " alt="" coords="361,53,507,77"/>
+<area shape="rect" id="node8" href="$group___u_s_b.html#gab03273c7bdd1779638ef66bd3b20b2b9" title="Starts a transmit operation on an IN endpoint. " alt="" coords="386,197,482,221"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="BaseObject" name="BaseObject">
+<area shape="rect" id="node2" href="$struct_base_block_device.html" title="Base block device class. " alt="" coords="123,123,226,192"/>
+<area shape="rect" id="node4" href="$struct_base_flash.html" title="Base flash class. " alt="" coords="263,123,335,192"/>
+<area shape="rect" id="node6" href="$struct_base_sensor.html" title="Base stream class. " alt="" coords="547,123,627,192"/>
+<area shape="rect" id="node13" href="$struct_base_sequential_stream.html" title="Base stream class. " alt="" coords="1020,123,1151,192"/>
+<area shape="rect" id="node3" href="$struct_m_m_c_s_d_block_device.html" title="MCC/SD block device class. " alt="" coords="5,312,125,381"/>
+<area shape="rect" id="node5" href="$struct_m_f_s_driver.html" title="Type of an MFS instance. " alt="" coords="149,240,256,453"/>
+<area shape="rect" id="node7" href="$struct_base_accelerometer.html" title="Base accelerometer class. " alt="" coords="280,312,395,381"/>
+<area shape="rect" id="node8" href="$struct_base_barometer.html" title="Base barometer class. " alt="" coords="419,312,517,381"/>
+<area shape="rect" id="node9" href="$struct_base_compass.html" title="Base compass class. " alt="" coords="541,312,632,381"/>
+<area shape="rect" id="node10" href="$struct_base_gyroscope.html" title="Base gyroscope class. " alt="" coords="657,312,754,381"/>
+<area shape="rect" id="node11" href="$struct_base_hygrometer.html" title="Base hygrometer class. " alt="" coords="778,312,881,381"/>
+<area shape="rect" id="node12" href="$struct_base_thermometer.html" title="Base thermometer class. " alt="" coords="905,312,1017,381"/>
+<area shape="rect" id="node14" href="$struct_base_channel.html" title="Base channel class. " alt="" coords="1042,312,1129,381"/>
+<area shape="rect" id="node15" href="$struct_file_stream.html" title="Base file stream class. " alt="" coords="1153,312,1228,381"/>
+</map>

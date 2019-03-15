@@ -1,0 +1,6 @@
+<map id="BaseChannelVMT" name="BaseChannelVMT">
+<area shape="rect" id="node3" href="$struct_base_asynchronous_channel_v_m_t.html" title="BaseAsynchronousChannel virtual methods table. " alt="" coords="36,240,212,309"/>
+<area shape="rect" id="node2" href="$struct_base_sequential_stream_v_m_t.html" title="BaseSequentialStream virtual methods table. " alt="" coords="47,5,201,75"/>
+<area shape="rect" id="node4" href="$struct_serial_driver_v_m_t.html" title="SerialDriver virtual methods table. " alt="" coords="5,357,107,427"/>
+<area shape="rect" id="node5" href="$struct_serial_u_s_b_driver_v_m_t.html" title="SerialDriver virtual methods table. " alt="" coords="131,357,253,427"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="chBSemObjectInit" name="chBSemObjectInit">
+<area shape="rect" id="node2" href="$group__semaphores.html#ga6c1812ffb36357295cd22670a10ff694" title="Initializes a semaphore with the specified counter value. " alt="" coords="160,5,259,29"/>
+<area shape="rect" id="node3" href="$group__scheduler.html#ga79bee2577cd8ba9850c8c3d20ea33d30" title="Threads queue initialization. " alt="" coords="307,5,377,29"/>
+</map>

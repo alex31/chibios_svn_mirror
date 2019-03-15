@@ -1,0 +1,9 @@
+<map id="send_hdr" name="send_hdr">
+<area shape="rect" id="node2" href="$group___m_m_c___s_p_i.html#gac82b7e209601c890c0d1587cefaf0813" title="Calculate the MMC standard CRC&#45;7 based on a lookup table. " alt="" coords="120,5,163,29"/>
+<area shape="rect" id="node3" href="$group___s_p_i.html#ga382cfbdffd2df57cf3843d45164e8bfc" title="Sends data over the SPI bus. " alt="" coords="217,56,277,80"/>
+<area shape="rect" id="node7" href="$group___m_m_c___s_p_i.html#ga2047c3d4f7ce72dcb6c4942f57e92600" title="Waits an idle condition. " alt="" coords="121,104,162,128"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="355,8,435,32"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga49573c45ca88cd172ee03da252f69ae4" title="Sends the current thread sleeping and sets a reference variable. " alt="" coords="332,56,457,80"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="349,104,440,128"/>
+<area shape="rect" id="node8" href="$group___s_p_i.html#gadd99ad823b391dde114f04dedafe5e80" title="Receives data from the SPI bus. " alt="" coords="211,104,284,128"/>
+</map>

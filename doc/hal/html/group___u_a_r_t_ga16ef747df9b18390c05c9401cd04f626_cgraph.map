@@ -1,0 +1,5 @@
+<map id="uartStartSend" name="uartStartSend">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="159,5,239,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="154,53,245,77"/>
+<area shape="rect" id="node4" href="$group___u_a_r_t.html#ga1e25c8da94128f260d3d8683db114326" title="Starts a transmission on the UART peripheral. " alt="" coords="143,101,256,125"/>
+</map>

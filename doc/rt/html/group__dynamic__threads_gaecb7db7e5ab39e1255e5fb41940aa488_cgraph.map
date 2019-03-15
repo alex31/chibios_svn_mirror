@@ -1,0 +1,13 @@
+<map id="chThdCreateFromMemoryPool" name="chThdCreateFromMemoryPool">
+<area shape="rect" id="node2" href="$group__threads.html#gab1a711303711a9b5fcd284c55ec965df" title="Memory fill utility. " alt="" coords="246,5,345,29"/>
+<area shape="rect" id="node3" href="$group__pools.html#ga693a4c5c9e353650daca587d81ca275f" title="Allocates an object from a memory pool. " alt="" coords="257,104,333,128"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="437,55,509,79"/>
+<area shape="rect" id="node7" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="431,151,514,175"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga270b083660e1f9b48a34570914bebeac" title="Wakes up a thread. " alt="" coords="247,203,344,227"/>
+<area shape="rect" id="node11" href="$group__threads.html#gaebe8fd53a7a4630249085179b5f140eb" title="Creates a new thread into a static memory area. " alt="" coords="224,296,367,320"/>
+<area shape="rect" id="node5" href="$group__pools.html#ga0fb08e687397c6ba657886752a032384" title="Allocates an object from a memory pool. " alt="" coords="433,103,512,127"/>
+<area shape="rect" id="node6" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="579,247,691,271"/>
+<area shape="rect" id="node9" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="415,199,531,223"/>
+<area shape="rect" id="node10" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="430,247,515,271"/>
+<area shape="rect" id="node12" href="$group__threads.html#ga3a54dd6f478d5e64e019879b9a118481" title="Initializes a thread structure. " alt="" coords="433,345,512,369"/>
+</map>

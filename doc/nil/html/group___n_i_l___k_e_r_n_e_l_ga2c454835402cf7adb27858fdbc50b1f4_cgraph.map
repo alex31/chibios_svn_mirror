@@ -1,0 +1,8 @@
+<map id="chSemReset" name="chSemReset">
+<area shape="rect" id="node2" href="$group___n_i_l___k_e_r_n_e_l.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Reschedules if needed. " alt="" coords="136,53,251,77"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#ga78031350aa8122623450f0679d80e3f9" title="Performs a reset operation on the semaphore. " alt="" coords="150,101,237,125"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="301,5,417,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#ga46ffa866557e26da879f2d04b7efebb5" title="Switches to the first thread on the runnable queue. " alt="" coords="299,53,420,77"/>
+<area shape="rect" id="node6" href="$group___n_i_l___k_e_r_n_e_l.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="303,101,415,125"/>
+<area shape="rect" id="node7" href="$group___n_i_l___k_e_r_n_e_l.html#gab226ca096aac8106a73c7a33acafeb06" title="Puts in ready state all thread matching the specified status and associated object. " alt="" coords="319,149,400,173"/>
+</map>

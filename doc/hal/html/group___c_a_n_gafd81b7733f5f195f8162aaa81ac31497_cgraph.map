@@ -1,0 +1,4 @@
+<map id="canTryReceiveI" name="canTryReceiveI">
+<area shape="rect" id="node2" href="$group___c_a_n.html#gae061807c8879157051859f1252494690" title="Determines whether a frame has been received. " alt="" coords="149,5,285,29"/>
+<area shape="rect" id="node3" href="$group___c_a_n.html#ga14aa484f836fddaa233ad278c9a67910" title="Receives a frame from the input queue. " alt="" coords="170,53,265,77"/>
+</map>

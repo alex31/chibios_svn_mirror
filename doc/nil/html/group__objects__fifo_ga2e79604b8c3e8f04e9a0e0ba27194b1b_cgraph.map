@@ -1,0 +1,4 @@
+<map id="chFifoTakeObjectI" name="chFifoTakeObjectI">
+<area shape="rect" id="node2" href="$group__pools.html#ga103973c939b37b84531d8d1fedc91579" title="Allocates an object from a guarded memory pool. " alt="" coords="161,5,283,29"/>
+<area shape="rect" id="node3" href="$group__pools.html#ga0fb08e687397c6ba657886752a032384" title="Allocates an object from a memory pool. " alt="" coords="331,5,409,29"/>
+</map>

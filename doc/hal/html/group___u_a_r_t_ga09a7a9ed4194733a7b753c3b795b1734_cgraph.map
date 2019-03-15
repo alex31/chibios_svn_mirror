@@ -1,0 +1,4 @@
+<map id="uartInit" name="uartInit">
+<area shape="rect" id="node2" href="$group___u_a_r_t.html#gabce7508e49fa785d88c1cf47abf43758" title="Low level UART driver initialization. " alt="" coords="108,5,184,29"/>
+<area shape="rect" id="node3" href="$group___u_a_r_t.html#ga2a4d715584d673eb2da4c2f201edd0db" title="Initializes the standard part of a UARTDriver structure. " alt="" coords="232,5,317,29"/>
+</map>

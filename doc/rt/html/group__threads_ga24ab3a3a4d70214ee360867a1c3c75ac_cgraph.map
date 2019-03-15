@@ -1,0 +1,10 @@
+<map id="chThdExit" name="chThdExit">
+<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="125,60,197,84"/>
+<area shape="rect" id="node5" href="$group__threads.html#ga0275693521c0965a5aa3881d7f331f1a" title="Terminates the current thread. " alt="" coords="123,163,199,187"/>
+<area shape="rect" id="node3" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="258,5,361,29"/>
+<area shape="rect" id="node4" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="247,54,372,90"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#ga6af8866807da01ee84fee9f40719955f" title="Evaluates to true if the specified threads list is not empty. " alt="" coords="267,115,351,139"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="267,163,352,187"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga5bfc978d477f6d4528bc1970e9ac5aea" title="Pops a thread from the top of a stack list and returns it. " alt="" coords="271,211,347,235"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state. " alt="" coords="260,259,359,283"/>
+</map>

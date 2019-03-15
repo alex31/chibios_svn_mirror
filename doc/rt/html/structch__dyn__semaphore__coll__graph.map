@@ -1,0 +1,5 @@
+<map id="ch_dyn_semaphore" name="ch_dyn_semaphore">
+<area shape="rect" id="node2" href="$structch__semaphore.html" title="Semaphore structure. " alt="" coords="14,141,107,210"/>
+<area shape="rect" id="node3" href="$structch__threads__queue.html" title="Generic threads bidirectional linked list header and element. " alt="" coords="5,5,116,75"/>
+<area shape="rect" id="node4" href="$structch__dyn__element.html" title="Type of a dynamic object list element. " alt="" coords="132,135,232,216"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="chSemSignal" name="chSemSignal">
+<area shape="rect" id="node2" href="$group___n_i_l___k_e_r_n_e_l.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Reschedules if needed. " alt="" coords="137,53,252,77"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="151,127,238,151"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="303,5,419,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#ga46ffa866557e26da879f2d04b7efebb5" title="Switches to the first thread on the runnable queue. " alt="" coords="300,53,421,77"/>
+<area shape="rect" id="node6" href="$group___n_i_l___k_e_r_n_e_l.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="469,152,581,176"/>
+<area shape="rect" id="node7" href="$group___n_i_l___k_e_r_n_e_l.html#ga7e61ba1c937e9d85aeb0c5740bc560cf" title="Retrieves the highest priority thread in the specified state and associated to the specified object..." alt="" coords="315,152,407,176"/>
+<area shape="rect" id="node8" href="$group___n_i_l___k_e_r_n_e_l.html#gad16587b49706595028b04f1bd75b0dc1" title="Makes the specified thread ready for execution. " alt="" coords="318,200,403,224"/>
+</map>

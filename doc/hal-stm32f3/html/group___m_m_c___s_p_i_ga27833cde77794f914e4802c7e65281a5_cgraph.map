@@ -1,0 +1,6 @@
+<map id="mmcStop" name="mmcStop">
+<area shape="rect" id="node2" href="$group___s_p_i.html#gad3a359eea03e68e95899886ae93a06e4" title="Deactivates the SPI peripheral. " alt="" coords="120,53,177,77"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="231,5,311,29"/>
+<area shape="rect" id="node4" href="$group___s_p_i.html#ga8d6b2e0764d39b892b51e6abe4923f80" title="Deactivates the SPI peripheral. " alt="" coords="232,53,309,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="225,101,316,125"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="chSemReset" name="chSemReset">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="276,55,391,79"/>
+<area shape="rect" id="node6" href="$group__semaphores.html#ga78031350aa8122623450f0679d80e3f9" title="Performs a reset operation on the semaphore. " alt="" coords="136,227,223,251"/>
+<area shape="rect" id="node12" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="143,349,215,373"/>
+<area shape="rect" id="node15" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="138,459,221,483"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="644,80,760,104"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga6827a67e839462e65b5765ef15709c97" title="Switches to the first thread on the runnable queue. " alt="" coords="444,5,596,29"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="455,104,585,128"/>
+<area shape="rect" id="node7" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="464,152,576,176"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="286,251,381,275"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="282,104,385,128"/>
+<area shape="rect" id="node10" href="$group__scheduler.html#gaa29f30122c114fd0ea21e16b68ef1710" title="Removes the last&#45;out thread from a queue and returns it. " alt="" coords="463,249,577,273"/>
+<area shape="rect" id="node11" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="291,152,376,176"/>
+<area shape="rect" id="node13" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="282,349,385,373"/>
+<area shape="rect" id="node14" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="271,398,396,434"/>
+<area shape="rect" id="node16" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="276,459,391,483"/>
+<area shape="rect" id="node17" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="271,507,395,543"/>
+</map>

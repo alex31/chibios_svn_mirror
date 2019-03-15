@@ -1,0 +1,6 @@
+<map id="ch_objects_fifo" name="ch_objects_fifo">
+<area shape="rect" id="node2" href="$structmailbox__t.html" title="Structure representing a mailbox object. " alt="" coords="26,171,93,300"/>
+<area shape="rect" id="node3" href="$structnil__threads__queue.html" title="Structure representing a queue of threads. " alt="" coords="5,17,116,87"/>
+<area shape="rect" id="node4" href="$structguarded__memory__pool__t.html" title="Guarded memory pool descriptor. " alt="" coords="117,201,260,270"/>
+<area shape="rect" id="node5" href="$structmemory__pool__t.html" title="Memory pool descriptor. " alt="" coords="141,5,237,99"/>
+</map>

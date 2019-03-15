@@ -1,0 +1,4 @@
+<map id="acquire_up" name="acquire_up">
+<area shape="rect" id="node2" href="$group___b_m_p085.html#ga9dab0b471b0b0f90702de05eddfe3642" title="Reads registers value using I2C. " alt="" coords="128,5,272,29"/>
+<area shape="rect" id="node3" href="$group___b_m_p085.html#ga4c81881868c373fb882038fd063b92e1" title="Start the pressure measurment. " alt="" coords="137,53,263,77"/>
+</map>

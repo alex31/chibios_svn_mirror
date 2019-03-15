@@ -1,0 +1,7 @@
+<map id="ch_threads_list" name="ch_threads_list">
+<area shape="rect" id="node2" href="$structch__thread.html" title="Structure representing a thread. " alt="" coords="133,183,219,372"/>
+<area shape="rect" id="node4" href="$structch__threads__queue.html" title="Generic threads bidirectional linked list header and element. " alt="" coords="94,444,205,513"/>
+<area shape="rect" id="node5" href="$structch__mutex.html" title="Mutex structure. " alt="" coords="219,573,287,643"/>
+<area shape="rect" id="node3" href="$structch__semaphore.html" title="Semaphore structure. " alt="" coords="5,573,99,643"/>
+<area shape="rect" id="node6" href="$structtime__measurement__t.html" title="Type of a Time Measurement object. " alt="" coords="175,5,297,123"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ch_trace_event_t" name="ch_trace_event_t">
+<area shape="rect" id="node2" href="$structch__thread.html" title="Structure representing a thread. " alt="" coords="306,183,393,372"/>
+<area shape="rect" id="node4" href="$structch__threads__queue.html" title="Generic threads bidirectional linked list header and element. " alt="" coords="229,522,339,591"/>
+<area shape="rect" id="node5" href="$structch__threads__list.html" title="Generic threads single link list, it works like a stack. " alt="" coords="541,522,635,591"/>
+<area shape="rect" id="node6" href="$structch__mutex.html" title="Mutex structure. " alt="" coords="354,729,422,799"/>
+<area shape="rect" id="node3" href="$structch__semaphore.html" title="Semaphore structure. " alt="" coords="140,729,233,799"/>
+<area shape="rect" id="node7" href="$structtime__measurement__t.html" title="Type of a Time Measurement object. " alt="" coords="288,5,411,123"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="sdIncomingDataI" name="sdIncomingDataI">
+<area shape="rect" id="node2" href="$group___h_a_l___q_u_e_u_e_s.html#ga6a18038778ba873de195a866e3b3549d" title="Input queue write. " alt="" coords="156,5,205,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gaf09bde5867505af235277e0a888044b8" title="Dequeues and wakes up one thread from the queue, if any. " alt="" coords="253,5,399,29"/>
+</map>

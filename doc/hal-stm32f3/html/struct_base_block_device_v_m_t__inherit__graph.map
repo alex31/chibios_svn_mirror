@@ -1,0 +1,4 @@
+<map id="BaseBlockDeviceVMT" name="BaseBlockDeviceVMT">
+<area shape="rect" id="node2" href="$struct_m_m_c_s_d_block_device_v_m_t.html" title="MMCSDBlockDevice virtual methods table. " alt="" coords="5,123,148,192"/>
+<area shape="rect" id="node3" href="$struct_m_m_c_driver_v_m_t.html" title="MMCDriver virtual methods table. " alt="" coords="27,240,127,309"/>
+</map>

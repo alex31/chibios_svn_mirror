@@ -1,0 +1,4 @@
+<map id="ch_system_debug" name="ch_system_debug">
+<area shape="rect" id="node2" href="$structch__trace__buffer__t.html" title="Trace buffer header. " alt="" coords="6,303,113,384"/>
+<area shape="rect" id="node3" href="$structch__trace__event__t.html" title="Trace buffer record. " alt="" coords="7,5,111,231"/>
+</map>

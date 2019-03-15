@@ -1,0 +1,6 @@
+<map id="chFifoReceiveObjectTimeout" name="chFifoReceiveObjectTimeout">
+<area shape="rect" id="node2" href="$group__mailboxes.html#ga250ad6ea0f9e6cab4b1d72de4aaebd2e" title="Retrieves a message from a mailbox. " alt="" coords="212,53,327,77"/>
+<area shape="rect" id="node3" href="$group__mailboxes.html#gaf5c40ee2452217121a9f6b90c5d9fb8e" title="Retrieves a message from a mailbox. " alt="" coords="375,5,497,29"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="400,53,472,77"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="395,101,477,125"/>
+</map>

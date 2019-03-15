@@ -1,0 +1,7 @@
+<map id="adcStart" name="adcStart">
+<area shape="rect" id="node2" href="$group___a_d_c.html#ga9114c26236516afddb6add35ee3251f3" title="Configures and activates the ADC peripheral. " alt="" coords="120,29,203,53"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="121,77,201,101"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="116,125,207,149"/>
+<area shape="rect" id="node3" href="$group___s_t_m32___d_m_a.html#ga2779cd46d0f5e9d7a6e549391e05cdd0" title="Allocates a DMA stream. " alt="" coords="277,5,392,29"/>
+<area shape="rect" id="node4" href="$group___a_d_c.html#gaadf64ada1ea984d28f61a3c0687357a7" title="ADC DMA ISR service routine. " alt="" coords="255,53,415,77"/>
+</map>

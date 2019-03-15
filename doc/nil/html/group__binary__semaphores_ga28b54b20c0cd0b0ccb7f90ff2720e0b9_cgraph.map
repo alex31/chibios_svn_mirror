@@ -1,0 +1,6 @@
+<map id="chBSemResetI" name="chBSemResetI">
+<area shape="rect" id="node2" href="$group___n_i_l___k_e_r_n_e_l.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="281,5,393,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#ga78031350aa8122623450f0679d80e3f9" title="Performs a reset operation on the semaphore. " alt="" coords="147,53,233,77"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="441,5,511,29"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#gab226ca096aac8106a73c7a33acafeb06" title="Puts in ready state all thread matching the specified status and associated object. " alt="" coords="297,53,378,77"/>
+</map>

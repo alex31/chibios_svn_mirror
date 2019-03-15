@@ -1,0 +1,11 @@
+<map id="chEvtWaitAll" name="chEvtWaitAll">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state. " alt="" coords="133,53,232,77"/>
+<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="147,129,219,153"/>
+<area shape="rect" id="node8" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="141,211,224,235"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="285,5,401,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="285,53,400,77"/>
+<area shape="rect" id="node6" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="291,101,394,125"/>
+<area shape="rect" id="node7" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="280,150,405,186"/>
+<area shape="rect" id="node9" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="285,211,400,235"/>
+<area shape="rect" id="node10" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="281,259,405,295"/>
+</map>

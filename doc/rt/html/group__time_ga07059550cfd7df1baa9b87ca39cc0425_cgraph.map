@@ -1,0 +1,10 @@
+<map id="chVTSetI" name="chVTSetI">
+<area shape="rect" id="node2" href="$group__time.html#ga1d70201287f59c1d60844859aa90a4dc" title="Enables a virtual timer. " alt="" coords="253,101,333,125"/>
+<area shape="rect" id="node7" href="$group__time.html#ga4acd997ed4fafbeaa16bc63c2d9f5708" title="Disables a Virtual Timer. " alt="" coords="120,52,199,76"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="396,5,508,29"/>
+<area shape="rect" id="node4" href="$group__time__intervals.html#ga63f2799ab83096a112d2bbd73de8c4fc" title="Adds an interval to a system time returning a system time. " alt="" coords="411,53,493,77"/>
+<area shape="rect" id="node5" href="$group__time__intervals.html#ga49404a18a4b3e9da5062d1269341c4bc" title="Subtracts two system times returning an interval. " alt="" coords="412,101,492,125"/>
+<area shape="rect" id="node6" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time. " alt="" coords="387,149,517,173"/>
+<area shape="rect" id="node8" href="$group__time.html#gac9c07e9c8ba8b0128e7be6079358bb08" title="Disables a Virtual Timer. " alt="" coords="247,53,339,77"/>
+<area shape="rect" id="node9" href="$group__time.html#ga4835e21a3055a578850f12d98c1a0267" title="Returns true if the specified timer is armed. " alt="" coords="247,5,338,29"/>
+</map>

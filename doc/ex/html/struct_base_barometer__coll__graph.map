@@ -1,0 +1,5 @@
+<map id="BaseBarometer" name="BaseBarometer">
+<area shape="rect" id="node2" href="$struct_base_sensor.html" title="Base stream class. " alt="" coords="17,135,97,204"/>
+<area shape="rect" id="node3" href="$struct_base_sensor_v_m_t.html" title="BaseSensor virtual methods table. " alt="" coords="5,5,108,75"/>
+<area shape="rect" id="node4" href="$struct_base_barometer_v_m_t.html" title="BaseBarometer virtual methods table. " alt="" coords="121,135,241,204"/>
+</map>

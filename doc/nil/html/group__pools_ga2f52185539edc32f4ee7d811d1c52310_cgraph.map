@@ -1,0 +1,7 @@
+<map id="chGuardedPoolFreeI" name="chGuardedPoolFreeI">
+<area shape="rect" id="node2" href="$group__pools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool. " alt="" coords="179,5,259,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="176,67,263,91"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="451,41,563,65"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#gad16587b49706595028b04f1bd75b0dc1" title="Makes the specified thread ready for execution. " alt="" coords="314,91,399,115"/>
+<area shape="rect" id="node6" href="$group___n_i_l___k_e_r_n_e_l.html#ga7e61ba1c937e9d85aeb0c5740bc560cf" title="Retrieves the highest priority thread in the specified state and associated to the specified object..." alt="" coords="311,139,403,163"/>
+</map>

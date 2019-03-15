@@ -1,0 +1,5 @@
+<map id="serve_interrupt" name="serve_interrupt">
+<area shape="rect" id="node2" href="$group___s_e_r_i_a_l.html#gad277d58ebca0b2bcd52c1c9131df6024" title="Error handling routine. " alt="" coords="148,29,215,53"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga32db980c54089fe21370432a7a884e9f" title="Enters a critical zone from ISR context. " alt="" coords="268,5,392,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#gab53a8f4b21ad79b9d2203eff4c72b529" title="Leaves a critical zone from ISR context. " alt="" coords="263,53,397,77"/>
+</map>

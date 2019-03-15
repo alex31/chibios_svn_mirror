@@ -1,0 +1,10 @@
+<map id="chCoreAllocAligned" name="chCoreAllocAligned">
+<area shape="rect" id="node2" href="$group__memcore.html#ga935cfedceae960e8e07fd8e0bfd189b1" title="Allocates a memory block. " alt="" coords="168,20,335,44"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="215,95,287,119"/>
+<area shape="rect" id="node7" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="210,163,293,187"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="389,5,501,29"/>
+<area shape="rect" id="node5" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="394,53,497,77"/>
+<area shape="rect" id="node6" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="383,102,508,138"/>
+<area shape="rect" id="node8" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="388,163,503,187"/>
+<area shape="rect" id="node9" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="383,211,507,247"/>
+</map>

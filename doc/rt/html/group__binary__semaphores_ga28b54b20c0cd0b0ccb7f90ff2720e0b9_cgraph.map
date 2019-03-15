@@ -1,0 +1,9 @@
+<map id="chBSemResetI" name="chBSemResetI">
+<area shape="rect" id="node2" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="433,20,545,44"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#ga78031350aa8122623450f0679d80e3f9" title="Performs a reset operation on the semaphore. " alt="" coords="147,68,233,92"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="593,20,663,44"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="290,44,375,68"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="285,92,380,116"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#gaa29f30122c114fd0ea21e16b68ef1710" title="Removes the last&#45;out thread from a queue and returns it. " alt="" coords="432,164,545,188"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="281,140,384,164"/>
+</map>

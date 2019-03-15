@@ -1,0 +1,5 @@
+<map id="obnotify" name="obnotify">
+<area shape="rect" id="node2" href="$group___h_a_l___b_u_f_f_e_r_s.html#ga4f4a4180bc16647e80899247699cdafb" title="Gets the next filled buffer from the queue. " alt="" coords="112,5,219,29"/>
+<area shape="rect" id="node3" href="$group___u_s_b.html#ga68806a465ab83984d4e4fdb335405079" title="Starts a transmit transaction on an IN endpoint. " alt="" coords="112,53,219,77"/>
+<area shape="rect" id="node4" href="$group___u_s_b.html#gab03273c7bdd1779638ef66bd3b20b2b9" title="Starts a transmit operation on an IN endpoint. " alt="" coords="267,53,363,77"/>
+</map>

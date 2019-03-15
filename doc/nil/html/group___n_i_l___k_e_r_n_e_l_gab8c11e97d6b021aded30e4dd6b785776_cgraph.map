@@ -1,0 +1,7 @@
+<map id="chThdDequeueNextI" name="chThdDequeueNextI">
+<area shape="rect" id="node2" href="$group___n_i_l___k_e_r_n_e_l.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="497,5,609,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#gae831085cc734039b76cfe83ad53baf38" title="Dequeues and wakes up one thread from the threads queue object. " alt="" coords="175,29,309,53"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="657,5,727,29"/>
+<area shape="rect" id="node5" href="$group___n_i_l___k_e_r_n_e_l.html#gad16587b49706595028b04f1bd75b0dc1" title="Makes the specified thread ready for execution. " alt="" coords="361,29,446,53"/>
+<area shape="rect" id="node6" href="$group___n_i_l___k_e_r_n_e_l.html#ga7e61ba1c937e9d85aeb0c5740bc560cf" title="Retrieves the highest priority thread in the specified state and associated to the specified object..." alt="" coords="357,77,449,101"/>
+</map>

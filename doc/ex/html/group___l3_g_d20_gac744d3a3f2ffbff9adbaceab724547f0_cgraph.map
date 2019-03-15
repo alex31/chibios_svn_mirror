@@ -1,0 +1,4 @@
+<map id="gyro_read_cooked" name="gyro_read_cooked">
+<area shape="rect" id="node2" href="$group___l3_g_d20.html#gab3070a78640c213f6cc36e231d54a3dc" title="Retrieves raw data from the BaseGyroscope. " alt="" coords="164,5,259,29"/>
+<area shape="rect" id="node3" href="$group___l3_g_d20.html#ga78ca4152adafc930c67eb1631742c86b" title="Reads a generic register value using SPI. " alt="" coords="307,5,444,29"/>
+</map>

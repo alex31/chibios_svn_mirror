@@ -1,0 +1,5 @@
+<map id="Synchronization" name="Synchronization">
+<area shape="rect" id="node2" href="$group__mailboxes.html" title="Mailboxes" alt="" coords="295,5,365,29"/>
+<area shape="rect" id="node4" href="$group__binary__semaphores.html" title="Binary Semaphores" alt="" coords="272,53,388,77"/>
+<area shape="rect" id="node3" href="$group__oslib.html" title="OS Library" alt="" coords="5,29,79,53"/>
+</map>

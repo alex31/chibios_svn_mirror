@@ -1,0 +1,4 @@
+<map id="chPoolLoadArray" name="chPoolLoadArray">
+<area shape="rect" id="node2" href="$group__pools.html#ga5023631c0cb2da5c412e241a2351ab68" title="Adds an object to a memory pool. " alt="" coords="157,5,231,29"/>
+<area shape="rect" id="node3" href="$group__pools.html#gaf05f38653b302ea0da0c1f7b50854a92" title="Releases an object into a memory pool. " alt="" coords="279,5,356,29"/>
+</map>

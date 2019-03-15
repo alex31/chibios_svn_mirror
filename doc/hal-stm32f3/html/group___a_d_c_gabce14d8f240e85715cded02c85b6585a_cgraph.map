@@ -1,0 +1,6 @@
+<map id="adcStopConversion" name="adcStopConversion">
+<area shape="rect" id="node2" href="$group___a_d_c.html#ga16ce41e3fdca5b04f046f1e9099f3e92" title="Stops an ongoing conversion. " alt="" coords="168,5,307,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="197,53,277,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="192,101,283,125"/>
+<area shape="rect" id="node3" href="$group___a_d_c.html#ga14c51041403a4667ded87af0b7dd5360" title="Stops an ongoing conversion, if any. " alt="" coords="355,5,459,29"/>
+</map>

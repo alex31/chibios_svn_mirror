@@ -1,0 +1,5 @@
+<map id="obqFlush" name="obqFlush">
+<area shape="rect" id="node2" href="$group___h_a_l___b_u_f_f_e_r_s.html#ga76b1e20bacea1453e16338e6fd12e6cf" title="Posts a new filled buffer to the queue. " alt="" coords="120,5,235,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="137,53,217,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="132,101,223,125"/>
+</map>
