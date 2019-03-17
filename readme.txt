@@ -73,6 +73,10 @@
 *** Releases and Change Log                                               ***
 *****************************************************************************
 
+*** 19.1.2 ***
+- HAL: Added H753 to all H7 mcuconf.h files.
+- FIX: Fixed missing EXTI driver integration on some platforms (bug #1022).
+
 *** 19.1.1 ***
 - LIB: Re-introduced missing chGuardedPoolGetCounterI() function to guarded
        pools allocator.
