@@ -2236,6 +2236,7 @@ os/hal/include/hal_crypto.h -text
 os/hal/include/hal_dac.h -text
 os/hal/include/hal_efl.h -text
 os/hal/include/hal_files.h -text
+os/hal/include/hal_flash.h -text
 os/hal/include/hal_gpt.h -text
 os/hal/include/hal_i2c.h -text
 os/hal/include/hal_i2s.h -text
@@ -2278,17 +2279,6 @@ os/hal/lib/complex/serial_nor/hal_serial_nor.c -text
 os/hal/lib/complex/serial_nor/hal_serial_nor.h -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.c -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.h -text
-os/hal/lib/peripherals/displays/hal_displays.h -text
-os/hal/lib/peripherals/flash/hal_flash.c -text
-os/hal/lib/peripherals/flash/hal_flash.h -text
-os/hal/lib/peripherals/sensors/hal_accelerometer.h -text
-os/hal/lib/peripherals/sensors/hal_barometer.h -text
-os/hal/lib/peripherals/sensors/hal_compass.h -text
-os/hal/lib/peripherals/sensors/hal_gyroscope.h -text
-os/hal/lib/peripherals/sensors/hal_hygrometer.h -text
-os/hal/lib/peripherals/sensors/hal_rangefinder.h -text
-os/hal/lib/peripherals/sensors/hal_sensors.h -text
-os/hal/lib/peripherals/sensors/hal_thermometer.h -text
 os/hal/lib/streams/chprintf.c -text
 os/hal/lib/streams/chprintf.h -text
 os/hal/lib/streams/memstreams.c -text
@@ -2825,6 +2815,7 @@ os/hal/src/hal_can.c -text
 os/hal/src/hal_crypto.c -text
 os/hal/src/hal_dac.c -text
 os/hal/src/hal_efl.c -text
+os/hal/src/hal_flash.c -text
 os/hal/src/hal_gpt.c -text
 os/hal/src/hal_i2c.c -text
 os/hal/src/hal_i2s.c -text
