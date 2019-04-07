@@ -1675,9 +1675,9 @@ os/common/startup/e200/devices/SPC56ELxx/boot.S -text
 os/common/startup/e200/devices/SPC56ELxx/boot.h -text
 os/common/startup/e200/devices/SPC56ELxx/intc.h -text
 os/common/startup/e200/devices/SPC56ELxx/ppcparams.h -text
-os/ex/Bosch/bmp085.c -text
-os/ex/Bosch/bmp085.h -text
-os/ex/Bosch/bmp085.mk -text
+os/ex/devices/Bosch/bmp085.c -text
+os/ex/devices/Bosch/bmp085.h -text
+os/ex/devices/Bosch/bmp085.mk -text
 os/ex/devices/ST/hts221.c -text
 os/ex/devices/ST/hts221.h -text
 os/ex/devices/ST/hts221.mk -text
