@@ -1723,6 +1723,15 @@ os/ex/dox/main.dox -text
 os/ex/dox/sensor.dox -text
 os/ex/dox/thermometer.dox -text
 os/ex/include/ex.h -text
+os/ex/include/ex_accelerometer.h -text
+os/ex/include/ex_barometer.h -text
+os/ex/include/ex_compass.h -text
+os/ex/include/ex_displays.h -text
+os/ex/include/ex_gyroscope.h -text
+os/ex/include/ex_hygrometer.h -text
+os/ex/include/ex_rangefinder.h -text
+os/ex/include/ex_sensors.h -text
+os/ex/include/ex_thermometer.h -text
 os/hal/boards/ARDUINO_LEONARDO/board.c -text
 os/hal/boards/ARDUINO_LEONARDO/board.h -text
 os/hal/boards/ARDUINO_LEONARDO/board.mk -text
