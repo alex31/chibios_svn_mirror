@@ -2225,6 +2225,7 @@ os/hal/include/hal_can.h -text
 os/hal/include/hal_channels.h -text
 os/hal/include/hal_crypto.h -text
 os/hal/include/hal_dac.h -text
+os/hal/include/hal_efl.h -text
 os/hal/include/hal_files.h -text
 os/hal/include/hal_gpt.h -text
 os/hal/include/hal_i2c.h -text
@@ -2814,6 +2815,7 @@ os/hal/src/hal_buffers.c -text
 os/hal/src/hal_can.c -text
 os/hal/src/hal_crypto.c -text
 os/hal/src/hal_dac.c -text
+os/hal/src/hal_efl.c -text
 os/hal/src/hal_gpt.c -text
 os/hal/src/hal_i2c.c -text
 os/hal/src/hal_i2s.c -text
