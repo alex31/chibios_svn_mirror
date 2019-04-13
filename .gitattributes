@@ -2771,6 +2771,8 @@ os/hal/ports/STM32/STM32L4xx+/stm32_isr.c -text
 os/hal/ports/STM32/STM32L4xx+/stm32_isr.h -text
 os/hal/ports/STM32/STM32L4xx+/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L4xx+/stm32_registry.h -text
+os/hal/ports/STM32/STM32L4xx/hal_efl_lld.c -text
+os/hal/ports/STM32/STM32L4xx/hal_efl_lld.h -text
 os/hal/ports/STM32/STM32L4xx/hal_lld.c -text
 os/hal/ports/STM32/STM32L4xx/hal_lld.h -text
 os/hal/ports/STM32/STM32L4xx/platform.mk -text
@@ -2841,6 +2843,8 @@ os/hal/templates/hal_crypto_lld.c -text
 os/hal/templates/hal_crypto_lld.h -text
 os/hal/templates/hal_dac_lld.c -text
 os/hal/templates/hal_dac_lld.h -text
+os/hal/templates/hal_efl_lld.c -text
+os/hal/templates/hal_efl_lld.h -text
 os/hal/templates/hal_gpt_lld.c -text
 os/hal/templates/hal_gpt_lld.h -text
 os/hal/templates/hal_i2c_lld.c -text
