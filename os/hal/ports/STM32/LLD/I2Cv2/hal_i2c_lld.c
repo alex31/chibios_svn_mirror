@@ -1658,7 +1658,7 @@ void i2c_lld_stop(I2CDriver *i2cp) {
 #error "I2C4 interrupt numbers not defined"
 #endif
 
-      rccDisableI2C4(FALSE);
+      rccDisableI2C4();
     }
 #endif
   }
