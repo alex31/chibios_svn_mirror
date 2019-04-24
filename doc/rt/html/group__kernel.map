@@ -1,0 +1,10 @@
+<map id="RT Kernel" name="RT Kernel">
+<area shape="rect" id="node1" href="$group__registry.html" title="Registry" alt="" coords="157,5,218,29"/>
+<area shape="rect" id="node3" href="$group__base.html" title="Base Kernel Services" alt="" coords="126,53,249,77"/>
+<area shape="rect" id="node4" href="$group__synchronization.html" title="Synchronization" alt="" coords="139,101,236,125"/>
+<area shape="rect" id="node5" href="$group__config__category.html" title="Configuration" alt="" coords="144,149,231,173"/>
+<area shape="rect" id="node6" href="$group__dynamic__threads.html" title="Dynamic Threads" alt="" coords="134,197,241,221"/>
+<area shape="rect" id="node7" href="$group__kernel__info.html" title="Version Numbers and\l Identification" alt="" coords="124,246,251,282"/>
+<area shape="rect" id="node8" href="$group__core.html" title="Port Layer" alt="" coords="151,307,223,331"/>
+<area shape="rect" id="node9" href="$group__debug.html" title="Debug" alt="" coords="160,355,215,379"/>
+</map>

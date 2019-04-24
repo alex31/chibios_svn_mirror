@@ -1,0 +1,7 @@
+<map id="chSchPreemption" name="chSchPreemption">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga6827a67e839462e65b5765ef15709c97" title="Switches to the first thread on the runnable queue. " alt="" coords="161,29,313,53"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga00ba2b2d1831c7d7821f9be234750404" title="Switches to the first thread on the runnable queue. " alt="" coords="160,77,315,101"/>
+<area shape="rect" id="node3" href="$group__scheduler.html#gace86039d07e48b5df438fac841086cf1" title="Inserts a thread in the Ready List placing it ahead its peers. " alt="" coords="363,5,479,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="363,53,478,77"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="378,101,463,125"/>
+</map>

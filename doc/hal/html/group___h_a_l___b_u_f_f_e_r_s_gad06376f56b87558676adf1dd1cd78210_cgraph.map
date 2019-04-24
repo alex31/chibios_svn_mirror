@@ -1,0 +1,5 @@
+<map id="obqGetEmptyBufferTimeout" name="obqGetEmptyBufferTimeout">
+<area shape="rect" id="node2" href="$group___h_a_l___b_u_f_f_e_r_s.html#ga5fd1a9f207211fdbd50a42d711826aa2" title="Gets the next empty buffer from the queue. " alt="" coords="208,5,371,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="249,53,329,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="244,101,335,125"/>
+</map>

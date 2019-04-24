@@ -1,0 +1,5 @@
+<map id="chGuardedPoolObjectInitAligned" name="chGuardedPoolObjectInitAligned">
+<area shape="rect" id="node2" href="$group__pools.html#ga9f15bacf4d35f627ea442d80839ed34e" title="Initializes an empty memory pool. " alt="" coords="228,5,361,29"/>
+<area shape="rect" id="node3" href="$group__semaphores.html#ga6c1812ffb36357295cd22670a10ff694" title="Initializes a semaphore with the specified counter value. " alt="" coords="245,53,344,77"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga79bee2577cd8ba9850c8c3d20ea33d30" title="Threads queue initialization. " alt="" coords="409,53,480,77"/>
+</map>

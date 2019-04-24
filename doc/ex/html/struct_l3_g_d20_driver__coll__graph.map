@@ -1,0 +1,6 @@
+<map id="L3GD20Driver" name="L3GD20Driver">
+<area shape="rect" id="node2" href="$struct_l3_g_d20_v_m_t.html" title="L3GD20 virtual methods table. " alt="" coords="5,135,91,204"/>
+<area shape="rect" id="node3" href="$struct_base_gyroscope.html" title="Base gyroscope class. " alt="" coords="115,135,213,204"/>
+<area shape="rect" id="node4" href="$struct_base_sensor.html" title="Base stream class. " alt="" coords="63,5,143,75"/>
+<area shape="rect" id="node5" href="$struct_base_gyroscope_v_m_t.html" title="BaseGyroscope virtual methods table. " alt="" coords="167,5,287,75"/>
+</map>

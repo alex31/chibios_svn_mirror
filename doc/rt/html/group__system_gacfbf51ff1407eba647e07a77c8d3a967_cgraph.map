@@ -1,0 +1,4 @@
+<map id="chSysEnable" name="chSysEnable">
+<area shape="rect" id="node2" href="$group__debug.html#gaf426a19611e50090007bbef7944d9c6b" title="Guard code for chSysEnable(). " alt="" coords="136,5,253,29"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="301,5,371,29"/>
+</map>

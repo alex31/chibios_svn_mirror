@@ -1,0 +1,5 @@
+<map id="SDCDriver" name="SDCDriver">
+<area shape="rect" id="node2" href="$struct_s_d_c_driver_v_m_t.html" title="SDCDriver virtual methods table. " alt="" coords="28,130,125,199"/>
+<area shape="rect" id="node3" href="$struct_m_m_c_s_d_block_device_v_m_t.html" title="MMCSDBlockDevice virtual methods table. " alt="" coords="5,5,148,75"/>
+<area shape="rect" id="node4" href="$struct_s_d_c_config.html" title="Driver configuration structure. " alt="" coords="150,124,233,205"/>
+</map>

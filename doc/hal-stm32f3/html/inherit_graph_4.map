@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_base_object.html" title="Base stream class. " alt="" coords="5,29,81,53"/>
+<area shape="rect" id="node2" href="$struct_base_block_device.html" title="Base block device class. " alt="" coords="143,5,246,29"/>
+<area shape="rect" id="node5" href="$struct_base_sequential_stream.html" title="Base stream class. " alt="" coords="129,53,260,77"/>
+<area shape="rect" id="node3" href="$struct_m_m_c_s_d_block_device.html" title="MCC/SD block device class. " alt="" coords="308,5,428,29"/>
+<area shape="rect" id="node4" href="$struct_m_m_c_driver.html" title="Structure representing a MMC/SD over SPI driver. " alt="" coords="514,5,591,29"/>
+<area shape="rect" id="node6" href="$struct_base_channel.html" title="Base channel class. " alt="" coords="325,53,411,77"/>
+<area shape="rect" id="node10" href="$struct_file_stream.html" title="Base file stream class. " alt="" coords="331,101,405,125"/>
+<area shape="rect" id="node7" href="$struct_base_asynchronous_channel.html" title="Base asynchronous channel class. " alt="" coords="476,53,629,77"/>
+<area shape="rect" id="node8" href="$struct_serial_driver.html" title="Full duplex serial driver class. " alt="" coords="688,29,767,53"/>
+<area shape="rect" id="node9" href="$struct_serial_u_s_b_driver.html" title="Full duplex serial driver class. " alt="" coords="677,77,777,101"/>
+<area shape="rect" id="node11" href="$struct_r_t_c_driver_v_m_t.html" title="RTCDriver virtual methods table. " alt="" coords="504,101,601,125"/>
+</map>

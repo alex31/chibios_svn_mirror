@@ -1,0 +1,6 @@
+<map id="chThdQueueIsEmptyI" name="chThdQueueIsEmptyI">
+<area shape="rect" id="node2" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="179,5,291,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="187,53,282,77"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="339,5,408,29"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#gab9b2132009ba2cef65d3fca0cfb354ef" title="Pushes a thread_t on top of a stack list. " alt="" coords="340,53,407,77"/>
+</map>

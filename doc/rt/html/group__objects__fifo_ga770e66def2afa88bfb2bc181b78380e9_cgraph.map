@@ -1,0 +1,6 @@
+<map id="chFifoSendObject" name="chFifoSendObject">
+<area shape="rect" id="node2" href="$group__mailboxes.html#ga6071eccd28f14ab5dd852e8a36939164" title="Posts a message into a mailbox. " alt="" coords="160,53,269,77"/>
+<area shape="rect" id="node3" href="$group__mailboxes.html#gadb7ad5c920e9dda2bd0e1b65082d2539" title="Posts a message into a mailbox. " alt="" coords="317,5,433,29"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="339,53,411,77"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="334,101,417,125"/>
+</map>

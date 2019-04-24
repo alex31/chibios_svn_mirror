@@ -1,0 +1,12 @@
+<map id="chSysRestoreStatusX" name="chSysRestoreStatusX">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="185,53,299,77"/>
+<area shape="rect" id="node6" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="201,153,283,177"/>
+<area shape="rect" id="node9" href="$group__system.html#ga459aa0a2901f0b19c7cf1d39172e4f53" title="Leaves the kernel lock state from within an interrupt handler. " alt="" coords="179,235,305,259"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="561,5,677,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="368,29,499,53"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga6827a67e839462e65b5765ef15709c97" title="Switches to the first thread on the runnable queue. " alt="" coords="357,77,509,101"/>
+<area shape="rect" id="node7" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="376,125,491,149"/>
+<area shape="rect" id="node8" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="371,174,495,210"/>
+<area shape="rect" id="node10" href="$group__debug.html#ga17f453d8bb5d66fc7ac39fa058718f22" title="Guard code for chSysUnlockFromIsr(). " alt="" coords="353,235,513,259"/>
+<area shape="rect" id="node11" href="$group__statistics.html#gae02a213355698f1d043539c008b60898" title="Stops the measurement of an ISR critical zone. " alt="" coords="371,283,495,319"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="chSysSuspend" name="chSysSuspend">
+<area shape="rect" id="node2" href="$group__debug.html#gab0c36c092d366e31931de80d5bb694a0" title="Guard code for chSysSuspend(). " alt="" coords="145,5,271,29"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="319,5,388,29"/>
+</map>

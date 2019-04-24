@@ -1,0 +1,5 @@
+<map id="oqWriteTimeout" name="oqWriteTimeout">
+<area shape="rect" id="node2" href="$group___h_a_l___q_u_e_u_e_s.html#ga7b975fed8c553cb3592f59c2b6b0c3d8" title="Non&#45;blocking output queue write. " alt="" coords="203,5,266,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="195,53,275,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga04971ea0e1c6201d0ea73920520d9f2b" title="Enqueues the caller thread. " alt="" coords="152,101,317,125"/>
+</map>

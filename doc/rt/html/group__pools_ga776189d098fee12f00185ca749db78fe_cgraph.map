@@ -1,0 +1,8 @@
+<map id="chGuardedPoolAllocTimeoutS" name="chGuardedPoolAllocTimeoutS">
+<area shape="rect" id="node2" href="$group__pools.html#ga0fb08e687397c6ba657886752a032384" title="Allocates an object from a memory pool. " alt="" coords="239,5,318,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gae5e5fa781cb1a7d870698c05640d21b4" title="Performs a wait operation on a semaphore with timeout specification. " alt="" coords="217,65,340,89"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="552,65,664,89"/>
+<area shape="rect" id="node5" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="388,41,504,65"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gaf2447f9565ba6ddcecc9b5622885ae50" title="Evaluates to true if the specified threads queue is empty. " alt="" coords="399,89,493,113"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="395,137,497,161"/>
+</map>

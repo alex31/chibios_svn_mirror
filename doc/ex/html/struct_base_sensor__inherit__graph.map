@@ -1,0 +1,8 @@
+<map id="BaseSensor" name="BaseSensor">
+<area shape="rect" id="node2" href="$struct_base_accelerometer.html" title="Base accelerometer class. " alt="" coords="5,123,120,192"/>
+<area shape="rect" id="node3" href="$struct_base_barometer.html" title="Base barometer class. " alt="" coords="145,123,242,192"/>
+<area shape="rect" id="node4" href="$struct_base_compass.html" title="Base compass class. " alt="" coords="267,123,357,192"/>
+<area shape="rect" id="node5" href="$struct_base_gyroscope.html" title="Base gyroscope class. " alt="" coords="382,123,479,192"/>
+<area shape="rect" id="node6" href="$struct_base_hygrometer.html" title="Base hygrometer class. " alt="" coords="503,123,606,192"/>
+<area shape="rect" id="node7" href="$struct_base_thermometer.html" title="Base thermometer class. " alt="" coords="631,123,743,192"/>
+</map>

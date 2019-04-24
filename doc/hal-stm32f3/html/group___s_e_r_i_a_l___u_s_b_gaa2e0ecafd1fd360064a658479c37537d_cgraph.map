@@ -1,0 +1,6 @@
+<map id="sduSOFHookI" name="sduSOFHookI">
+<area shape="rect" id="node2" href="$group___h_a_l___b_u_f_f_e_r_s.html#ga4f4a4180bc16647e80899247699cdafb" title="Gets the next filled buffer from the queue. " alt="" coords="143,5,249,29"/>
+<area shape="rect" id="node3" href="$group___h_a_l___b_u_f_f_e_r_s.html#ga517f391c5db3974d78bfab7493d5cbe9" title="Flushes the current, partially filled, buffer to the queue. " alt="" coords="153,53,239,77"/>
+<area shape="rect" id="node4" href="$group___u_s_b.html#ga68806a465ab83984d4e4fdb335405079" title="Starts a transmit transaction on an IN endpoint. " alt="" coords="143,101,249,125"/>
+<area shape="rect" id="node5" href="$group___u_s_b.html#gab03273c7bdd1779638ef66bd3b20b2b9" title="Starts a transmit operation on an IN endpoint. " alt="" coords="297,101,393,125"/>
+</map>

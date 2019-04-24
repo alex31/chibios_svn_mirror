@@ -1,0 +1,6 @@
+<map id="chSchDoReschedule" name="chSchDoReschedule">
+<area shape="rect" id="node2" href="$group__scheduler.html#gace86039d07e48b5df438fac841086cf1" title="Inserts a thread in the Ready List placing it ahead its peers. " alt="" coords="175,5,291,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="190,53,275,77"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="175,101,290,125"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="339,29,451,53"/>
+</map>

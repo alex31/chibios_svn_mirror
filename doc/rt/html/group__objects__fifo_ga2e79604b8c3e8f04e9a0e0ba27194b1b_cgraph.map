@@ -1,0 +1,6 @@
+<map id="chFifoTakeObjectI" name="chFifoTakeObjectI">
+<area shape="rect" id="node2" href="$group__pools.html#ga103973c939b37b84531d8d1fedc91579" title="Allocates an object from a guarded memory pool. " alt="" coords="161,53,283,77"/>
+<area shape="rect" id="node3" href="$group__pools.html#ga0fb08e687397c6ba657886752a032384" title="Allocates an object from a memory pool. " alt="" coords="349,5,427,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gabf1864766da833070d61948d67a190a0" title="Decreases the semaphore counter. " alt="" coords="338,53,438,77"/>
+<area shape="rect" id="node5" href="$group__semaphores.html#ga0f47e935dc651550ff52b8b20c9b9c2d" title="Returns the semaphore counter current value. " alt="" coords="331,101,445,125"/>
+</map>

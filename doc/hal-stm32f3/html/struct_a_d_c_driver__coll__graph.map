@@ -1,0 +1,5 @@
+<map id="ADCDriver" name="ADCDriver">
+<area shape="rect" id="node4" href="$struct_a_d_c_conversion_group.html" title="Conversion group configuration structure. " alt="" coords="67,444,196,621"/>
+<area shape="rect" id="node2" href="$structstm32__dma__stream__t.html" title="STM32 DMA stream descriptor structure. " alt="" coords="5,5,132,147"/>
+<area shape="rect" id="node3" href="$struct_a_d_c_config.html" title="Driver configuration structure. " alt="" coords="156,41,232,111"/>
+</map>

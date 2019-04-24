@@ -1,0 +1,5 @@
+<map id="chThdResumeS" name="chThdResumeS">
+<area shape="rect" id="node2" href="$group__scheduler.html#ga270b083660e1f9b48a34570914bebeac" title="Wakes up a thread. " alt="" coords="152,29,249,53"/>
+<area shape="rect" id="node3" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="297,5,413,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers. " alt="" coords="313,53,398,77"/>
+</map>

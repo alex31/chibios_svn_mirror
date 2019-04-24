@@ -1,0 +1,7 @@
+<map id="USBDriver" name="USBDriver">
+<area shape="rect" id="node2" href="$struct_u_s_b_config.html" title="Type of an USB driver configuration structure. " alt="" coords="140,339,215,408"/>
+<area shape="rect" id="node4" href="$struct_u_s_b_endpoint_config.html" title="Type of an USB endpoint configuration structure. " alt="" coords="416,315,533,432"/>
+<area shape="rect" id="node3" href="$struct_u_s_b_descriptor.html" title="Type of an USB descriptor. " alt="" coords="5,77,99,159"/>
+<area shape="rect" id="node5" href="$struct_u_s_b_out_endpoint_state.html" title="Type of an OUT endpoint state structure. " alt="" coords="600,59,728,177"/>
+<area shape="rect" id="node6" href="$struct_u_s_b_in_endpoint_state.html" title="Type of an IN endpoint state structure. " alt="" coords="456,59,576,177"/>
+</map>

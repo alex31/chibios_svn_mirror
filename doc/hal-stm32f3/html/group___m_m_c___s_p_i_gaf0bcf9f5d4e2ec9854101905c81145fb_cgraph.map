@@ -1,0 +1,13 @@
+<map id="mmcConnect" name="mmcConnect">
+<area shape="rect" id="node2" href="$group___m_m_c___s_p_i.html#gaf83dd60ca0bc01e456d965724b3f4a5a" title="Sends a command an returns a single byte response. " alt="" coords="139,101,257,125"/>
+<area shape="rect" id="node9" href="$group___s_p_i.html#ga43889a7d4c473f653596f8c0acafce2a" title="Ignores data on the SPI bus. " alt="" coords="310,197,377,221"/>
+<area shape="rect" id="node11" href="$group___s_p_i.html#ga6752c9f736f8de774a5bef6dfe2aae2e" title="Configures and activates the SPI peripheral. " alt="" coords="314,245,373,269"/>
+<area shape="rect" id="node3" href="$group___m_m_c___s_p_i.html#ga3862a084e567aa0e36d86038f504b7b5" title="Receives a single byte response. " alt="" coords="317,101,369,125"/>
+<area shape="rect" id="node4" href="$group___m_m_c___s_p_i.html#ga9e3bc1849600a89d28eac5aaa8e5ea14" title="Sends a command header. " alt="" coords="310,149,377,173"/>
+<area shape="rect" id="node5" href="$group___s_p_i.html#ga00809152c869db80192aa3e04266a99a" title="Asserts the slave select signal and prepares for transfers. " alt="" coords="311,5,375,29"/>
+<area shape="rect" id="node8" href="$group___s_p_i.html#gae291c012872da9c89dec23581f701b5f" title="Deasserts the slave select signal. " alt="" coords="305,53,381,77"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="452,65,532,89"/>
+<area shape="rect" id="node7" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="447,125,537,149"/>
+<area shape="rect" id="node10" href="$group___o_s_a_l.html#ga49573c45ca88cd172ee03da252f69ae4" title="Sends the current thread sleeping and sets a reference variable. " alt="" coords="429,197,555,221"/>
+<area shape="rect" id="node12" href="$group___s_p_i.html#gaf35495bd4459608ae22a3f728fd4697b" title="Configures and activates the SPI peripheral. " alt="" coords="453,245,531,269"/>
+</map>

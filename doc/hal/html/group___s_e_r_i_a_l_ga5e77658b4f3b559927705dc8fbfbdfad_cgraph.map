@@ -1,0 +1,5 @@
+<map id="sdStart" name="sdStart">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="115,5,195,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="109,53,200,77"/>
+<area shape="rect" id="node4" href="$group___s_e_r_i_a_l.html#gacc3752a7b00b668a651ab76902074e92" title="Low level serial driver configuration and (re)start. " alt="" coords="117,101,193,125"/>
+</map>

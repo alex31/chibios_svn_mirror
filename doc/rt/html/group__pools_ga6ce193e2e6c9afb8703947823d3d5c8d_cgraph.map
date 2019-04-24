@@ -1,0 +1,11 @@
+<map id="chGuardedPoolAllocTimeout" name="chGuardedPoolAllocTimeout">
+<area shape="rect" id="node2" href="$group__pools.html#ga776189d098fee12f00185ca749db78fe" title="Allocates an object from a guarded memory pool. " alt="" coords="211,53,375,77"/>
+<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="257,129,329,153"/>
+<area shape="rect" id="node8" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="251,211,334,235"/>
+<area shape="rect" id="node3" href="$group__pools.html#ga0fb08e687397c6ba657886752a032384" title="Allocates an object from a memory pool. " alt="" coords="446,5,525,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gae5e5fa781cb1a7d870698c05640d21b4" title="Performs a wait operation on a semaphore with timeout specification. " alt="" coords="424,53,547,77"/>
+<area shape="rect" id="node6" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="434,101,537,125"/>
+<area shape="rect" id="node7" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="423,150,548,186"/>
+<area shape="rect" id="node9" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="428,211,543,235"/>
+<area shape="rect" id="node10" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="423,259,547,295"/>
+</map>

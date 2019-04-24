@@ -1,0 +1,7 @@
+<map id="canSleep" name="canSleep">
+<area shape="rect" id="node2" href="$group___c_a_n.html#ga90f2254324f338714bfe1663eb73a2ba" title="Enters the sleep mode. " alt="" coords="149,5,236,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gaf8ec0981fbd7d926f77095f3dbbb13d7" title="Add flags to an event source object. " alt="" coords="120,53,265,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga5850406055069d6a9b88103ad34b111d" title="Checks if a reschedule is required and performs it. " alt="" coords="134,101,251,125"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="153,149,233,173"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="147,197,238,221"/>
+</map>

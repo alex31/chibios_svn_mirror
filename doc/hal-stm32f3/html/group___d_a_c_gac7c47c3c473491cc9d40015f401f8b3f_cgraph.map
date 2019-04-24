@@ -1,0 +1,6 @@
+<map id="dacStart" name="dacStart">
+<area shape="rect" id="node2" href="$group___d_a_c.html#gabae212cc99df9f7e77960f18af220997" title="Configures and activates the DAC peripheral. " alt="" coords="120,5,203,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="121,53,201,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="116,101,207,125"/>
+<area shape="rect" id="node3" href="$group___d_a_c.html#ga0efffa2b274a2f08239e26fe7def05b1" title="Outputs a value directly on a DAC channel. " alt="" coords="255,5,373,29"/>
+</map>

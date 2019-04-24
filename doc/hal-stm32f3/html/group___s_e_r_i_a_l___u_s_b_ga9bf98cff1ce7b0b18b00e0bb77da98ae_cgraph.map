@@ -1,0 +1,8 @@
+<map id="sduStop" name="sduStop">
+<area shape="rect" id="node2" href="$group___h_a_l___b_u_f_f_e_r_s.html#gabb11859756f526b7f2150aaef6a4667c" title="Resets an input buffers queue. " alt="" coords="140,5,207,29"/>
+<area shape="rect" id="node4" href="$group___h_a_l___b_u_f_f_e_r_s.html#gaddd8be7bc7d1c4c18ca709aff412f79c" title="Resets an output buffers queue. " alt="" coords="138,53,209,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga5850406055069d6a9b88103ad34b111d" title="Checks if a reschedule is required and performs it. " alt="" coords="115,101,232,125"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="133,149,213,173"/>
+<area shape="rect" id="node7" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="128,197,219,221"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga27a8123a61493028127897d839a4d75a" title="Dequeues and wakes up all threads from the queue. " alt="" coords="280,29,415,53"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="chVTGetSystemTime" name="chVTGetSystemTime">
+<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="205,60,277,84"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="200,115,283,139"/>
+<area shape="rect" id="node8" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time. " alt="" coords="176,163,307,187"/>
+<area shape="rect" id="node3" href="$group__debug.html#gaae453ff2b98bb0711c081c0496615250" title="Guard code for chSysLock(). " alt="" coords="366,5,469,29"/>
+<area shape="rect" id="node4" href="$group__statistics.html#ga813c62177261b1b03a87ba209409b44b" title="Starts the measurement of a thread critical zone. " alt="" coords="355,54,480,90"/>
+<area shape="rect" id="node6" href="$group__debug.html#gafdb3c25c67ce61bb8ed7a9121365b71c" title="Guard code for chSysUnlock(). " alt="" coords="360,115,475,139"/>
+<area shape="rect" id="node7" href="$group__statistics.html#gadd818821c119157b1ea6cd399ee4e647" title="Stops the measurement of a thread critical zone. " alt="" coords="355,163,479,199"/>
+</map>

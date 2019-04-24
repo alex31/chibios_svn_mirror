@@ -1,0 +1,4 @@
+<map id="I2CDriver" name="I2CDriver">
+<area shape="rect" id="node2" href="$struct_i2_c_config.html" title="Type of I2C driver configuration structure. " alt="" coords="5,29,76,123"/>
+<area shape="rect" id="node3" href="$structstm32__dma__stream__t.html" title="STM32 DMA stream descriptor structure. " alt="" coords="100,5,227,147"/>
+</map>

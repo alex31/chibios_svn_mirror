@@ -1,0 +1,9 @@
+<map id="chGuardedPoolFreeS" name="chGuardedPoolFreeS">
+<area shape="rect" id="node2" href="$group__pools.html#ga2f52185539edc32f4ee7d811d1c52310" title="Releases an object into a guarded memory pool. " alt="" coords="180,53,303,77"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="184,127,299,151"/>
+<area shape="rect" id="node3" href="$group__pools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool. " alt="" coords="387,5,467,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gaf379805c91e541ebb778047803bd1cee" title="Performs a signal operation on a semaphore. " alt="" coords="383,53,470,77"/>
+<area shape="rect" id="node6" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="551,152,667,176"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#ga6827a67e839462e65b5765ef15709c97" title="Switches to the first thread on the runnable queue. " alt="" coords="351,152,503,176"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="361,200,492,224"/>
+</map>

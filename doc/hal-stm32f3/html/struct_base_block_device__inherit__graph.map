@@ -1,0 +1,5 @@
+<map id="BaseBlockDevice" name="BaseBlockDevice">
+<area shape="rect" id="node3" href="$struct_m_m_c_s_d_block_device.html" title="MCC/SD block device class. " alt="" coords="5,240,125,309"/>
+<area shape="rect" id="node2" href="$struct_base_object.html" title="Base stream class. " alt="" coords="27,5,103,75"/>
+<area shape="rect" id="node4" href="$struct_m_m_c_driver.html" title="Structure representing a MMC/SD over SPI driver. " alt="" coords="10,357,121,451"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="BaseObject" name="BaseObject">
+<area shape="rect" id="node2" href="$struct_base_block_device.html" title="Base block device class. " alt="" coords="14,123,117,192"/>
+<area shape="rect" id="node4" href="$struct_base_sequential_stream.html" title="Base stream class. " alt="" coords="141,123,272,192"/>
+<area shape="rect" id="node3" href="$struct_m_m_c_s_d_block_device.html" title="MCC/SD block device class. " alt="" coords="5,240,125,309"/>
+<area shape="rect" id="node5" href="$struct_base_channel.html" title="Base channel class. " alt="" coords="157,240,243,309"/>
+<area shape="rect" id="node6" href="$struct_file_stream.html" title="Base file stream class. " alt="" coords="268,240,343,309"/>
+</map>

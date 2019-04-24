@@ -1,0 +1,4 @@
+<map id="uartStopReceive" name="uartStopReceive">
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="176,5,256,29"/>
+<area shape="rect" id="node3" href="$group___u_a_r_t.html#gaf6eeebdeb91ad7e692d73ceefa9eafb7" title="Stops any ongoing receive operation. " alt="" coords="155,53,277,77"/>
+</map>

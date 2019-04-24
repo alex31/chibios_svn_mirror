@@ -1,0 +1,7 @@
+<map id="mmcErase" name="mmcErase">
+<area shape="rect" id="node2" href="$group___m_m_c___s_p_i.html#gaf83dd60ca0bc01e456d965724b3f4a5a" title="Sends a command an returns a single byte response. " alt="" coords="127,77,245,101"/>
+<area shape="rect" id="node3" href="$group___m_m_c___s_p_i.html#ga3862a084e567aa0e36d86038f504b7b5" title="Receives a single byte response. " alt="" coords="305,5,357,29"/>
+<area shape="rect" id="node4" href="$group___m_m_c___s_p_i.html#ga9e3bc1849600a89d28eac5aaa8e5ea14" title="Sends a command header. " alt="" coords="298,53,365,77"/>
+<area shape="rect" id="node5" href="$group___s_p_i.html#ga00809152c869db80192aa3e04266a99a" title="Asserts the slave select signal and prepares for transfers. " alt="" coords="299,101,363,125"/>
+<area shape="rect" id="node6" href="$group___s_p_i.html#gae291c012872da9c89dec23581f701b5f" title="Deasserts the slave select signal. " alt="" coords="293,149,369,173"/>
+</map>

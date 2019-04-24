@@ -1,0 +1,15 @@
+<map id="thermo_reset_sensitivity" name="thermo_reset_sensitivity">
+<area shape="rect" id="node2" href="$group___h_t_s221.html#ga6e16bfa6b9961c7d3cc87c6dab226a47" title="Return the number of axes of the BaseHygrometer. " alt="" coords="193,5,334,29"/>
+<area shape="rect" id="node3" href="$group___h_t_s221.html#gaee577ac2773e737463ebbf761d1eda72" title="Retrieves cooked data from the BaseHygrometer. " alt="" coords="205,53,322,77"/>
+<area shape="rect" id="node4" href="$group___h_t_s221.html#ga4b00c6876c57c7e00175d35ded74d8c5" title="Retrieves raw data from the BaseHygrometer. " alt="" coords="389,79,490,103"/>
+<area shape="rect" id="node5" href="$group___h_t_s221.html#ga24f55e985fb195f7fc7143dac6c253d1" title="Reset bias values for the BaseHygrometer. " alt="" coords="211,152,315,176"/>
+<area shape="rect" id="node6" href="$group___h_t_s221.html#ga3981d7ddec96fc393b36c3c2f12e042b" title="Reset sensitivity values for the BaseHygrometer. " alt="" coords="199,200,328,224"/>
+<area shape="rect" id="node7" href="$group___h_t_s221.html#ga0b963f75d6ea780c8a34a8cbb0c505f7" title="Set bias values for the BaseHygrometer. " alt="" coords="216,248,311,272"/>
+<area shape="rect" id="node8" href="$group___h_t_s221.html#gadf1109c0f41ad1beb040c35edba5482b" title="Set sensitivity values for the BaseHygrometer. " alt="" coords="204,296,323,320"/>
+<area shape="rect" id="node9" href="$group___h_t_s221.html#ga9fb228408580d2781538d2f634ae08d4" title="Return the number of axes of the BaseThermometer. " alt="" coords="189,344,337,368"/>
+<area shape="rect" id="node10" href="$group___h_t_s221.html#gad92ef22ca2810f3df4e16905936ef684" title="Retrieves cooked data from the BaseThermometer. " alt="" coords="201,392,325,416"/>
+<area shape="rect" id="node11" href="$group___h_t_s221.html#ga4488647726d87cde77c1efe8dcff0eb5" title="Retrieves raw data from the BaseThermometer. " alt="" coords="385,416,493,440"/>
+<area shape="rect" id="node12" href="$group___h_t_s221.html#gae9fcb7c60c0660b741ef80d9882c586d" title="Reset bias values for the BaseThermometer. " alt="" coords="208,491,319,515"/>
+<area shape="rect" id="node13" href="$group___h_t_s221.html#ga32d677a76e9cc2e32d8576ac7a7fa616" title="Set bias values for the BaseThermometer. " alt="" coords="213,539,314,563"/>
+<area shape="rect" id="node14" href="$group___h_t_s221.html#ga0be57134b658ee924656946a4b214721" title="Set sensitivity values for the BaseThermometer. " alt="" coords="200,587,327,611"/>
+</map>

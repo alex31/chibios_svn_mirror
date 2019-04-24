@@ -1,0 +1,17 @@
+<map id="chMBPostAheadTimeoutS" name="chMBPostAheadTimeoutS">
+<area shape="rect" id="node2" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="941,142,1057,166"/>
+<area shape="rect" id="node4" href="$group__mailboxes.html#gab8460d4d099ba8df173fdd16aa289baf" title="Returns the number of free message slots into a mailbox. " alt="" coords="376,323,497,347"/>
+<area shape="rect" id="node8" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable. " alt="" coords="565,92,680,116"/>
+<area shape="rect" id="node11" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any. " alt="" coords="200,167,321,191"/>
+<area shape="rect" id="node15" href="$group__threads.html#ga0d344ce86a9f38dfa05b6cbe61eda16c" title="Enqueues the caller thread on a threads queue object. " alt="" coords="552,238,693,262"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="1105,214,1175,238"/>
+<area shape="rect" id="node5" href="$group__debug.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check. " alt="" coords="761,286,873,310"/>
+<area shape="rect" id="node6" href="$group__mailboxes.html#ga2d6bf9fffcebd1218a5f969aeb1b2905" title="Returns the mailbox buffer size as number of messages. " alt="" coords="578,334,667,358"/>
+<area shape="rect" id="node7" href="$group__mailboxes.html#gab33c27e5b512214ba48233f6d3e01cac" title="Returns the number of used message slots into a mailbox. " alt="" coords="561,286,684,310"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#ga6827a67e839462e65b5765ef15709c97" title="Switches to the first thread on the runnable queue. " alt="" coords="741,94,893,118"/>
+<area shape="rect" id="node10" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="752,142,883,166"/>
+<area shape="rect" id="node12" href="$group__threads.html#ga5e3cd6454d16884663fe107971e99370" title="Dequeues and wakes up one thread from the threads queue object. " alt="" coords="369,191,504,215"/>
+<area shape="rect" id="node13" href="$group__scheduler.html#ga61aefe3e3bf61cad481289ad6b59071e" title="Evaluates to true if the specified threads queue is not empty. " alt="" coords="571,190,674,214"/>
+<area shape="rect" id="node14" href="$group__scheduler.html#ga282dd3f6ff79dd20e251e413e2b9915d" title="Inserts a thread into a queue. " alt="" coords="775,190,859,214"/>
+<area shape="rect" id="node16" href="$group__scheduler.html#gae638842e01309c38d888bb91a4845b2b" title="Puts the current thread to sleep into the specified state with timeout specification. " alt="" coords="748,238,887,262"/>
+</map>

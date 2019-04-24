@@ -1,0 +1,8 @@
+<map id="chSchRescheduleS" name="chSchRescheduleS">
+<area shape="rect" id="node2" href="$group__debug.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check. " alt="" coords="368,5,484,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga6827a67e839462e65b5765ef15709c97" title="Switches to the first thread on the runnable queue. " alt="" coords="168,89,320,113"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#ga5d015074bf0c8105077bcd986a996f63" title="Determines if the current thread must reschedule. " alt="" coords="179,41,309,65"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system. " alt="" coords="532,5,601,29"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#gaa664d185361931ac4c38b7b01af92ff2" title="Removes the first&#45;out thread from a queue and returns it. " alt="" coords="369,65,483,89"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gace86039d07e48b5df438fac841086cf1" title="Inserts a thread in the Ready List placing it ahead its peers. " alt="" coords="368,113,484,137"/>
+</map>

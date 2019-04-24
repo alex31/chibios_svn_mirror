@@ -1,0 +1,7 @@
+<map id="dacConvert" name="dacConvert">
+<area shape="rect" id="node2" href="$group___d_a_c.html#gad3d9b99747972a979d93a5b64574b61a" title="Starts a DAC conversion. " alt="" coords="134,5,253,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="153,53,233,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="148,101,239,125"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga49573c45ca88cd172ee03da252f69ae4" title="Sends the current thread sleeping and sets a reference variable. " alt="" coords="131,149,256,173"/>
+<area shape="rect" id="node3" href="$group___d_a_c.html#ga7c5de728c19f53855c8361d2dc6c5926" title="Starts a DAC conversion. " alt="" coords="304,5,443,29"/>
+</map>

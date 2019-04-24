@@ -1,0 +1,4 @@
+<map id="PWMConfig" name="PWMConfig">
+<area shape="rect" id="node2" href="$struct_p_w_m_driver.html" title="Structure representing a PWM driver. " alt="" coords="5,147,83,252"/>
+<area shape="rect" id="node3" href="$struct_p_w_m_channel_config.html" title="Type of a PWM driver channel configuration structure. " alt="" coords="29,312,147,381"/>
+</map>

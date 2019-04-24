@@ -1,0 +1,4 @@
+<map id="chVTTimeElapsedSinceX" name="chVTTimeElapsedSinceX">
+<area shape="rect" id="node2" href="$group__time__intervals.html#ga49404a18a4b3e9da5062d1269341c4bc" title="Subtracts two system times returning an interval. " alt="" coords="221,5,301,29"/>
+<area shape="rect" id="node3" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time. " alt="" coords="196,53,327,77"/>
+</map>

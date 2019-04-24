@@ -1,0 +1,9 @@
+<map id="adcStop" name="adcStop">
+<area shape="rect" id="node2" href="$group___a_d_c.html#ga5f4152006602b187c745bb32f915d679" title="Deactivates the ADC peripheral. " alt="" coords="119,77,201,101"/>
+<area shape="rect" id="node7" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="120,125,200,149"/>
+<area shape="rect" id="node8" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="115,173,205,197"/>
+<area shape="rect" id="node3" href="$group___s_t_m32___d_m_a.html#ga6427d36d4aba6469fd46e53bf972211e" title="Releases a DMA stream. " alt="" coords="253,5,371,29"/>
+<area shape="rect" id="node4" href="$group___a_d_c.html#ga14c51041403a4667ded87af0b7dd5360" title="Stops an ongoing conversion, if any. " alt="" coords="260,53,364,77"/>
+<area shape="rect" id="node5" href="$group___a_d_c.html#ga32c7af33e57666675410fa3f7283f8f9" title="Disables the ADC analog circuit. " alt="" coords="257,101,367,125"/>
+<area shape="rect" id="node6" href="$group___a_d_c.html#ga7d003de8b1320b2cc52cec17ceeb9d89" title="Disables the ADC voltage regulator. " alt="" coords="262,149,362,173"/>
+</map>

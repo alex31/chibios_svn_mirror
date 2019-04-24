@@ -1,0 +1,6 @@
+<map id="chFifoSendObjectAhead" name="chFifoSendObjectAhead">
+<area shape="rect" id="node2" href="$group__mailboxes.html#gab5dde1a43edb68ccfaff68a8ba1e4192" title="Posts an high priority message into a mailbox. " alt="" coords="191,53,331,77"/>
+<area shape="rect" id="node3" href="$group__mailboxes.html#gae68ce0e2a6177b53cf9d77d87d3a7ccf" title="Posts an high priority message into a mailbox. " alt="" coords="379,5,525,29"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state. " alt="" coords="416,53,488,77"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state. " alt="" coords="411,101,493,125"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cryStart" name="cryStart">
+<area shape="rect" id="node2" href="$group___c_r_y_p_t_o.html#ga1b015037e20a635ddb62d3da339d5058" title="Configures and activates the crypto peripheral. " alt="" coords="118,5,197,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="117,53,197,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="112,101,203,125"/>
+</map>

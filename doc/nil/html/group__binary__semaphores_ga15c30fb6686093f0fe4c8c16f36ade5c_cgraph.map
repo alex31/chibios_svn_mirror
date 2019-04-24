@@ -1,0 +1,5 @@
+<map id="chBSemReset" name="chBSemReset">
+<area shape="rect" id="node2" href="$group___n_i_l___k_e_r_n_e_l.html#ga2c454835402cf7adb27858fdbc50b1f4" title="Performs a reset operation on the semaphore. " alt="" coords="144,29,227,53"/>
+<area shape="rect" id="node3" href="$group___n_i_l___k_e_r_n_e_l.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Reschedules if needed. " alt="" coords="275,5,389,29"/>
+<area shape="rect" id="node4" href="$group___n_i_l___k_e_r_n_e_l.html#ga78031350aa8122623450f0679d80e3f9" title="Performs a reset operation on the semaphore. " alt="" coords="289,53,375,77"/>
+</map>

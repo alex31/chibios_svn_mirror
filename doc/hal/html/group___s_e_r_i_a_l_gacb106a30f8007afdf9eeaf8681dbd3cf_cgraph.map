@@ -1,0 +1,9 @@
+<map id="sdStop" name="sdStop">
+<area shape="rect" id="node2" href="$group___h_a_l___q_u_e_u_e_s.html#ga2730ebec5dc542ae61620d56f96df88a" title="Resets an input queue. " alt="" coords="136,5,197,29"/>
+<area shape="rect" id="node4" href="$group___h_a_l___q_u_e_u_e_s.html#ga9f4fbb494634137859b1b6d614ca239f" title="Resets an output queue. " alt="" coords="134,53,199,77"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga5850406055069d6a9b88103ad34b111d" title="Checks if a reschedule is required and performs it. " alt="" coords="108,101,225,125"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="127,149,207,173"/>
+<area shape="rect" id="node7" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context. " alt="" coords="121,197,212,221"/>
+<area shape="rect" id="node8" href="$group___s_e_r_i_a_l.html#gae6846b20159e89464b61665f50468d8f" title="Low level serial driver stop. " alt="" coords="129,245,204,269"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga27a8123a61493028127897d839a4d75a" title="Dequeues and wakes up all threads from the queue. " alt="" coords="273,29,408,53"/>
+</map>

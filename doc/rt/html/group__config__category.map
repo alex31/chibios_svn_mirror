@@ -1,0 +1,6 @@
+<map id="Configuration" name="Configuration">
+<area shape="rect" id="node1" href="$group__kernel.html" title="RT Kernel" alt="" coords="5,53,76,77"/>
+<area shape="rect" id="node2" href="$group__conf__checks.html" title="Checks" alt="" coords="269,5,326,29"/>
+<area shape="rect" id="node3" href="$group__rt__restrictions.html" title="Restrictions" alt="" coords="259,53,336,77"/>
+<area shape="rect" id="node5" href="$group__config.html" title="Options" alt="" coords="268,101,327,125"/>
+</map>

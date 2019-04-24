@@ -1,0 +1,5 @@
+<map id="canStop" name="canStop">
+<area shape="rect" id="node2" href="$group___c_a_n.html#gad6fff809711eb161f9c53acf4f3f8470" title="Deactivates the CAN peripheral. " alt="" coords="141,5,223,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context. " alt="" coords="142,53,222,77"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga27a8123a61493028127897d839a4d75a" title="Dequeues and wakes up all threads from the queue. " alt="" coords="115,101,249,125"/>
+</map>
