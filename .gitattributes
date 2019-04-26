@@ -2075,6 +2075,11 @@ os/hal/boards/ST_NUCLEO64_F446RE/board.h -text
 os/hal/boards/ST_NUCLEO64_F446RE/board.mk -text
 os/hal/boards/ST_NUCLEO64_F446RE/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_F446RE/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO64_G071RB/board.c -text
+os/hal/boards/ST_NUCLEO64_G071RB/board.h -text
+os/hal/boards/ST_NUCLEO64_G071RB/board.mk -text
+os/hal/boards/ST_NUCLEO64_G071RB/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_G071RB/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.c -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.h -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.mk -text
@@ -2754,7 +2759,11 @@ os/hal/ports/STM32/STM32F7xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32F7xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32F7xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F7xx/stm32_registry.h -text
+os/hal/ports/STM32/STM32G0xx/hal_lld.c -text
 os/hal/ports/STM32/STM32G0xx/hal_lld.h -text
+os/hal/ports/STM32/STM32G0xx/platform.mk -text
+os/hal/ports/STM32/STM32G0xx/stm32_isr.c -text
+os/hal/ports/STM32/STM32G0xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32G0xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G0xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32H7xx/hal_lld.c -text
