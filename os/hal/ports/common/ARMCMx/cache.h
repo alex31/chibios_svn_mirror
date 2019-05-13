@@ -61,12 +61,8 @@
  *
  * @api
  */
-
-//  chDbgAssert((((uint32_t) saddr) & 0x1f) == 0, "address should be properly aligned"); 
-
-#define cacheBufferInvalidate(saddr, n) {				\
-   chDbgAssert((((uint32_t) saddr) & 0x1f) == 0, "address should be properly aligned");   \
-   uint8_t *start = (uint8_t *)(saddr);					\
+#define cacheBufferInvalidate(saddr, n) {                                   \
+  uint8_t *start = (uint8_t *)(saddr);                                      \
   uint8_t *end = start + (size_t)(n);                                       \
   __DSB();                                                                  \
   while (start < end) {                                                     \
