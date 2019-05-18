@@ -4484,11 +4484,9 @@ tools/ftl/processors/unittest/test/test_root.h.ftl -text
 tools/ftl/processors/unittest/test/test_sequence.c.ftl -text
 tools/ftl/processors/unittest/test/test_sequence.h.ftl -text
 tools/mk/autobuild.mk -text
-tools/simplecheck.pl -text
-tools/style/simplecheck.pl -text
+tools/style/style_rt.sh -text
+tools/style/stylecheck.pl -text
 tools/style/test.c -text
-tools/stylecheck.pl -text
-tools/test.c -text
 tools/updater/conf.fmpp -text
 tools/updater/update_chconf_nil.sh -text
 tools/updater/update_chconf_rt.sh -text
