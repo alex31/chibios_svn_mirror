@@ -45,9 +45,9 @@
        "be zero or greater than one"
 #endif
 
-//#if (CH_CFG_ST_TIMEDELTA > 0) && (CH_CFG_TIME_QUANTUM > 0)
-//#error "CH_CFG_TIME_QUANTUM not supported in tickless mode"
-//#endif
+#if (CH_CFG_ST_TIMEDELTA > 0) && (CH_CFG_TIME_QUANTUM > 0)
+#error "CH_CFG_TIME_QUANTUM not supported in tickless mode"
+#endif
 
 #if (CH_CFG_ST_TIMEDELTA > 0) && (CH_DBG_THREADS_PROFILING == TRUE)
 #error "CH_DBG_THREADS_PROFILING not supported in tickless mode"
@@ -450,7 +450,7 @@ static inline void chVTDoTickI(void) {
   ch.vtlist.next->delta -= nowdelta;
 
   /* Recalculating the next alarm time.*/
-  delta = chTimeDiffX(now, chTimeAddX(ch.vtlist.lasttime, vtp->delta));
+  delta = vtp->delta - chTimeDiffX(ch.vtlist.lasttime, now);
   if (delta < (sysinterval_t)CH_CFG_ST_TIMEDELTA) {
     delta = (sysinterval_t)CH_CFG_ST_TIMEDELTA;
   }
