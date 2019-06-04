@@ -954,7 +954,6 @@ demos/various/RT-ARMCM4-MAKELIB/dummy/stdbool.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/stddef.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/stdint.h -text
 demos/various/RT-ARMCM4-MAKELIB/readme.txt -text
-demos/various/RT-ARMCM4-MAKELIB/unified_ch.h -text
 demos/various/RT-Posix-Simulator/.cproject -text
 demos/various/RT-Posix-Simulator/.project -text
 demos/various/RT-Posix-Simulator/Makefile -text
