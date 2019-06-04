@@ -954,6 +954,14 @@ demos/various/RT-ARMCM4-MAKELIB/dummy/stdbool.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/stddef.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/stdint.h -text
 demos/various/RT-ARMCM4-MAKELIB/readme.txt -text
+demos/various/RT-ARMCM4-USELIB/.cproject -text
+demos/various/RT-ARMCM4-USELIB/.project -text
+demos/various/RT-ARMCM4-USELIB/Makefile -text
+demos/various/RT-ARMCM4-USELIB/debug/RT-ARMCM4-USELIB[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/various/RT-ARMCM4-USELIB/main.c -text
+demos/various/RT-ARMCM4-USELIB/readme.txt -text
+demos/various/RT-ARMCM4-USELIB/rt/ch.h -text
+demos/various/RT-ARMCM4-USELIB/rt/libch.a -text
 demos/various/RT-Posix-Simulator/.cproject -text
 demos/various/RT-Posix-Simulator/.project -text
 demos/various/RT-Posix-Simulator/Makefile -text
