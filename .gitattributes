@@ -1081,8 +1081,7 @@ doc/various/st_usb_cdc_driver.inf -text
 ext/fatfs-0.13_patched.7z -text
 ext/lwip-2.0.3-patched.7z -text
 ext/readme.txt -text
-ext/wolfssl-3.12.2-patched-halcrypto.7z -text
-ext/wolfssl-3.12.2-patched.7z -text
+ext/wolfssl-4.0.0.7z -text
 /license.txt -text
 os/common/abstractions/cmsis_os/cmsis_os.c -text
 os/common/abstractions/cmsis_os/cmsis_os.h -text
