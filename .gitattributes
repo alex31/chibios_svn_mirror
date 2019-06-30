@@ -3021,9 +3021,6 @@ os/various/cpp_wrappers/syscalls_cpp.cpp -text
 os/various/cpp_wrappers/syscalls_cpp.hpp -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
-os/various/fatfs_bindings/SAMA5D2x/ch_sdmmc_ff.c -text
-os/various/fatfs_bindings/SAMA5D2x/fatfs.mk -text
-os/various/fatfs_bindings/SAMA5D2x/readme.txt -text
 os/various/fatfs_bindings/fatfs.mk -text
 os/various/fatfs_bindings/fatfs_diskio.c -text
 os/various/fatfs_bindings/fatfs_syscall.c -text
