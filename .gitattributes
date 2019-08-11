@@ -2334,9 +2334,6 @@ os/hal/lib/streams/nullstreams.h -text
 os/hal/lib/streams/streams.mk -text
 os/hal/osal/lib/osal_vt.c -text
 os/hal/osal/lib/osal_vt.h -text
-os/hal/osal/nil/osal.c -text
-os/hal/osal/nil/osal.h -text
-os/hal/osal/nil/osal.mk -text
 os/hal/osal/os-less/ARMCMx/osal.c -text
 os/hal/osal/os-less/ARMCMx/osal.h -text
 os/hal/osal/os-less/ARMCMx/osal.mk -text
@@ -2346,9 +2343,6 @@ os/hal/osal/os-less/AVR/osal.mk -text
 os/hal/osal/rt-nil/osal.c -text
 os/hal/osal/rt-nil/osal.h -text
 os/hal/osal/rt-nil/osal.mk -text
-os/hal/osal/rt/osal.c -text
-os/hal/osal/rt/osal.h -text
-os/hal/osal/rt/osal.mk -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/avr_pins.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/avr_timers.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/hal_lld.c -text
