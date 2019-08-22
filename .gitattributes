@@ -2975,6 +2975,7 @@ os/oslib/include/chmboxes.h -text
 os/oslib/include/chmemcore.h -text
 os/oslib/include/chmemheaps.h -text
 os/oslib/include/chmempools.h -text
+os/oslib/include/chobjcaches.h -text
 os/oslib/include/chobjfifos.h -text
 os/oslib/include/chpipes.h -text
 os/oslib/oslib.mk -text
