@@ -3051,6 +3051,15 @@ os/rt/src/chvt.c -text
 os/rt/templates/chconf.h -text
 os/rt/templates/meta/module.c -text
 os/rt/templates/meta/module.h -text
+os/sb/host/compilers/GCC/sbexc.S -text
+os/sb/host/compilers/GCC/sbhost.mk -text
+os/sb/host/sbapi.c -text
+os/sb/host/sbapi.h -text
+os/sb/host/sbhost.c -text
+os/sb/host/sbhost.h -text
+os/sb/user/sbuser.c -text
+os/sb/user/sbuser.h -text
+os/sb/user/sbuser.mk -text
 os/various/cpp_wrappers/ch.cpp -text
 os/various/cpp_wrappers/ch.hpp -text
 os/various/cpp_wrappers/chcpp.mk -text
