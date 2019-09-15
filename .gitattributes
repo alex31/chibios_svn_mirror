@@ -3054,10 +3054,13 @@ os/rt/templates/meta/module.h -text
 os/sb/common/sberr.h -text
 os/sb/host/compilers/GCC/sbexc.S -text
 os/sb/host/compilers/GCC/sbhost.mk -text
+os/sb/host/sb.h -text
 os/sb/host/sbapi.c -text
 os/sb/host/sbapi.h -text
 os/sb/host/sbhost.c -text
 os/sb/host/sbhost.h -text
+os/sb/host/sbposix.c -text
+os/sb/host/sbposix.h -text
 os/sb/user/sbuser.c -text
 os/sb/user/sbuser.h -text
 os/sb/user/sbuser.mk -text
