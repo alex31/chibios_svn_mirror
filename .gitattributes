@@ -3064,6 +3064,7 @@ os/sb/host/sbposix.h -text
 os/sb/user/sbuser.c -text
 os/sb/user/sbuser.h -text
 os/sb/user/sbuser.mk -text
+os/sb/various/syscalls.c -text
 os/various/cpp_wrappers/ch.cpp -text
 os/various/cpp_wrappers/ch.hpp -text
 os/various/cpp_wrappers/chcpp.mk -text
