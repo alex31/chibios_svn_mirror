@@ -793,7 +793,6 @@ demos/STM32/RT-STM32G071RB-NUCLEO64/cfg/halconf.h -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/cfg/mcuconf.h -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/debug/RT-STM32G071RB-NUCLEO64[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/main.c -text
-demos/STM32/RT-STM32G071RB-NUCLEO64/readme.txt -text
 demos/STM32/RT-STM32H743I-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32H743I-NUCLEO144/.project -text
 demos/STM32/RT-STM32H743I-NUCLEO144/Makefile -text
