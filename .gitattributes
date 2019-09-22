@@ -798,6 +798,7 @@ demos/STM32/RT-STM32G474RE-NUCLEO64/.project -text
 demos/STM32/RT-STM32G474RE-NUCLEO64/Makefile -text
 demos/STM32/RT-STM32G474RE-NUCLEO64/cfg/chconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64/cfg/halconf.h -text
+demos/STM32/RT-STM32G474RE-NUCLEO64/cfg/mcuconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64/debug/RT-STM32G474RE-NUCLEO64[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32G474RE-NUCLEO64/main.c -text
 demos/STM32/RT-STM32H743I-NUCLEO144/.cproject -text
