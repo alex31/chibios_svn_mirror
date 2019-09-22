@@ -2758,6 +2758,15 @@ os/hal/ports/STM32/LLD/TIMv1/hal_pwm_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim.h -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_tim15_tim16_tim17.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim2.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim20.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim3.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim4.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim5.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim6.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim7.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim8.inc -text
 os/hal/ports/STM32/LLD/TIMv1/tim_irq_mapping.txt -text
 os/hal/ports/STM32/LLD/USARTv1/driver.mk -text
 os/hal/ports/STM32/LLD/USARTv1/hal_serial_lld.c -text
@@ -2841,6 +2850,7 @@ os/hal/ports/STM32/STM32G0xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32G0xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G0xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32G4xx/hal_lld.h -text
+os/hal/ports/STM32/STM32G4xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32G4xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_registry.h -text
