@@ -2785,6 +2785,12 @@ os/hal/ports/STM32/LLD/USARTv2/hal_serial_lld.c -text
 os/hal/ports/STM32/LLD/USARTv2/hal_serial_lld.h -text
 os/hal/ports/STM32/LLD/USARTv2/hal_uart_lld.c -text
 os/hal/ports/STM32/LLD/USARTv2/hal_uart_lld.h -text
+os/hal/ports/STM32/LLD/USARTv2/stm32_lpuart1.inc -text
+os/hal/ports/STM32/LLD/USARTv2/stm32_uart4.inc -text
+os/hal/ports/STM32/LLD/USARTv2/stm32_uart5.inc -text
+os/hal/ports/STM32/LLD/USARTv2/stm32_usart1.inc -text
+os/hal/ports/STM32/LLD/USARTv2/stm32_usart2.inc -text
+os/hal/ports/STM32/LLD/USARTv2/stm32_usart3.inc -text
 os/hal/ports/STM32/LLD/USBv1/driver.mk -text
 os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.c -text
 os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.h -text
@@ -2859,6 +2865,7 @@ os/hal/ports/STM32/STM32G0xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32G4xx/hal_lld.c -text
 os/hal/ports/STM32/STM32G4xx/hal_lld.h -text
 os/hal/ports/STM32/STM32G4xx/platform.mk -text
+os/hal/ports/STM32/STM32G4xx/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32G4xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_rcc.h -text
