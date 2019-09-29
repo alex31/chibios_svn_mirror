@@ -2709,11 +2709,14 @@ os/hal/ports/STM32/LLD/EXTIv1/notes.txt -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti.c -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti.h -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti0.inc -text
+os/hal/ports/STM32/LLD/EXTIv1/stm32_exti0_1.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti1.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti10_15.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti2.inc -text
+os/hal/ports/STM32/LLD/EXTIv1/stm32_exti2_3.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti3.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti4.inc -text
+os/hal/ports/STM32/LLD/EXTIv1/stm32_exti4_15.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti5_9.inc -text
 os/hal/ports/STM32/LLD/GPIOv1/driver.mk -text
 os/hal/ports/STM32/LLD/GPIOv1/hal_pal_lld.c -text
@@ -2787,6 +2790,11 @@ os/hal/ports/STM32/LLD/TIMv1/hal_pwm_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim.h -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim1.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim14.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim15.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim16.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim17.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_tim15_tim16_tim17.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim2.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim20.inc -text
@@ -2813,6 +2821,7 @@ os/hal/ports/STM32/LLD/USARTv2/stm32_uart5.inc -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_usart1.inc -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_usart2.inc -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_usart3.inc -text
+os/hal/ports/STM32/LLD/USARTv2/stm32_usart3_usart4_lpuart1.inc -text
 os/hal/ports/STM32/LLD/USBv1/driver.mk -text
 os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.c -text
 os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.h -text
