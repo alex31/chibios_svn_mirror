@@ -405,7 +405,7 @@ static void i2c_lld_set_clock(I2CDriver *i2cp) {
 
   osalDbgCheck((i2cp != NULL) &&
                (clock_speed > 0) &&
-               (clock_speed <= 4000000));
+               (clock_speed <= 400000));
 
   /* CR2 Configuration.*/
   dp->CR2 &= (uint16_t)~I2C_CR2_FREQ;
@@ -922,10 +922,15 @@ qEvt(0x77,0);
    case I2C_EV8_2_MASTER_BYTE_TRANSMITTED:
 qEvt(0x88,0);
     /* Catches BTF event after the end of transmission.*/
+<<<<<<< HEAD
     (void)dp->DR;  /* clears BTF flag */
     chkTransition(i2cMasterTxing);
 doneWriting:
     if (i2cp->masterRxbuf) {
+=======
+    (void)dp->DR; /* clear BTF.*/
+    if (dmaStreamGetTransactionSize(i2cp->dmarx) > 0) {
+>>>>>>> stable_18.2.x
       /* Starts "read after write" operation, LSB = 1 -> receive.*/
       dp->CR1 = (uint16_t)(regCR1 | I2C_CR1_START | I2C_CR1_ACK);
       i2cp->addr |= 1;
