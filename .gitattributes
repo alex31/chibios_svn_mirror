@@ -1145,6 +1145,11 @@ os/common/abstractions/nasa_cfe/psp/src/cfe_psp_exception.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_memory.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_support.c -text
 os/common/abstractions/nasa_cfe/psp/src/cfe_psp_timer.c -text
+os/common/ext/ADI/ADUCM36x/ADuCM360.h -text
+os/common/ext/ADI/ADUCM36x/ADuCM361.h -text
+os/common/ext/ADI/ADUCM36x/ADuCM362.h -text
+os/common/ext/ADI/ADUCM36x/ADuCM363.h -text
+os/common/ext/ADI/ADUCM36x/ADuCM36x.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_armcc.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_armclang.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_compiler.h -text
