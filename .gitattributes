@@ -2420,6 +2420,17 @@ os/hal/osal/os-less/AVR/osal.mk -text
 os/hal/osal/rt-nil/osal.c -text
 os/hal/osal/rt-nil/osal.h -text
 os/hal/osal/rt-nil/osal.mk -text
+os/hal/ports/ADUCM/ADUCM36x/aducm_cc.h -text
+os/hal/ports/ADUCM/ADUCM36x/aducm_gp.h -text
+os/hal/ports/ADUCM/ADUCM36x/aducm_isr.c -text
+os/hal/ports/ADUCM/ADUCM36x/aducm_isr.h -text
+os/hal/ports/ADUCM/ADUCM36x/hal_lld.c -text
+os/hal/ports/ADUCM/ADUCM36x/hal_lld.h -text
+os/hal/ports/ADUCM/ADUCM36x/hal_pal_lld.c -text
+os/hal/ports/ADUCM/ADUCM36x/hal_pal_lld.h -text
+os/hal/ports/ADUCM/ADUCM36x/hal_st_lld.c -text
+os/hal/ports/ADUCM/ADUCM36x/hal_st_lld.h -text
+os/hal/ports/ADUCM/ADUCM36x/platform.mk -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/avr_pins.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/avr_timers.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/hal_lld.c -text
