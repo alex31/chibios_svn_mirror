@@ -1582,6 +1582,7 @@ os/common/startup/ARMCMx-SB/compilers/GCC/mk/startup.mk -text
 os/common/startup/ARMCMx/compilers/GCC/crt0_v6m.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt0_v7m.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt1.c -text
+os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
@@ -1662,6 +1663,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/rules_memory.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_stacks.ld -text
 os/common/startup/ARMCMx/compilers/GCC/mk/arm-none-eabi.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/rules.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_aducm36x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f2xx.mk -text
@@ -1681,6 +1683,7 @@ os/common/startup/ARMCMx/compilers/LLVM/mk/clang.mk -text
 os/common/startup/ARMCMx/compilers/LLVM/mk/rules.mk -text
 os/common/startup/ARMCMx/compilers/RVCT/cstartup.s -text
 os/common/startup/ARMCMx/compilers/RVCT/vectors.s -text
+os/common/startup/ARMCMx/devices/ADUCM36x/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F2xx/cmparams.h -text
