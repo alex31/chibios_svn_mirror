@@ -3190,6 +3190,11 @@ os/sb/user/sbuser.c -text
 os/sb/user/sbuser.h -text
 os/sb/user/sbuser.mk -text
 os/sb/various/syscalls.c -text
+os/se/include/se.h -text
+os/se/include/seloops.h -text
+os/se/include/seregs.h -text
+os/se/se.mk -text
+os/se/src/seloops.c -text
 os/various/cpp_wrappers/ch.cpp -text
 os/various/cpp_wrappers/ch.hpp -text
 os/various/cpp_wrappers/chcpp.mk -text
