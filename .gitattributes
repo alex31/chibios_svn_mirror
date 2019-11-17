@@ -3119,6 +3119,7 @@ os/nil/src/chsem.c -text
 os/nil/templates/chconf.h -text
 os/oslib/dox/lib.dox -text
 os/oslib/include/chbsem.h -text
+os/oslib/include/chdelegates.h -text
 os/oslib/include/chfactory.h -text
 os/oslib/include/chlib.h -text
 os/oslib/include/chmboxes.h -text
@@ -3130,6 +3131,7 @@ os/oslib/include/chobjfifos.h -text
 os/oslib/include/chpipes.h -text
 os/oslib/oslib.mk -text
 os/oslib/readme.txt -text
+os/oslib/src/chdelegates.c -text
 os/oslib/src/chfactory.c -text
 os/oslib/src/chmboxes.c -text
 os/oslib/src/chmemcore.c -text
