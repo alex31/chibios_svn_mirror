@@ -3410,6 +3410,8 @@ test/oslib/source/test/oslib_test_sequence_006.c -text
 test/oslib/source/test/oslib_test_sequence_006.h -text
 test/oslib/source/test/oslib_test_sequence_007.c -text
 test/oslib/source/test/oslib_test_sequence_007.h -text
+test/oslib/source/test/oslib_test_sequence_008.c -text
+test/oslib/source/test/oslib_test_sequence_008.h -text
 test/oslib/specgen/Doxyfile -text
 test/oslib/specgen/makedoc.bat -text
 test/oslib/specgen/rsc/custom.css -text
