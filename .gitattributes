@@ -3369,6 +3369,8 @@ test/nil/source/test/nil_test_sequence_006.c -text
 test/nil/source/test/nil_test_sequence_006.h -text
 test/nil/source/test/nil_test_sequence_007.c -text
 test/nil/source/test/nil_test_sequence_007.h -text
+test/nil/source/test/nil_test_sequence_008.c -text
+test/nil/source/test/nil_test_sequence_008.h -text
 test/nil/specgen/Doxyfile -text
 test/nil/specgen/makedoc.bat -text
 test/nil/specgen/rsc/custom.css -text
@@ -3446,6 +3448,8 @@ test/rt/source/test/rt_test_sequence_009.c -text
 test/rt/source/test/rt_test_sequence_009.h -text
 test/rt/source/test/rt_test_sequence_010.c -text
 test/rt/source/test/rt_test_sequence_010.h -text
+test/rt/source/test/rt_test_sequence_011.c -text
+test/rt/source/test/rt_test_sequence_011.h -text
 test/rt/specgen/Doxyfile -text
 test/rt/specgen/makedoc.bat -text
 test/rt/specgen/rsc/custom.css -text
