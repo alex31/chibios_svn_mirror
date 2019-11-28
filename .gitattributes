@@ -3121,6 +3121,7 @@ os/oslib/dox/lib.dox -text
 os/oslib/include/chbsem.h -text
 os/oslib/include/chdelegates.h -text
 os/oslib/include/chfactory.h -text
+os/oslib/include/chjobs.h -text
 os/oslib/include/chlib.h -text
 os/oslib/include/chmboxes.h -text
 os/oslib/include/chmemcore.h -text
