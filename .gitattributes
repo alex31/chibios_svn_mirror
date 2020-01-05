@@ -9,17 +9,6 @@ demos/ADI/RT-ADUCM360-ADICUP360/cfg/mcuconf.h -text
 demos/ADI/RT-ADUCM360-ADICUP360/debug/RT-ADUCM360-ADICUP360[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/ADI/RT-ADUCM360-ADICUP360/main.c -text
 demos/ADI/RT-ADUCM360-ADICUP360/readme.txt -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.cproject -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/.project -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/Makefile -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/cfg/chconf.h -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/cfg/halconf.h -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/cfg/mcuconf.h -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/debug/RT-SAMA5D2-XPLAINED[!!-~](Bootstrap).launch -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/debug/RT-SAMA5D2-XPLAINED[!!-~](DDRAM).launch -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/debug/RT-SAMA5D2-XPLAINED[!!-~](Load[!!-~]and[!!-~]Run).launch -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/main.c -text
-demos/ATSAMA5D2/RT-SAMA5D2-XPLAINED/readme.txt -text
 demos/AVR/NIL-ARDUINO-MEGA/Makefile -text
 demos/AVR/NIL-ARDUINO-MEGA/chconf.h -text
 demos/AVR/NIL-ARDUINO-MEGA/halconf.h -text
