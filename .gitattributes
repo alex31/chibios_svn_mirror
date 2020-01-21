@@ -2727,6 +2727,9 @@ os/hal/ports/STM32/LLD/OTGv1/stm32_otg.h -text
 os/hal/ports/STM32/LLD/QUADSPIv1/driver.mk -text
 os/hal/ports/STM32/LLD/QUADSPIv1/hal_wspi_lld.c -text
 os/hal/ports/STM32/LLD/QUADSPIv1/hal_wspi_lld.h -text
+os/hal/ports/STM32/LLD/QUADSPIv2/driver.mk -text
+os/hal/ports/STM32/LLD/QUADSPIv2/hal_wspi_lld.c -text
+os/hal/ports/STM32/LLD/QUADSPIv2/hal_wspi_lld.h -text
 os/hal/ports/STM32/LLD/RNGv1/driver.mk -text
 os/hal/ports/STM32/LLD/RNGv1/hal_trng_lld.c -text
 os/hal/ports/STM32/LLD/RNGv1/hal_trng_lld.h -text
