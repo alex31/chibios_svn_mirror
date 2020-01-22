@@ -88,6 +88,10 @@
 *** 18.2.3 ***
 - NEW: Added a check on defective GCC versions, Cortex-M0 only.
 - NEW: Extra timer checks in STM32 ST driver.
+- FIX: Fixed non-standard declaration in STM32 ADCv3 driver (bug #1070).
+- FIX: Fixed problem in the I2C fallback driver (bug #1069).
+- FIX: Fixed TIM8 missing on STM32H7xx (bug #1068).
+- FIX: Fixed Sharing issues with GPT TIMv1 driver (bug #1067).
 - FIX: Fixed wrong check on STM32_DAC_DUAL_MODE in DACv1 STM32 driver
        (bug #1065).
 - FIX: Fixed I2Cv1 extra interrupts (bug #1064).
@@ -126,6 +130,8 @@
 - FIX: Fixed invalid AXI errata fix for STM32H7xx (bug #1014).
 - FIX: Fixed invalid ADCD3 initialization in STM32 ADCv3 driver (bug #1013).
 - FIX: Fixed wrong license restriction check in Nil (bug #1011).
+- FIX: Fixed incorrect pointer type in lwipthread.c low_level_input causes
+       panic on packet reception (bug #1009).
 
 *** 18.2.2 ***
 - NEW: Added analog watchdog functionality to STM32 ADCv2 driver.
