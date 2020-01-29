@@ -1399,6 +1399,10 @@ os/common/ext/ST/STM32L4xx/stm32l4s7xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l4s9xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l4xx.h -text
 os/common/ext/ST/STM32L4xx/system_stm32l4xx.h -text
+os/common/ext/ST/STM32L5xx/stm32l552xx.h -text
+os/common/ext/ST/STM32L5xx/stm32l562xx.h -text
+os/common/ext/ST/STM32L5xx/stm32l5xx.h -text
+os/common/ext/ST/STM32L5xx/system_stm32l5xx.h -text
 os/common/ext/readme.txt -text
 os/common/portability/CW/ccportab.h -text
 os/common/portability/GCC/ccportab.h -text
