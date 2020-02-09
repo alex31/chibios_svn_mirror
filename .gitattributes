@@ -4320,6 +4320,11 @@ testhal/STM32/multi/ADC/cfg/stm32h743_nucleo144/halconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32h743_nucleo144/mcuconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32h743_nucleo144/portab.c -text
 testhal/STM32/multi/ADC/cfg/stm32h743_nucleo144/portab.h -text
+testhal/STM32/multi/ADC/cfg/stm32h743zi_nucleo144/chconf.h -text
+testhal/STM32/multi/ADC/cfg/stm32h743zi_nucleo144/halconf.h -text
+testhal/STM32/multi/ADC/cfg/stm32h743zi_nucleo144/mcuconf.h -text
+testhal/STM32/multi/ADC/cfg/stm32h743zi_nucleo144/portab.c -text
+testhal/STM32/multi/ADC/cfg/stm32h743zi_nucleo144/portab.h -text
 testhal/STM32/multi/ADC/cfg/stm32l476_discovery/chconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32l476_discovery/mcuconf.h -text
