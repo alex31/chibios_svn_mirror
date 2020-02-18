@@ -812,18 +812,6 @@ void gpt_lld_start(GPTDriver *gptp) {
     }
 #endif
 
-#if STM32_GPT_USE_TIM15
-    if (&GPTD15 == gptp) {
-      rccEnableTIM15(true);
-      rccResetTIM15();
-#if defined(STM32_TIM15CLK)
-      gptp->clock = STM32_TIM15CLK;
-#else
-      gptp->clock = STM32_TIMCLK2;
-#endif
-    }
-#endif
-
 #if STM32_GPT_USE_TIM16
     if (&GPTD16 == gptp) {
       rccEnableTIM16(true);
@@ -1126,6 +1114,7 @@ void gpt_lld_serve_interrupt(GPTDriver *gptp) {
 
   sr  = gptp->tim->SR;
   sr &= gptp->tim->DIER & STM32_TIM_DIER_IRQ_MASK;
+  gptp->tim->SR = ~sr;
   if ((sr & STM32_TIM_SR_UIF) != 0) {
     _gpt_isr_invoke_cb(gptp);
   }
