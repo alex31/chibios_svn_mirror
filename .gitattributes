@@ -4340,7 +4340,7 @@ testhal/STM32/multi/ADC/debug/STM32-ADC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD
 testhal/STM32/multi/ADC/debug/STM32-ADC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/ADC/main.c -text
 testhal/STM32/multi/ADC/make/stm32g071rb_nucleo64.make -text
-testhal/STM32/multi/ADC/make/stm32g474zi_nucleo144.make -text
+testhal/STM32/multi/ADC/make/stm32g474zi_nucleo64.make -text
 testhal/STM32/multi/ADC/make/stm32h743zi_nucleo144.make -text
 testhal/STM32/multi/ADC/make/stm32l053r8_nucleo64.make -text
 testhal/STM32/multi/ADC/make/stm32l476_discovery.make -text
