@@ -1883,6 +1883,9 @@ os/ex/include/ex_thermometer.h -text
 os/hal/boards/ADICUP360/board.c -text
 os/hal/boards/ADICUP360/board.h -text
 os/hal/boards/ADICUP360/board.mk -text
+os/hal/boards/ADI_EVAL_ADUCM410EBZ/board.c -text
+os/hal/boards/ADI_EVAL_ADUCM410EBZ/board.h -text
+os/hal/boards/ADI_EVAL_ADUCM410EBZ/board.mk -text
 os/hal/boards/ARDUINO_LEONARDO/board.c -text
 os/hal/boards/ARDUINO_LEONARDO/board.h -text
 os/hal/boards/ARDUINO_LEONARDO/board.mk -text
