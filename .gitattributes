@@ -2488,6 +2488,14 @@ os/hal/ports/ADUCM/ADUCM36x/hal_spi_lld.h -text
 os/hal/ports/ADUCM/ADUCM36x/hal_st_lld.c -text
 os/hal/ports/ADUCM/ADUCM36x/hal_st_lld.h -text
 os/hal/ports/ADUCM/ADUCM36x/platform.mk -text
+os/hal/ports/ADUCM/ADUCM41x/aducm_gp.h -text
+os/hal/ports/ADUCM/ADUCM41x/aducm_isr.c -text
+os/hal/ports/ADUCM/ADUCM41x/aducm_isr.h -text
+os/hal/ports/ADUCM/ADUCM41x/hal_lld.c -text
+os/hal/ports/ADUCM/ADUCM41x/hal_lld.h -text
+os/hal/ports/ADUCM/ADUCM41x/hal_st_lld.c -text
+os/hal/ports/ADUCM/ADUCM41x/hal_st_lld.h -text
+os/hal/ports/ADUCM/ADUCM41x/platform.mk -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/avr_pins.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/avr_timers.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/hal_lld.c -text
