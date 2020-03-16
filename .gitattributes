@@ -1839,8 +1839,10 @@ os/ex/devices/ST/vl53l0x.mk -text
 os/ex/dox/ex_accelerometer.dox -text
 os/ex/dox/ex_barometer.dox -text
 os/ex/dox/ex_compass.dox -text
+os/ex/dox/ex_displays.dox -text
 os/ex/dox/ex_gyro.dox -text
 os/ex/dox/ex_hygrometer.dox -text
+os/ex/dox/ex_rangefinder.dox -text
 os/ex/dox/ex_sensor.dox -text
 os/ex/dox/ex_thermometer.dox -text
 os/ex/dox/main.dox -text
