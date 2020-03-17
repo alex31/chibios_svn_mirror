@@ -1054,7 +1054,6 @@ doc/ex/index.html -text
 doc/ex/makechm.bat -text
 doc/ex/makehtml.bat -text
 doc/ex/makehtml.sh -text
-doc/ex/rsync_web.sh -text
 doc/ex/src/main.dox -text
 doc/full_rm/Doxyfile_html -text
 doc/full_rm/index.html -text
@@ -1064,7 +1063,6 @@ doc/full_rm/makehtml.sh -text
 doc/full_rm/rsc/workspace.eps -text
 doc/full_rm/rsc/workspace.png -text
 doc/full_rm/rsc/workspace.svg -text
-doc/full_rm/rsync_web.sh -text
 doc/full_rm/src/concepts.dox -text
 doc/full_rm/src/main.dox -text
 doc/hal-stm32f3/Doxyfile_html -text
@@ -1079,7 +1077,6 @@ doc/hal/makechm.bat -text
 doc/hal/makehtml.bat -text
 doc/hal/makehtml.sh -text
 doc/hal/reports/misra.txt -text
-doc/hal/rsync_web.sh -text
 doc/hal/src/main.dox -text
 doc/nil/Doxyfile_chm -text
 doc/nil/Doxyfile_html -text
@@ -1091,7 +1088,6 @@ doc/nil/reports/misra.txt -text
 doc/nil/rsc/workspace.eps -text
 doc/nil/rsc/workspace.png -text
 doc/nil/rsc/workspace.svg -text
-doc/nil/rsync_web.sh -text
 doc/nil/src/main.dox -text
 doc/readme.txt -text
 doc/rt/Doxyfile_chm -text
@@ -1104,7 +1100,6 @@ doc/rt/reports/testbuild.7z -text
 doc/rt/rsc/workspace.eps -text
 doc/rt/rsc/workspace.png -text
 doc/rt/rsc/workspace.svg -text
-doc/rt/rsync_web.sh -text
 doc/rt/src/concepts.dox -text
 doc/rt/src/main.dox -text
 doc/various/chibios_c.xml -text
