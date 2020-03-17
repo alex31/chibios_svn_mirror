@@ -1096,6 +1096,12 @@ doc/rt/index.html -text
 doc/rt/makechm.bat -text
 doc/rt/makehtml.bat -text
 doc/rt/makehtml.sh -text
+doc/rt/reports/benchmarks/stm32f3-72mhz-gcc-fpu.txt -text
+doc/rt/reports/benchmarks/stm32f3-72mhz-gcc.txt -text
+doc/rt/reports/benchmarks/stm32f3-72mhz-iar-fpu.txt -text
+doc/rt/reports/benchmarks/stm32f3-72mhz-iar.txt -text
+doc/rt/reports/benchmarks/stm32f3-72mhz-keil-fpu.txt -text
+doc/rt/reports/benchmarks/stm32f3-72mhz-keil.txt -text
 doc/rt/reports/testbuild.7z -text
 doc/rt/rsc/workspace.eps -text
 doc/rt/rsc/workspace.png -text
