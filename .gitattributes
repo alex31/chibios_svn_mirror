@@ -306,6 +306,14 @@ demos/STM32/NIL-STM32G474RE-NUCLEO64/cfg/halconf.h -text
 demos/STM32/NIL-STM32G474RE-NUCLEO64/cfg/mcuconf.h -text
 demos/STM32/NIL-STM32G474RE-NUCLEO64/debug/NIL-STM32G474RE-NUCLEO64[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/NIL-STM32G474RE-NUCLEO64/main.c -text
+demos/STM32/NIL-STM32H755ZI-NUCLEO144/.cproject -text
+demos/STM32/NIL-STM32H755ZI-NUCLEO144/.project -text
+demos/STM32/NIL-STM32H755ZI-NUCLEO144/Makefile -text
+demos/STM32/NIL-STM32H755ZI-NUCLEO144/cfg/chconf.h -text
+demos/STM32/NIL-STM32H755ZI-NUCLEO144/cfg/halconf.h -text
+demos/STM32/NIL-STM32H755ZI-NUCLEO144/cfg/mcuconf.h -text
+demos/STM32/NIL-STM32H755ZI-NUCLEO144/debug/NIL-STM32H755ZI-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/NIL-STM32H755ZI-NUCLEO144/main.c -text
 demos/STM32/NIL-STM32L011K4-NUCLEO32/.cproject -text
 demos/STM32/NIL-STM32L011K4-NUCLEO32/.project -text
 demos/STM32/NIL-STM32L011K4-NUCLEO32/Makefile -text
@@ -1103,6 +1111,8 @@ doc/nil/makehtml.sh -text
 doc/nil/reports/benchmarks/nil-stm32g0-64mhz-gcc.txt -text
 doc/nil/reports/benchmarks/nil-stm32g4-170mhz-gcc-fpu.txt -text
 doc/nil/reports/benchmarks/nil-stm32g4-170mhz-gcc.txt -text
+doc/nil/reports/benchmarks/nil-stm32h7-480mhz-gcc-fpu.txt -text
+doc/nil/reports/benchmarks/nil-stm32h7-480mhz-gcc.txt -text
 doc/nil/reports/misra.txt -text
 doc/nil/rsc/workspace.eps -text
 doc/nil/rsc/workspace.png -text
@@ -1121,6 +1131,11 @@ doc/rt/reports/benchmarks/rt-stm32f3-72mhz-iar-fpu.txt -text
 doc/rt/reports/benchmarks/rt-stm32f3-72mhz-iar.txt -text
 doc/rt/reports/benchmarks/rt-stm32f3-72mhz-keil-fpu.txt -text
 doc/rt/reports/benchmarks/rt-stm32f3-72mhz-keil.txt -text
+doc/rt/reports/benchmarks/rt-stm32g0-64mhz-gcc.txt -text
+doc/rt/reports/benchmarks/rt-stm32g4-170mhz-gcc-fpu.txt -text
+doc/rt/reports/benchmarks/rt-stm32g4-170mhz-gcc.txt -text
+doc/rt/reports/benchmarks/rt-stm32h7-480mhz-gcc-fpu.txt -text
+doc/rt/reports/benchmarks/rt-stm32h7-480mhz-gcc.txt -text
 doc/rt/reports/testbuild.7z -text
 doc/rt/rsc/workspace.eps -text
 doc/rt/rsc/workspace.png -text
