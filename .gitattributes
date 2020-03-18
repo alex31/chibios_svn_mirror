@@ -290,6 +290,14 @@ demos/STM32/NIL-STM32F746G-DISCOVERY/cfg/halconf.h -text
 demos/STM32/NIL-STM32F746G-DISCOVERY/cfg/mcuconf.h -text
 demos/STM32/NIL-STM32F746G-DISCOVERY/debug/NIL-STM32F746G-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/NIL-STM32F746G-DISCOVERY/main.c -text
+demos/STM32/NIL-STM32G071RB-NUCLEO64/.cproject -text
+demos/STM32/NIL-STM32G071RB-NUCLEO64/.project -text
+demos/STM32/NIL-STM32G071RB-NUCLEO64/Makefile -text
+demos/STM32/NIL-STM32G071RB-NUCLEO64/cfg/chconf.h -text
+demos/STM32/NIL-STM32G071RB-NUCLEO64/cfg/halconf.h -text
+demos/STM32/NIL-STM32G071RB-NUCLEO64/cfg/mcuconf.h -text
+demos/STM32/NIL-STM32G071RB-NUCLEO64/debug/NIL-STM32G071RB-NUCLEO64[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/NIL-STM32G071RB-NUCLEO64/main.c -text
 demos/STM32/NIL-STM32G474RE-NUCLEO64/.cproject -text
 demos/STM32/NIL-STM32G474RE-NUCLEO64/.project -text
 demos/STM32/NIL-STM32G474RE-NUCLEO64/Makefile -text
@@ -1092,6 +1100,9 @@ doc/nil/index.html -text
 doc/nil/makechm.bat -text
 doc/nil/makehtml.bat -text
 doc/nil/makehtml.sh -text
+doc/nil/reports/benchmarks/nil-stm32g0-64mhz-gcc.txt -text
+doc/nil/reports/benchmarks/nil-stm32g4-170mhz-gcc-fpu.txt -text
+doc/nil/reports/benchmarks/nil-stm32g4-170mhz-gcc.txt -text
 doc/nil/reports/misra.txt -text
 doc/nil/rsc/workspace.eps -text
 doc/nil/rsc/workspace.png -text
