@@ -2835,6 +2835,11 @@ os/hal/ports/STM32/LLD/QUADSPIv2/hal_wspi_lld.c -text
 os/hal/ports/STM32/LLD/QUADSPIv2/hal_wspi_lld.h -text
 os/hal/ports/STM32/LLD/QUADSPIv2/stm32_quadspi1.inc -text
 os/hal/ports/STM32/LLD/RCCv1/driver.mk -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_hse.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_hsi16.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_hsi48.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_lse.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_lsi.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_msi.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_pll.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_pllsai1.inc -text
