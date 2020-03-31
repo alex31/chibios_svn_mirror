@@ -1675,7 +1675,7 @@ os/common/startup/ARMCMx-SB/compilers/GCC/ld/rules_stacks.ld -text
 os/common/startup/ARMCMx-SB/compilers/GCC/mk/startup.mk -text
 os/common/startup/ARMCMx/compilers/GCC/crt0_v6m.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt0_v7m.S -text
-os/common/startup/ARMCMx/compilers/GCC/crt0_v8m-mainline.S -text
+os/common/startup/ARMCMx/compilers/GCC/crt0_v8m-ml.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt1.c -text
 os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM410.ld -text
