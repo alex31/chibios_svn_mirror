@@ -2564,6 +2564,7 @@ os/hal/ports/ADUCM/ADUCM41x/hal_lld.h -text
 os/hal/ports/ADUCM/ADUCM41x/hal_st_lld.c -text
 os/hal/ports/ADUCM/ADUCM41x/hal_st_lld.h -text
 os/hal/ports/ADUCM/ADUCM41x/platform.mk -text
+os/hal/ports/ADUCM/LLD/UARTv1/aducm_uart.h -text
 os/hal/ports/ADUCM/LLD/UARTv1/driver.mk -text
 os/hal/ports/ADUCM/LLD/UARTv1/hal_serial_lld.c -text
 os/hal/ports/ADUCM/LLD/UARTv1/hal_serial_lld.h -text
