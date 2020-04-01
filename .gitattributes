@@ -2546,6 +2546,7 @@ os/hal/ports/ADUCM/ADUCM36x/aducm_cc.h -text
 os/hal/ports/ADUCM/ADUCM36x/aducm_gp.h -text
 os/hal/ports/ADUCM/ADUCM36x/aducm_isr.c -text
 os/hal/ports/ADUCM/ADUCM36x/aducm_isr.h -text
+os/hal/ports/ADUCM/ADUCM36x/aducm_registry.h -text
 os/hal/ports/ADUCM/ADUCM36x/hal_lld.c -text
 os/hal/ports/ADUCM/ADUCM36x/hal_lld.h -text
 os/hal/ports/ADUCM/ADUCM36x/hal_pal_lld.c -text
