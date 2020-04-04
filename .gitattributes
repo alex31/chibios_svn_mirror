@@ -4858,6 +4858,7 @@ tools/ftl/processors/conf/mcuconf_stm32l476xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l496xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l4rxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/notes.txt -text
+tools/ftl/processors/processors.xml -text
 tools/ftl/processors/unittest/test/test_root.c.ftl -text
 tools/ftl/processors/unittest/test/test_root.h.ftl -text
 tools/ftl/processors/unittest/test/test_sequence.c.ftl -text
