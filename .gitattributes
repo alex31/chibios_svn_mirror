@@ -1005,6 +1005,7 @@ demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/Makefile -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/chconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/halconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/mcuconf.h -text
+demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/secconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/debug/RT-STM32L552ZE-NUCLEO144-TEST[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/debug/RT-STM32L552ZE-NUCLEO144-TEST[!!-~](ST-Link[!!-~]GDB[!!-~]Server,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/main.c -text
@@ -3097,6 +3098,7 @@ os/hal/ports/STM32/STM32L5xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32L5xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32L5xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L5xx/stm32_registry.h -text
+os/hal/ports/STM32/STM32L5xx/stm32_secure.inc -text
 os/hal/ports/STM32/todo.txt -text
 os/hal/ports/common/ARMCMx/cache.h -text
 os/hal/ports/common/ARMCMx/mpu_v7m.h -text
