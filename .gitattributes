@@ -1009,6 +1009,8 @@ demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/secconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/debug/RT-STM32L552ZE-NUCLEO144-TEST[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/debug/RT-STM32L552ZE-NUCLEO144-TEST[!!-~](ST-Link[!!-~]GDB[!!-~]Server,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/main.c -text
+demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/secure.ld -text
+demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/source/nsc_flash.S -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/.project -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/Makefile -text
@@ -3104,6 +3106,8 @@ os/hal/ports/common/ARMCMx/cache.h -text
 os/hal/ports/common/ARMCMx/mpu_v7m.h -text
 os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
+os/hal/ports/common/ARMCMx/sau.c -text
+os/hal/ports/common/ARMCMx/sau.h -text
 os/hal/ports/simulator/console.c -text
 os/hal/ports/simulator/console.h -text
 os/hal/ports/simulator/hal_pal_lld.c -text
