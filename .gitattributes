@@ -1243,9 +1243,6 @@ os/common/ext/ADI/ADUCM36x/system_ADuCM360.h -text
 os/common/ext/ADI/ADUCM36x/system_ADuCM361.h -text
 os/common/ext/ADI/ADUCM36x/system_ADuCM362.h -text
 os/common/ext/ADI/ADUCM36x/system_ADuCM363.h -text
-os/common/ext/ADI/ADUCM41x/ADuCM410.h -text
-os/common/ext/ADI/ADUCM41x/ADuCM41x.h -text
-os/common/ext/ADI/ADUCM41x/system_ADuCM410.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_armcc.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_armclang.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_compiler.h -text
@@ -1695,7 +1692,6 @@ os/common/startup/ARMCMx/compilers/GCC/crt0_v7m.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt0_v8m-ml.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt1.c -text
 os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
-os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM410.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
@@ -1966,9 +1962,6 @@ os/ex/include/ex_thermometer.h -text
 os/hal/boards/ADICUP360/board.c -text
 os/hal/boards/ADICUP360/board.h -text
 os/hal/boards/ADICUP360/board.mk -text
-os/hal/boards/ADI_EVAL_ADUCM410EBZ/board.c -text
-os/hal/boards/ADI_EVAL_ADUCM410EBZ/board.h -text
-os/hal/boards/ADI_EVAL_ADUCM410EBZ/board.mk -text
 os/hal/boards/ARDUINO_LEONARDO/board.c -text
 os/hal/boards/ARDUINO_LEONARDO/board.h -text
 os/hal/boards/ARDUINO_LEONARDO/board.mk -text
@@ -2573,14 +2566,6 @@ os/hal/ports/ADUCM/ADUCM36x/hal_spi_lld.h -text
 os/hal/ports/ADUCM/ADUCM36x/hal_st_lld.c -text
 os/hal/ports/ADUCM/ADUCM36x/hal_st_lld.h -text
 os/hal/ports/ADUCM/ADUCM36x/platform.mk -text
-os/hal/ports/ADUCM/ADUCM41x/aducm_gp.h -text
-os/hal/ports/ADUCM/ADUCM41x/aducm_isr.c -text
-os/hal/ports/ADUCM/ADUCM41x/aducm_isr.h -text
-os/hal/ports/ADUCM/ADUCM41x/hal_lld.c -text
-os/hal/ports/ADUCM/ADUCM41x/hal_lld.h -text
-os/hal/ports/ADUCM/ADUCM41x/hal_st_lld.c -text
-os/hal/ports/ADUCM/ADUCM41x/hal_st_lld.h -text
-os/hal/ports/ADUCM/ADUCM41x/platform.mk -text
 os/hal/ports/ADUCM/LLD/UARTv1/aducm_uart.h -text
 os/hal/ports/ADUCM/LLD/UARTv1/driver.mk -text
 os/hal/ports/ADUCM/LLD/UARTv1/hal_serial_lld.c -text
