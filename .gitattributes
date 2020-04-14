@@ -999,18 +999,6 @@ demos/STM32/RT-STM32L4R9-DISCOVERY/cfg/mcuconf.h -text
 demos/STM32/RT-STM32L4R9-DISCOVERY/debug/RT-STM32L4R9-DISCOVERY[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L4R9-DISCOVERY/main.c -text
 demos/STM32/RT-STM32L4R9-DISCOVERY/readme.txt -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/.cproject -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/.project -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/Makefile -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/chconf.h -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/halconf.h -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/mcuconf.h -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/cfg/secconf.h -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/debug/RT-STM32L552ZE-NUCLEO144-TEST[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/debug/RT-STM32L552ZE-NUCLEO144-TEST[!!-~](ST-Link[!!-~]GDB[!!-~]Server,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/main.c -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/secure.ld -text
-demos/STM32/RT-STM32L552ZE-NUCLEO144-TEST/source/nsc_flash.S -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/.cproject -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/.project -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/Makefile -text
@@ -1790,6 +1778,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l5xx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/startup_defs.h -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.S -text
 os/common/startup/ARMCMx/compilers/IAR/cstartup.s -text
 os/common/startup/ARMCMx/compilers/IAR/vectors.s -text
