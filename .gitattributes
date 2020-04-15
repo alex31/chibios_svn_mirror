@@ -1006,6 +1006,8 @@ demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/cfg/chconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/cfg/halconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/cfg/mcuconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/cfg/secconf.h -text
+demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/debug/RT-STM32L552ZE-NUCLEO144-TZ_HOST[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/debug/RT-STM32L552ZE-NUCLEO144-TZ_HOST[!!-~](ST-Link[!!-~]GDB[!!-~]Server,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/main.c -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/secure.ld -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144-TZ_HOST/source/nsc_flash.S -text
