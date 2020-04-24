@@ -4835,10 +4835,14 @@ testhal/common/irq_storm.c -text
 testhal/common/irq_storm.h -text
 tools/.project -text
 tools/calc/STM32L4+.ods -text
+tools/eclipse/debug/Create[!!-~]OpenOCD[!!-~]Debug[!!-~]Configuration[!!-~](pre-select[!!-~]elf[!!-~]file[!!-~]into[!!-~]a[!!-~]project).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]no[!!-~]interface[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]board[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ICDI[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]STLink[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/fmpp/Run[!!-~]FMPP[!!-~](pre-select[!!-~]folder[!!-~]containing[!!-~]config.fmpp).launch -text
+tools/eclipse/makelaunch/arm_flash-and-run.launch.template -text
+tools/eclipse/makelaunch/arm_just-run.launch.template -text
+tools/eclipse/makelaunch/makelaunch.sh -text
 tools/ftl/libs/code_snippets.xml -text
 tools/ftl/libs/libcode.ftl -text
 tools/ftl/libs/liblicense.ftl -text
