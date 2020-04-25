@@ -4840,9 +4840,6 @@ tools/eclipse/debug/OpenOCD[!!-~]no[!!-~]interface[!!-~](prompts[!!-~]for[!!-~].
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ICDI[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]STLink[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/fmpp/Run[!!-~]FMPP[!!-~](pre-select[!!-~]folder[!!-~]containing[!!-~]config.fmpp).launch -text
-tools/eclipse/makelaunch/arm_flash-and-run.launch.template -text
-tools/eclipse/makelaunch/arm_just-run.launch.template -text
-tools/eclipse/makelaunch/makelaunch.sh -text
 tools/ftl/libs/code_snippets.xml -text
 tools/ftl/libs/libcode.ftl -text
 tools/ftl/libs/liblicense.ftl -text
