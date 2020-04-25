@@ -4925,6 +4925,7 @@ tools/ftl/schema/common/code_snippets.xsd -text
 tools/ftl/schema/common/config_settings.xsd -text
 tools/ftl/schema/common/doc.xsd -text
 tools/ftl/schema/common/stm32/stm32_gpiov2_port.xsd -text
+tools/ftl/schema/common/stm32/stm32_gpiov2a_port.xsd -text
 tools/ftl/schema/common/stm32/stm32_gpiov3_port.xsd -text
 tools/ftl/xml/stm32f0board.xml -text
 tools/ftl/xml/stm32f3board.xml -text
