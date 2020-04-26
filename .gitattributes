@@ -3780,7 +3780,6 @@ testhal/STM32/STM32F0xx/ADC/.cproject -text
 testhal/STM32/STM32F0xx/ADC/.project -text
 testhal/STM32/STM32F0xx/ADC/Makefile -text
 testhal/STM32/STM32F0xx/ADC/chconf.h -text
-testhal/STM32/STM32F0xx/ADC/debug/STM32F0xx-ADC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F0xx/ADC/halconf.h -text
 testhal/STM32/STM32F0xx/ADC/main.c -text
 testhal/STM32/STM32F0xx/ADC/mcuconf.h -text
@@ -3789,7 +3788,6 @@ testhal/STM32/STM32F0xx/CAN/.cproject -text
 testhal/STM32/STM32F0xx/CAN/.project -text
 testhal/STM32/STM32F0xx/CAN/Makefile -text
 testhal/STM32/STM32F0xx/CAN/chconf.h -text
-testhal/STM32/STM32F0xx/CAN/debug/STM32F0xx-CAN[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F0xx/CAN/halconf.h -text
 testhal/STM32/STM32F0xx/CAN/main.c -text
 testhal/STM32/STM32F0xx/CAN/mcuconf.h -text
@@ -3798,7 +3796,6 @@ testhal/STM32/STM32F0xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32F0xx/IRQ_STORM/.project -text
 testhal/STM32/STM32F0xx/IRQ_STORM/Makefile -text
 testhal/STM32/STM32F0xx/IRQ_STORM/chconf.h -text
-testhal/STM32/STM32F0xx/IRQ_STORM/debug/STM32F0xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F0xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32F0xx/IRQ_STORM/main.c -text
 testhal/STM32/STM32F0xx/IRQ_STORM/mcuconf.h -text
@@ -3807,7 +3804,6 @@ testhal/STM32/STM32F0xx/PWM-ICU/.cproject -text
 testhal/STM32/STM32F0xx/PWM-ICU/.project -text
 testhal/STM32/STM32F0xx/PWM-ICU/Makefile -text
 testhal/STM32/STM32F0xx/PWM-ICU/chconf.h -text
-testhal/STM32/STM32F0xx/PWM-ICU/debug/STM32F0xx-PWM-ICU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F0xx/PWM-ICU/halconf.h -text
 testhal/STM32/STM32F0xx/PWM-ICU/main.c -text
 testhal/STM32/STM32F0xx/PWM-ICU/mcuconf.h -text
@@ -3816,7 +3812,6 @@ testhal/STM32/STM32F0xx/USB_CDC/.cproject -text
 testhal/STM32/STM32F0xx/USB_CDC/.project -text
 testhal/STM32/STM32F0xx/USB_CDC/Makefile -text
 testhal/STM32/STM32F0xx/USB_CDC/chconf.h -text
-testhal/STM32/STM32F0xx/USB_CDC/debug/STM32F0xx-USB_CDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F0xx/USB_CDC/halconf.h -text
 testhal/STM32/STM32F0xx/USB_CDC/main.c -text
 testhal/STM32/STM32F0xx/USB_CDC/mcuconf.h -text
@@ -3827,7 +3822,6 @@ testhal/STM32/STM32F0xx/WDG/.cproject -text
 testhal/STM32/STM32F0xx/WDG/.project -text
 testhal/STM32/STM32F0xx/WDG/Makefile -text
 testhal/STM32/STM32F0xx/WDG/chconf.h -text
-testhal/STM32/STM32F0xx/WDG/debug/STM32F0xx-WDG[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F0xx/WDG/halconf.h -text
 testhal/STM32/STM32F0xx/WDG/main.c -text
 testhal/STM32/STM32F0xx/WDG/mcuconf.h -text
@@ -3864,7 +3858,6 @@ testhal/STM32/STM32F1xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32F1xx/IRQ_STORM/.project -text
 testhal/STM32/STM32F1xx/IRQ_STORM/Makefile -text
 testhal/STM32/STM32F1xx/IRQ_STORM/chconf.h -text
-testhal/STM32/STM32F1xx/IRQ_STORM/debug/STM32F1xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F1xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32F1xx/IRQ_STORM/main.c -text
 testhal/STM32/STM32F1xx/IRQ_STORM/mcuconf.h -text
@@ -3907,7 +3900,6 @@ testhal/STM32/STM32F1xx/USB_CDC_F107/.cproject -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/.project -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/Makefile -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/chconf.h -text
-testhal/STM32/STM32F1xx/USB_CDC_F107/debug/STM32F107-USB_CDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/halconf.h -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/main.c -text
 testhal/STM32/STM32F1xx/USB_CDC_F107/mcuconf.h -text
@@ -3918,7 +3910,6 @@ testhal/STM32/STM32F2xx/PWM-ICU/.cproject -text
 testhal/STM32/STM32F2xx/PWM-ICU/.project -text
 testhal/STM32/STM32F2xx/PWM-ICU/Makefile -text
 testhal/STM32/STM32F2xx/PWM-ICU/chconf.h -text
-testhal/STM32/STM32F2xx/PWM-ICU/debug/STM32F2xx-PWM-ICU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F2xx/PWM-ICU/halconf.h -text
 testhal/STM32/STM32F2xx/PWM-ICU/main.c -text
 testhal/STM32/STM32F2xx/PWM-ICU/mcuconf.h -text
@@ -3927,7 +3918,6 @@ testhal/STM32/STM32F2xx/USB_CDC/.cproject -text
 testhal/STM32/STM32F2xx/USB_CDC/.project -text
 testhal/STM32/STM32F2xx/USB_CDC/Makefile -text
 testhal/STM32/STM32F2xx/USB_CDC/chconf.h -text
-testhal/STM32/STM32F2xx/USB_CDC/debug/STM32F2xx-USB_CDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F2xx/USB_CDC/halconf.h -text
 testhal/STM32/STM32F2xx/USB_CDC/main.c -text
 testhal/STM32/STM32F2xx/USB_CDC/mcuconf.h -text
@@ -4004,7 +3994,6 @@ testhal/STM32/STM32F3xx/ADC/.cproject -text
 testhal/STM32/STM32F3xx/ADC/.project -text
 testhal/STM32/STM32F3xx/ADC/Makefile -text
 testhal/STM32/STM32F3xx/ADC/chconf.h -text
-testhal/STM32/STM32F3xx/ADC/debug/STM32F3xx-ADC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/ADC/halconf.h -text
 testhal/STM32/STM32F3xx/ADC/main.c -text
 testhal/STM32/STM32F3xx/ADC/mcuconf.h -text
@@ -4013,7 +4002,6 @@ testhal/STM32/STM32F3xx/ADC_DUAL/.cproject -text
 testhal/STM32/STM32F3xx/ADC_DUAL/.project -text
 testhal/STM32/STM32F3xx/ADC_DUAL/Makefile -text
 testhal/STM32/STM32F3xx/ADC_DUAL/chconf.h -text
-testhal/STM32/STM32F3xx/ADC_DUAL/debug/STM32F3xx-ADC_DUAL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/ADC_DUAL/halconf.h -text
 testhal/STM32/STM32F3xx/ADC_DUAL/main.c -text
 testhal/STM32/STM32F3xx/ADC_DUAL/mcuconf.h -text
@@ -4022,7 +4010,6 @@ testhal/STM32/STM32F3xx/CAN/.cproject -text
 testhal/STM32/STM32F3xx/CAN/.project -text
 testhal/STM32/STM32F3xx/CAN/Makefile -text
 testhal/STM32/STM32F3xx/CAN/chconf.h -text
-testhal/STM32/STM32F3xx/CAN/debug/STM32F3xx-CAN[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/CAN/halconf.h -text
 testhal/STM32/STM32F3xx/CAN/main.c -text
 testhal/STM32/STM32F3xx/CAN/mcuconf.h -text
@@ -4031,7 +4018,6 @@ testhal/STM32/STM32F3xx/DAC/.cproject -text
 testhal/STM32/STM32F3xx/DAC/.project -text
 testhal/STM32/STM32F3xx/DAC/Makefile -text
 testhal/STM32/STM32F3xx/DAC/chconf.h -text
-testhal/STM32/STM32F3xx/DAC/debug/STM32F3xx-DAC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/DAC/halconf.h -text
 testhal/STM32/STM32F3xx/DAC/main.c -text
 testhal/STM32/STM32F3xx/DAC/mcuconf.h -text
@@ -4040,7 +4026,6 @@ testhal/STM32/STM32F3xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32F3xx/IRQ_STORM/.project -text
 testhal/STM32/STM32F3xx/IRQ_STORM/Makefile -text
 testhal/STM32/STM32F3xx/IRQ_STORM/chconf.h -text
-testhal/STM32/STM32F3xx/IRQ_STORM/debug/STM32F3xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32F3xx/IRQ_STORM/main.c -text
 testhal/STM32/STM32F3xx/IRQ_STORM/mcuconf.h -text
@@ -4049,7 +4034,6 @@ testhal/STM32/STM32F3xx/PWM-ICU/.cproject -text
 testhal/STM32/STM32F3xx/PWM-ICU/.project -text
 testhal/STM32/STM32F3xx/PWM-ICU/Makefile -text
 testhal/STM32/STM32F3xx/PWM-ICU/chconf.h -text
-testhal/STM32/STM32F3xx/PWM-ICU/debug/STM32F3xx-PWM_ICU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/PWM-ICU/halconf.h -text
 testhal/STM32/STM32F3xx/PWM-ICU/main.c -text
 testhal/STM32/STM32F3xx/PWM-ICU/mcuconf.h -text
@@ -4058,7 +4042,6 @@ testhal/STM32/STM32F3xx/USB_CDC_IAD/.cproject -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/.project -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/Makefile -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/chconf.h -text
-testhal/STM32/STM32F3xx/USB_CDC_IAD/debug/STM32F3xx-USB_CDC_IAD[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/driver/ChibiOS[!!-~]Virtual[!!-~]COM.inf -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/halconf.h -text
 testhal/STM32/STM32F3xx/USB_CDC_IAD/main.c -text
@@ -4070,7 +4053,6 @@ testhal/STM32/STM32F3xx/WDG/.cproject -text
 testhal/STM32/STM32F3xx/WDG/.project -text
 testhal/STM32/STM32F3xx/WDG/Makefile -text
 testhal/STM32/STM32F3xx/WDG/chconf.h -text
-testhal/STM32/STM32F3xx/WDG/debug/STM32F3xx-WDG[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F3xx/WDG/halconf.h -text
 testhal/STM32/STM32F3xx/WDG/main.c -text
 testhal/STM32/STM32F3xx/WDG/mcuconf.h -text
@@ -4079,7 +4061,6 @@ testhal/STM32/STM32F4xx/ADC/.cproject -text
 testhal/STM32/STM32F4xx/ADC/.project -text
 testhal/STM32/STM32F4xx/ADC/Makefile -text
 testhal/STM32/STM32F4xx/ADC/chconf.h -text
-testhal/STM32/STM32F4xx/ADC/debug/STM32F4xx-ADC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/ADC/halconf.h -text
 testhal/STM32/STM32F4xx/ADC/main.c -text
 testhal/STM32/STM32F4xx/ADC/mcuconf.h -text
@@ -4088,7 +4069,6 @@ testhal/STM32/STM32F4xx/CAN/.cproject -text
 testhal/STM32/STM32F4xx/CAN/.project -text
 testhal/STM32/STM32F4xx/CAN/Makefile -text
 testhal/STM32/STM32F4xx/CAN/chconf.h -text
-testhal/STM32/STM32F4xx/CAN/debug/STM32F4xx-CAN[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/CAN/halconf.h -text
 testhal/STM32/STM32F4xx/CAN/main.c -text
 testhal/STM32/STM32F4xx/CAN/mcuconf.h -text
@@ -4097,7 +4077,6 @@ testhal/STM32/STM32F4xx/DAC/.cproject -text
 testhal/STM32/STM32F4xx/DAC/.project -text
 testhal/STM32/STM32F4xx/DAC/Makefile -text
 testhal/STM32/STM32F4xx/DAC/chconf.h -text
-testhal/STM32/STM32F4xx/DAC/debug/STM32F4xx-DAC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/DAC/halconf.h -text
 testhal/STM32/STM32F4xx/DAC/main.c -text
 testhal/STM32/STM32F4xx/DAC/mcuconf.h -text
@@ -4106,7 +4085,6 @@ testhal/STM32/STM32F4xx/DAC_DUAL/.cproject -text
 testhal/STM32/STM32F4xx/DAC_DUAL/.project -text
 testhal/STM32/STM32F4xx/DAC_DUAL/Makefile -text
 testhal/STM32/STM32F4xx/DAC_DUAL/chconf.h -text
-testhal/STM32/STM32F4xx/DAC_DUAL/debug/STM32F4xx-DAC_DUAL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/DAC_DUAL/halconf.h -text
 testhal/STM32/STM32F4xx/DAC_DUAL/main.c -text
 testhal/STM32/STM32F4xx/DAC_DUAL/mcuconf.h -text
@@ -4115,8 +4093,6 @@ testhal/STM32/STM32F4xx/DMA_STORM/.cproject -text
 testhal/STM32/STM32F4xx/DMA_STORM/.project -text
 testhal/STM32/STM32F4xx/DMA_STORM/Makefile -text
 testhal/STM32/STM32F4xx/DMA_STORM/chconf.h -text
-testhal/STM32/STM32F4xx/DMA_STORM/debug/STM32F4xx-DMA_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/STM32F4xx/DMA_STORM/debug/STM32F4xx-DMA_STORM[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/DMA_STORM/halconf.h -text
 testhal/STM32/STM32F4xx/DMA_STORM/main.c -text
 testhal/STM32/STM32F4xx/DMA_STORM/mcuconf.h -text
@@ -4124,7 +4100,6 @@ testhal/STM32/STM32F4xx/I2S/.cproject -text
 testhal/STM32/STM32F4xx/I2S/.project -text
 testhal/STM32/STM32F4xx/I2S/Makefile -text
 testhal/STM32/STM32F4xx/I2S/chconf.h -text
-testhal/STM32/STM32F4xx/I2S/debug/STM32F4xx-I2S[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/I2S/halconf.h -text
 testhal/STM32/STM32F4xx/I2S/main.c -text
 testhal/STM32/STM32F4xx/I2S/mcuconf.h -text
@@ -4133,7 +4108,6 @@ testhal/STM32/STM32F4xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32F4xx/IRQ_STORM/.project -text
 testhal/STM32/STM32F4xx/IRQ_STORM/Makefile -text
 testhal/STM32/STM32F4xx/IRQ_STORM/chconf.h -text
-testhal/STM32/STM32F4xx/IRQ_STORM/debug/STM32F4xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32F4xx/IRQ_STORM/iar/ch.ewp -text
 testhal/STM32/STM32F4xx/IRQ_STORM/iar/ch.eww -text
@@ -4146,7 +4120,6 @@ testhal/STM32/STM32F4xx/IRQ_STORM_FPU/.cproject -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/.project -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/Makefile -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/chconf.h -text
-testhal/STM32/STM32F4xx/IRQ_STORM_FPU/debug/STM32F4xx-IRQ_STORM_FPU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/extfunc.c -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/halconf.h -text
 testhal/STM32/STM32F4xx/IRQ_STORM_FPU/iar/ch.ewp -text
@@ -4160,7 +4133,6 @@ testhal/STM32/STM32F4xx/PWM-ICU/.cproject -text
 testhal/STM32/STM32F4xx/PWM-ICU/.project -text
 testhal/STM32/STM32F4xx/PWM-ICU/Makefile -text
 testhal/STM32/STM32F4xx/PWM-ICU/chconf.h -text
-testhal/STM32/STM32F4xx/PWM-ICU/debug/STM32F4xx-PWM-ICU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/PWM-ICU/halconf.h -text
 testhal/STM32/STM32F4xx/PWM-ICU/main.c -text
 testhal/STM32/STM32F4xx/PWM-ICU/mcuconf.h -text
@@ -4169,7 +4141,6 @@ testhal/STM32/STM32F4xx/RTC/.cproject -text
 testhal/STM32/STM32F4xx/RTC/.project -text
 testhal/STM32/STM32F4xx/RTC/Makefile -text
 testhal/STM32/STM32F4xx/RTC/chconf.h -text
-testhal/STM32/STM32F4xx/RTC/debug/STM32F4xx-RTC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/RTC/halconf.h -text
 testhal/STM32/STM32F4xx/RTC/main.c -text
 testhal/STM32/STM32F4xx/RTC/mcuconf.h -text
@@ -4177,7 +4148,6 @@ testhal/STM32/STM32F4xx/SDC/.cproject -text
 testhal/STM32/STM32F4xx/SDC/.project -text
 testhal/STM32/STM32F4xx/SDC/Makefile -text
 testhal/STM32/STM32F4xx/SDC/chconf.h -text
-testhal/STM32/STM32F4xx/SDC/debug/STM32F4xx-SDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/SDC/halconf.h -text
 testhal/STM32/STM32F4xx/SDC/main.c -text
 testhal/STM32/STM32F4xx/SDC/mcuconf.h -text
@@ -4186,7 +4156,6 @@ testhal/STM32/STM32F4xx/USB_CDC_IAD/.cproject -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/.project -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/Makefile -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/chconf.h -text
-testhal/STM32/STM32F4xx/USB_CDC_IAD/debug/STM32F4xx-USB_CDC_IAD[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/driver/ChibiOS[!!-~]Virtual[!!-~]COM.inf -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/halconf.h -text
 testhal/STM32/STM32F4xx/USB_CDC_IAD/main.c -text
@@ -4198,7 +4167,6 @@ testhal/STM32/STM32F4xx/WDG/.cproject -text
 testhal/STM32/STM32F4xx/WDG/.project -text
 testhal/STM32/STM32F4xx/WDG/Makefile -text
 testhal/STM32/STM32F4xx/WDG/chconf.h -text
-testhal/STM32/STM32F4xx/WDG/debug/STM32F4xx-WDG[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F4xx/WDG/halconf.h -text
 testhal/STM32/STM32F4xx/WDG/main.c -text
 testhal/STM32/STM32F4xx/WDG/mcuconf.h -text
@@ -4207,8 +4175,6 @@ testhal/STM32/STM32F7xx/GPT-ADC/.cproject -text
 testhal/STM32/STM32F7xx/GPT-ADC/.project -text
 testhal/STM32/STM32F7xx/GPT-ADC/Makefile -text
 testhal/STM32/STM32F7xx/GPT-ADC/chconf.h -text
-testhal/STM32/STM32F7xx/GPT-ADC/debug/STM32F7xx-GPT-ADC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/STM32F7xx/GPT-ADC/debug/STM32F7xx-GPT-ADC[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/STM32F7xx/GPT-ADC/halconf.h -text
 testhal/STM32/STM32F7xx/GPT-ADC/main.c -text
 testhal/STM32/STM32F7xx/GPT-ADC/mcuconf.h -text
@@ -4217,7 +4183,6 @@ testhal/STM32/STM32F7xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32F7xx/IRQ_STORM/.project -text
 testhal/STM32/STM32F7xx/IRQ_STORM/Makefile -text
 testhal/STM32/STM32F7xx/IRQ_STORM/chconf.h -text
-testhal/STM32/STM32F7xx/IRQ_STORM/debug/STM32F7xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32F7xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32F7xx/IRQ_STORM/main.c -text
 testhal/STM32/STM32F7xx/IRQ_STORM/mcuconf.h -text
@@ -4226,8 +4191,6 @@ testhal/STM32/STM32F7xx/PWM-ICU/.cproject -text
 testhal/STM32/STM32F7xx/PWM-ICU/.project -text
 testhal/STM32/STM32F7xx/PWM-ICU/Makefile -text
 testhal/STM32/STM32F7xx/PWM-ICU/chconf.h -text
-testhal/STM32/STM32F7xx/PWM-ICU/debug/STM32F7xx-PWM-ICU[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/STM32F7xx/PWM-ICU/debug/STM32F7xx-PWM-ICU[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/STM32F7xx/PWM-ICU/halconf.h -text
 testhal/STM32/STM32F7xx/PWM-ICU/main.c -text
 testhal/STM32/STM32F7xx/PWM-ICU/mcuconf.h -text
@@ -4236,8 +4199,6 @@ testhal/STM32/STM32F7xx/SPI/.cproject -text
 testhal/STM32/STM32F7xx/SPI/.project -text
 testhal/STM32/STM32F7xx/SPI/Makefile -text
 testhal/STM32/STM32F7xx/SPI/chconf.h -text
-testhal/STM32/STM32F7xx/SPI/debug/STM32F7xx-SPI[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/STM32F7xx/SPI/debug/STM32F7xx-SPI[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/STM32F7xx/SPI/halconf.h -text
 testhal/STM32/STM32F7xx/SPI/main.c -text
 testhal/STM32/STM32F7xx/SPI/mcuconf.h -text
@@ -4246,8 +4207,6 @@ testhal/STM32/STM32F7xx/USB_RAW/.cproject -text
 testhal/STM32/STM32F7xx/USB_RAW/.project -text
 testhal/STM32/STM32F7xx/USB_RAW/Makefile -text
 testhal/STM32/STM32F7xx/USB_RAW/chconf.h -text
-testhal/STM32/STM32F7xx/USB_RAW/debug/STM32F7xx-USB_RAW[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/STM32F7xx/USB_RAW/debug/STM32F7xx-USB_RAW[!!-~](OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/STM32F7xx/USB_RAW/halconf.h -text
 testhal/STM32/STM32F7xx/USB_RAW/main.c -text
 testhal/STM32/STM32F7xx/USB_RAW/mcuconf.h -text
@@ -4258,7 +4217,6 @@ testhal/STM32/STM32L0xx/SPI/.cproject -text
 testhal/STM32/STM32L0xx/SPI/.project -text
 testhal/STM32/STM32L0xx/SPI/Makefile -text
 testhal/STM32/STM32L0xx/SPI/chconf.h -text
-testhal/STM32/STM32L0xx/SPI/debug/STM32L0xx-SPI[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32L0xx/SPI/halconf.h -text
 testhal/STM32/STM32L0xx/SPI/main.c -text
 testhal/STM32/STM32L0xx/SPI/mcuconf.h -text
@@ -4267,7 +4225,6 @@ testhal/STM32/STM32L0xx/USB_CDC/.cproject -text
 testhal/STM32/STM32L0xx/USB_CDC/.project -text
 testhal/STM32/STM32L0xx/USB_CDC/Makefile -text
 testhal/STM32/STM32L0xx/USB_CDC/chconf.h -text
-testhal/STM32/STM32L0xx/USB_CDC/debug/STM32L0xx-USB_CDC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32L0xx/USB_CDC/halconf.h -text
 testhal/STM32/STM32L0xx/USB_CDC/main.c -text
 testhal/STM32/STM32L0xx/USB_CDC/mcuconf.h -text
@@ -4278,7 +4235,6 @@ testhal/STM32/STM32L1xx/ADC/.cproject -text
 testhal/STM32/STM32L1xx/ADC/.project -text
 testhal/STM32/STM32L1xx/ADC/Makefile -text
 testhal/STM32/STM32L1xx/ADC/chconf.h -text
-testhal/STM32/STM32L1xx/ADC/debug/STM32L1xx-ADC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32L1xx/ADC/halconf.h -text
 testhal/STM32/STM32L1xx/ADC/main.c -text
 testhal/STM32/STM32L1xx/ADC/mcuconf.h -text
@@ -4287,7 +4243,6 @@ testhal/STM32/STM32L1xx/DAC/.cproject -text
 testhal/STM32/STM32L1xx/DAC/.project -text
 testhal/STM32/STM32L1xx/DAC/Makefile -text
 testhal/STM32/STM32L1xx/DAC/chconf.h -text
-testhal/STM32/STM32L1xx/DAC/debug/STM32L1xx-DAC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32L1xx/DAC/halconf.h -text
 testhal/STM32/STM32L1xx/DAC/main.c -text
 testhal/STM32/STM32L1xx/DAC/mcuconf.h -text
@@ -4296,7 +4251,6 @@ testhal/STM32/STM32L1xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32L1xx/IRQ_STORM/.project -text
 testhal/STM32/STM32L1xx/IRQ_STORM/Makefile -text
 testhal/STM32/STM32L1xx/IRQ_STORM/chconf.h -text
-testhal/STM32/STM32L1xx/IRQ_STORM/debug/STM32L1xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32L1xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32L1xx/IRQ_STORM/main.c -text
 testhal/STM32/STM32L1xx/IRQ_STORM/mcuconf.h -text
@@ -4329,7 +4283,6 @@ testhal/STM32/STM32L4xx/CAN/.cproject -text
 testhal/STM32/STM32L4xx/CAN/.project -text
 testhal/STM32/STM32L4xx/CAN/Makefile -text
 testhal/STM32/STM32L4xx/CAN/chconf.h -text
-testhal/STM32/STM32L4xx/CAN/debug/STM32L4xx-CAN[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32L4xx/CAN/halconf.h -text
 testhal/STM32/STM32L4xx/CAN/main.c -text
 testhal/STM32/STM32L4xx/CAN/mcuconf.h -text
@@ -4338,7 +4291,6 @@ testhal/STM32/STM32L4xx/IRQ_STORM/.cproject -text
 testhal/STM32/STM32L4xx/IRQ_STORM/.project -text
 testhal/STM32/STM32L4xx/IRQ_STORM/Makefile -text
 testhal/STM32/STM32L4xx/IRQ_STORM/chconf.h -text
-testhal/STM32/STM32L4xx/IRQ_STORM/debug/STM32L4xx-IRQ_STORM[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/STM32/STM32L4xx/IRQ_STORM/halconf.h -text
 testhal/STM32/STM32L4xx/IRQ_STORM/main.c -text
 testhal/STM32/STM32L4xx/IRQ_STORM/mcuconf.h -text
@@ -4376,8 +4328,6 @@ testhal/STM32/multi/ADC/cfg/stm32l4r5zi_nucleo144/halconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32l4r5zi_nucleo144/mcuconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32l4r5zi_nucleo144/portab.c -text
 testhal/STM32/multi/ADC/cfg/stm32l4r5zi_nucleo144/portab.h -text
-testhal/STM32/multi/ADC/debug/STM32-ADC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/ADC/debug/STM32-ADC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/ADC/main.c -text
 testhal/STM32/multi/ADC/make/stm32g071rb_nucleo64.make -text
 testhal/STM32/multi/ADC/make/stm32g474re_nucleo64.make -text
@@ -4393,8 +4343,6 @@ testhal/STM32/multi/CRYPTO/cfg/stm32f756zg_nucleo144/halconf.h -text
 testhal/STM32/multi/CRYPTO/cfg/stm32f756zg_nucleo144/mcuconf.h -text
 testhal/STM32/multi/CRYPTO/cfg/stm32f756zg_nucleo144/portab.c -text
 testhal/STM32/multi/CRYPTO/cfg/stm32f756zg_nucleo144/portab.h -text
-testhal/STM32/multi/CRYPTO/debug/STM32-CRYPTO[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/CRYPTO/debug/STM32-CRYPTO[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/CRYPTO/main.c -text
 testhal/STM32/multi/CRYPTO/make/stm32f756zg_nucleo144.make -text
 testhal/STM32/multi/DAC/.cproject -text
@@ -4420,8 +4368,6 @@ testhal/STM32/multi/DAC/cfg/stm32l4r5zi_nucleo144/halconf.h -text
 testhal/STM32/multi/DAC/cfg/stm32l4r5zi_nucleo144/mcuconf.h -text
 testhal/STM32/multi/DAC/cfg/stm32l4r5zi_nucleo144/portab.c -text
 testhal/STM32/multi/DAC/cfg/stm32l4r5zi_nucleo144/portab.h -text
-testhal/STM32/multi/DAC/debug/STM32-DAC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/DAC/debug/STM32-DAC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/DAC/main.c -text
 testhal/STM32/multi/DAC/make/stm32g474re_nucleo64.make -text
 testhal/STM32/multi/DAC/make/stm32h743_nucleo144.make -text
