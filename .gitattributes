@@ -4381,8 +4381,6 @@ testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/mcuconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/portab.c -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/portab.h -text
-testhal/STM32/multi/EFL-MFS/debug/STM32-EFL-MFS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/EFL-MFS/debug/STM32-EFL-MFS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/EFL-MFS/main.c -text
 testhal/STM32/multi/EFL-MFS/make/stm32l476_discovery.make -text
 testhal/STM32/multi/EFL-MFS/readme.txt -text
@@ -4439,8 +4437,6 @@ testhal/STM32/multi/PAL/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/mcuconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/portab.c -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/portab.h -text
-testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/PAL/debug/STM32-PAL[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/PAL/main.c -text
 testhal/STM32/multi/PAL/make/stm32f051_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32f103_olimex.make -text
@@ -4496,8 +4492,6 @@ testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/mcuconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/portab.c -text
 testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/portab.h -text
-testhal/STM32/multi/RTC/debug/STM32-RTC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/RTC/debug/STM32-RTC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/RTC/main.c -text
 testhal/STM32/multi/RTC/make/stm32f051_discovery.make -text
 testhal/STM32/multi/RTC/make/stm32f303_discovery.make -text
@@ -4516,8 +4510,6 @@ testhal/STM32/multi/SDMMC-FATFS/cfg/stm32l4r9ai_discovery/halconf.h -text
 testhal/STM32/multi/SDMMC-FATFS/cfg/stm32l4r9ai_discovery/mcuconf.h -text
 testhal/STM32/multi/SDMMC-FATFS/cfg/stm32l4r9ai_discovery/portab.c -text
 testhal/STM32/multi/SDMMC-FATFS/cfg/stm32l4r9ai_discovery/portab.h -text
-testhal/STM32/multi/SDMMC-FATFS/debug/STM32-SDMMC-FATFS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/SDMMC-FATFS/debug/STM32-SDMMC-FATFS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/SDMMC-FATFS/main.c -text
 testhal/STM32/multi/SDMMC-FATFS/make/stm32l4r9ai_discovery.make -text
 testhal/STM32/multi/SPI/.cproject -text
@@ -4563,8 +4555,6 @@ testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/halconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/mcuconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/portab.c -text
 testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/portab.h -text
-testhal/STM32/multi/SPI/debug/STM32-SPI[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/SPI/debug/STM32-SPI[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/SPI/main.c -text
 testhal/STM32/multi/SPI/make/stm32f091_nucleo64.make -text
 testhal/STM32/multi/SPI/make/stm32f303_discovery.make -text
@@ -4588,8 +4578,6 @@ testhal/STM32/multi/TRNG/cfg/stm32l4r5zi_nucleo144/halconf.h -text
 testhal/STM32/multi/TRNG/cfg/stm32l4r5zi_nucleo144/mcuconf.h -text
 testhal/STM32/multi/TRNG/cfg/stm32l4r5zi_nucleo144/portab.c -text
 testhal/STM32/multi/TRNG/cfg/stm32l4r5zi_nucleo144/portab.h -text
-testhal/STM32/multi/TRNG/debug/STM32-TRNG[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/TRNG/debug/STM32-TRNG[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/TRNG/main.c -text
 testhal/STM32/multi/TRNG/make/stm32l476_discovery.make -text
 testhal/STM32/multi/TRNG/make/stm32l4r5zi_nucleo144.make -text
@@ -4616,8 +4604,6 @@ testhal/STM32/multi/UART/cfg/stm32f746_discovery/halconf.h -text
 testhal/STM32/multi/UART/cfg/stm32f746_discovery/mcuconf.h -text
 testhal/STM32/multi/UART/cfg/stm32f746_discovery/portab.c -text
 testhal/STM32/multi/UART/cfg/stm32f746_discovery/portab.h -text
-testhal/STM32/multi/UART/debug/STM32-UART[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/UART/debug/STM32-UART[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/UART/main.c -text
 testhal/STM32/multi/UART/make/stm32f091_nucleo64.make -text
 testhal/STM32/multi/UART/make/stm32f303_discovery.make -text
@@ -4657,8 +4643,6 @@ testhal/STM32/multi/USB_CDC/cfg/stm32l4r5_nucleo144/halconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32l4r5_nucleo144/mcuconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32l4r5_nucleo144/portab.c -text
 testhal/STM32/multi/USB_CDC/cfg/stm32l4r5_nucleo144/portab.h -text
-testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/USB_CDC/main.c -text
 testhal/STM32/multi/USB_CDC/make/stm32f303_discovery.make -text
 testhal/STM32/multi/USB_CDC/make/stm32f407_discovery.make -text
@@ -4682,8 +4666,6 @@ testhal/STM32/multi/WSPI-MFS/cfg/stm32l4r9_discovery/halconf.h -text
 testhal/STM32/multi/WSPI-MFS/cfg/stm32l4r9_discovery/mcuconf.h -text
 testhal/STM32/multi/WSPI-MFS/cfg/stm32l4r9_discovery/portab.c -text
 testhal/STM32/multi/WSPI-MFS/cfg/stm32l4r9_discovery/portab.h -text
-testhal/STM32/multi/WSPI-MFS/debug/STM32-WSPI-MFS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/WSPI-MFS/debug/STM32-WSPI-MFS[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/WSPI-MFS/main.c -text
 testhal/STM32/multi/WSPI-MFS/make/stm32l476_discovery.make -text
 testhal/STM32/multi/WSPI-MFS/make/stm32l4r9_discovery.make -text
