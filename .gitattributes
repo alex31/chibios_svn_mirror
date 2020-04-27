@@ -945,13 +945,11 @@ demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
 demos/various/NIL-ARMCM0-GENERIC/cfg/chconf.h -text
-demos/various/NIL-ARMCM0-GENERIC/debug/NIL-ARMC0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/NIL-ARMCM0-GENERIC/main.c -text
 demos/various/NIL-ARMCM4-GENERIC/.cproject -text
 demos/various/NIL-ARMCM4-GENERIC/.project -text
 demos/various/NIL-ARMCM4-GENERIC/Makefile -text
 demos/various/NIL-ARMCM4-GENERIC/cfg/chconf.h -text
-demos/various/NIL-ARMCM4-GENERIC/debug/NIL-ARMC4-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/NIL-ARMCM4-GENERIC/main.c -text
 demos/various/RT-ARM7-GENERIC/.cproject -text
 demos/various/RT-ARM7-GENERIC/.project -text
@@ -964,14 +962,12 @@ demos/various/RT-ARMCM0-GENERIC/.cproject -text
 demos/various/RT-ARMCM0-GENERIC/.project -text
 demos/various/RT-ARMCM0-GENERIC/Makefile -text
 demos/various/RT-ARMCM0-GENERIC/cfg/chconf.h -text
-demos/various/RT-ARMCM0-GENERIC/debug/RT-ARMCM0-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM0-GENERIC/main.c -text
 demos/various/RT-ARMCM0-GENERIC/readme.txt -text
 demos/various/RT-ARMCM4-GENERIC/.cproject -text
 demos/various/RT-ARMCM4-GENERIC/.project -text
 demos/various/RT-ARMCM4-GENERIC/Makefile -text
 demos/various/RT-ARMCM4-GENERIC/cfg/chconf.h -text
-demos/various/RT-ARMCM4-GENERIC/debug/RT-ARMCM4-GENERIC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM4-GENERIC/main.c -text
 demos/various/RT-ARMCM4-GENERIC/readme.txt -text
 demos/various/RT-ARMCM4-MAKELIB/.cproject -text
@@ -987,7 +983,6 @@ demos/various/RT-ARMCM4-MAKELIB/readme.txt -text
 demos/various/RT-ARMCM4-USELIB/.cproject -text
 demos/various/RT-ARMCM4-USELIB/.project -text
 demos/various/RT-ARMCM4-USELIB/Makefile -text
-demos/various/RT-ARMCM4-USELIB/debug/RT-ARMCM4-USELIB[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/various/RT-ARMCM4-USELIB/main.c -text
 demos/various/RT-ARMCM4-USELIB/readme.txt -text
 demos/various/RT-ARMCM4-USELIB/rt/ch.h -text
@@ -1018,9 +1013,6 @@ demos/various/RT-TEST-Latency/cfg/stm32l552ze_nucleo144_alt/halconf.h -text
 demos/various/RT-TEST-Latency/cfg/stm32l552ze_nucleo144_alt/mcuconf.h -text
 demos/various/RT-TEST-Latency/cfg/stm32l552ze_nucleo144_alt/portab.c -text
 demos/various/RT-TEST-Latency/cfg/stm32l552ze_nucleo144_alt/portab.h -text
-demos/various/RT-TEST-Latency/debug/RT-TEST-Latency[!!-~](ST-Link[!!-~]GDB[!!-~]Server,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/various/RT-TEST-Latency/debug/RT-TEST-Latency[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/various/RT-TEST-Latency/debug/RT-TEST-Latency[!!-~](Select[!!-~]ELF[!!-~]file)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/various/RT-TEST-Latency/main.c -text
 demos/various/RT-TEST-Latency/make/stm32g474re_nucleo64.make -text
 demos/various/RT-TEST-Latency/make/stm32l552ze_nucleo144.make -text
