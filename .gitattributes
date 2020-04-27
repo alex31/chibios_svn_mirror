@@ -3346,7 +3346,6 @@ testex/STM32/STM32F3xx/I2C-LSM303DLHC/Makefile -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/cfg/chconf.h -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/cfg/halconf.h -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/cfg/mcuconf.h -text
-testex/STM32/STM32F3xx/I2C-LSM303DLHC/debug/STM32F3xx-I2C-LSM303DLHC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/main.c -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/readme.txt -text
 testex/STM32/STM32F3xx/SPI-L3GD20/.cproject -text
@@ -3355,7 +3354,6 @@ testex/STM32/STM32F3xx/SPI-L3GD20/Makefile -text
 testex/STM32/STM32F3xx/SPI-L3GD20/cfg/chconf.h -text
 testex/STM32/STM32F3xx/SPI-L3GD20/cfg/halconf.h -text
 testex/STM32/STM32F3xx/SPI-L3GD20/cfg/mcuconf.h -text
-testex/STM32/STM32F3xx/SPI-L3GD20/debug/STM32F3xx-SPI-L3GD20[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F3xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32F3xx/SPI-L3GD20/readme.txt -text
 testex/STM32/STM32F4xx/I2C-HTS221/.cproject -text
@@ -3364,7 +3362,6 @@ testex/STM32/STM32F4xx/I2C-HTS221/Makefile -text
 testex/STM32/STM32F4xx/I2C-HTS221/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-HTS221/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-HTS221/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-HTS221/debug/STM32F4xx-I2C-HTS221[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-HTS221/main.c -text
 testex/STM32/STM32F4xx/I2C-HTS221/readme.txt -text
 testex/STM32/STM32F4xx/I2C-IKS01A2/.cproject -text
@@ -3373,7 +3370,6 @@ testex/STM32/STM32F4xx/I2C-IKS01A2/Makefile -text
 testex/STM32/STM32F4xx/I2C-IKS01A2/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-IKS01A2/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-IKS01A2/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-IKS01A2/debug/STM32F4xx-I2C-IKS01A2[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-IKS01A2/main.c -text
 testex/STM32/STM32F4xx/I2C-IKS01A2/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LIS3MDL/.cproject -text
@@ -3382,7 +3378,6 @@ testex/STM32/STM32F4xx/I2C-LIS3MDL/Makefile -text
 testex/STM32/STM32F4xx/I2C-LIS3MDL/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-LIS3MDL/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LIS3MDL/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-LIS3MDL/debug/STM32F4xx-I2C-LIS3MDL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-LIS3MDL/main.c -text
 testex/STM32/STM32F4xx/I2C-LIS3MDL/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LPS22HB/.cproject -text
@@ -3391,7 +3386,6 @@ testex/STM32/STM32F4xx/I2C-LPS22HB/Makefile -text
 testex/STM32/STM32F4xx/I2C-LPS22HB/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-LPS22HB/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LPS22HB/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-LPS22HB/debug/STM32F4xx-I2C-LPS22HB[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-LPS22HB/main.c -text
 testex/STM32/STM32F4xx/I2C-LPS22HB/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LPS25H/.cproject -text
@@ -3400,7 +3394,6 @@ testex/STM32/STM32F4xx/I2C-LPS25H/Makefile -text
 testex/STM32/STM32F4xx/I2C-LPS25H/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-LPS25H/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LPS25H/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-LPS25H/debug/STM32F4xx-I2C-LPS25H[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-LPS25H/main.c -text
 testex/STM32/STM32F4xx/I2C-LPS25H/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LSM303AGR/.cproject -text
@@ -3409,7 +3402,6 @@ testex/STM32/STM32F4xx/I2C-LSM303AGR/Makefile -text
 testex/STM32/STM32F4xx/I2C-LSM303AGR/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM303AGR/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM303AGR/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-LSM303AGR/debug/STM32F4xx-I2C-LSM303AGR[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-LSM303AGR/main.c -text
 testex/STM32/STM32F4xx/I2C-LSM303AGR/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LSM303DLHC/.cproject -text
@@ -3418,7 +3410,6 @@ testex/STM32/STM32F4xx/I2C-LSM303DLHC/Makefile -text
 testex/STM32/STM32F4xx/I2C-LSM303DLHC/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM303DLHC/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM303DLHC/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-LSM303DLHC/debug/STM32F4xx-I2C-LSM303DLHC[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-LSM303DLHC/main.c -text
 testex/STM32/STM32F4xx/I2C-LSM303DLHC/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LSM303DLHC/source/usbcfg.c -text
@@ -3429,7 +3420,6 @@ testex/STM32/STM32F4xx/I2C-LSM6DS0/Makefile -text
 testex/STM32/STM32F4xx/I2C-LSM6DS0/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM6DS0/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM6DS0/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-LSM6DS0/debug/STM32F4xx-I2C-LSM6DS0[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-LSM6DS0/main.c -text
 testex/STM32/STM32F4xx/I2C-LSM6DS0/readme.txt -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/.cproject -text
@@ -3438,7 +3428,6 @@ testex/STM32/STM32F4xx/I2C-LSM6DSL/Makefile -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/cfg/chconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/I2C-LSM6DSL/debug/STM32F4xx-I2C-LSM6DSL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/main.c -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/readme.txt -text
 testex/STM32/STM32F4xx/SPI-ADXL355/.cproject -text
@@ -3447,7 +3436,6 @@ testex/STM32/STM32F4xx/SPI-ADXL355/Makefile -text
 testex/STM32/STM32F4xx/SPI-ADXL355/cfg/chconf.h -text
 testex/STM32/STM32F4xx/SPI-ADXL355/cfg/halconf.h -text
 testex/STM32/STM32F4xx/SPI-ADXL355/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/SPI-ADXL355/debug/STM32F4xx-SPI-ADXL355[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/SPI-ADXL355/main.c -text
 testex/STM32/STM32F4xx/SPI-ADXL355/readme.txt -text
 testex/STM32/STM32F4xx/SPI-L3GD20/.cproject -text
@@ -3456,7 +3444,6 @@ testex/STM32/STM32F4xx/SPI-L3GD20/Makefile -text
 testex/STM32/STM32F4xx/SPI-L3GD20/cfg/chconf.h -text
 testex/STM32/STM32F4xx/SPI-L3GD20/cfg/halconf.h -text
 testex/STM32/STM32F4xx/SPI-L3GD20/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/SPI-L3GD20/debug/STM32F4xx-SPI-L3GD20[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32F4xx/SPI-L3GD20/readme.txt -text
 testex/STM32/STM32F4xx/SPI-L3GD20/source/usbcfg.c -text
@@ -3467,7 +3454,6 @@ testex/STM32/STM32F4xx/SPI-LIS302DL/Makefile -text
 testex/STM32/STM32F4xx/SPI-LIS302DL/cfg/chconf.h -text
 testex/STM32/STM32F4xx/SPI-LIS302DL/cfg/halconf.h -text
 testex/STM32/STM32F4xx/SPI-LIS302DL/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/SPI-LIS302DL/debug/STM32F4xx-SPI-LIS302DL[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/SPI-LIS302DL/main.c -text
 testex/STM32/STM32F4xx/SPI-LIS302DL/readme.txt -text
 testex/STM32/STM32F4xx/SPI-LIS302DL/source/usbcfg.c -text
@@ -3478,7 +3464,6 @@ testex/STM32/STM32F4xx/SPI-LIS3DSH/Makefile -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/cfg/chconf.h -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/cfg/halconf.h -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/cfg/mcuconf.h -text
-testex/STM32/STM32F4xx/SPI-LIS3DSH/debug/STM32F4xx-SPI-LIS3DSH[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/main.c -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/readme.txt -text
 testex/STM32/STM32F4xx/SPI-LIS3DSH/source/usbcfg.c -text
@@ -3489,7 +3474,6 @@ testex/STM32/STM32F7xx/SPI-ADXL355/Makefile -text
 testex/STM32/STM32F7xx/SPI-ADXL355/cfg/chconf.h -text
 testex/STM32/STM32F7xx/SPI-ADXL355/cfg/halconf.h -text
 testex/STM32/STM32F7xx/SPI-ADXL355/cfg/mcuconf.h -text
-testex/STM32/STM32F7xx/SPI-ADXL355/debug/STM32F7xx-SPI-ADXL355[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32F7xx/SPI-ADXL355/main.c -text
 testex/STM32/STM32F7xx/SPI-ADXL355/readme.txt -text
 testex/STM32/STM32L4xx/SPI-L3GD20/.cproject -text
@@ -3498,7 +3482,6 @@ testex/STM32/STM32L4xx/SPI-L3GD20/Makefile -text
 testex/STM32/STM32L4xx/SPI-L3GD20/cfg/chconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/cfg/halconf.h -text
 testex/STM32/STM32L4xx/SPI-L3GD20/cfg/mcuconf.h -text
-testex/STM32/STM32L4xx/SPI-L3GD20/debug/STM32L4xx_SPI-L3GD20[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testex/STM32/STM32L4xx/SPI-L3GD20/main.c -text
 testex/STM32/STM32L4xx/SPI-L3GD20/readme.txt -text
 testhal/ADUCM/SPI/.cproject -text
