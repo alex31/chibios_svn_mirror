@@ -4489,6 +4489,7 @@ tools/.project -text
 tools/calc/STM32L4+.ods -text
 tools/eclipse/debug/Create[!!-~]OpenOCD[!!-~]Debug[!!-~]Configuration[!!-~](pre-select[!!-~]elf[!!-~]file[!!-~]into[!!-~]a[!!-~]project).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]no[!!-~]interface[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]board[!!-~]configuration).launch -text
+tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]CMSIS-DAP[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]ICDI[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/debug/OpenOCD[!!-~]on[!!-~]STLink[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/fmpp/Run[!!-~]FMPP[!!-~](pre-select[!!-~]folder[!!-~]containing[!!-~]config.fmpp).launch -text
