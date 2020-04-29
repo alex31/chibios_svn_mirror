@@ -1032,6 +1032,7 @@ doc/common/rsc/header_chm.html -text
 doc/common/rsc/header_html.html -text
 doc/common/rsc/layout.xml -text
 doc/common/rsc/logo.png -text
+doc/common/src/concepts.dox -text
 doc/ex/Doxyfile_chm -text
 doc/ex/Doxyfile_html -text
 doc/ex/index.html -text
@@ -1047,7 +1048,6 @@ doc/full_rm/makehtml.sh -text
 doc/full_rm/rsc/workspace.eps -text
 doc/full_rm/rsc/workspace.png -text
 doc/full_rm/rsc/workspace.svg -text
-doc/full_rm/src/concepts.dox -text
 doc/full_rm/src/main.dox -text
 doc/hal-stm32f3/Doxyfile_html -text
 doc/hal-stm32f3/index.html -text
@@ -1102,7 +1102,6 @@ doc/rt/reports/testbuild.7z -text
 doc/rt/rsc/workspace.eps -text
 doc/rt/rsc/workspace.png -text
 doc/rt/rsc/workspace.svg -text
-doc/rt/src/concepts.dox -text
 doc/rt/src/main.dox -text
 doc/various/chibios_c.xml -text
 doc/various/chibios_java.xml -text
