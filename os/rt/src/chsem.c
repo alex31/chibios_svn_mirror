@@ -145,7 +145,6 @@ void chSemReset(semaphore_t *sp, cnt_t n) {
  * @iclass
  */
 void chSemResetI(semaphore_t *sp, cnt_t n) {
-  cnt_t cnt;
 
   chDbgCheckClassI();
   chDbgCheck((sp != NULL) && (n >= (cnt_t)0));
@@ -153,9 +152,8 @@ void chSemResetI(semaphore_t *sp, cnt_t n) {
               ((sp->cnt < (cnt_t)0) && queue_notempty(&sp->queue)),
               "inconsistent semaphore");
 
-  cnt = sp->cnt;
   sp->cnt = n;
-  while (++cnt <= (cnt_t)0) {
+  while (queue_notempty(&sp->queue)) {
     chSchReadyI(queue_lifo_remove(&sp->queue))->u.rdymsg = MSG_RESET;
   }
 }
