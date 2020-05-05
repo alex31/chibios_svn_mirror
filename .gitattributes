@@ -3481,7 +3481,6 @@ testhal/ADUCM/ADUCM36x/SPI/Makefile -text
 testhal/ADUCM/ADUCM36x/SPI/cfg/chconf.h -text
 testhal/ADUCM/ADUCM36x/SPI/cfg/halconf.h -text
 testhal/ADUCM/ADUCM36x/SPI/cfg/mcuconf.h -text
-testhal/ADUCM/ADUCM36x/SPI/debug/ADUCM36x-SPI[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 testhal/ADUCM/ADUCM36x/SPI/main.c -text
 testhal/ADUCM/ADUCM36x/SPI/readme.txt -text
 testhal/AVR/MEGA/ADC/Makefile -text
