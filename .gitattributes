@@ -2324,6 +2324,10 @@ os/hal/ports/ADUCM/LLD/UARTv1/aducm_uart.h -text
 os/hal/ports/ADUCM/LLD/UARTv1/driver.mk -text
 os/hal/ports/ADUCM/LLD/UARTv1/hal_serial_lld.c -text
 os/hal/ports/ADUCM/LLD/UARTv1/hal_serial_lld.h -text
+os/hal/ports/ADUCM/LLD/WUTv1/aducm_wut.h -text
+os/hal/ports/ADUCM/LLD/WUTv1/driver.mk -text
+os/hal/ports/ADUCM/LLD/WUTv1/hal_st_lld.c -text
+os/hal/ports/ADUCM/LLD/WUTv1/hal_st_lld.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/avr_pins.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/avr_timers.h -text
 os/hal/ports/AVR/MEGA/ATMEGAxx/hal_lld.c -text
