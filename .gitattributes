@@ -6,7 +6,6 @@ demos/ADUCM/RT-ADUCM360-ADICUP360/Makefile -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/cfg/chconf.h -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/cfg/halconf.h -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/cfg/mcuconf.h -text
-demos/ADUCM/RT-ADUCM360-ADICUP360/debug/RT-ADUCM360-ADICUP360[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/main.c -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/readme.txt -text
 demos/AVR/NIL-ARDUINO-MEGA/Makefile -text
