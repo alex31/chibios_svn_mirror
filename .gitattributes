@@ -1264,6 +1264,7 @@ os/common/ext/ST/STM32F7xx/stm32f732xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f733xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f745xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f746xx.h -text
+os/common/ext/ST/STM32F7xx/stm32f750xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f756xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f765xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f767xx.h -text
@@ -1272,6 +1273,9 @@ os/common/ext/ST/STM32F7xx/stm32f777xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f779xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f7xx.h -text
 os/common/ext/ST/STM32F7xx/system_stm32f7xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g030xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g031xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g041xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g070xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g071xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g081xx.h -text
@@ -1303,6 +1307,10 @@ os/common/ext/ST/STM32H7xx/stm32h7b3xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h7b3xxq.h -text
 os/common/ext/ST/STM32H7xx/stm32h7xx.h -text
 os/common/ext/ST/STM32H7xx/system_stm32h7xx.h -text
+os/common/ext/ST/STM32L0xx/stm32l010x4.h -text
+os/common/ext/ST/STM32L0xx/stm32l010x6.h -text
+os/common/ext/ST/STM32L0xx/stm32l010x8.h -text
+os/common/ext/ST/STM32L0xx/stm32l010xb.h -text
 os/common/ext/ST/STM32L0xx/stm32l011xx.h -text
 os/common/ext/ST/STM32L0xx/stm32l021xx.h -text
 os/common/ext/ST/STM32L0xx/stm32l031xx.h -text
@@ -1345,6 +1353,8 @@ os/common/ext/ST/STM32L1xx/stm32l162xdx.h -text
 os/common/ext/ST/STM32L1xx/stm32l162xe.h -text
 os/common/ext/ST/STM32L1xx/stm32l1xx.h -text
 os/common/ext/ST/STM32L1xx/system_stm32l1xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l412xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l422xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l431xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l432xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l433xx.h -text
@@ -1360,6 +1370,8 @@ os/common/ext/ST/STM32L4xx/stm32l485xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l486xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l496xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l4a6xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l4p5xx.h -text
+os/common/ext/ST/STM32L4xx/stm32l4q5xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l4r5xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l4r7xx.h -text
 os/common/ext/ST/STM32L4xx/stm32l4r9xx.h -text
