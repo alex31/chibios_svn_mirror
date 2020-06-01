@@ -4338,6 +4338,17 @@ testhal/STM32/multi/SDMMC-FATFS/cfg/stm32l4r9ai_discovery/portab.c -text
 testhal/STM32/multi/SDMMC-FATFS/cfg/stm32l4r9ai_discovery/portab.h -text
 testhal/STM32/multi/SDMMC-FATFS/main.c -text
 testhal/STM32/multi/SDMMC-FATFS/make/stm32l4r9ai_discovery.make -text
+testhal/STM32/multi/SDMMC/.cproject -text
+testhal/STM32/multi/SDMMC/.project -text
+testhal/STM32/multi/SDMMC/Makefile -text
+testhal/STM32/multi/SDMMC/cfg/stm32l4r9ai_discovery/chconf.h -text
+testhal/STM32/multi/SDMMC/cfg/stm32l4r9ai_discovery/ffconf.h -text
+testhal/STM32/multi/SDMMC/cfg/stm32l4r9ai_discovery/halconf.h -text
+testhal/STM32/multi/SDMMC/cfg/stm32l4r9ai_discovery/mcuconf.h -text
+testhal/STM32/multi/SDMMC/cfg/stm32l4r9ai_discovery/portab.c -text
+testhal/STM32/multi/SDMMC/cfg/stm32l4r9ai_discovery/portab.h -text
+testhal/STM32/multi/SDMMC/main.c -text
+testhal/STM32/multi/SDMMC/make/stm32l4r9ai_discovery.make -text
 testhal/STM32/multi/SPI/.cproject -text
 testhal/STM32/multi/SPI/.project -text
 testhal/STM32/multi/SPI/Makefile -text
