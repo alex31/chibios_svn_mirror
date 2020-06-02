@@ -3346,6 +3346,14 @@ test/rt/testbuild/pclint/lint_cppmac.h -text
 test/rt/testbuild/pclint/size-options.lnt -text
 test/rt/testbuild/pclint/waivers.lnt -text
 test/rt/testbuild/readme.txt -text
+testex/ADUCM/SPI-ADXL355/.cproject -text
+testex/ADUCM/SPI-ADXL355/.project -text
+testex/ADUCM/SPI-ADXL355/Makefile -text
+testex/ADUCM/SPI-ADXL355/cfg/chconf.h -text
+testex/ADUCM/SPI-ADXL355/cfg/halconf.h -text
+testex/ADUCM/SPI-ADXL355/cfg/mcuconf.h -text
+testex/ADUCM/SPI-ADXL355/main.c -text
+testex/ADUCM/SPI-ADXL355/readme.txt -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/.cproject -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/.project -text
 testex/STM32/STM32F3xx/I2C-LSM303DLHC/Makefile -text
