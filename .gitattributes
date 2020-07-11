@@ -3325,6 +3325,8 @@ test/rt/source/test/rt_test_sequence_010.c -text
 test/rt/source/test/rt_test_sequence_010.h -text
 test/rt/source/test/rt_test_sequence_011.c -text
 test/rt/source/test/rt_test_sequence_011.h -text
+test/rt/source/test/rt_test_sequence_012.c -text
+test/rt/source/test/rt_test_sequence_012.h -text
 test/rt/specgen/Doxyfile -text
 test/rt/specgen/makedoc.bat -text
 test/rt/specgen/rsc/custom.css -text
