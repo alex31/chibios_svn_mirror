@@ -3033,9 +3033,12 @@ os/rt/include/chchecks.h -text
 os/rt/include/chcond.h -text
 os/rt/include/chdebug.h -text
 os/rt/include/chdynamic.h -text
+os/rt/include/chearly.h -text
 os/rt/include/chevents.h -text
 os/rt/include/chmsg.h -text
 os/rt/include/chmtx.h -text
+os/rt/include/chobjects.h -text
+os/rt/include/chport.h -text
 os/rt/include/chregistry.h -text
 os/rt/include/chrestrictions.h -text
 os/rt/include/chschd.h -text
