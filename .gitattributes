@@ -1446,6 +1446,12 @@ os/common/ports/ARMv8-M-ML-TZ/chtypes.h -text
 os/common/ports/ARMv8-M-ML-TZ/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv8-M-ML-TZ/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv8-M-ML-TZ/mpu_v8m.h -text
+os/common/ports/ARMv8-M-ML/chcore.c -text
+os/common/ports/ARMv8-M-ML/chcore.h -text
+os/common/ports/ARMv8-M-ML/chcore_timer.h -text
+os/common/ports/ARMv8-M-ML/compilers/GCC/chcoreasm.S -text
+os/common/ports/ARMv8-M-ML/compilers/GCC/chtypes.h -text
+os/common/ports/ARMv8-M-ML/compilers/GCC/mk/port.mk -text
 os/common/ports/AVR/chcore.c -text
 os/common/ports/AVR/chcore.h -text
 os/common/ports/AVR/chcore_timer.h -text
