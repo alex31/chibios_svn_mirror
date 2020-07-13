@@ -1428,6 +1428,17 @@ os/common/ports/ARMv6-M/compilers/IAR/chcoreasm.s -text
 os/common/ports/ARMv6-M/compilers/IAR/chtypes.h -text
 os/common/ports/ARMv6-M/compilers/RVCT/chcoreasm.s -text
 os/common/ports/ARMv6-M/compilers/RVCT/chtypes.h -text
+os/common/ports/ARMv7-M/chcore.c -text
+os/common/ports/ARMv7-M/chcore.h -text
+os/common/ports/ARMv7-M/chcore_timer.h -text
+os/common/ports/ARMv7-M/compilers/GCC/chcoreasm.S -text
+os/common/ports/ARMv7-M/compilers/GCC/chtypes.h -text
+os/common/ports/ARMv7-M/compilers/GCC/mk/port.mk -text
+os/common/ports/ARMv7-M/compilers/IAR/chcoreasm.s -text
+os/common/ports/ARMv7-M/compilers/IAR/chtypes.h -text
+os/common/ports/ARMv7-M/compilers/RVCT/chcoreasm.s -text
+os/common/ports/ARMv7-M/compilers/RVCT/chtypes.h -text
+os/common/ports/ARMv7-M/mpu.h -text
 os/common/ports/ARMv8-M-ML/chcore.c -text
 os/common/ports/ARMv8-M-ML/chcore.h -text
 os/common/ports/ARMv8-M-ML/chcore_timer.h -text
