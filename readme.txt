@@ -74,6 +74,11 @@
 *****************************************************************************
 
 *** 19.1.5 ***
+- FIX: Fixed ADCv1 compile problem (bug #1118).
+- FIX: Fixed missing STM32_I2C_BDMA_REQUIRED definition in I2Cv3 driver
+       (bug #1109).
+- FIX: Fixed wrong definitions in SPC563M board files (bug #1108).
+- FIX: Fixed cortex-M vectors table alignment problem (bug #1107).
 - FIX: Fixed extra condition in MAC driver macWaitTransmitDescriptor() function
        (bug #1106).
 - FIX: Fixed schedule anomaly when CH_CFG_TIME_QUANTUM is greater than zero
@@ -84,7 +89,7 @@
        (bug #1093).
 - FIX: Fixed swapped definition in ST_STM32F746G_DISCOVERY board files
        (bug #1092).
-       
+
 *** 19.1.4 ***
 - NEW: Updated debug tools to be independent from the toolchain position:
        they now rely on the environment variable CHIBISTUDIO.
