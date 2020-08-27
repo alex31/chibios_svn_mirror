@@ -2760,6 +2760,8 @@ os/hal/ports/STM32/LLD/USARTv1/hal_uart_lld.h -text
 os/hal/ports/STM32/LLD/USARTv2/driver.mk -text
 os/hal/ports/STM32/LLD/USARTv2/hal_serial_lld.c -text
 os/hal/ports/STM32/LLD/USARTv2/hal_serial_lld.h -text
+os/hal/ports/STM32/LLD/USARTv2/hal_sio_lld.c -text
+os/hal/ports/STM32/LLD/USARTv2/hal_sio_lld.h -text
 os/hal/ports/STM32/LLD/USARTv2/hal_uart_lld.c -text
 os/hal/ports/STM32/LLD/USARTv2/hal_uart_lld.h -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_lpuart1.inc -text
