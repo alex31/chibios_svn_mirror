@@ -2769,6 +2769,7 @@ os/hal/ports/STM32/LLD/USARTv2/stm32_uart4.inc -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_uart5.inc -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_uart7.inc -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_uart8.inc -text
+os/hal/ports/STM32/LLD/USARTv2/stm32_usart.h -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_usart1.inc -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_usart2.inc -text
 os/hal/ports/STM32/LLD/USARTv2/stm32_usart3.inc -text
