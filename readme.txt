@@ -73,6 +73,10 @@
 *** Releases and Change Log                                               ***
 *****************************************************************************
 
+*** 20.3.3 ***
+- FIX: Fixed incorrect STM32 iWDG initialization in windowed mode (bug #1122).
+- FIX: Fixed ignored HSIDIV setting on STM32G0xx (bug #1121)
+
 *** 20.3.2 ***
 - NEW: Support for 3 analog watchdogs in ADCv3 (STM32F3, L4, L4+, G4).
 - NEW: Support for 3 analog watchdogs in ADCv5 (STM32G0).
