@@ -672,7 +672,9 @@ void dac_lld_start_conversion(DACDriver *dacp) {
 
     /* In this mode the size of the buffer is halved because two samples
        packed in a single dacsample_t element.*/
-    n = (n + 1) / 2;
+    /* following line commented out to avoid callback called after 
+       quart buffer instead half buffer */
+    /* n = (n + 1) / 2;*/
     break;
 #if STM32_DAC_DUAL_MODE == TRUE
   case DAC_DHRM_12BIT_RIGHT_DUAL:
