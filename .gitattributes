@@ -777,6 +777,13 @@ demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/cfg/chconf.h -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/cfg/halconf.h -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/cfg/mcuconf.h -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/main.c -text
+demos/STM32/RT-STM32H750XB-DISCOVERY/.cproject -text
+demos/STM32/RT-STM32H750XB-DISCOVERY/.project -text
+demos/STM32/RT-STM32H750XB-DISCOVERY/Makefile -text
+demos/STM32/RT-STM32H750XB-DISCOVERY/cfg/chconf.h -text
+demos/STM32/RT-STM32H750XB-DISCOVERY/cfg/halconf.h -text
+demos/STM32/RT-STM32H750XB-DISCOVERY/cfg/mcuconf.h -text
+demos/STM32/RT-STM32H750XB-DISCOVERY/main.c -text
 demos/STM32/RT-STM32H755ZI-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32H755ZI-NUCLEO144/.project -text
 demos/STM32/RT-STM32H755ZI-NUCLEO144/Makefile -text
@@ -2215,6 +2222,11 @@ os/hal/boards/ST_STM32G474RE_DISCOVERY_DPOW1/board.h -text
 os/hal/boards/ST_STM32G474RE_DISCOVERY_DPOW1/board.mk -text
 os/hal/boards/ST_STM32G474RE_DISCOVERY_DPOW1/cfg/board.chcfg -text
 os/hal/boards/ST_STM32G474RE_DISCOVERY_DPOW1/cfg/board.fmpp -text
+os/hal/boards/ST_STM32H750XB_DISCOVERY/board.c -text
+os/hal/boards/ST_STM32H750XB_DISCOVERY/board.h -text
+os/hal/boards/ST_STM32H750XB_DISCOVERY/board.mk -text
+os/hal/boards/ST_STM32H750XB_DISCOVERY/cfg/board.chcfg -text
+os/hal/boards/ST_STM32H750XB_DISCOVERY/cfg/board.fmpp -text
 os/hal/boards/ST_STM32L053_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32L053_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32L053_DISCOVERY/board.mk -text
