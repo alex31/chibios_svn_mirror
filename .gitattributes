@@ -2352,8 +2352,12 @@ os/hal/lib/complex/serial_nor/hal_serial_nor.c -text
 os/hal/lib/complex/serial_nor/hal_serial_nor.h -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.c -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.h -text
+os/hal/lib/streams/bufstreams.c -text
+os/hal/lib/streams/bufstreams.h -text
 os/hal/lib/streams/chprintf.c -text
 os/hal/lib/streams/chprintf.h -text
+os/hal/lib/streams/chscanf.c -text
+os/hal/lib/streams/chscanf.h -text
 os/hal/lib/streams/memstreams.c -text
 os/hal/lib/streams/memstreams.h -text
 os/hal/lib/streams/nullstreams.c -text
