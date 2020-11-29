@@ -2633,6 +2633,7 @@ os/hal/ports/STM32/LLD/EXTIv1/stm32_exti12.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti13.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti14.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti15.inc -text
+os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16-31-33.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16-35_38.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16-40_41.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16.inc -text
