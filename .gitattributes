@@ -1597,6 +1597,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R5xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R9xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE_TZ.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32WB55RG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
@@ -1619,6 +1620,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l5xx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wbxx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/startup_defs.h -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.S -text
 os/common/startup/ARMCMx/compilers/IAR/cstartup.s -text
@@ -1642,6 +1644,7 @@ os/common/startup/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L4xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L5xx/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32WBxx/cmparams.h -text
 os/common/startup/SIMIA32/compilers/GCC/rules.mk -text
 os/common/startup/e200/compilers/CW/crt0.s -text
 os/common/startup/e200/compilers/CW/unhandled.s -text
