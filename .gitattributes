@@ -2155,6 +2155,9 @@ os/hal/boards/ST_NUCLEO64_L476RG/board.h -text
 os/hal/boards/ST_NUCLEO64_L476RG/board.mk -text
 os/hal/boards/ST_NUCLEO64_L476RG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_L476RG/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO_WB55/board.c -text
+os/hal/boards/ST_NUCLEO_WB55/board.h -text
+os/hal/boards/ST_NUCLEO_WB55/board.mk -text
 os/hal/boards/ST_STM3210C_EVAL/board.c -text
 os/hal/boards/ST_STM3210C_EVAL/board.h -text
 os/hal/boards/ST_STM3210C_EVAL/board.mk -text
