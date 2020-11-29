@@ -2163,6 +2163,9 @@ os/hal/boards/ST_NUCLEO64_L476RG/board.h -text
 os/hal/boards/ST_NUCLEO64_L476RG/board.mk -text
 os/hal/boards/ST_NUCLEO64_L476RG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_L476RG/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO_WB55CG_USBDongle/board.c -text
+os/hal/boards/ST_NUCLEO_WB55CG_USBDongle/board.h -text
+os/hal/boards/ST_NUCLEO_WB55CG_USBDongle/board.mk -text
 os/hal/boards/ST_NUCLEO_WB55RG/board.c -text
 os/hal/boards/ST_NUCLEO_WB55RG/board.h -text
 os/hal/boards/ST_NUCLEO_WB55RG/board.mk -text
