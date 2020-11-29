@@ -956,6 +956,13 @@ demos/STM32/RT-STM32L552ZE-NUCLEO144/cfg/mcuconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/debug/RT-STM32L552ZE-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/debug/RT-STM32L552ZE-NUCLEO144[!!-~](ST-Link[!!-~]GDB[!!-~]Server,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/main.c -text
+demos/STM32/RT-STM32WB55RG-NUCLEO/.project -text
+demos/STM32/RT-STM32WB55RG-NUCLEO/Makefile -text
+demos/STM32/RT-STM32WB55RG-NUCLEO/cfg/chconf.h -text
+demos/STM32/RT-STM32WB55RG-NUCLEO/cfg/halconf.h -text
+demos/STM32/RT-STM32WB55RG-NUCLEO/cfg/mcuconf.h -text
+demos/STM32/RT-STM32WB55RG-NUCLEO/debug/RT-STM32WB55RG-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
+demos/STM32/RT-STM32WB55RG-NUCLEO/main.c -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
