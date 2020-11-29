@@ -1282,6 +1282,7 @@ os/common/ext/ST/STM32F4xx/stm32f4xx.h -text
 os/common/ext/ST/STM32F4xx/system_stm32f4xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f722xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f723xx.h -text
+os/common/ext/ST/STM32F7xx/stm32f730xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f732xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f733xx.h -text
 os/common/ext/ST/STM32F7xx/stm32f745xx.h -text
@@ -1604,7 +1605,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R5xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R9xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE_TZ.ld -text
-os/common/startup/ARMCMx/compilers/GCC/ld/STM32WB55RG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32WB55xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
@@ -2162,9 +2163,9 @@ os/hal/boards/ST_NUCLEO64_L476RG/board.h -text
 os/hal/boards/ST_NUCLEO64_L476RG/board.mk -text
 os/hal/boards/ST_NUCLEO64_L476RG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_L476RG/cfg/board.fmpp -text
-os/hal/boards/ST_NUCLEO_WB55/board.c -text
-os/hal/boards/ST_NUCLEO_WB55/board.h -text
-os/hal/boards/ST_NUCLEO_WB55/board.mk -text
+os/hal/boards/ST_NUCLEO_WB55RG/board.c -text
+os/hal/boards/ST_NUCLEO_WB55RG/board.h -text
+os/hal/boards/ST_NUCLEO_WB55RG/board.mk -text
 os/hal/boards/ST_STM3210C_EVAL/board.c -text
 os/hal/boards/ST_STM3210C_EVAL/board.h -text
 os/hal/boards/ST_STM3210C_EVAL/board.mk -text
