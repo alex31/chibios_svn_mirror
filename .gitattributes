@@ -956,12 +956,16 @@ demos/STM32/RT-STM32L552ZE-NUCLEO144/cfg/mcuconf.h -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/debug/RT-STM32L552ZE-NUCLEO144[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/debug/RT-STM32L552ZE-NUCLEO144[!!-~](ST-Link[!!-~]GDB[!!-~]Server,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L552ZE-NUCLEO144/main.c -text
+demos/STM32/RT-STM32WB55CG-NUCLEO-USBDongle/Makefile -text
+demos/STM32/RT-STM32WB55CG-NUCLEO-USBDongle/cfg/chconf.h -text
+demos/STM32/RT-STM32WB55CG-NUCLEO-USBDongle/cfg/halconf.h -text
+demos/STM32/RT-STM32WB55CG-NUCLEO-USBDongle/cfg/mcuconf.h -text
+demos/STM32/RT-STM32WB55CG-NUCLEO-USBDongle/main.c -text
 demos/STM32/RT-STM32WB55RG-NUCLEO/.project -text
 demos/STM32/RT-STM32WB55RG-NUCLEO/Makefile -text
 demos/STM32/RT-STM32WB55RG-NUCLEO/cfg/chconf.h -text
 demos/STM32/RT-STM32WB55RG-NUCLEO/cfg/halconf.h -text
 demos/STM32/RT-STM32WB55RG-NUCLEO/cfg/mcuconf.h -text
-demos/STM32/RT-STM32WB55RG-NUCLEO/debug/RT-STM32WB55RG-NUCLEO[!!-~](OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32WB55RG-NUCLEO/main.c -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
@@ -2793,6 +2797,7 @@ os/hal/ports/STM32/LLD/TIMv1/stm32_tim15.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim16.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim17.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_15_16_17.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_16_17.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_9_10_11.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim2.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim20.inc -text
