@@ -74,6 +74,13 @@
 *****************************************************************************
 
 *** 20.3.3 ***
+- FIX: Fixed STM32H7xx Missing CRC RCC macros (bug #1137).
+- FIX: Fixed STM32L0x wrong ISR names for USART 4 and 5 (bug #1136).
+- FIX: Fixed OTG_FS error on STM32H7 (bug #1135).
+- FIX: Fixed compile error of STM32 CRYPv1 driver when DMAMU is present
+       (bug #1134).
+- FIX: Fixed moved define into hal_wspi_lld.c (bug #1133).
+- FIX: Fixed various bugs in MDMAv1 driver (bug #1132).
 - FIX: Fixed wrong check on LSI on all STM32 platforms (bug #1131).
 - FIX: Fixed missing EFL driver in platform_l432.mk (bug #1130).
 - FIX: Fixed wrong check in STM32 ST driver (bug #1129).
