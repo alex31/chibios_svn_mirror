@@ -4292,7 +4292,7 @@ testhal/STM32/multi/ADC/make/stm32h743zi_nucleo144.make -text
 testhal/STM32/multi/ADC/make/stm32l053r8_nucleo64.make -text
 testhal/STM32/multi/ADC/make/stm32l476_discovery.make -text
 testhal/STM32/multi/ADC/make/stm32l4r5zi_nucleo144.make -text
-testhal/STM32/multi/ADC/make/stm32wb55rg_nucleo64.make -text
+testhal/STM32/multi/ADC/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/CRYPTO/.cproject -text
 testhal/STM32/multi/CRYPTO/.project -text
 testhal/STM32/multi/CRYPTO/Makefile -text
@@ -4464,7 +4464,7 @@ testhal/STM32/multi/RTC/make/stm32g071_nucleo64.make -text
 testhal/STM32/multi/RTC/make/stm32l053_discovery.make -text
 testhal/STM32/multi/RTC/make/stm32l476_discovery.make -text
 testhal/STM32/multi/RTC/make/stm32l4r5_nucleo144.make -text
-testhal/STM32/multi/RTC/make/stm32wb55rg_nucleo64.make -text
+testhal/STM32/multi/RTC/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/SDMMC-FATFS/.cproject -text
 testhal/STM32/multi/SDMMC-FATFS/.project -text
 testhal/STM32/multi/SDMMC-FATFS/Makefile -text
@@ -4561,7 +4561,7 @@ testhal/STM32/multi/TRNG/cfg/stm32wb55rg_nucleo68/portab.h -text
 testhal/STM32/multi/TRNG/main.c -text
 testhal/STM32/multi/TRNG/make/stm32l476_discovery.make -text
 testhal/STM32/multi/TRNG/make/stm32l4r5zi_nucleo144.make -text
-testhal/STM32/multi/TRNG/make/stm32wb55rg_nucleo64.make -text
+testhal/STM32/multi/TRNG/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/UART/.cproject -text
 testhal/STM32/multi/UART/.project -text
 testhal/STM32/multi/UART/Makefile -text
@@ -4642,7 +4642,7 @@ testhal/STM32/multi/USB_CDC/make/stm32f746_discovery.make -text
 testhal/STM32/multi/USB_CDC/make/stm32h743_nucleo144.make -text
 testhal/STM32/multi/USB_CDC/make/stm32l476_discovery.make -text
 testhal/STM32/multi/USB_CDC/make/stm32l4r5_nucleo144.make -text
-testhal/STM32/multi/USB_CDC/make/stm32wb55rg_nucleo64.make -text
+testhal/STM32/multi/USB_CDC/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/USB_CDC/readme.txt -text
 testhal/STM32/multi/USB_CDC/source/usbcfg.c -text
 testhal/STM32/multi/USB_CDC/source/usbcfg.h -text
