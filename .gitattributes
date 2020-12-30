@@ -4595,7 +4595,7 @@ testhal/STM32/multi/UART/make/stm32f091_nucleo64.make -text
 testhal/STM32/multi/UART/make/stm32f303_discovery.make -text
 testhal/STM32/multi/UART/make/stm32f407_discovery.make -text
 testhal/STM32/multi/UART/make/stm32f746_discovery.make -text
-testhal/STM32/multi/UART/make/stm32wb55rg_nucleo64.make -text
+testhal/STM32/multi/UART/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/UART/readme.txt -text
 testhal/STM32/multi/USB_CDC/.cproject -text
 testhal/STM32/multi/USB_CDC/.project -text
