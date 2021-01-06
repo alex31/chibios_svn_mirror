@@ -1411,8 +1411,11 @@ os/common/ext/ST/STM32L5xx/stm32l552xx.h -text
 os/common/ext/ST/STM32L5xx/stm32l562xx.h -text
 os/common/ext/ST/STM32L5xx/stm32l5xx.h -text
 os/common/ext/ST/STM32L5xx/system_stm32l5xx.h -text
+os/common/ext/ST/STM32WBxx/stm32wb30xx.h -text
+os/common/ext/ST/STM32WBxx/stm32wb35xx.h -text
 os/common/ext/ST/STM32WBxx/stm32wb50xx.h -text
 os/common/ext/ST/STM32WBxx/stm32wb55xx.h -text
+os/common/ext/ST/STM32WBxx/stm32wb5mxx.h -text
 os/common/ext/ST/STM32WBxx/stm32wbxx.h -text
 os/common/ext/ST/STM32WBxx/system_stm32wbxx.h -text
 os/common/ext/readme.txt -text
