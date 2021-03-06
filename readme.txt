@@ -73,6 +73,9 @@
 *** Releases and Change Log                                               ***
 *****************************************************************************
 
+*** 20.3.4 ***
+- FIX: Fixed incorrect IRQ vector for PVM (bug #1146)
+
 *** 20.3.3 ***
 - NEW: RT, NIL: Renamed _THREADS_QUEUE_DECL to THREADS_QUEUE_DECL for
        consistency.
