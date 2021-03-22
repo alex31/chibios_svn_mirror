@@ -3220,6 +3220,9 @@ os/various/lwip_bindings/lwipthread.c -text
 os/various/lwip_bindings/lwipthread.h -text
 os/various/lwip_bindings/readme.txt -text
 os/various/lwip_bindings/static_lwipopts.h -text
+os/various/pico_bindings/dumb/include/pico/config_autogen.h -text
+os/various/pico_bindings/dumb/include/pico/version.h -text
+os/various/pico_bindings/pico-sdk.mk -text
 os/various/shell/shell.c -text
 os/various/shell/shell.h -text
 os/various/shell/shell.mk -text
