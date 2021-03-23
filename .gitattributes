@@ -2510,6 +2510,9 @@ os/hal/ports/LPC/LPC214x/vic.h -text
 os/hal/ports/RP/LLD/TIMERv1/driver.mk -text
 os/hal/ports/RP/LLD/TIMERv1/hal_st_lld.c -text
 os/hal/ports/RP/LLD/TIMERv1/hal_st_lld.h -text
+os/hal/ports/RP/LLD/UARTv1/driver.mk -text
+os/hal/ports/RP/LLD/UARTv1/hal_sio_lld.c -text
+os/hal/ports/RP/LLD/UARTv1/hal_sio_lld.h -text
 os/hal/ports/RP/RP2040/hal_lld.c -text
 os/hal/ports/RP/RP2040/hal_lld.h -text
 os/hal/ports/RP/RP2040/platform.mk -text
