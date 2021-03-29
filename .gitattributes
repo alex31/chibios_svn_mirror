@@ -1605,6 +1605,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_memory.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_stacks.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/rules_stacks_c1.ld -text
 os/common/startup/ARMCMx/compilers/GCC/mk/arm-none-eabi.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/rules.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_aducm36x.mk -text
