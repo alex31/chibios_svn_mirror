@@ -1439,6 +1439,10 @@ os/common/ports/ARM/chcore_timer.h -text
 os/common/ports/ARM/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARM/compilers/GCC/chtypes.h -text
 os/common/ports/ARM/compilers/GCC/mk/port_generic.mk -text
+os/common/ports/ARMv6-M-RP2/chcore.c -text
+os/common/ports/ARMv6-M-RP2/chcore.h -text
+os/common/ports/ARMv6-M-RP2/chcore_timer.h -text
+os/common/ports/ARMv6-M-RP2/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv6-M/chcore.c -text
 os/common/ports/ARMv6-M/chcore.h -text
 os/common/ports/ARMv6-M/chcore_timer.h -text
