@@ -2526,6 +2526,7 @@ os/hal/ports/RP/LLD/UARTv1/rp_uart1.inc -text
 os/hal/ports/RP/RP2040/hal_lld.c -text
 os/hal/ports/RP/RP2040/hal_lld.h -text
 os/hal/ports/RP/RP2040/platform.mk -text
+os/hal/ports/RP/RP2040/rp_fifo.h -text
 os/hal/ports/RP/RP2040/rp_isr.c -text
 os/hal/ports/RP/RP2040/rp_isr.h -text
 os/hal/ports/RP/RP2040/rp_registry.h -text
