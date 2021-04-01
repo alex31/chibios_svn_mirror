@@ -1145,6 +1145,7 @@ doc/various/st_usb_cdc_driver.inf -text
 /documentation.html -text
 ext/fatfs-0.14_patched.7z -text
 ext/lwip-2.1.2.7z -text
+ext/pico-sdk[!!-~]1.1.0.7z -text
 ext/readme.txt -text
 ext/wolfssl-4.0.0.7z -text
 /license.txt -text
