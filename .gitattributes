@@ -2538,6 +2538,8 @@ os/hal/ports/RP/LLD/UARTv1/hal_sio_lld.c -text
 os/hal/ports/RP/LLD/UARTv1/hal_sio_lld.h -text
 os/hal/ports/RP/LLD/UARTv1/rp_uart0.inc -text
 os/hal/ports/RP/LLD/UARTv1/rp_uart1.inc -text
+os/hal/ports/RP/LLD/WDGv1/hal_wdg_lld.c -text
+os/hal/ports/RP/LLD/WDGv1/hal_wdg_lld.h -text
 os/hal/ports/RP/RP2040/hal_lld.c -text
 os/hal/ports/RP/RP2040/hal_lld.h -text
 os/hal/ports/RP/RP2040/platform.mk -text
