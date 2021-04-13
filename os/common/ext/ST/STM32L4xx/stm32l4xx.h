@@ -133,7 +133,9 @@
   * @{
   */
 
-#if defined(STM32L431xx)
+#if defined(STM32L422xx)
+  #include "stm32l422xx.h"
+#elif defined(STM32L431xx)
   #include "stm32l431xx.h"
 #elif defined(STM32L432xx)
   #include "stm32l432xx.h"
