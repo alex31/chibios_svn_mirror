@@ -976,6 +976,11 @@ demos/STM32/RT-STM32WB55RG-NUCLEO68/cfg/chconf.h -text
 demos/STM32/RT-STM32WB55RG-NUCLEO68/cfg/halconf.h -text
 demos/STM32/RT-STM32WB55RG-NUCLEO68/cfg/mcuconf.h -text
 demos/STM32/RT-STM32WB55RG-NUCLEO68/main.c -text
+demos/STM32/RT-STM32WL5JC-NUCLEO/Makefile -text
+demos/STM32/RT-STM32WL5JC-NUCLEO/cfg/chconf.h -text
+demos/STM32/RT-STM32WL5JC-NUCLEO/cfg/halconf.h -text
+demos/STM32/RT-STM32WL5JC-NUCLEO/cfg/mcuconf.h -text
+demos/STM32/RT-STM32WL5JC-NUCLEO/main.c -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
@@ -1430,6 +1435,12 @@ os/common/ext/ST/STM32WBxx/stm32wb55xx.h -text
 os/common/ext/ST/STM32WBxx/stm32wb5mxx.h -text
 os/common/ext/ST/STM32WBxx/stm32wbxx.h -text
 os/common/ext/ST/STM32WBxx/system_stm32wbxx.h -text
+os/common/ext/ST/STM32WLxx/stm32wl54xx.h -text
+os/common/ext/ST/STM32WLxx/stm32wl55xx.h -text
+os/common/ext/ST/STM32WLxx/stm32wle4xx.h -text
+os/common/ext/ST/STM32WLxx/stm32wle5xx.h -text
+os/common/ext/ST/STM32WLxx/stm32wlxx.h -text
+os/common/ext/ST/STM32WLxx/system_stm32wlxx.h -text
 os/common/ext/readme.txt -text
 os/common/portability/CW/ccportab.h -text
 os/common/portability/GCC/ccportab.h -text
@@ -1608,6 +1619,10 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R9xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE_TZ.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32WB55xG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32WLExx8.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32WLExxB.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32WLExxC.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32WLxxC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_data.ld -text
@@ -1633,6 +1648,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l5xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wbxx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wlxx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/startup_defs.h -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.S -text
 os/common/startup/ARMCMx/compilers/IAR/cstartup.s -text
@@ -2181,6 +2197,11 @@ os/hal/boards/ST_NUCLEO68_WB55RG/board.h -text
 os/hal/boards/ST_NUCLEO68_WB55RG/board.mk -text
 os/hal/boards/ST_NUCLEO68_WB55RG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO68_WB55RG/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO_WL5JC/board.c -text
+os/hal/boards/ST_NUCLEO_WL5JC/board.h -text
+os/hal/boards/ST_NUCLEO_WL5JC/board.mk -text
+os/hal/boards/ST_NUCLEO_WL5JC/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO_WL5JC/cfg/board.fmpp -text
 os/hal/boards/ST_STM3210C_EVAL/board.c -text
 os/hal/boards/ST_STM3210C_EVAL/board.h -text
 os/hal/boards/ST_STM3210C_EVAL/board.mk -text
@@ -2690,6 +2711,7 @@ os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16-31-33.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16-35_38.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16-40_41.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16.inc -text
+os/hal/ports/STM32/LLD/EXTIv1/stm32_exti16_34.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti17.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti18.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti19-21.inc -text
@@ -2707,6 +2729,7 @@ os/hal/ports/STM32/LLD/EXTIv1/stm32_exti3.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti30_32.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti33.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti4.inc -text
+os/hal/ports/STM32/LLD/EXTIv1/stm32_exti45.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti4_15.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti5.inc -text
 os/hal/ports/STM32/LLD/EXTIv1/stm32_exti5_9.inc -text
@@ -4833,6 +4856,7 @@ tools/ftl/schema/boards/stm32l1xx_board.xsd -text
 tools/ftl/schema/boards/stm32l4xx_board.xsd -text
 tools/ftl/schema/boards/stm32l5xx_board.xsd -text
 tools/ftl/schema/boards/stm32wbxx_board.xsd -text
+tools/ftl/schema/boards/stm32wlxx_board.xsd -text
 tools/ftl/schema/common/code_snippets.xsd -text
 tools/ftl/schema/common/config_settings.xsd -text
 tools/ftl/schema/common/doc.xsd -text
