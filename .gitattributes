@@ -3041,6 +3041,16 @@ os/hal/ports/STM32/STM32WBxx/stm32_isr.c -text
 os/hal/ports/STM32/STM32WBxx/stm32_isr.h -text
 os/hal/ports/STM32/STM32WBxx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32WBxx/stm32_registry.h -text
+os/hal/ports/STM32/STM32WLxx/hal_efl_lld.c -text
+os/hal/ports/STM32/STM32WLxx/hal_efl_lld.h -text
+os/hal/ports/STM32/STM32WLxx/hal_lld.c -text
+os/hal/ports/STM32/STM32WLxx/hal_lld.h -text
+os/hal/ports/STM32/STM32WLxx/platform.mk -text
+os/hal/ports/STM32/STM32WLxx/stm32_dmamux.h -text
+os/hal/ports/STM32/STM32WLxx/stm32_isr.c -text
+os/hal/ports/STM32/STM32WLxx/stm32_isr.h -text
+os/hal/ports/STM32/STM32WLxx/stm32_rcc.h -text
+os/hal/ports/STM32/STM32WLxx/stm32_registry.h -text
 os/hal/ports/STM32/todo.txt -text
 os/hal/ports/common/ARMCMx/cache.h -text
 os/hal/ports/common/ARMCMx/mpu_v7m.h -text
