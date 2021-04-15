@@ -1674,6 +1674,7 @@ os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L4xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L5xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WBxx/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32WLxx/cmparams.h -text
 os/common/startup/SIMIA32/compilers/GCC/rules.mk -text
 os/common/startup/e200/compilers/CW/crt0.s -text
 os/common/startup/e200/compilers/CW/unhandled.s -text
