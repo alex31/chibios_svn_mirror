@@ -2203,11 +2203,6 @@ os/hal/boards/ST_NUCLEO_WL55JC/board.h -text
 os/hal/boards/ST_NUCLEO_WL55JC/board.mk -text
 os/hal/boards/ST_NUCLEO_WL55JC/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO_WL55JC/cfg/board.fmpp -text
-os/hal/boards/ST_NUCLEO_WL5JC/board.c -text
-os/hal/boards/ST_NUCLEO_WL5JC/board.h -text
-os/hal/boards/ST_NUCLEO_WL5JC/board.mk -text
-os/hal/boards/ST_NUCLEO_WL5JC/cfg/board.chcfg -text
-os/hal/boards/ST_NUCLEO_WL5JC/cfg/board.fmpp -text
 os/hal/boards/ST_STM3210C_EVAL/board.c -text
 os/hal/boards/ST_STM3210C_EVAL/board.h -text
 os/hal/boards/ST_STM3210C_EVAL/board.mk -text
