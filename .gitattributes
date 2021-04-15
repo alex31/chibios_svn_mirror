@@ -2198,6 +2198,11 @@ os/hal/boards/ST_NUCLEO68_WB55RG/board.h -text
 os/hal/boards/ST_NUCLEO68_WB55RG/board.mk -text
 os/hal/boards/ST_NUCLEO68_WB55RG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO68_WB55RG/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO_WL55JC/board.c -text
+os/hal/boards/ST_NUCLEO_WL55JC/board.h -text
+os/hal/boards/ST_NUCLEO_WL55JC/board.mk -text
+os/hal/boards/ST_NUCLEO_WL55JC/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO_WL55JC/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO_WL5JC/board.c -text
 os/hal/boards/ST_NUCLEO_WL5JC/board.h -text
 os/hal/boards/ST_NUCLEO_WL5JC/board.mk -text
