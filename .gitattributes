@@ -2542,6 +2542,9 @@ os/hal/ports/LPC/LPC214x/hal_st_lld.h -text
 os/hal/ports/LPC/LPC214x/platform.mk -text
 os/hal/ports/LPC/LPC214x/vic.c -text
 os/hal/ports/LPC/LPC214x/vic.h -text
+os/hal/ports/RP/LLD/DMAv1/driver.mk -text
+os/hal/ports/RP/LLD/DMAv1/rp_dma.c -text
+os/hal/ports/RP/LLD/DMAv1/rp_dma.h -text
 os/hal/ports/RP/LLD/GPIOv1/driver.mk -text
 os/hal/ports/RP/LLD/GPIOv1/hal_pal_lld.c -text
 os/hal/ports/RP/LLD/GPIOv1/hal_pal_lld.h -text
