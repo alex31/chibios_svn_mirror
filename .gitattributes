@@ -976,11 +976,11 @@ demos/STM32/RT-STM32WB55RG-NUCLEO68/cfg/chconf.h -text
 demos/STM32/RT-STM32WB55RG-NUCLEO68/cfg/halconf.h -text
 demos/STM32/RT-STM32WB55RG-NUCLEO68/cfg/mcuconf.h -text
 demos/STM32/RT-STM32WB55RG-NUCLEO68/main.c -text
-demos/STM32/RT-STM32WL5JC-NUCLEO/Makefile -text
-demos/STM32/RT-STM32WL5JC-NUCLEO/cfg/chconf.h -text
-demos/STM32/RT-STM32WL5JC-NUCLEO/cfg/halconf.h -text
-demos/STM32/RT-STM32WL5JC-NUCLEO/cfg/mcuconf.h -text
-demos/STM32/RT-STM32WL5JC-NUCLEO/main.c -text
+demos/STM32/RT-STM32WL55JC-NUCLEO/Makefile -text
+demos/STM32/RT-STM32WL55JC-NUCLEO/cfg/chconf.h -text
+demos/STM32/RT-STM32WL55JC-NUCLEO/cfg/halconf.h -text
+demos/STM32/RT-STM32WL55JC-NUCLEO/cfg/mcuconf.h -text
+demos/STM32/RT-STM32WL55JC-NUCLEO/main.c -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
