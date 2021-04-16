@@ -2553,6 +2553,7 @@ os/hal/ports/RP/LLD/I2Cv1/hal_i2c_lld.h -text
 os/hal/ports/RP/LLD/RTCv1/driver.mk -text
 os/hal/ports/RP/LLD/RTCv1/hal_rtc_lld.c -text
 os/hal/ports/RP/LLD/RTCv1/hal_rtc_lld.h -text
+os/hal/ports/RP/LLD/SPIv1/driver.mk -text
 os/hal/ports/RP/LLD/SPIv1/hal_spi_lld.c -text
 os/hal/ports/RP/LLD/SPIv1/hal_spi_lld.h -text
 os/hal/ports/RP/LLD/TIMERv1/driver.mk -text
