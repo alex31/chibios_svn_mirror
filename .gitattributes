@@ -3217,6 +3217,7 @@ os/rt/include/chdebug.h -text
 os/rt/include/chdynamic.h -text
 os/rt/include/chearly.h -text
 os/rt/include/chevents.h -text
+os/rt/include/chinstances.h -text
 os/rt/include/chlists.h -text
 os/rt/include/chmsg.h -text
 os/rt/include/chmtx.h -text
@@ -3238,6 +3239,7 @@ os/rt/src/chcond.c -text
 os/rt/src/chdebug.c -text
 os/rt/src/chdynamic.c -text
 os/rt/src/chevents.c -text
+os/rt/src/chinstances.c -text
 os/rt/src/chmsg.c -text
 os/rt/src/chmtx.c -text
 os/rt/src/chregistry.c -text
