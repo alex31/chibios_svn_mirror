@@ -1,6 +1,4 @@
-/*.cproject
-/*.project
-/.metadata
+/*.o
 os/common/ext/fatfs
 os/common/ext/lwip
 os/hal/boards/OLIMEX_STM32_103STK/board.lst
