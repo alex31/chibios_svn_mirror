@@ -4827,6 +4827,9 @@ tools/ftl/processors/boards/stm32l5xx/templates/board.mk.ftl -text
 tools/ftl/processors/boards/stm32wbxx/templates/board.c.ftl -text
 tools/ftl/processors/boards/stm32wbxx/templates/board.h.ftl -text
 tools/ftl/processors/boards/stm32wbxx/templates/board.mk.ftl -text
+tools/ftl/processors/boards/stm32wlxx/templates/board.c.ftl -text
+tools/ftl/processors/boards/stm32wlxx/templates/board.h.ftl -text
+tools/ftl/processors/boards/stm32wlxx/templates/board.mk.ftl -text
 tools/ftl/processors/conf/chconf_nil/chconf.h.ftl -text
 tools/ftl/processors/conf/chconf_rt/chconf.h.ftl -text
 tools/ftl/processors/conf/halconf/halconf.h.ftl -text
