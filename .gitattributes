@@ -2796,6 +2796,7 @@ os/hal/ports/STM32/LLD/QUADSPIv2/hal_wspi_lld.h -text
 os/hal/ports/STM32/LLD/QUADSPIv2/stm32_quadspi1.inc -text
 os/hal/ports/STM32/LLD/RCCv1/driver.mk -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_ahb.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_apb.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_apb1.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_apb2.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hse.inc -text
