@@ -74,6 +74,15 @@
 *****************************************************************************
 
 *** 20.3.4 ***
+- NEW: Files mcuconf.h for STM32F746, F767, L432, L452, L476, L496 received
+       the missing setting STM32_WSPI_QUADSPI1_PRESCALER_VALUE.
+- FIX: Fixed wrong check on HAL_USE_RTC in STM32G4 clock initialization
+       (bug #1157).
+- FIX: Fixed wrong checks related to PLLSAI2 on L4 and L4+ (bug #1156).
+- FIX: Fixed STM32G431 DMA defines error (bug #1155).
+- FIX: Fixed errors in STM32L4xx registry (bug #1154).
+- FIX: Fixed QUADSPI errata fix applied to all platforms (bug #1153).
+- FIX: Fixed (again) LPUART1 support for STM32H7xx (bug #1113).
 - FIX: Fixed wrong behavior in Serial-USB driver (bug #1151).
 - FIX: Fixed L0x2 series DAC not allocated in registry (bug #1150).
 - FIX: Fixed inconsistent naming of SAI DMAMUX defines for STM32H7 (bug #1149).
