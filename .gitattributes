@@ -3228,6 +3228,7 @@ os/rt/include/chlists.h -text
 os/rt/include/chmsg.h -text
 os/rt/include/chmtx.h -text
 os/rt/include/chobjects.h -text
+os/rt/include/chobjects_alt.h -text
 os/rt/include/chport.h -text
 os/rt/include/chregistry.h -text
 os/rt/include/chrestrictions.h -text
