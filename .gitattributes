@@ -3228,7 +3228,6 @@ os/rt/include/chlists.h -text
 os/rt/include/chmsg.h -text
 os/rt/include/chmtx.h -text
 os/rt/include/chobjects.h -text
-os/rt/include/chobjects_alt.h -text
 os/rt/include/chport.h -text
 os/rt/include/chregistry.h -text
 os/rt/include/chrestrictions.h -text
@@ -3241,7 +3240,6 @@ os/rt/include/chtime.h -text
 os/rt/include/chtm.h -text
 os/rt/include/chtrace.h -text
 os/rt/include/chvt.h -text
-os/rt/include/chvt_alt.h -text
 os/rt/rt.mk -text
 os/rt/src/chcond.c -text
 os/rt/src/chdebug.c -text
@@ -3259,7 +3257,6 @@ os/rt/src/chthreads.c -text
 os/rt/src/chtm.c -text
 os/rt/src/chtrace.c -text
 os/rt/src/chvt.c -text
-os/rt/src/chvt_alt.c -text
 os/rt/templates/chconf.h -text
 os/rt/templates/meta/module.c -text
 os/rt/templates/meta/module.h -text
