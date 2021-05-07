@@ -4777,8 +4777,6 @@ testrt/VT_STORM/cfg/stm32g474re_nucleo64/halconf.h -text
 testrt/VT_STORM/cfg/stm32g474re_nucleo64/mcuconf.h -text
 testrt/VT_STORM/cfg/stm32g474re_nucleo64/portab.c -text
 testrt/VT_STORM/cfg/stm32g474re_nucleo64/portab.h -text
-testrt/VT_STORM/debug/TEST-RT-VT_STORM[!!-~](build-stm32g474re_nucleo64-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testrt/VT_STORM/debug/TEST-RT-VT_STORM[!!-~](build-stm32g474re_nucleo64-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testrt/VT_STORM/main.c -text
 testrt/VT_STORM/make/stm32g474re_nucleo64.make -text
 testrt/VT_STORM/source/vt_storm.c -text
