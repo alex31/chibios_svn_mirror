@@ -1320,9 +1320,15 @@ os/common/ext/ST/STM32F7xx/system_stm32f7xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g030xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g031xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g041xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g050xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g051xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g061xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g070xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g071xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g081xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g0b0xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g0b1xx.h -text
+os/common/ext/ST/STM32G0xx/stm32g0c1xx.h -text
 os/common/ext/ST/STM32G0xx/stm32g0xx.h -text
 os/common/ext/ST/STM32G0xx/system_stm32g0xx.h -text
 os/common/ext/ST/STM32G4xx/stm32g431xx.h -text
