@@ -551,6 +551,7 @@ void adc_lld_stop(ADCDriver *adcp) {
  * @notapi
  */
 void adc_lld_start_conversion(ADCDriver *adcp) {
+  uint32_t dmamode, cfgr = 0U;
   const ADCConversionGroup *grpp = adcp->grpp;
   uint32_t cfgr = grpp->cfgr | ADC_CFGR_CONT_ENABLED;
   uint32_t dmamode;
