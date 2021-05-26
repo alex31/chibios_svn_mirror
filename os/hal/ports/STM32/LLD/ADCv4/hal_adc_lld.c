@@ -568,8 +568,6 @@ void adc_lld_stop(ADCDriver *adcp) {
 void adc_lld_start_conversion(ADCDriver *adcp) {
   uint32_t dmamode, cfgr = 0U;
   const ADCConversionGroup *grpp = adcp->grpp;
-  uint32_t cfgr = grpp->cfgr | ADC_CFGR_CONT_ENABLED;
-  uint32_t dmamode;
 
 #if STM32_ADC_USE_ADC12 == TRUE
 #if STM32_ADC_DUAL_MODE
@@ -586,7 +584,7 @@ void adc_lld_start_conversion(ADCDriver *adcp) {
     dmamode = adcp->dmamode;
     if (grpp->circular) {
       dmamode |= STM32_DMA_CR_CIRC;
-      cfgr |= ADC_CFGR_DMNGT_CIRCULAR;
+      cfgr = grpp->cfgr | ADC_CFGR_DMNGT_CIRCULAR;
       if (adcp->depth > 1) {
         /* If circular buffer depth > 1, then the half transfer interrupt
            is enabled in order to allow streaming processing.*/
@@ -594,10 +592,7 @@ void adc_lld_start_conversion(ADCDriver *adcp) {
       }
     }
     else {
-      cfgr |= ADC_CFGR_DMNGT_ONESHOT;
-      if (adcp->depth == 1) {
-	cfgr &= ~ADC_CFGR_CONT_ENABLED;
-      }
+      cfgr = grpp->cfgr | ADC_CFGR_DMNGT_ONESHOT;
     }
 
     /* DMA setup.*/
@@ -620,7 +615,7 @@ void adc_lld_start_conversion(ADCDriver *adcp) {
     dmamode = adcp->dmamode;
     if (grpp->circular) {
       dmamode |= STM32_BDMA_CR_CIRC;
-      cfgr |= ADC_CFGR_DMNGT_CIRCULAR;
+      cfgr = grpp->cfgr | ADC_CFGR_DMNGT_CIRCULAR;
       if (adcp->depth > 1) {
         /* If circular buffer depth > 1, then the half transfer interrupt
            is enabled in order to allow streaming processing.*/
@@ -628,10 +623,7 @@ void adc_lld_start_conversion(ADCDriver *adcp) {
       }
     }
     else {
-      cfgr |= ADC_CFGR_DMNGT_ONESHOT;
-      if (adcp->depth == 1) {
-	cfgr &= ~ADC_CFGR_CONT_ENABLED;
-      }
+      cfgr = grpp->cfgr | ADC_CFGR_DMNGT_ONESHOT;
     }
 
     /* DMA setup.*/
@@ -772,9 +764,10 @@ void adc_lld_stop_conversion(ADCDriver *adcp) {
  * @notapi
  */
 void adcSTM32EnableVREF(ADCDriver *adcp) {
+
 #ifdef STM32H7XX
   chDbgAssert(STM32_PWR_CR2 & PWR_CR2_MONEN,
-	      "adcSTM32EnableVREF need PWR_CR2_MONEN in STM32_PWR_CR2");
+              "adcSTM32EnableVREF need PWR_CR2_MONEN in STM32_PWR_CR2");
 #endif
   adcp->adcc->CCR |= ADC_CCR_VREFEN;
 }
@@ -805,10 +798,6 @@ void adcSTM32DisableVREF(ADCDriver *adcp) {
  * @notapi
  */
 void adcSTM32EnableTS(ADCDriver *adcp) {
-#ifdef STM32H7XX
-  chDbgAssert(STM32_PWR_CR2 & PWR_CR2_MONEN,
-	      "adcSTM32EnableVREF need PWR_CR2_MONEN in STM32_PWR_CR2");
-#endif
 
 #ifdef STM32H7XX
   chDbgAssert(STM32_PWR_CR2 & PWR_CR2_MONEN,
