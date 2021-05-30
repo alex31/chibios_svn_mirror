@@ -3237,6 +3237,7 @@ os/rt/include/chobjects.h -text
 os/rt/include/chport.h -text
 os/rt/include/chregistry.h -text
 os/rt/include/chrestrictions.h -text
+os/rt/include/chrfcu.h -text
 os/rt/include/chschd.h -text
 os/rt/include/chsem.h -text
 os/rt/include/chstats.h -text
@@ -3255,6 +3256,7 @@ os/rt/src/chinstances.c -text
 os/rt/src/chmsg.c -text
 os/rt/src/chmtx.c -text
 os/rt/src/chregistry.c -text
+os/rt/src/chrfcu.c -text
 os/rt/src/chschd.c -text
 os/rt/src/chsem.c -text
 os/rt/src/chstats.c -text
