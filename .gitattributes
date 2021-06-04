@@ -1016,6 +1016,7 @@ demos/various/RT-ARMCM4-MAKELIB/Makefile -text
 demos/various/RT-ARMCM4-MAKELIB/cfg/chconf.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/_delimiter.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/_header.h -text
+demos/various/RT-ARMCM4-MAKELIB/dummy/stdarg.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/stdbool.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/stddef.h -text
 demos/various/RT-ARMCM4-MAKELIB/dummy/stdint.h -text
