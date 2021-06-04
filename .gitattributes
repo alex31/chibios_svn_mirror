@@ -1451,6 +1451,8 @@ os/common/ext/readme.txt -text
 os/common/portability/CW/ccportab.h -text
 os/common/portability/GCC/ccportab.h -text
 os/common/portability/GHS/ccportab.h -text
+os/common/portability/IAR/ccportab.h -text
+os/common/portability/Keil/ccportab.h -text
 os/common/ports/ARM/chcore.c -text
 os/common/ports/ARM/chcore.h -text
 os/common/ports/ARM/chcore_timer.h -text
