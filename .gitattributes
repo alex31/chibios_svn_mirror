@@ -4763,9 +4763,15 @@ testrt/IRQ_STORM/cfg/stm32l476_discovery/halconf.h -text
 testrt/IRQ_STORM/cfg/stm32l476_discovery/mcuconf.h -text
 testrt/IRQ_STORM/cfg/stm32l476_discovery/portab.c -text
 testrt/IRQ_STORM/cfg/stm32l476_discovery/portab.h -text
+testrt/IRQ_STORM/cfg/stm32wl55jc_nucleo64/chconf.h -text
+testrt/IRQ_STORM/cfg/stm32wl55jc_nucleo64/halconf.h -text
+testrt/IRQ_STORM/cfg/stm32wl55jc_nucleo64/mcuconf.h -text
+testrt/IRQ_STORM/cfg/stm32wl55jc_nucleo64/portab.c -text
+testrt/IRQ_STORM/cfg/stm32wl55jc_nucleo64/portab.h -text
 testrt/IRQ_STORM/main.c -text
 testrt/IRQ_STORM/make/stm32g474re_nucleo64.make -text
 testrt/IRQ_STORM/make/stm32l476_discovery.make -text
+testrt/IRQ_STORM/make/stm32wl55jc_nucleo64.make -text
 testrt/IRQ_STORM/source/irq_storm.c -text
 testrt/IRQ_STORM/source/irq_storm.h -text
 testrt/VT_STORM/.cproject -text
