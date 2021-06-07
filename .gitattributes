@@ -1117,6 +1117,7 @@ doc/rt/index.html -text
 doc/rt/makechm.bat -text
 doc/rt/makehtml.bat -text
 doc/rt/makehtml.sh -text
+doc/rt/reports/benchmarks/rt-rp2040-125mhz-gcc.txt -text
 doc/rt/reports/benchmarks/rt-stm32f3-72mhz-gcc-fpu.txt -text
 doc/rt/reports/benchmarks/rt-stm32f3-72mhz-gcc.txt -text
 doc/rt/reports/benchmarks/rt-stm32f3-72mhz-iar-fpu.txt -text
