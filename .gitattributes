@@ -3369,7 +3369,6 @@ test/mfs/.spc5project -text
 test/mfs/config.fmpp -text
 test/mfs/configuration.xml -text
 test/mfs/mfs_test.mk -text
-test/mfs/patch.xml -text
 test/mfs/source/test/mfs_test_root.c -text
 test/mfs/source/test/mfs_test_root.h -text
 test/mfs/source/test/mfs_test_sequence_001.c -text
@@ -3384,7 +3383,6 @@ test/nasa_osal/.spc5project -text
 test/nasa_osal/config.fmpp -text
 test/nasa_osal/configuration.xml -text
 test/nasa_osal/nasa_osal_test.mk -text
-test/nasa_osal/patch.xml -text
 test/nasa_osal/source/test/nasa_osal_test_root.c -text
 test/nasa_osal/source/test/nasa_osal_test_root.h -text
 test/nasa_osal/source/test/nasa_osal_test_sequence_001.c -text
@@ -3410,7 +3408,6 @@ test/nil/.spc5project -text
 test/nil/config.fmpp -text
 test/nil/configuration.xml -text
 test/nil/nil_test.mk -text
-test/nil/patch.xml -text
 test/nil/source/test/nil_test_root.c -text
 test/nil/source/test/nil_test_root.h -text
 test/nil/source/test/nil_test_sequence_001.c -text
@@ -3453,7 +3450,6 @@ test/oslib/.spc5project -text
 test/oslib/config.fmpp -text
 test/oslib/configuration.xml -text
 test/oslib/oslib_test.mk -text
-test/oslib/patch.xml -text
 test/oslib/source/test/oslib_test_root.c -text
 test/oslib/source/test/oslib_test_root.h -text
 test/oslib/source/test/oslib_test_sequence_001.c -text
@@ -3484,7 +3480,6 @@ test/rt/.project -text
 test/rt/.spc5project -text
 test/rt/config.fmpp -text
 test/rt/configuration.xml -text
-test/rt/patch.xml -text
 test/rt/rt_test.mk -text
 test/rt/source/test/rt_test_root.c -text
 test/rt/source/test/rt_test_root.h -text
