@@ -3305,6 +3305,9 @@ os/various/wolfssl_bindings/wolfssl_chibios.c -text
 os/various/wolfssl_bindings/wolfssl_chibios.h -text
 /readme.txt -text
 /release_note_next.txt -text
+test/core_benchmarks/config.fmpp -text
+test/core_benchmarks/configuration.xml -text
+test/core_benchmarks/corebmk_test.mk -text
 test/crypto/config.fmpp -text
 test/crypto/configuration.xml -text
 test/crypto/crypto_test.mk -text
