@@ -3313,6 +3313,7 @@ test/corebmk/source/test/corebmk_test_root.h -text
 test/corebmk/source/test/corebmk_test_sequence_001.c -text
 test/corebmk/source/test/corebmk_test_sequence_001.h -text
 test/corebmk/source/test/ffbench_mod.c -text
+test/corebmk/source/test/ffbench_mod.h -text
 test/crypto/config.fmpp -text
 test/crypto/configuration.xml -text
 test/crypto/crypto_test.mk -text
