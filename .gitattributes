@@ -3304,7 +3304,7 @@ os/various/wolfssl_bindings/wolfssl.mk -text
 os/various/wolfssl_bindings/wolfssl_chibios.c -text
 os/various/wolfssl_bindings/wolfssl_chibios.h -text
 /readme.txt -text
-/release_note_20.6.x.txt -text
+/release_note_21.6.x.txt -text
 test/corebmk/config.fmpp -text
 test/corebmk/configuration.xml -text
 test/corebmk/corebmk_test.mk -text
