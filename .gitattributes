@@ -3270,6 +3270,8 @@ os/se/se.mk -text
 os/se/src/seloops.c -text
 os/test/ch_test.c -text
 os/test/ch_test.h -text
+os/test/include/ch_test.h -text
+os/test/src/ch_test.c -text
 os/test/test.mk -text
 os/various/cpp_wrappers/ch.cpp -text
 os/various/cpp_wrappers/ch.hpp -text
