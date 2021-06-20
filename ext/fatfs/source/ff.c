@@ -1236,7 +1236,6 @@ static DWORD get_fat (		/* 0xFFFFFFFF:Disk error, 1:Internal error, 2..0x7FFFFFF
 				}
 			}
 			/* go to default */
-			__attribute__ ((fallthrough));
 #endif
 		default:
 			val = 1;	/* Internal error */
@@ -2045,7 +2044,7 @@ static void gen_numname (
 		if (c > '9') c += 7;
 		ns[i--] = c;
 		seq /= 16;
-	} while (seq && i);
+	} while (seq);
 	ns[i] = '~';
 
 	/* Append the number to the SFN body */
@@ -5968,7 +5967,7 @@ FRESULT f_mkfs (
 #if FF_FS_EXFAT
 	if (fsty == FS_EXFAT) {	/* Create an exFAT volume */
 		DWORD szb_bit, szb_case, sum, nb, cl, tbl[3];
-		WCHAR lch, si;
+		WCHAR ch, si;
 		UINT j, st;
 		BYTE b;
 
@@ -6001,28 +6000,27 @@ FRESULT f_mkfs (
 		do {
 			switch (st) {
 			case 0:
-				lch = (WCHAR)ff_wtoupper(si);	/* Get an up-case char */
-				if (lch != si) {
+				ch = (WCHAR)ff_wtoupper(si);	/* Get an up-case char */
+				if (ch != si) {
 					si++; break;		/* Store the up-case char if exist */
 				}
 				for (j = 1; (WCHAR)(si + j) && (WCHAR)(si + j) == ff_wtoupper((WCHAR)(si + j)); j++) ;	/* Get run length of no-case block */
 				if (j >= 128) {
-					lch = 0xFFFF; st = 2; break;	/* Compress the no-case block if run is >= 128 */
+					ch = 0xFFFF; st = 2; break;	/* Compress the no-case block if run is >= 128 */
 				}
 				st = 1;			/* Do not compress short run */
 				/* go to next case */
-				__attribute__ ((fallthrough));
 			case 1:
-				lch = si++;		/* Fill the short run */
+				ch = si++;		/* Fill the short run */
 				if (--j == 0) st = 0;
 				break;
 
 			default:
-				lch = (WCHAR)j; si += (WCHAR)j;	/* Number of chars to skip */
+				ch = (WCHAR)j; si += (WCHAR)j;	/* Number of chars to skip */
 				st = 0;
 			}
-			sum = xsum32(buf[i + 0] = (BYTE)lch, sum);		/* Put it into the write buffer */
-			sum = xsum32(buf[i + 1] = (BYTE)(lch >> 8), sum);
+			sum = xsum32(buf[i + 0] = (BYTE)ch, sum);		/* Put it into the write buffer */
+			sum = xsum32(buf[i + 1] = (BYTE)(ch >> 8), sum);
 			i += 2; szb_case += 2;
 			if (si == 0 || i == sz_buf * ss) {		/* Write buffered data when buffer full or end of process */
 				n = (i + ss - 1) / ss;
