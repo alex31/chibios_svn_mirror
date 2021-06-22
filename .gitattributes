@@ -3268,6 +3268,7 @@ os/se/include/seloops.h -text
 os/se/include/seregs.h -text
 os/se/se.mk -text
 os/se/src/seloops.c -text
+os/test/ftl/schema/unittest.xsd -text
 os/test/include/ch_test.h -text
 os/test/src/ch_test.c -text
 os/test/src/ch_test_printf.c -text
