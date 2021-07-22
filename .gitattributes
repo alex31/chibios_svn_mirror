@@ -911,6 +911,14 @@ demos/STM32/RT-STM32L496ZG-NUCLEO144/cfg/halconf.h -text
 demos/STM32/RT-STM32L496ZG-NUCLEO144/cfg/mcuconf.h -text
 demos/STM32/RT-STM32L496ZG-NUCLEO144/main.c -text
 demos/STM32/RT-STM32L496ZG-NUCLEO144/readme.txt -text
+demos/STM32/RT-STM32L4P5ZG-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32L4P5ZG-NUCLEO144/.project -text
+demos/STM32/RT-STM32L4P5ZG-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32L4P5ZG-NUCLEO144/cfg/chconf.h -text
+demos/STM32/RT-STM32L4P5ZG-NUCLEO144/cfg/halconf.h -text
+demos/STM32/RT-STM32L4P5ZG-NUCLEO144/cfg/mcuconf.h -text
+demos/STM32/RT-STM32L4P5ZG-NUCLEO144/main.c -text
+demos/STM32/RT-STM32L4P5ZG-NUCLEO144/readme.txt -text
 demos/STM32/RT-STM32L4R5ZI-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32L4R5ZI-NUCLEO144/.project -text
 demos/STM32/RT-STM32L4R5ZI-NUCLEO144/Makefile -text
@@ -1606,6 +1614,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L432xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L452xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L476xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L496xG.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4P5xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R5xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R9xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE.ld -text
@@ -2046,6 +2055,11 @@ os/hal/boards/ST_NUCLEO144_L496ZG/board.h -text
 os/hal/boards/ST_NUCLEO144_L496ZG/board.mk -text
 os/hal/boards/ST_NUCLEO144_L496ZG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO144_L496ZG/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO144_L4P5ZG/board.c -text
+os/hal/boards/ST_NUCLEO144_L4P5ZG/board.h -text
+os/hal/boards/ST_NUCLEO144_L4P5ZG/board.mk -text
+os/hal/boards/ST_NUCLEO144_L4P5ZG/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO144_L4P5ZG/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO144_L4R5ZI/board.c -text
 os/hal/boards/ST_NUCLEO144_L4R5ZI/board.h -text
 os/hal/boards/ST_NUCLEO144_L4R5ZI/board.mk -text
@@ -3020,6 +3034,7 @@ os/hal/ports/STM32/STM32L4xx+/hal_efl_lld.h -text
 os/hal/ports/STM32/STM32L4xx+/hal_lld.c -text
 os/hal/ports/STM32/STM32L4xx+/hal_lld.h -text
 os/hal/ports/STM32/STM32L4xx+/platform.mk -text
+os/hal/ports/STM32/STM32L4xx+/platform_l4p5_l4q5.mk -text
 os/hal/ports/STM32/STM32L4xx+/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32L4xx+/stm32_isr.c -text
 os/hal/ports/STM32/STM32L4xx+/stm32_isr.h -text
@@ -4866,6 +4881,7 @@ tools/ftl/processors/conf/mcuconf_stm32l432xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l452xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l476xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l496xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32l4pxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l4rxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l5x2xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32wb55xx/mcuconf.h.ftl -text
