@@ -1648,6 +1648,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l5xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wbxx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wlxx-m0plus.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wlxx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/startup_defs.h -text
 os/common/startup/ARMCMx/compilers/GCC/vectors.S -text
@@ -1674,6 +1675,7 @@ os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L4xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L5xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WBxx/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32WLxx-M0PLUS/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WLxx/cmparams.h -text
 os/common/startup/SIMIA32/compilers/GCC/rules.mk -text
 os/common/startup/e200/compilers/CW/crt0.s -text
@@ -2704,8 +2706,10 @@ os/hal/ports/STM32/LLD/DMAv1/driver.mk -text
 os/hal/ports/STM32/LLD/DMAv1/notes.txt -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma.c -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma.h -text
+os/hal/ports/STM32/LLD/DMAv1/stm32_dma1_ch123.inc -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma1_ch23.inc -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma1_ch4567.inc -text
+os/hal/ports/STM32/LLD/DMAv1/stm32_dma2_ch1-7.inc -text
 os/hal/ports/STM32/LLD/DMAv2/driver.mk -text
 os/hal/ports/STM32/LLD/DMAv2/notes.txt -text
 os/hal/ports/STM32/LLD/DMAv2/stm32_dma.c -text
@@ -2813,6 +2817,7 @@ os/hal/ports/STM32/LLD/RCCv1/stm32_apb.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_apb1.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_apb2.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_bd.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_c2ahb.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hse.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hse32.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hsi16.inc -text
@@ -2880,6 +2885,7 @@ os/hal/ports/STM32/LLD/TIMv1/stm32_tim17.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_15_16_17.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_16_17.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_9_10_11.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim1_shared.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim2.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim20.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim21.inc -text
@@ -3076,6 +3082,8 @@ os/hal/ports/STM32/STM32WLxx/platform.mk -text
 os/hal/ports/STM32/STM32WLxx/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32WLxx/stm32_isr.c -text
 os/hal/ports/STM32/STM32WLxx/stm32_isr.h -text
+os/hal/ports/STM32/STM32WLxx/stm32_isr_m0.inc -text
+os/hal/ports/STM32/STM32WLxx/stm32_isr_m4.inc -text
 os/hal/ports/STM32/STM32WLxx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32WLxx/stm32_registry.h -text
 os/hal/ports/STM32/todo.txt -text
