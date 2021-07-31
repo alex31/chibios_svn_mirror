@@ -2869,6 +2869,9 @@ os/hal/ports/STM32/LLD/SPIv3/hal_spi_lld.h -text
 os/hal/ports/STM32/LLD/SYSTICKv1/driver.mk -text
 os/hal/ports/STM32/LLD/SYSTICKv1/hal_st_lld.c -text
 os/hal/ports/STM32/LLD/SYSTICKv1/hal_st_lld.h -text
+os/hal/ports/STM32/LLD/SYSTICKv2/driver.mk -text
+os/hal/ports/STM32/LLD/SYSTICKv2/hal_st_lld.c -text
+os/hal/ports/STM32/LLD/SYSTICKv2/hal_st_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/driver.mk -text
 os/hal/ports/STM32/LLD/TIMv1/hal_gpt_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/hal_gpt_lld.h -text
