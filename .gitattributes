@@ -3427,7 +3427,6 @@ test/lib/ch_test.h -text
 test/lib/test.mk -text
 test/mfs/.cproject -text
 test/mfs/.project -text
-test/mfs/.spc5project -text
 test/mfs/config.fmpp -text
 test/mfs/configuration.xml -text
 test/mfs/mfs_test.mk -text
@@ -3441,7 +3440,6 @@ test/mfs/source/test/mfs_test_sequence_003.c -text
 test/mfs/source/test/mfs_test_sequence_003.h -text
 test/nasa_osal/.cproject -text
 test/nasa_osal/.project -text
-test/nasa_osal/.spc5project -text
 test/nasa_osal/config.fmpp -text
 test/nasa_osal/configuration.xml -text
 test/nasa_osal/nasa_osal_test.mk -text
@@ -3466,7 +3464,6 @@ test/nasa_osal/specgen/rsc/footer_chm.html -text
 test/nasa_osal/specgen/rsc/header_chm.html -text
 test/nil/.cproject -text
 test/nil/.project -text
-test/nil/.spc5project -text
 test/nil/config.fmpp -text
 test/nil/configuration.xml -text
 test/nil/nil_test.mk -text
@@ -3508,7 +3505,6 @@ test/nil/testbuild/pclint/size-options.lnt -text
 test/nil/testbuild/pclint/waivers.lnt -text
 test/oslib/.cproject -text
 test/oslib/.project -text
-test/oslib/.spc5project -text
 test/oslib/config.fmpp -text
 test/oslib/configuration.xml -text
 test/oslib/oslib_test.mk -text
@@ -3539,7 +3535,6 @@ test/oslib/specgen/rsc/footer_chm.html -text
 test/oslib/specgen/rsc/header_chm.html -text
 test/rt/.cproject -text
 test/rt/.project -text
-test/rt/.spc5project -text
 test/rt/config.fmpp -text
 test/rt/configuration.xml -text
 test/rt/rt_test.mk -text
