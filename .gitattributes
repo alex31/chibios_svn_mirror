@@ -3422,9 +3422,6 @@ test/hal/testbuild/pclint/lint_cmac.h -text
 test/hal/testbuild/pclint/lint_cppmac.h -text
 test/hal/testbuild/pclint/size-options.lnt -text
 test/hal/testbuild/pclint/waivers.lnt -text
-test/lib/ch_test.c -text
-test/lib/ch_test.h -text
-test/lib/test.mk -text
 test/mfs/.cproject -text
 test/mfs/.project -text
 test/mfs/config.fmpp -text
@@ -4772,8 +4769,6 @@ testhal/STM32/multi/WSPI-MFS/main.c -text
 testhal/STM32/multi/WSPI-MFS/make/stm32l476_discovery.make -text
 testhal/STM32/multi/WSPI-MFS/make/stm32l4r9_discovery.make -text
 testhal/STM32/multi/WSPI-MFS/readme.txt -text
-testhal/common/irq_storm.c -text
-testhal/common/irq_storm.h -text
 testrt/IRQ_STORM/.cproject -text
 testrt/IRQ_STORM/.project -text
 testrt/IRQ_STORM/Makefile -text
