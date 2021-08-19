@@ -4436,12 +4436,16 @@ testhal/STM32/multi/DAC/make/stm32l4r5zi_nucleo144.make -text
 testhal/STM32/multi/EFL-MFS/.cproject -text
 testhal/STM32/multi/EFL-MFS/.project -text
 testhal/STM32/multi/EFL-MFS/Makefile -text
+testhal/STM32/multi/EFL-MFS/cfg/stm32f302_nucleo64/halconf.h -text
+testhal/STM32/multi/EFL-MFS/cfg/stm32f302_nucleo64/mcuconf.h -text
+testhal/STM32/multi/EFL-MFS/cfg/stm32f302_nucleo64/portab.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/chconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/mcuconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/portab.c -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/portab.h -text
 testhal/STM32/multi/EFL-MFS/main.c -text
+testhal/STM32/multi/EFL-MFS/make/stm32f302_nucleo64.make -text
 testhal/STM32/multi/EFL-MFS/make/stm32l476_discovery.make -text
 testhal/STM32/multi/EFL-MFS/readme.txt -text
 testhal/STM32/multi/PAL/.cproject -text
