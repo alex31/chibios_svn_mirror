@@ -4957,4 +4957,5 @@ tools/updater/update_mcuconf_stm32wb55xx.sh -text
 tools/workflows/Makefile -text
 tools/workflows/find.py -text
 tools/workflows/make.py -text
+tools/workflows/report.py -text
 tools/workflows/skip.yaml -text
