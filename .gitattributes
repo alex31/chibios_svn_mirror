@@ -4955,7 +4955,10 @@ tools/updater/update_mcuconf_stm32l4rxxx.sh -text
 tools/updater/update_mcuconf_stm32l5x2xx.sh -text
 tools/updater/update_mcuconf_stm32wb55xx.sh -text
 tools/workflows/Makefile -text
+tools/workflows/constraints.txt -text
 tools/workflows/find.py -text
 tools/workflows/make.py -text
 tools/workflows/report.py -text
+tools/workflows/requirements.txt -text
 tools/workflows/skip.yaml -text
+tools/workflows/target.yaml -text
