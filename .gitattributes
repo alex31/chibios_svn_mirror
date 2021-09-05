@@ -3092,6 +3092,7 @@ os/hal/ports/STM32/STM32WLxx/hal_efl_lld.h -text
 os/hal/ports/STM32/STM32WLxx/hal_lld.c -text
 os/hal/ports/STM32/STM32WLxx/hal_lld.h -text
 os/hal/ports/STM32/STM32WLxx/platform.mk -text
+os/hal/ports/STM32/STM32WLxx/platform_v2.mk -text
 os/hal/ports/STM32/STM32WLxx/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32WLxx/stm32_isr.c -text
 os/hal/ports/STM32/STM32WLxx/stm32_isr.h -text
