@@ -4516,6 +4516,11 @@ testhal/STM32/multi/PAL/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/mcuconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/portab.c -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/portab.h -text
+testhal/STM32/multi/PAL/cfg/stm32wb55rg_nucleo68/chconf.h -text
+testhal/STM32/multi/PAL/cfg/stm32wb55rg_nucleo68/halconf.h -text
+testhal/STM32/multi/PAL/cfg/stm32wb55rg_nucleo68/mcuconf.h -text
+testhal/STM32/multi/PAL/cfg/stm32wb55rg_nucleo68/portab.c -text
+testhal/STM32/multi/PAL/cfg/stm32wb55rg_nucleo68/portab.h -text
 testhal/STM32/multi/PAL/cfg/stm32wl55jc_nucleo64/chconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32wl55jc_nucleo64/halconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32wl55jc_nucleo64/mcuconf.h -text
@@ -4532,6 +4537,7 @@ testhal/STM32/multi/PAL/make/stm32f746_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32l053_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32l151_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32l476_discovery.make -text
+testhal/STM32/multi/PAL/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/PAL/make/stm32wl55jc_nucleo64.make -text
 testhal/STM32/multi/PAL/readme.txt -text
 testhal/STM32/multi/RTC/.cproject -text
