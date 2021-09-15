@@ -1345,6 +1345,7 @@ os/common/ext/ST/STM32G4xx/stm32g473xx.h -text
 os/common/ext/ST/STM32G4xx/stm32g474xx.h -text
 os/common/ext/ST/STM32G4xx/stm32g483xx.h -text
 os/common/ext/ST/STM32G4xx/stm32g484xx.h -text
+os/common/ext/ST/STM32G4xx/stm32g491xx.h -text
 os/common/ext/ST/STM32G4xx/stm32g4xx.h -text
 os/common/ext/ST/STM32G4xx/stm32gbk1cb.h -text
 os/common/ext/ST/STM32G4xx/system_stm32g4xx.h -text
