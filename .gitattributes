@@ -3116,6 +3116,8 @@ os/hal/ports/STM32/STM32L5xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32L5xx/stm32_secure.inc -text
 os/hal/ports/STM32/STM32MP1xx/platform.mk -text
 os/hal/ports/STM32/STM32MP1xx/stm32_dmamux.h -text
+os/hal/ports/STM32/STM32MP1xx/stm32_isr.c -text
+os/hal/ports/STM32/STM32MP1xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32MP1xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32WBxx/hal_lld.c -text
 os/hal/ports/STM32/STM32WBxx/hal_lld.h -text
