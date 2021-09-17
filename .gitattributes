@@ -2919,6 +2919,8 @@ os/hal/ports/STM32/LLD/TIMv1/hal_pwm_lld.c -text
 os/hal/ports/STM32/LLD/TIMv1/hal_pwm_lld.h -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim.h -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim1.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim12.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim13.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim14.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim15.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim16.inc -text
