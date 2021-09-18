@@ -2949,6 +2949,7 @@ os/hal/ports/STM32/LLD/TIMv1/stm32_tim20.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim21.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim22.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim3.inc -text
+os/hal/ports/STM32/LLD/TIMv1/stm32_tim3_4.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim4.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim5.inc -text
 os/hal/ports/STM32/LLD/TIMv1/stm32_tim6.inc -text
@@ -2965,7 +2966,9 @@ os/hal/ports/STM32/LLD/USART/stm32_uart8.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_uart9.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart1.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart2.inc -text
+os/hal/ports/STM32/LLD/USART/stm32_usart2_lp2.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart3.inc -text
+os/hal/ports/STM32/LLD/USART/stm32_usart3_4_5_6_lp1.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart3_4_lp1.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart4_5.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart6.inc -text
