@@ -2139,6 +2139,11 @@ os/hal/boards/ST_NUCLEO32_F303K8/board.h -text
 os/hal/boards/ST_NUCLEO32_F303K8/board.mk -text
 os/hal/boards/ST_NUCLEO32_F303K8/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO32_F303K8/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO32_G031K8/board.c -text
+os/hal/boards/ST_NUCLEO32_G031K8/board.h -text
+os/hal/boards/ST_NUCLEO32_G031K8/board.mk -text
+os/hal/boards/ST_NUCLEO32_G031K8/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO32_G031K8/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO32_L011K4/board.c -text
 os/hal/boards/ST_NUCLEO32_L011K4/board.h -text
 os/hal/boards/ST_NUCLEO32_L011K4/board.mk -text
