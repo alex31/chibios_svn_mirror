@@ -969,6 +969,7 @@ demos/STM32/RT-STM32MP157A-DK1/.cproject -text
 demos/STM32/RT-STM32MP157A-DK1/.project -text
 demos/STM32/RT-STM32MP157A-DK1/Makefile -text
 demos/STM32/RT-STM32MP157A-DK1/cfg/chconf.h -text
+demos/STM32/RT-STM32MP157A-DK1/debug/RT-STM32MP157A-DK1[!!-~](build-ch.elf)(OpenOCD,[!!-~]Load[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32MP157A-DK1/main.c -text
 demos/STM32/RT-STM32WB55CG-NUCLEO48_USB/.cproject -text
 demos/STM32/RT-STM32WB55CG-NUCLEO48_USB/.project -text
