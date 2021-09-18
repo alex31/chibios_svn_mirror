@@ -744,6 +744,13 @@ demos/STM32/RT-STM32F769I-DISCOVERY/cfg/halconf.h -text
 demos/STM32/RT-STM32F769I-DISCOVERY/cfg/mcuconf.h -text
 demos/STM32/RT-STM32F769I-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F769I-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32G031K8-NUCLEO32/.cproject -text
+demos/STM32/RT-STM32G031K8-NUCLEO32/.project -text
+demos/STM32/RT-STM32G031K8-NUCLEO32/Makefile -text
+demos/STM32/RT-STM32G031K8-NUCLEO32/cfg/chconf.h -text
+demos/STM32/RT-STM32G031K8-NUCLEO32/cfg/halconf.h -text
+demos/STM32/RT-STM32G031K8-NUCLEO32/cfg/mcuconf.h -text
+demos/STM32/RT-STM32G031K8-NUCLEO32/main.c -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/.cproject -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/.project -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/Makefile -text
@@ -1628,6 +1635,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F746xG_MAX.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F756xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxI.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32G031x8.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G071xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G0B1xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G431xB.ld -text
