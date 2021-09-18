@@ -751,6 +751,13 @@ demos/STM32/RT-STM32G071RB-NUCLEO64/cfg/chconf.h -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/cfg/halconf.h -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/cfg/mcuconf.h -text
 demos/STM32/RT-STM32G071RB-NUCLEO64/main.c -text
+demos/STM32/RT-STM32G0B1RE-NUCLEO64/.cproject -text
+demos/STM32/RT-STM32G0B1RE-NUCLEO64/.project -text
+demos/STM32/RT-STM32G0B1RE-NUCLEO64/Makefile -text
+demos/STM32/RT-STM32G0B1RE-NUCLEO64/cfg/chconf.h -text
+demos/STM32/RT-STM32G0B1RE-NUCLEO64/cfg/halconf.h -text
+demos/STM32/RT-STM32G0B1RE-NUCLEO64/cfg/mcuconf.h -text
+demos/STM32/RT-STM32G0B1RE-NUCLEO64/main.c -text
 demos/STM32/RT-STM32G431RB-NUCLEO64/.cproject -text
 demos/STM32/RT-STM32G431RB-NUCLEO64/.project -text
 demos/STM32/RT-STM32G431RB-NUCLEO64/Makefile -text
