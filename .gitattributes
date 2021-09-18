@@ -2758,6 +2758,7 @@ os/hal/ports/STM32/LLD/DMAv1/stm32_dma.h -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma1_ch123.inc -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma1_ch23.inc -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma1_ch4567.inc -text
+os/hal/ports/STM32/LLD/DMAv1/stm32_dma1_ch4567_dma2_ch12345.inc -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma2_ch1-7.inc -text
 os/hal/ports/STM32/LLD/DMAv2/driver.mk -text
 os/hal/ports/STM32/LLD/DMAv2/notes.txt -text
