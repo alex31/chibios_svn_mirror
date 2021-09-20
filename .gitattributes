@@ -983,6 +983,8 @@ demos/STM32/RT-STM32MP157A-DK1/.cproject -text
 demos/STM32/RT-STM32MP157A-DK1/.project -text
 demos/STM32/RT-STM32MP157A-DK1/Makefile -text
 demos/STM32/RT-STM32MP157A-DK1/cfg/chconf.h -text
+demos/STM32/RT-STM32MP157A-DK1/cfg/halconf.h -text
+demos/STM32/RT-STM32MP157A-DK1/cfg/mcuconf.h -text
 demos/STM32/RT-STM32MP157A-DK1/debug/RT-STM32MP157A-DK1[!!-~](build-ch.elf)(OpenOCD,[!!-~]Load[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32MP157A-DK1/main.c -text
 demos/STM32/RT-STM32WB55CG-NUCLEO48_USB/.cproject -text
@@ -2376,6 +2378,9 @@ os/hal/boards/ST_STM32L_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32L_DISCOVERY/board.mk -text
 os/hal/boards/ST_STM32L_DISCOVERY/cfg/board.chcfg -text
 os/hal/boards/ST_STM32L_DISCOVERY/cfg/board.fmpp -text
+os/hal/boards/ST_STM32MP157A_DK1/board.c -text
+os/hal/boards/ST_STM32MP157A_DK1/board.h -text
+os/hal/boards/ST_STM32MP157A_DK1/board.mk -text
 os/hal/boards/ST_STM32VL_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32VL_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32VL_DISCOVERY/board.mk -text
@@ -3147,11 +3152,13 @@ os/hal/ports/STM32/STM32L5xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32L5xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32L5xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32L5xx/stm32_secure.inc -text
+os/hal/ports/STM32/STM32MP1xx/hal_lld.c -text
 os/hal/ports/STM32/STM32MP1xx/hal_lld.h -text
 os/hal/ports/STM32/STM32MP1xx/platform.mk -text
 os/hal/ports/STM32/STM32MP1xx/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32MP1xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32MP1xx/stm32_isr.h -text
+os/hal/ports/STM32/STM32MP1xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32MP1xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32WBxx/hal_lld.c -text
 os/hal/ports/STM32/STM32WBxx/hal_lld.h -text
