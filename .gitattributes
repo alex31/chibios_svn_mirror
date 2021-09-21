@@ -2901,6 +2901,9 @@ os/hal/ports/STM32/LLD/RCCv1/stm32_pllsai1.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_pllsai1_v2.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_pllsai2.inc -text
 os/hal/ports/STM32/LLD/RCCv2/driver.mk -text
+os/hal/ports/STM32/LLD/RCCv2/stm32_csi.inc -text
+os/hal/ports/STM32/LLD/RCCv2/stm32_hse.inc -text
+os/hal/ports/STM32/LLD/RCCv2/stm32_hsi64.inc -text
 os/hal/ports/STM32/LLD/RCCv2/stm32_pll3.inc -text
 os/hal/ports/STM32/LLD/RNGv1/driver.mk -text
 os/hal/ports/STM32/LLD/RNGv1/hal_trng_lld.c -text
