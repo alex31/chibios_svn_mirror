@@ -162,6 +162,7 @@ demos/SPC5/RT-SPC560B-EVB/mcuconf.h -text
 demos/SPC5/RT-SPC560D-EVB/.cproject -text
 demos/SPC5/RT-SPC560D-EVB/.project -text
 demos/SPC5/RT-SPC560D-EVB/Makefile -text
+demos/SPC5/RT-SPC560D-EVB/Makefile-gcc-eabivle -text
 demos/SPC5/RT-SPC560D-EVB/Makefile-ghs -text
 demos/SPC5/RT-SPC560D-EVB/Makefile-ht -text
 demos/SPC5/RT-SPC560D-EVB/UDE/debug.wsx -text
@@ -202,6 +203,7 @@ demos/SPC5/RT-SPC564A-EVB/mcuconf.h -text
 demos/SPC5/RT-SPC56EC-EVB/.cproject -text
 demos/SPC5/RT-SPC56EC-EVB/.project -text
 demos/SPC5/RT-SPC56EC-EVB/Makefile -text
+demos/SPC5/RT-SPC56EC-EVB/Makefile-gcc-eabivle -text
 demos/SPC5/RT-SPC56EC-EVB/Makefile-ghs -text
 demos/SPC5/RT-SPC56EC-EVB/Makefile-ht -text
 demos/SPC5/RT-SPC56EC-EVB/UDE/debug.wsx -text
