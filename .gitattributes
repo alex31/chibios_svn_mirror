@@ -4920,6 +4920,11 @@ testrt/WKP_STORM/cfg/stm32g474re_nucleo64/halconf.h -text
 testrt/WKP_STORM/cfg/stm32g474re_nucleo64/mcuconf.h -text
 testrt/WKP_STORM/cfg/stm32g474re_nucleo64/portab.c -text
 testrt/WKP_STORM/cfg/stm32g474re_nucleo64/portab.h -text
+testrt/WKP_STORM/cfg/stm32g474re_nucleo64_alt/chconf.h -text
+testrt/WKP_STORM/cfg/stm32g474re_nucleo64_alt/halconf.h -text
+testrt/WKP_STORM/cfg/stm32g474re_nucleo64_alt/mcuconf.h -text
+testrt/WKP_STORM/cfg/stm32g474re_nucleo64_alt/portab.c -text
+testrt/WKP_STORM/cfg/stm32g474re_nucleo64_alt/portab.h -text
 testrt/WKP_STORM/cfg/stm32l552ze_nucleo144/chconf.h -text
 testrt/WKP_STORM/cfg/stm32l552ze_nucleo144/halconf.h -text
 testrt/WKP_STORM/cfg/stm32l552ze_nucleo144/mcuconf.h -text
@@ -4932,6 +4937,7 @@ testrt/WKP_STORM/cfg/stm32l552ze_nucleo144_alt/portab.c -text
 testrt/WKP_STORM/cfg/stm32l552ze_nucleo144_alt/portab.h -text
 testrt/WKP_STORM/main.c -text
 testrt/WKP_STORM/make/stm32g474re_nucleo64.make -text
+testrt/WKP_STORM/make/stm32g474re_nucleo64_alt.make -text
 testrt/WKP_STORM/make/stm32l552ze_nucleo144.make -text
 testrt/WKP_STORM/make/stm32l552ze_nucleo144_alt.make -text
 tools/.project -text
