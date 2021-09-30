@@ -1143,6 +1143,7 @@ doc/rt/reports/benchmarks/rt-stm32f3-72mhz-iar.txt -text
 doc/rt/reports/benchmarks/rt-stm32f3-72mhz-keil-fpu.txt -text
 doc/rt/reports/benchmarks/rt-stm32f3-72mhz-keil.txt -text
 doc/rt/reports/benchmarks/rt-stm32g0-64mhz-gcc.txt -text
+doc/rt/reports/benchmarks/rt-stm32g4-170mhz-gcc-alt.txt -text
 doc/rt/reports/benchmarks/rt-stm32g4-170mhz-gcc-fpu.txt -text
 doc/rt/reports/benchmarks/rt-stm32g4-170mhz-gcc.txt -text
 doc/rt/reports/benchmarks/rt-stm32h7-480mhz-gcc-fpu.txt -text
