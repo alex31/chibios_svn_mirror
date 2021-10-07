@@ -5032,6 +5032,7 @@ tools/ftl/processors/conf/mcuconf_stm32l4pxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l4rxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l5x2xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32wb55xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32wlxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/notes.txt -text
 tools/ftl/processors/processors.xml -text
 tools/ftl/processors/unittest/test/test_root.c.ftl -text
@@ -5112,6 +5113,7 @@ tools/updater/update_mcuconf_stm32l496xx.sh -text
 tools/updater/update_mcuconf_stm32l4rxxx.sh -text
 tools/updater/update_mcuconf_stm32l5x2xx.sh -text
 tools/updater/update_mcuconf_stm32wb55xx.sh -text
+tools/updater/update_mcuconf_stm32wlxx.sh -text
 tools/workflows/Makefile -text
 tools/workflows/constraints.txt -text
 tools/workflows/find.py -text
