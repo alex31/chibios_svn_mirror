@@ -1508,6 +1508,7 @@ os/common/ports/ARMv6-M/compilers/IAR/chcoreasm.s -text
 os/common/ports/ARMv6-M/compilers/RVCT/chcoreasm.s -text
 os/common/ports/ARMv7-M-ALT/chcore.c -text
 os/common/ports/ARMv7-M-ALT/chcore.h -text
+os/common/ports/ARMv7-M-ALT/chcoreapi.c -text
 os/common/ports/ARMv7-M-ALT/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv7-M-ALT/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv7-M-ALT/mpu.h -text
