@@ -1081,11 +1081,11 @@ demos/various/RT-Win32-Simulator/cfg/halconf.h -text
 demos/various/RT-Win32-Simulator/cfg/mcuconf.h -text
 demos/various/RT-Win32-Simulator/main.c -text
 demos/various/RT-Win32-Simulator/readme.txt -text
-demos/various/SB-CLIENT-08070000-2001C000/.cproject -text
-demos/various/SB-CLIENT-08070000-2001C000/.project -text
-demos/various/SB-CLIENT-08070000-2001C000/Makefile -text
-demos/various/SB-CLIENT-08070000-2001C000/main.c -text
-demos/various/SB-CLIENT-08070000-2001C000/sandbox.ld -text
+demos/various/SB-CLIENT-32k-08070000-4k-2001e000/.cproject -text
+demos/various/SB-CLIENT-32k-08070000-4k-2001e000/.project -text
+demos/various/SB-CLIENT-32k-08070000-4k-2001e000/Makefile -text
+demos/various/SB-CLIENT-32k-08070000-4k-2001e000/main.c -text
+demos/various/SB-CLIENT-32k-08070000-4k-2001e000/sandbox.ld -text
 doc/common/rsc/custom.css -text
 doc/common/rsc/footer_chm.html -text
 doc/common/rsc/footer_html.html -text
