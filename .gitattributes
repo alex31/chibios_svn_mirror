@@ -1091,6 +1091,11 @@ demos/various/SB-CLIENT-32k-08070000-4k-2001E000/.project -text
 demos/various/SB-CLIENT-32k-08070000-4k-2001E000/Makefile -text
 demos/various/SB-CLIENT-32k-08070000-4k-2001E000/main.c -text
 demos/various/SB-CLIENT-32k-08070000-4k-2001E000/sandbox.ld -text
+demos/various/SB-CLIENT-32k-08078000-4k-2001F000/.cproject -text
+demos/various/SB-CLIENT-32k-08078000-4k-2001F000/.project -text
+demos/various/SB-CLIENT-32k-08078000-4k-2001F000/Makefile -text
+demos/various/SB-CLIENT-32k-08078000-4k-2001F000/main.c -text
+demos/various/SB-CLIENT-32k-08078000-4k-2001F000/sandbox.ld -text
 doc/common/rsc/custom.css -text
 doc/common/rsc/footer_chm.html -text
 doc/common/rsc/footer_html.html -text
