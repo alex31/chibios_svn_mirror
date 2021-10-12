@@ -5109,6 +5109,7 @@ tools/ftl/xml/stm32l1board.xml -text
 tools/ftl/xml/stm32l4board.xml -text
 tools/ftl/xml/stm32l5board.xml -text
 tools/ftl/xml/stm32wbboard.xml -text
+tools/ftl/xml/stm32wlboard.xml -text
 tools/mk/autobuild.mk -text
 tools/style/style_ex.sh -text
 tools/style/style_hal.sh -text
