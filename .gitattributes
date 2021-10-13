@@ -2533,6 +2533,9 @@ os/hal/osal/rt-nil/chcore_timer.h -text
 os/hal/osal/rt-nil/osal.c -text
 os/hal/osal/rt-nil/osal.h -text
 os/hal/osal/rt-nil/osal.mk -text
+os/hal/osal/sb/osal.c -text
+os/hal/osal/sb/osal.h -text
+os/hal/osal/sb/osal.mk -text
 os/hal/ports/ADUCM/ADUCM36x/aducm_cc.h -text
 os/hal/ports/ADUCM/ADUCM36x/aducm_gp.h -text
 os/hal/ports/ADUCM/ADUCM36x/aducm_isr.c -text
@@ -3218,6 +3221,9 @@ os/hal/ports/common/ARMCMx/nvic.c -text
 os/hal/ports/common/ARMCMx/nvic.h -text
 os/hal/ports/common/ARMCMx/sau.c -text
 os/hal/ports/common/ARMCMx/sau.h -text
+os/hal/ports/sandbox/hal_lld.c -text
+os/hal/ports/sandbox/hal_lld.h -text
+os/hal/ports/sandbox/platform.mk -text
 os/hal/ports/simulator/console.c -text
 os/hal/ports/simulator/console.h -text
 os/hal/ports/simulator/hal_pal_lld.c -text
