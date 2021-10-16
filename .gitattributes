@@ -2488,6 +2488,7 @@ os/hal/include/hal_serial.h -text
 os/hal/include/hal_serial_usb.h -text
 os/hal/include/hal_sio.h -text
 os/hal/include/hal_spi.h -text
+os/hal/include/hal_spi_v1.h -text
 os/hal/include/hal_spi_v2.h -text
 os/hal/include/hal_st.h -text
 os/hal/include/hal_streams.h -text
@@ -2968,6 +2969,7 @@ os/hal/ports/STM32/LLD/SPIv2/hal_i2s_lld.c -text
 os/hal/ports/STM32/LLD/SPIv2/hal_i2s_lld.h -text
 os/hal/ports/STM32/LLD/SPIv2/hal_spi_lld.c -text
 os/hal/ports/STM32/LLD/SPIv2/hal_spi_lld.h -text
+os/hal/ports/STM32/LLD/SPIv2/hal_spi_v2_lld.c -text
 os/hal/ports/STM32/LLD/SPIv3/driver.mk -text
 os/hal/ports/STM32/LLD/SPIv3/hal_spi_lld.c -text
 os/hal/ports/STM32/LLD/SPIv3/hal_spi_lld.h -text
@@ -3265,7 +3267,8 @@ os/hal/src/hal_serial.c -text
 os/hal/src/hal_serial_usb.c -text
 os/hal/src/hal_sio.c -text
 os/hal/src/hal_spi.c -text
-os/hal/src/hal_spi_v2.c -text
+os/hal/src/hal_spi_v1.inc -text
+os/hal/src/hal_spi_v2.inc -text
 os/hal/src/hal_st.c -text
 os/hal/src/hal_trng.c -text
 os/hal/src/hal_uart.c -text
