@@ -2965,11 +2965,13 @@ os/hal/ports/STM32/LLD/SPIv1/hal_i2s_lld.h -text
 os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.c -text
 os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.h -text
 os/hal/ports/STM32/LLD/SPIv2/driver.mk -text
+os/hal/ports/STM32/LLD/SPIv2/driver_v2.mk -text
 os/hal/ports/STM32/LLD/SPIv2/hal_i2s_lld.c -text
 os/hal/ports/STM32/LLD/SPIv2/hal_i2s_lld.h -text
 os/hal/ports/STM32/LLD/SPIv2/hal_spi_lld.c -text
 os/hal/ports/STM32/LLD/SPIv2/hal_spi_lld.h -text
 os/hal/ports/STM32/LLD/SPIv2/hal_spi_v2_lld.c -text
+os/hal/ports/STM32/LLD/SPIv2/hal_spi_v2_lld.h -text
 os/hal/ports/STM32/LLD/SPIv3/driver.mk -text
 os/hal/ports/STM32/LLD/SPIv3/hal_spi_lld.c -text
 os/hal/ports/STM32/LLD/SPIv3/hal_spi_lld.h -text
