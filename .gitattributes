@@ -3428,8 +3428,6 @@ os/test/test.mk -text
 os/various/cpp_wrappers/ch.cpp -text
 os/various/cpp_wrappers/ch.hpp -text
 os/various/cpp_wrappers/chcpp.mk -text
-os/various/cpp_wrappers/syscalls_cpp.cpp -text
-os/various/cpp_wrappers/syscalls_cpp.hpp -text
 os/various/evtimer.c -text
 os/various/evtimer.h -text
 os/various/fatfs_bindings/fatfs.mk -text
