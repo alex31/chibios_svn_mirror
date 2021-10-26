@@ -4284,14 +4284,6 @@ testhal/STM32/STM32F7xx/PWM-ICU/halconf.h -text
 testhal/STM32/STM32F7xx/PWM-ICU/main.c -text
 testhal/STM32/STM32F7xx/PWM-ICU/mcuconf.h -text
 testhal/STM32/STM32F7xx/PWM-ICU/readme.txt -text
-testhal/STM32/STM32F7xx/SPI/.cproject -text
-testhal/STM32/STM32F7xx/SPI/.project -text
-testhal/STM32/STM32F7xx/SPI/Makefile -text
-testhal/STM32/STM32F7xx/SPI/chconf.h -text
-testhal/STM32/STM32F7xx/SPI/halconf.h -text
-testhal/STM32/STM32F7xx/SPI/main.c -text
-testhal/STM32/STM32F7xx/SPI/mcuconf.h -text
-testhal/STM32/STM32F7xx/SPI/readme.txt -text
 testhal/STM32/STM32F7xx/USB_RAW/.cproject -text
 testhal/STM32/STM32F7xx/USB_RAW/.project -text
 testhal/STM32/STM32F7xx/USB_RAW/Makefile -text
@@ -4688,6 +4680,11 @@ testhal/STM32/multi/SPI/cfg/stm32f407_discovery/halconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32f407_discovery/mcuconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32f407_discovery/portab.c -text
 testhal/STM32/multi/SPI/cfg/stm32f407_discovery/portab.h -text
+testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/chconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/halconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/mcuconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/portab.c -text
+testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/portab.h -text
 testhal/STM32/multi/SPI/cfg/stm32g474re_nucleo64/chconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32g474re_nucleo64/halconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32g474re_nucleo64/mcuconf.h -text
@@ -4723,6 +4720,7 @@ testhal/STM32/multi/SPI/make/stm32f091_nucleo64.make -text
 testhal/STM32/multi/SPI/make/stm32f303_discovery.make -text
 testhal/STM32/multi/SPI/make/stm32f373vc_eval.make -text
 testhal/STM32/multi/SPI/make/stm32f407_discovery.make -text
+testhal/STM32/multi/SPI/make/stm32f746ng_discovery.make -text
 testhal/STM32/multi/SPI/make/stm32g474re_nucleo64.make -text
 testhal/STM32/multi/SPI/make/stm32h743_nucleo144.make -text
 testhal/STM32/multi/SPI/make/stm32h755_nucleo144.make -text
