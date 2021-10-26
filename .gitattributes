@@ -4102,14 +4102,6 @@ testhal/STM32/STM32F37x/SDADC/halconf.h -text
 testhal/STM32/STM32F37x/SDADC/main.c -text
 testhal/STM32/STM32F37x/SDADC/mcuconf.h -text
 testhal/STM32/STM32F37x/SDADC/readme.txt -text
-testhal/STM32/STM32F37x/SPI/.cproject -text
-testhal/STM32/STM32F37x/SPI/.project -text
-testhal/STM32/STM32F37x/SPI/Makefile -text
-testhal/STM32/STM32F37x/SPI/chconf.h -text
-testhal/STM32/STM32F37x/SPI/halconf.h -text
-testhal/STM32/STM32F37x/SPI/main.c -text
-testhal/STM32/STM32F37x/SPI/mcuconf.h -text
-testhal/STM32/STM32F37x/SPI/readme.txt -text
 testhal/STM32/STM32F37x/UART/.cproject -text
 testhal/STM32/STM32F37x/UART/.project -text
 testhal/STM32/STM32F37x/UART/Makefile -text
@@ -4686,6 +4678,11 @@ testhal/STM32/multi/SPI/cfg/stm32f303_discovery/halconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32f303_discovery/mcuconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32f303_discovery/portab.c -text
 testhal/STM32/multi/SPI/cfg/stm32f303_discovery/portab.h -text
+testhal/STM32/multi/SPI/cfg/stm32f373vc_eval/chconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32f373vc_eval/halconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32f373vc_eval/mcuconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32f373vc_eval/portab.c -text
+testhal/STM32/multi/SPI/cfg/stm32f373vc_eval/portab.h -text
 testhal/STM32/multi/SPI/cfg/stm32f407_discovery/chconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32f407_discovery/halconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32f407_discovery/mcuconf.h -text
@@ -4724,6 +4721,7 @@ testhal/STM32/multi/SPI/cfg/stm32l4r9_discovery/portab.h -text
 testhal/STM32/multi/SPI/main.c -text
 testhal/STM32/multi/SPI/make/stm32f091_nucleo64.make -text
 testhal/STM32/multi/SPI/make/stm32f303_discovery.make -text
+testhal/STM32/multi/SPI/make/stm32f373vc_eval.make -text
 testhal/STM32/multi/SPI/make/stm32f407_discovery.make -text
 testhal/STM32/multi/SPI/make/stm32g474re_nucleo64.make -text
 testhal/STM32/multi/SPI/make/stm32h743_nucleo144.make -text
