@@ -386,6 +386,7 @@ demos/STM32/RT-STM32-LWIP-FATFS-USB/make/stm32f769_discovery.make -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/readme.txt -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/source/usbcfg.c -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/source/usbcfg.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/web/index.html -text
 demos/STM32/RT-STM32F030R8-NUCLEO64/.cproject -text
 demos/STM32/RT-STM32F030R8-NUCLEO64/.project -text
 demos/STM32/RT-STM32F030R8-NUCLEO64/Makefile -text
