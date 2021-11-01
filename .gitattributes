@@ -357,7 +357,6 @@ demos/STM32/RT-STM32-LWIP-FATFS-USB/.cproject -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/.project -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/Makefile -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/ffconf.h -text
-demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/httpd_opts.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/lwipopts.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32f107_goldbull/chconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32f107_goldbull/halconf.h -text
