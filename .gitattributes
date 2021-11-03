@@ -1695,6 +1695,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f7xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32g0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32g4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32h7xx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32h7xx_m4.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
@@ -1722,6 +1723,7 @@ os/common/startup/ARMCMx/devices/STM32F4xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F7xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32G0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32G4xx/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32H7xx-M4/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32H7xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
