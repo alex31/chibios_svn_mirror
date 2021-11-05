@@ -3989,16 +3989,6 @@ testhal/STM32/STM32F0xx/PWM-ICU/halconf.h -text
 testhal/STM32/STM32F0xx/PWM-ICU/main.c -text
 testhal/STM32/STM32F0xx/PWM-ICU/mcuconf.h -text
 testhal/STM32/STM32F0xx/PWM-ICU/readme.txt -text
-testhal/STM32/STM32F0xx/USB_CDC/.cproject -text
-testhal/STM32/STM32F0xx/USB_CDC/.project -text
-testhal/STM32/STM32F0xx/USB_CDC/Makefile -text
-testhal/STM32/STM32F0xx/USB_CDC/chconf.h -text
-testhal/STM32/STM32F0xx/USB_CDC/halconf.h -text
-testhal/STM32/STM32F0xx/USB_CDC/main.c -text
-testhal/STM32/STM32F0xx/USB_CDC/mcuconf.h -text
-testhal/STM32/STM32F0xx/USB_CDC/readme.txt -text
-testhal/STM32/STM32F0xx/USB_CDC/usbcfg.c -text
-testhal/STM32/STM32F0xx/USB_CDC/usbcfg.h -text
 testhal/STM32/STM32F0xx/WDG/.cproject -text
 testhal/STM32/STM32F0xx/WDG/.project -text
 testhal/STM32/STM32F0xx/WDG/Makefile -text
@@ -4817,6 +4807,11 @@ testhal/STM32/multi/UART/readme.txt -text
 testhal/STM32/multi/USB_CDC/.cproject -text
 testhal/STM32/multi/USB_CDC/.project -text
 testhal/STM32/multi/USB_CDC/Makefile -text
+testhal/STM32/multi/USB_CDC/cfg/stm32f072_discovery/chconf.h -text
+testhal/STM32/multi/USB_CDC/cfg/stm32f072_discovery/halconf.h -text
+testhal/STM32/multi/USB_CDC/cfg/stm32f072_discovery/mcuconf.h -text
+testhal/STM32/multi/USB_CDC/cfg/stm32f072_discovery/portab.c -text
+testhal/STM32/multi/USB_CDC/cfg/stm32f072_discovery/portab.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32f303_discovery/chconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32f303_discovery/halconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32f303_discovery/mcuconf.h -text
@@ -4858,6 +4853,7 @@ testhal/STM32/multi/USB_CDC/cfg/stm32wb55rg_nucleo68/mcuconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32wb55rg_nucleo68/portab.c -text
 testhal/STM32/multi/USB_CDC/cfg/stm32wb55rg_nucleo68/portab.h -text
 testhal/STM32/multi/USB_CDC/main.c -text
+testhal/STM32/multi/USB_CDC/make/stm32f072_discovery.make -text
 testhal/STM32/multi/USB_CDC/make/stm32f303_discovery.make -text
 testhal/STM32/multi/USB_CDC/make/stm32f407_discovery.make -text
 testhal/STM32/multi/USB_CDC/make/stm32f746_discovery.make -text
