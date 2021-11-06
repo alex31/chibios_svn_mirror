@@ -4901,6 +4901,11 @@ testrt/IRQ_STORM/cfg/stm32g474re_nucleo64/halconf.h -text
 testrt/IRQ_STORM/cfg/stm32g474re_nucleo64/mcuconf.h -text
 testrt/IRQ_STORM/cfg/stm32g474re_nucleo64/portab.c -text
 testrt/IRQ_STORM/cfg/stm32g474re_nucleo64/portab.h -text
+testrt/IRQ_STORM/cfg/stm32g474re_nucleo64_alt/chconf.h -text
+testrt/IRQ_STORM/cfg/stm32g474re_nucleo64_alt/halconf.h -text
+testrt/IRQ_STORM/cfg/stm32g474re_nucleo64_alt/mcuconf.h -text
+testrt/IRQ_STORM/cfg/stm32g474re_nucleo64_alt/portab.c -text
+testrt/IRQ_STORM/cfg/stm32g474re_nucleo64_alt/portab.h -text
 testrt/IRQ_STORM/cfg/stm32l476_discovery/chconf.h -text
 testrt/IRQ_STORM/cfg/stm32l476_discovery/halconf.h -text
 testrt/IRQ_STORM/cfg/stm32l476_discovery/mcuconf.h -text
@@ -4914,6 +4919,7 @@ testrt/IRQ_STORM/cfg/stm32wl55jc_nucleo64/portab.h -text
 testrt/IRQ_STORM/main.c -text
 testrt/IRQ_STORM/make/stm32g071rb_nucleo64.make -text
 testrt/IRQ_STORM/make/stm32g474re_nucleo64.make -text
+testrt/IRQ_STORM/make/stm32g474re_nucleo64_alt.make -text
 testrt/IRQ_STORM/make/stm32l476_discovery.make -text
 testrt/IRQ_STORM/make/stm32wl55jc_nucleo64.make -text
 testrt/IRQ_STORM/source/irq_storm.c -text
