@@ -4525,11 +4525,11 @@ testhal/STM32/multi/PAL/cfg/stm32l053_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32l053_discovery/mcuconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32l053_discovery/portab.c -text
 testhal/STM32/multi/PAL/cfg/stm32l053_discovery/portab.h -text
-testhal/STM32/multi/PAL/cfg/stm32l151_discovery/chconf.h -text
-testhal/STM32/multi/PAL/cfg/stm32l151_discovery/halconf.h -text
-testhal/STM32/multi/PAL/cfg/stm32l151_discovery/mcuconf.h -text
-testhal/STM32/multi/PAL/cfg/stm32l151_discovery/portab.c -text
-testhal/STM32/multi/PAL/cfg/stm32l151_discovery/portab.h -text
+testhal/STM32/multi/PAL/cfg/stm32l152rb_discovery/chconf.h -text
+testhal/STM32/multi/PAL/cfg/stm32l152rb_discovery/halconf.h -text
+testhal/STM32/multi/PAL/cfg/stm32l152rb_discovery/mcuconf.h -text
+testhal/STM32/multi/PAL/cfg/stm32l152rb_discovery/portab.c -text
+testhal/STM32/multi/PAL/cfg/stm32l152rb_discovery/portab.h -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/chconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/PAL/cfg/stm32l476_discovery/mcuconf.h -text
@@ -4554,7 +4554,7 @@ testhal/STM32/multi/PAL/make/stm32f407_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32f429_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32f746_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32l053_discovery.make -text
-testhal/STM32/multi/PAL/make/stm32l151_discovery.make -text
+testhal/STM32/multi/PAL/make/stm32l152rb_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32l476_discovery.make -text
 testhal/STM32/multi/PAL/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/PAL/make/stm32wl55jc_nucleo64.make -text
