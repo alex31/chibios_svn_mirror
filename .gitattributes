@@ -3307,8 +3307,8 @@ os/hal/templates/hal_serial_lld.c -text
 os/hal/templates/hal_serial_lld.h -text
 os/hal/templates/hal_sio_lld.c -text
 os/hal/templates/hal_sio_lld.h -text
-os/hal/templates/hal_spi_v1_lld.c -text
-os/hal/templates/hal_spi_v1_lld.h -text
+os/hal/templates/hal_spi_lld.c -text
+os/hal/templates/hal_spi_lld.h -text
 os/hal/templates/hal_spi_v2_lld.c -text
 os/hal/templates/hal_spi_v2_lld.h -text
 os/hal/templates/hal_st_lld.c -text
