@@ -2435,7 +2435,9 @@ os/hal/dox/hal_sdc.dox -text
 os/hal/dox/hal_serial.dox -text
 os/hal/dox/hal_serial_usb.dox -text
 os/hal/dox/hal_sio.dox -text
+os/hal/dox/hal_spi.dox -text
 os/hal/dox/hal_spi_v1.dox -text
+os/hal/dox/hal_spi_v2.dox -text
 os/hal/dox/hal_st.dox -text
 os/hal/dox/hal_trng.dox -text
 os/hal/dox/hal_uart.dox -text
