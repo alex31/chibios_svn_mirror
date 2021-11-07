@@ -1095,13 +1095,11 @@ doc/build/common/rsc/logo.png -text
 doc/build/common/src/concepts.dox -text
 doc/build/ex/Doxyfile_chm -text
 doc/build/ex/Doxyfile_html -text
-doc/build/ex/index.html -text
 doc/build/ex/makechm.bat -text
 doc/build/ex/makehtml.bat -text
 doc/build/ex/makehtml.sh -text
 doc/build/ex/src/main.dox -text
 doc/build/full_rm/Doxyfile_html -text
-doc/build/full_rm/index.html -text
 doc/build/full_rm/makechm.bat -text
 doc/build/full_rm/makehtml.bat -text
 doc/build/full_rm/makehtml.sh -text
@@ -1110,7 +1108,6 @@ doc/build/full_rm/rsc/workspace.png -text
 doc/build/full_rm/rsc/workspace.svg -text
 doc/build/full_rm/src/main.dox -text
 doc/build/hal-stm32f3/Doxyfile_html -text
-doc/build/hal-stm32f3/index.html -text
 doc/build/hal-stm32f3/makehtml.bat -text
 doc/build/hal-stm32f3/makehtml.sh -text
 doc/build/hal-stm32f3/src/main.dox -text
@@ -1123,7 +1120,6 @@ doc/build/hal/makehtml.sh -text
 doc/build/hal/src/main.dox -text
 doc/build/nil/Doxyfile_chm -text
 doc/build/nil/Doxyfile_html -text
-doc/build/nil/index.html -text
 doc/build/nil/makechm.bat -text
 doc/build/nil/makehtml.bat -text
 doc/build/nil/makehtml.sh -text
@@ -1133,7 +1129,6 @@ doc/build/nil/rsc/workspace.svg -text
 doc/build/nil/src/main.dox -text
 doc/build/rt/Doxyfile_chm -text
 doc/build/rt/Doxyfile_html -text
-doc/build/rt/index.html -text
 doc/build/rt/makechm.bat -text
 doc/build/rt/makehtml.bat -text
 doc/build/rt/makehtml.sh -text
@@ -1177,6 +1172,7 @@ doc/hal/makechm.bat -text
 doc/hal/makehtml.bat -text
 doc/hal/makehtml.sh -text
 doc/hal/src/main.dox -text
+doc/manuals/ex.html -text
 doc/manuals/full_rm.html -text
 doc/manuals/hal.html -text
 doc/manuals/nil.html -text
