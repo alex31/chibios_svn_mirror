@@ -1113,7 +1113,6 @@ doc/build/hal-stm32f3/makehtml.sh -text
 doc/build/hal-stm32f3/src/main.dox -text
 doc/build/hal/Doxyfile_chm -text
 doc/build/hal/Doxyfile_html -text
-doc/build/hal/index.html -text
 doc/build/hal/makechm.bat -text
 doc/build/hal/makehtml.bat -text
 doc/build/hal/makehtml.sh -text
@@ -2434,7 +2433,7 @@ os/hal/dox/hal_sdc.dox -text
 os/hal/dox/hal_serial.dox -text
 os/hal/dox/hal_serial_usb.dox -text
 os/hal/dox/hal_sio.dox -text
-os/hal/dox/hal_spi.dox -text
+os/hal/dox/hal_spi_v1.dox -text
 os/hal/dox/hal_st.dox -text
 os/hal/dox/hal_trng.dox -text
 os/hal/dox/hal_uart.dox -text
@@ -3308,8 +3307,10 @@ os/hal/templates/hal_serial_lld.c -text
 os/hal/templates/hal_serial_lld.h -text
 os/hal/templates/hal_sio_lld.c -text
 os/hal/templates/hal_sio_lld.h -text
-os/hal/templates/hal_spi_lld.c -text
-os/hal/templates/hal_spi_lld.h -text
+os/hal/templates/hal_spi_v1_lld.c -text
+os/hal/templates/hal_spi_v1_lld.h -text
+os/hal/templates/hal_spi_v2_lld.c -text
+os/hal/templates/hal_spi_v2_lld.h -text
 os/hal/templates/hal_st_lld.c -text
 os/hal/templates/hal_st_lld.h -text
 os/hal/templates/hal_trng_lld.c -text
