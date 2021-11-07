@@ -1121,6 +1121,10 @@ doc/hal/makechm.bat -text
 doc/hal/makehtml.bat -text
 doc/hal/makehtml.sh -text
 doc/hal/src/main.dox -text
+doc/manuals/full_rm.html -text
+doc/manuals/hal.html -text
+doc/manuals/nil.html -text
+doc/manuals/rt.html -text
 doc/nil/Doxyfile_chm -text
 doc/nil/Doxyfile_html -text
 doc/nil/index.html -text
