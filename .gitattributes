@@ -4994,7 +4994,9 @@ tools/eclipse/launchers/Create[!!-~]OpenOCD[!!-~]Debug[!!-~]Configuration[!!-~](
 tools/eclipse/launchers/OpenOCD[!!-~]no[!!-~]interface[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]board[!!-~]configuration).launch -text
 tools/eclipse/launchers/OpenOCD[!!-~]on[!!-~]CMSIS-DAP[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
 tools/eclipse/launchers/OpenOCD[!!-~]on[!!-~]ICDI[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
+tools/eclipse/launchers/OpenOCD[!!-~]on[!!-~]Picoprobe.launch -text
 tools/eclipse/launchers/OpenOCD[!!-~]on[!!-~]STLink[!!-~](prompts[!!-~]for[!!-~].cfg[!!-~]target[!!-~]configuration).launch -text
+tools/eclipse/launchers/ST-Link[!!-~]GDB[!!-~]Server.launch -text
 tools/ftl/libs/code_snippets.xml -text
 tools/ftl/libs/libcode.ftl -text
 tools/ftl/libs/liblicense.ftl -text
