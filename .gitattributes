@@ -4867,6 +4867,8 @@ testhal/STM32/multi/USB_CDC/make/stm32wb55cg_nucleo48.make -text
 testhal/STM32/multi/USB_CDC/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/USB_CDC/source/usbcfg.c -text
 testhal/STM32/multi/USB_CDC/source/usbcfg.h -text
+testhal/STM32/multi/WDG/.cproject -text
+testhal/STM32/multi/WDG/.project -text
 testhal/STM32/multi/WDG/Makefile -text
 testhal/STM32/multi/WDG/cfg/stm32wb55rg_nucleo68/chconf.h -text
 testhal/STM32/multi/WDG/cfg/stm32wb55rg_nucleo68/halconf.h -text
