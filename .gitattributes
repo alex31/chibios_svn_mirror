@@ -4867,6 +4867,14 @@ testhal/STM32/multi/USB_CDC/make/stm32wb55cg_nucleo48.make -text
 testhal/STM32/multi/USB_CDC/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/USB_CDC/source/usbcfg.c -text
 testhal/STM32/multi/USB_CDC/source/usbcfg.h -text
+testhal/STM32/multi/WDG/Makefile -text
+testhal/STM32/multi/WDG/cfg/stm32wb55rg_nucleo68/chconf.h -text
+testhal/STM32/multi/WDG/cfg/stm32wb55rg_nucleo68/halconf.h -text
+testhal/STM32/multi/WDG/cfg/stm32wb55rg_nucleo68/mcuconf.h -text
+testhal/STM32/multi/WDG/cfg/stm32wb55rg_nucleo68/portab.c -text
+testhal/STM32/multi/WDG/cfg/stm32wb55rg_nucleo68/portab.h -text
+testhal/STM32/multi/WDG/main.c -text
+testhal/STM32/multi/WDG/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/WSPI-MFS/.cproject -text
 testhal/STM32/multi/WSPI-MFS/.project -text
 testhal/STM32/multi/WSPI-MFS/Makefile -text
