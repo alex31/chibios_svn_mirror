@@ -3048,6 +3048,9 @@ os/hal/ports/STM32/LLD/USBv1/driver.mk -text
 os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.c -text
 os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.h -text
 os/hal/ports/STM32/LLD/USBv1/stm32_usb.h -text
+os/hal/ports/STM32/LLD/USBv2/driver.mk -text
+os/hal/ports/STM32/LLD/USBv2/hal_usb_lld.c -text
+os/hal/ports/STM32/LLD/USBv2/hal_usb_lld.h -text
 os/hal/ports/STM32/LLD/xWDGv1/driver.mk -text
 os/hal/ports/STM32/LLD/xWDGv1/hal_wdg_lld.c -text
 os/hal/ports/STM32/LLD/xWDGv1/hal_wdg_lld.h -text
