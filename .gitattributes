@@ -4836,10 +4836,6 @@ testhal/STM32/multi/USB_CDC/cfg/stm32wb55rg_nucleo68/halconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32wb55rg_nucleo68/mcuconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32wb55rg_nucleo68/portab.c -text
 testhal/STM32/multi/USB_CDC/cfg/stm32wb55rg_nucleo68/portab.h -text
-testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](build-stm32f072_discovery-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](build-stm32f072_discovery-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
-testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](build-stm32l476_discovery-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-testhal/STM32/multi/USB_CDC/debug/STM32-USB_CDC[!!-~](build-stm32l476_discovery-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testhal/STM32/multi/USB_CDC/main.c -text
 testhal/STM32/multi/USB_CDC/make/stm32f072_discovery.make -text
 testhal/STM32/multi/USB_CDC/make/stm32f303_discovery.make -text
