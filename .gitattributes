@@ -3359,7 +3359,7 @@ os/oslib/include/chfactory.h -text
 os/oslib/include/chjobs.h -text
 os/oslib/include/chlib.h -text
 os/oslib/include/chmboxes.h -text
-os/oslib/include/chmemareas.h -text
+os/oslib/include/chmemchecks.h -text
 os/oslib/include/chmemcore.h -text
 os/oslib/include/chmemheaps.h -text
 os/oslib/include/chmempools.h -text
@@ -3371,7 +3371,7 @@ os/oslib/readme.txt -text
 os/oslib/src/chdelegates.c -text
 os/oslib/src/chfactory.c -text
 os/oslib/src/chmboxes.c -text
-os/oslib/src/chmemareas.c -text
+os/oslib/src/chmemchecks.c -text
 os/oslib/src/chmemcore.c -text
 os/oslib/src/chmemheaps.c -text
 os/oslib/src/chmempools.c -text
