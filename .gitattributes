@@ -3887,12 +3887,6 @@ testhal/AVR/MEGA/ADC/halconf.h -text
 testhal/AVR/MEGA/ADC/main.c -text
 testhal/AVR/MEGA/ADC/mcuconf.h -text
 testhal/AVR/MEGA/ADC/readme.txt -text
-testhal/AVR/MEGA/EXT/Makefile -text
-testhal/AVR/MEGA/EXT/chconf.h -text
-testhal/AVR/MEGA/EXT/halconf.h -text
-testhal/AVR/MEGA/EXT/main.c -text
-testhal/AVR/MEGA/EXT/mcuconf.h -text
-testhal/AVR/MEGA/EXT/readme.txt -text
 testhal/AVR/MEGA/GPT/Makefile -text
 testhal/AVR/MEGA/GPT/chconf.h -text
 testhal/AVR/MEGA/GPT/halconf.h -text
