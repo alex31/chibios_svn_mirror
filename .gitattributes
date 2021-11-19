@@ -3500,6 +3500,7 @@ os/vfs/include/vfschecks.h -text
 os/vfs/include/vfsdrivers.h -text
 os/vfs/include/vfsnodes.h -text
 os/vfs/include/vfssystem.h -text
+os/vfs/src/vfssystem.c -text
 os/vfs/templates/vfsconf.h -text
 os/vfs/vfs.mk -text
 /readme.txt -text
