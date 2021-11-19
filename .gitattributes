@@ -3495,6 +3495,13 @@ os/various/wolfssl_bindings/user_settings.h -text
 os/various/wolfssl_bindings/wolfssl.mk -text
 os/various/wolfssl_bindings/wolfssl_chibios.c -text
 os/various/wolfssl_bindings/wolfssl_chibios.h -text
+os/vfs/include/vfs.h -text
+os/vfs/include/vfschecks.h -text
+os/vfs/include/vfsdrivers.h -text
+os/vfs/include/vfsnodes.h -text
+os/vfs/include/vfssystem.h -text
+os/vfs/templates/vfsconf.h -text
+os/vfs/vfs.mk -text
 /readme.txt -text
 /release_note_next.txt -text
 test/corebmk/config.fmpp -text
