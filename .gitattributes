@@ -3498,6 +3498,7 @@ os/various/wolfssl_bindings/wolfssl_chibios.h -text
 os/vfs/include/vfs.h -text
 os/vfs/include/vfschecks.h -text
 os/vfs/include/vfsdrivers.h -text
+os/vfs/include/vfserrors.h -text
 os/vfs/include/vfsnodes.h -text
 os/vfs/include/vfssystem.h -text
 os/vfs/src/vfssystem.c -text
