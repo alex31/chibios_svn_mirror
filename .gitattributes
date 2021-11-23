@@ -3495,7 +3495,9 @@ os/various/wolfssl_bindings/user_settings.h -text
 os/various/wolfssl_bindings/wolfssl.mk -text
 os/various/wolfssl_bindings/wolfssl_chibios.c -text
 os/various/wolfssl_bindings/wolfssl_chibios.h -text
+os/vfs/drivers/streams/drvstreams.c -text
 os/vfs/drivers/streams/drvstreams.h -text
+os/vfs/drivers/streams/drvstreams.mk -text
 os/vfs/include/vfs.h -text
 os/vfs/include/vfschecks.h -text
 os/vfs/include/vfsdrivers.h -text
