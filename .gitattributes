@@ -3514,6 +3514,7 @@ os/various/wolfssl_bindings/user_settings.h -text
 os/various/wolfssl_bindings/wolfssl.mk -text
 os/various/wolfssl_bindings/wolfssl_chibios.c -text
 os/various/wolfssl_bindings/wolfssl_chibios.h -text
+os/vfs/dox/vfs_arch.dox -text
 os/vfs/drivers/fatfs/drvfatfs.c -text
 os/vfs/drivers/fatfs/drvfatfs.h -text
 os/vfs/drivers/fatfs/drvfatfs.mk -text
