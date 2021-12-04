@@ -3520,13 +3520,10 @@ os/various/wolfssl_bindings/wolfssl_chibios.h -text
 os/vfs/dox/vfs_arch.dox -text
 os/vfs/drivers/fatfs/drvfatfs.c -text
 os/vfs/drivers/fatfs/drvfatfs.h -text
-os/vfs/drivers/fatfs/drvfatfs.mk -text
 os/vfs/drivers/overlay/drvoverlay.c -text
 os/vfs/drivers/overlay/drvoverlay.h -text
-os/vfs/drivers/overlay/drvoverlay.mk -text
 os/vfs/drivers/streams/drvstreams.c -text
 os/vfs/drivers/streams/drvstreams.h -text
-os/vfs/drivers/streams/drvstreams.mk -text
 os/vfs/include/vfs.h -text
 os/vfs/include/vfschecks.h -text
 os/vfs/include/vfsdrivers.h -text
