@@ -1090,7 +1090,7 @@
 #define STM32_HAS_ADC4                      FALSE
 
 /* CAN attributes.*/
-#define STM32_CAN_MAX_FILTERS               14
+#define STM32_CAN_MAX_FILTERS               28
 #define STM32_HAS_CAN1                      TRUE
 #define STM32_HAS_CAN2                      TRUE
 #define STM32_HAS_CAN3                      FALSE
@@ -1173,9 +1173,9 @@
 #define STM32_I2C3_TX_DMA_CHN               0x00000030
 
 #define STM32_HAS_I2C4                      TRUE
-#define STM32_I2C4_RX_DMA_MSK               (STM32_DMA_STREAM_ID_MSK(2, 2))
+#define STM32_I2C4_RX_DMA_MSK               (STM32_DMA_STREAM_ID_MSK(2, 1))
 #define STM32_I2C4_RX_DMA_CHN               0x00000000
-#define STM32_I2C4_TX_DMA_MSK               (STM32_DMA_STREAM_ID_MSK(2, 1))
+#define STM32_I2C4_TX_DMA_MSK               (STM32_DMA_STREAM_ID_MSK(2, 2))
 #define STM32_I2C4_TX_DMA_CHN               0x00000000
 
 /* QUADSPI attributes.*/
