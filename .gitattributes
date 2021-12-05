@@ -3535,6 +3535,7 @@ os/vfs/src/vfsparser.c -text
 os/vfs/templates/vfsconf.h -text
 os/vfs/various/syscalls.c -text
 os/vfs/vfs.mk -text
+os/vfs/vfs_syscalls.mk -text
 /readme.txt -text
 /release_note_next.txt -text
 test/corebmk/config.fmpp -text
