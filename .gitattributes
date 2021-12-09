@@ -3526,12 +3526,14 @@ os/vfs/drivers/overlay/drvoverlay.h -text
 os/vfs/drivers/streams/drvstreams.c -text
 os/vfs/drivers/streams/drvstreams.h -text
 os/vfs/include/vfs.h -text
+os/vfs/include/vfsbuffers.h -text
 os/vfs/include/vfschecks.h -text
 os/vfs/include/vfsdrivers.h -text
 os/vfs/include/vfserrors.h -text
 os/vfs/include/vfsnodes.h -text
 os/vfs/include/vfsparser.h -text
 os/vfs/src/vfs.c -text
+os/vfs/src/vfsbuffers.c -text
 os/vfs/src/vfsparser.c -text
 os/vfs/templates/vfsconf.h -text
 os/vfs/various/syscalls.c -text
