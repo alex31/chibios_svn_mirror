@@ -3455,6 +3455,7 @@ os/rt/src/chvt.c -text
 os/rt/templates/chconf.h -text
 os/rt/templates/meta/module.c -text
 os/rt/templates/meta/module.h -text
+os/sb/common/sbsysc.h -text
 os/sb/host/compilers/GCC/sbexc.S -text
 os/sb/host/compilers/GCC/sbhost.mk -text
 os/sb/host/sb.h -text
