@@ -1849,9 +1849,10 @@ os/common/startup/e200/devices/SPC56ELxx/boot.S -text
 os/common/startup/e200/devices/SPC56ELxx/boot.h -text
 os/common/startup/e200/devices/SPC56ELxx/intc.h -text
 os/common/startup/e200/devices/SPC56ELxx/ppcparams.h -text
-os/common/utils/oop/include/oop_base_object.h -text
-os/common/utils/oop/include/oop_referenced_object.h -text
-os/common/utils/oop/include/oop_synchronized_object.h -text
+os/common/utils/include/errcodes.h -text
+os/common/utils/include/oop_base_object.h -text
+os/common/utils/include/oop_referenced_object.h -text
+os/common/utils/include/oop_synchronized_object.h -text
 os/common/utils/utils.mk -text
 os/ex/devices/ADI/adxl355.c -text
 os/ex/devices/ADI/adxl355.h -text
@@ -3535,7 +3536,6 @@ os/vfs/include/vfs.h -text
 os/vfs/include/vfsbuffers.h -text
 os/vfs/include/vfschecks.h -text
 os/vfs/include/vfsdrivers.h -text
-os/vfs/include/vfserrors.h -text
 os/vfs/include/vfsnodes.h -text
 os/vfs/include/vfsparser.h -text
 os/vfs/include/vfspaths.h -text
