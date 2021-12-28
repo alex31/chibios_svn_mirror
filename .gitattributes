@@ -787,6 +787,7 @@ demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC/cfg/chconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC/cfg/halconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC/cfg/mcuconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC/cfg/sbconf.h -text
+demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC/cfg/vfsconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_DYNAMIC[!!-~](build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
@@ -801,6 +802,7 @@ demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/chconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/halconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/mcuconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/sbconf.h -text
+demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/vfsconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC[!!-~](build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
