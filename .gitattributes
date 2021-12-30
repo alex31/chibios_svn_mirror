@@ -1116,6 +1116,16 @@ demos/various/RT-Win32-Simulator/cfg/halconf.h -text
 demos/various/RT-Win32-Simulator/cfg/mcuconf.h -text
 demos/various/RT-Win32-Simulator/main.c -text
 demos/various/RT-Win32-Simulator/readme.txt -text
+demos/various/SB-CLIENT-256k-08180000-128k-20060000/.cproject -text
+demos/various/SB-CLIENT-256k-08180000-128k-20060000/.project -text
+demos/various/SB-CLIENT-256k-08180000-128k-20060000/Makefile -text
+demos/various/SB-CLIENT-256k-08180000-128k-20060000/main.c -text
+demos/various/SB-CLIENT-256k-08180000-128k-20060000/sandbox.ld -text
+demos/various/SB-CLIENT-256k-081C0000-128k-20080000/.cproject -text
+demos/various/SB-CLIENT-256k-081C0000-128k-20080000/.project -text
+demos/various/SB-CLIENT-256k-081C0000-128k-20080000/Makefile -text
+demos/various/SB-CLIENT-256k-081C0000-128k-20080000/main.c -text
+demos/various/SB-CLIENT-256k-081C0000-128k-20080000/sandbox.ld -text
 demos/various/SB-CLIENT-32k-08070000-4k-2001E000/.cproject -text
 demos/various/SB-CLIENT-32k-08070000-4k-2001E000/.project -text
 demos/various/SB-CLIENT-32k-08070000-4k-2001E000/Makefile -text
