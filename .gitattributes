@@ -3407,7 +3407,6 @@ os/oslib/src/chmemheaps.c -text
 os/oslib/src/chmempools.c -text
 os/oslib/src/chobjcaches.c -text
 os/oslib/src/chpipes.c -text
-os/readme.txt -text
 os/rt/dox/rt.dox -text
 os/rt/dox/rt_arch.dox -text
 os/rt/include/ch.h -text
