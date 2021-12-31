@@ -3570,6 +3570,7 @@ os/vfs/include/vfsparser.h -text
 os/vfs/include/vfspaths.h -text
 os/vfs/src/vfs.c -text
 os/vfs/src/vfsbuffers.c -text
+os/vfs/src/vfsdrivers.c -text
 os/vfs/src/vfsparser.c -text
 os/vfs/src/vfspaths.c -text
 os/vfs/templates/vfsconf.h -text
