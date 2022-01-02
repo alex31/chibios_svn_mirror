@@ -3495,10 +3495,11 @@ os/sb/host/sbhost.c -text
 os/sb/host/sbhost.h -text
 os/sb/host/sbposix.c -text
 os/sb/host/sbposix.h -text
+os/sb/user/lib/libdir.c -text
+os/sb/user/lib/syscalls.c -text
 os/sb/user/sbuser.c -text
 os/sb/user/sbuser.h -text
 os/sb/user/sbuser.mk -text
-os/sb/various/syscalls.c -text
 os/se/include/se.h -text
 os/se/include/seloops.h -text
 os/se/include/seregs.h -text
