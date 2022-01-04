@@ -3491,6 +3491,8 @@ os/sb/host/compilers/GCC/sbhost.mk -text
 os/sb/host/sb.h -text
 os/sb/host/sbapi.c -text
 os/sb/host/sbapi.h -text
+os/sb/host/sbelf.c -text
+os/sb/host/sbelf.h -text
 os/sb/host/sbhost.c -text
 os/sb/host/sbhost.h -text
 os/sb/host/sbposix.c -text
