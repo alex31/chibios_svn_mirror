@@ -1658,6 +1658,7 @@ os/common/startup/ARM/compilers/GCC/vectors.S -text
 os/common/startup/ARM/devices/LPC214x/armparams.h -text
 os/common/startup/ARM/devices/LPC214x/lpc214x.h -text
 os/common/startup/ARMCMx-SB/compilers/GCC/crt0.S -text
+os/common/startup/ARMCMx-SB/compilers/GCC/ld/ram_sandbox.ld -text
 os/common/startup/ARMCMx-SB/compilers/GCC/ld/rules.ld -text
 os/common/startup/ARMCMx-SB/compilers/GCC/ld/rules_code.ld -text
 os/common/startup/ARMCMx-SB/compilers/GCC/ld/rules_data.ld -text
@@ -3505,6 +3506,10 @@ os/rt/src/chvt.c -text
 os/rt/templates/chconf.h -text
 os/rt/templates/meta/module.c -text
 os/rt/templates/meta/module.h -text
+os/sb/apps/msh/.cproject -text
+os/sb/apps/msh/.project -text
+os/sb/apps/msh/Makefile -text
+os/sb/apps/msh/main.c -text
 os/sb/common/dirent.h -text
 os/sb/common/sbsysc.h -text
 os/sb/host/compilers/GCC/sbexc.S -text
