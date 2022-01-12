@@ -3519,6 +3519,8 @@ os/sb/host/sbapi.c -text
 os/sb/host/sbapi.h -text
 os/sb/host/sbelf.c -text
 os/sb/host/sbelf.h -text
+os/sb/host/sbelf_old.c -text
+os/sb/host/sbelf_old.h -text
 os/sb/host/sbhost.c -text
 os/sb/host/sbhost.h -text
 os/sb/host/sbposix.c -text
