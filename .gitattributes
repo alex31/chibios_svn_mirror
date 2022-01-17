@@ -3529,6 +3529,7 @@ os/sb/host/sbposix.c -text
 os/sb/host/sbposix.h -text
 os/sb/user/lib/libdir.c -text
 os/sb/user/lib/syscalls.c -text
+os/sb/user/lib/syscalls.h -text
 os/sb/user/sbuser.c -text
 os/sb/user/sbuser.h -text
 os/sb/user/sbuser.mk -text
