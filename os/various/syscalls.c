@@ -195,21 +195,14 @@ void _exit(int status) {
 
 /***************************************************************************/
 
+__attribute__((used))
+int _kill(int pid, int sig) {
 
-__attribute__((weak))
-int _kill_r(struct _reent *r, int pid, int sig) {
   (void) pid;
   (void) sig;
 
   chSysHalt("kill");
   abort();
-}
-
-__attribute__((weak))
-int _kill(int pid, int sig) {
-  (void) pid;
-  (void) sig;
-  return -1;
 }
 
 /***************************************************************************/
