@@ -3512,7 +3512,9 @@ os/sb/apps/msh/.cproject -text
 os/sb/apps/msh/.project -text
 os/sb/apps/msh/Makefile -text
 os/sb/apps/msh/main.c -text
+os/sb/apps/msh/source/runelf.c -text
 os/sb/common/dirent.h -text
+os/sb/common/sbhdr.h -text
 os/sb/common/sbsysc.h -text
 os/sb/host/compilers/GCC/sbexc.S -text
 os/sb/host/compilers/GCC/sbhost.mk -text
