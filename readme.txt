@@ -73,11 +73,33 @@
 *** Releases and Change Log                                               ***
 *****************************************************************************
 
+*** 21.11.2 ***
+- FIX: Fixed missing exit condition in sioSynchronizeRX() and
+       sioSynchronizeTX() (bug #1211).
+- FIX: Some MISRA-related fixes.
+- FIX: Fixed missing check in chobjcaches.h (bug #1210).
+- FIX: Fixed misspelled chTraceSuspendI() function name (bug #1209).
+- FIX: Fixed RT testbuild application broken (bug #1208).
+
 *** 21.11.1 ***
+- NEW: Added EFL driver implementation for STM32G4xx.
+- NEW: STM32G0B1 USBv2 driver.
+- NEW: USBv1 driver optimization and removal of a potential race condition
+       (not demonstrated).
+- NEW: Added elfAcquireBus()/eflReleaseBus() functions to EFL driver.
+- NEW: Added STM32L073RZ-Nucleo64 to USB-CDC "multi" demo. Removed old demo.
+- NEW: Added an STM32 WDG "multi" demo. Removed all old WDG demos.
 - NEW: Added option to copy vectors in RAM on GCC startup for ARMv6-M,
        ARMv7-M and ARMv8-M-ML.
 - NEW: On STM32WBxx added a check on STM32_LSI_ENABLE required by IWDG.
 - NEW: Added SPIv2 support also to STM32WB and STM32WL.
+- FIX: Fixed PWR_CR2_USV not set in STM32L4+ mcuconf.h file (bug #1207).
+- FIX: Fixed USB not enabled on STM32F103x6 (bug #1206).
+- FIX: Fixed RT test suite build fails when CH_CFG_USE_TIMESTAMP is FALSE
+       (bug #1205).
+- FIX: Fixed wrong number of CAN filters for STM32L496/9A6 (bug #1204).
+- FIX: Fixed DMA stream not disabled in STM32 QUADSPIv1 driver (bug #1203).
+- FIX: Fixed I2C4 DMA streams for STM32L496 (bug #1202).
 - FIX: Fixed STM32_SDMMC2_NUMBER on STM32H7 (bug #1201).
 - FIX: Fixed STM32G0B1 demo application hangs debuggers (bug #1200).
 
