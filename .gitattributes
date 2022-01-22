@@ -3508,6 +3508,10 @@ os/rt/src/chvt.c -text
 os/rt/templates/chconf.h -text
 os/rt/templates/meta/module.c -text
 os/rt/templates/meta/module.h -text
+os/sb/apps/ls/.cproject -text
+os/sb/apps/ls/.project -text
+os/sb/apps/ls/Makefile -text
+os/sb/apps/ls/main.c -text
 os/sb/apps/msh/.cproject -text
 os/sb/apps/msh/.project -text
 os/sb/apps/msh/Makefile -text
