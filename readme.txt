@@ -74,6 +74,10 @@
 *****************************************************************************
 
 *** 21.11.2 ***
+- FIX: Fixed invalid STM32_OTG_STEPPING for STM32F40_41xxx (bug #1214).
+- FIX: Fixed SPIv2 driver compile fails when SPI_USE_SYNCHRONIZATION is FALSE
+       (bug #1213).
+- FIX: Fixed invalid state transition in SNOR flash driver (bug #1212).
 - FIX: Fixed missing exit condition in sioSynchronizeRX() and
        sioSynchronizeTX() (bug #1211).
 - FIX: Some MISRA-related fixes.
