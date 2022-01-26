@@ -1,0 +1,5 @@
+<map id="macInit" name="macInit">
+<area shape="rect" id="node1" title="MAC Driver initialization." alt="" coords="5,5,68,29"/>
+<area shape="rect" id="node2" href="$group___m_a_c.html#ga37e276cbed823fb80fdce3df3f9f7ddf" title="Low level MAC initialization." alt="" coords="116,5,201,29"/>
+<area shape="rect" id="node3" href="$group___m_a_c.html#ga34d60b00ad9794d52da6833e18c9ec70" title="Initialize the standard part of a MACDriver structure." alt="" coords="249,5,347,29"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="chThdSleep" name="chThdSleep">
+<area shape="rect" id="node1" title="Suspends the invoking thread for the specified time." alt="" coords="5,143,92,167"/>
+<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="148,60,227,84"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state." alt="" coords="142,143,233,167"/>
+<area shape="rect" id="node8" href="$group__threads.html#ga25f3d47f182d7cdafbab9bb975867174" title="Suspends the invoking thread for the specified number of ticks." alt="" coords="140,193,235,217"/>
+<area shape="rect" id="node3" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="300,5,417,29"/>
+<area shape="rect" id="node4" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="287,54,430,90"/>
+<area shape="rect" id="node6" href="$group__checks__assertions.html#ga329d7f08bd28259ea79839a61abf8a7a" title="Guard code for chSysUnlock()." alt="" coords="293,115,424,139"/>
+<area shape="rect" id="node7" href="$group__statistics.html#gad42de44c4b5fabeeb849da71ee1d4b72" title="Stops the measurement of a thread critical zone." alt="" coords="288,163,429,199"/>
+<area shape="rect" id="node9" href="$group__scheduler.html#gae638842e01309c38d888bb91a4845b2b" title="Puts the current thread to sleep into the specified state with timeout specification." alt="" coords="283,224,435,248"/>
+</map>

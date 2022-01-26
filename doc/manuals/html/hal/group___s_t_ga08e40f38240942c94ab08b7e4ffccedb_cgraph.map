@@ -1,0 +1,6 @@
+<map id="stSetAlarm" name="stSetAlarm">
+<area shape="rect" id="node1" title="Sets the alarm zero time." alt="" coords="5,29,87,53"/>
+<area shape="rect" id="node2" href="$group___s_t.html#gaa00d0d75daf48ccb85f271695a0789c9" title="Sets the alarm time." alt="" coords="135,5,243,29"/>
+<area shape="rect" id="node3" href="$group___s_t.html#ga667a5c35d5653b5101fa5f13ccb6a285" title="Determines if the alarm zero is active." alt="" coords="136,53,241,77"/>
+<area shape="rect" id="node4" href="$group___s_t.html#ga3092fee3beb683e12a1d807eb2535b9d" title="Determines if the alarm is active." alt="" coords="291,53,429,77"/>
+</map>

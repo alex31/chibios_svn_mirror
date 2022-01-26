@@ -1,0 +1,28 @@
+var chearly_8h =
+[
+    [ "__CH_STRINGIFY", "group__os__structures.html#gac702c9a352a3d1070c261c9bda2af215", null ],
+    [ "__CH_OFFSETOF", "group__os__structures.html#ga15e90a06a22073c126e9f33c587f1395", null ],
+    [ "__CH_USED", "group__os__structures.html#ga4587b851ecf5feb2d6d0e0f4bdd2427d", null ],
+    [ "likely", "group__os__structures.html#ga217a0bd562b98ae8c2ffce44935351e1", null ],
+    [ "unlikely", "group__os__structures.html#gac6c45889010c1bd68631771b64f18101", null ],
+    [ "threadref", "group__os__structures.html#ga02351f8db086c607d12967369b4aecdd", null ],
+    [ "rtcnt_t", "group__os__structures.html#gab991e1c90fe992f1105c6871eab7b058", null ],
+    [ "rttime_t", "group__os__structures.html#ga6e1d711c285562872a78077cb92e8177", null ],
+    [ "syssts_t", "group__os__structures.html#ga5cfb9e335dc5738cf2b31cddfcf37fa5", null ],
+    [ "stkalign_t", "group__os__structures.html#gaeaa0d7b62523b55ba4f915800fed006b", null ],
+    [ "tmode_t", "group__os__structures.html#ga6a5d8a9ab4f4a012d6763548c3b21ec7", null ],
+    [ "tstate_t", "group__os__structures.html#ga52d7ed152360a74632afa37bbeeca7ca", null ],
+    [ "trefs_t", "group__os__structures.html#ga205898ea166481281fec650f2a7e85a3", null ],
+    [ "tslices_t", "group__os__structures.html#gaba0f430efd76bf097164ae3be7d25ba9", null ],
+    [ "tprio_t", "group__os__structures.html#ga5f2488ba73e5969cbc0f7033735374ee", null ],
+    [ "msg_t", "group__os__structures.html#ga35bcb0c321cd7bc45bf1a11fa17ebdd3", null ],
+    [ "eventid_t", "group__os__structures.html#gada5ed33935b8347e213aeb76582642e7", null ],
+    [ "eventmask_t", "group__os__structures.html#gabff0c32475baf20ea8c5c710d6e8b708", null ],
+    [ "eventflags_t", "group__os__structures.html#ga13ba2b73b1edf31a8980b77e3b32e22c", null ],
+    [ "cnt_t", "group__os__structures.html#ga090b3bab5602157ebf706a44041dc05e", null ],
+    [ "ucnt_t", "group__os__structures.html#gac8c7a7592968de0dc5a8d6ebe7fa700e", null ],
+    [ "core_id_t", "group__os__structures.html#ga373f3da80f596ac4644063253322814b", null ],
+    [ "thread_t", "group__os__structures.html#gaf01d0138673ae94162d218299408f142", null ],
+    [ "os_instance_t", "group__os__structures.html#gaada579c4e515131a7bf4def86af36d39", null ],
+    [ "chSysHalt", "group__os__structures.html#gaffab4052111407f092c7c65466a61450", null ]
+];

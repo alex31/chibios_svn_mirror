@@ -1,0 +1,4 @@
+<map id="hal_wspi_config" name="hal_wspi_config">
+<area shape="rect" id="node1" title="Driver configuration structure." alt="" coords="5,5,156,75"/>
+<area shape="rect" id="node2" href="$structhal__wspi__driver.html" title="Structure representing an WSPI driver." alt="" coords="7,147,155,252"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="io_queue" name="io_queue">
+<area shape="rect" id="node1" title="Generic I/O queue structure." alt="" coords="18,135,106,264"/>
+<area shape="rect" id="node2" href="$structthreads__queue__t.html" title="Type of a thread queue." alt="" coords="5,5,119,75"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GPTDriver" name="GPTDriver">
+<area shape="rect" id="node1" title="Structure representing a GPT driver." alt="" coords="18,5,93,75"/>
+<area shape="rect" id="node2" href="$struct_g_p_t_config.html" title="Driver configuration structure." alt="" coords="11,135,100,204"/>
+</map>

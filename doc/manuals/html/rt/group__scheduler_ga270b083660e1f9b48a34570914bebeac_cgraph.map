@@ -1,0 +1,11 @@
+<map id="chSchWakeupS" name="chSchWakeupS">
+<area shape="rect" id="node1" title="Wakes up a thread." alt="" coords="5,125,112,149"/>
+<area shape="rect" id="node2" href="$group__scheduler.html#ga630797ad80fc35b3da32c5d39e172d51" title="Inserts a thread in the Ready List placing it ahead its peers." alt="" coords="163,53,290,77"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#gaf6f96c0e1b6893486e5779598b7b1ceb" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="161,101,292,125"/>
+<area shape="rect" id="node7" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="163,149,290,173"/>
+<area shape="rect" id="node9" href="$group__system.html#gaec800c510aa28cf4f0111973674d4f42" title="Notifies an OS instance to check for reschedule." alt="" coords="160,197,293,221"/>
+<area shape="rect" id="node3" href="$group__trace.html#ga4d897c6faeb202f8e8bf0d5b52903f32" title="Inserts in the circular debug trace buffer a ready record." alt="" coords="374,53,470,77"/>
+<area shape="rect" id="node4" href="$group__os__lists.html#ga42e37cf1054a9d3c6960aa227ad44f55" title="Inserts an element in the priority queue placing it ahead of its peers." alt="" coords="343,5,501,29"/>
+<area shape="rect" id="node6" href="$group__os__lists.html#gaeccb9f7a76f3b19cd971341bc94f44d8" title="Inserts an element in the priority queue placing it behind its peers." alt="" coords="341,101,503,125"/>
+<area shape="rect" id="node8" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="384,149,460,173"/>
+</map>

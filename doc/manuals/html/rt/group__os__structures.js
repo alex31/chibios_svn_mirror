@@ -1,0 +1,118 @@
+var group__os__structures =
+[
+    [ "ch_virtual_timer", "structch__virtual__timer.html", [
+      [ "dlist", "structch__virtual__timer.html#a20cc794c04384085022cb3a7e59476c3", null ],
+      [ "func", "structch__virtual__timer.html#ad18b3febcdf62c619e19f953abf815d0", null ],
+      [ "par", "structch__virtual__timer.html#a5398e69b15d931d7a46d47a5b6e0c2ba", null ],
+      [ "reload", "structch__virtual__timer.html#aad2495a3511b57b4df92d0407b69349d", null ]
+    ] ],
+    [ "ch_virtual_timers_list", "structch__virtual__timers__list.html", [
+      [ "dlist", "structch__virtual__timers__list.html#a29362865c3b0e5a711d62a61d4243377", null ],
+      [ "systime", "structch__virtual__timers__list.html#a6e1f414f9d7f96efc1d9d2b795af5afb", null ],
+      [ "lasttime", "structch__virtual__timers__list.html#a8042974c10e77112e96d18c2a46d3ca7", null ],
+      [ "laststamp", "structch__virtual__timers__list.html#a0d6bda70f445b2d9aaf3f0bd101a9912", null ]
+    ] ],
+    [ "ch_registry", "structch__registry.html", [
+      [ "queue", "structch__registry.html#a889907e9e389ba6c061b3e6873e0bcc9", null ]
+    ] ],
+    [ "ch_threads_queue", "structch__threads__queue.html", [
+      [ "queue", "structch__threads__queue.html#a1b273c2226a248ae97b3ac3cf6081658", null ]
+    ] ],
+    [ "ch_thread", "structch__thread.html", [
+      [ "list", "structch__thread.html#a7b2f33fed2ff9c2c0da8f4d9d7a30bc4", null ],
+      [ "queue", "structch__thread.html#a0179f22040a546cd3dbd3debcb80b496", null ],
+      [ "pqueue", "structch__thread.html#ab26cb532ca7ce8ffb75d76ffde053997", null ],
+      [ "hdr", "structch__thread.html#a0c2b28cbc938985b296d6ccadc1faa98", null ],
+      [ "ctx", "structch__thread.html#abe79ef149bee1547a49b28f98bc3f4e6", null ],
+      [ "rqueue", "structch__thread.html#adec15f50779695730184f86050bfea14", null ],
+      [ "owner", "structch__thread.html#afe19ef7a476b7a8d0db744277b5e6d8a", null ],
+      [ "name", "structch__thread.html#a43b780bc8460104b1516b5669de6254d", null ],
+      [ "wabase", "structch__thread.html#a985af09d7e7d9017a6ae93dfd1b940e9", null ],
+      [ "state", "structch__thread.html#aa5aaa108409a0fda860ffb05e9c2d4bd", null ],
+      [ "flags", "structch__thread.html#af0c912805828d525aee8b7d2ed483f05", null ],
+      [ "refs", "structch__thread.html#ac089578e073633e2c7f02552d80a4183", null ],
+      [ "ticks", "structch__thread.html#aa2687af6ade58eb4813d7d442855e062", null ],
+      [ "time", "structch__thread.html#aaaf70a9fd08768199cc918624d5a03ad", null ],
+      [ "rdymsg", "structch__thread.html#a1553a02a32b6903a20ed46fbb8e22023", null ],
+      [ "exitcode", "structch__thread.html#a9bdd45474bb6e223e35e5881aac83087", null ],
+      [ "wtobjp", "structch__thread.html#a88a9acd865ff40000ebbcba4bba2d479", null ],
+      [ "wttrp", "structch__thread.html#a856e42ddb3314527aa0ccbf1abd6840d", null ],
+      [ "sentmsg", "structch__thread.html#aa1519d6fcc1ae60ea4319471d1d6519a", null ],
+      [ "wtsemp", "structch__thread.html#ace7b4aa7d1187a91bb26d8109b965122", null ],
+      [ "wtmtxp", "structch__thread.html#a079b46d79f5e63e7b322547956c03b68", null ],
+      [ "ewmask", "structch__thread.html#aafffb64e89d76bbe67a00e23ef574beb", null ],
+      [ "u", "structch__thread.html#ab43a6211527cd8eb45957d401597393e", null ],
+      [ "waiting", "structch__thread.html#a7e29a2a5c40f64e96129770570e0db4f", null ],
+      [ "msgqueue", "structch__thread.html#ab95dabc31f9504a9c592015575486192", null ],
+      [ "epending", "structch__thread.html#a7692c9ad845db0484aa059ded99e8b14", null ],
+      [ "mtxlist", "structch__thread.html#a70cc5dae708945afe665b950f93b2ea6", null ],
+      [ "realprio", "structch__thread.html#a3099764952ef2d266f641cd142a857b8", null ],
+      [ "mpool", "structch__thread.html#a3e58f6dd8d283f76f7790577d2eadee6", null ],
+      [ "stats", "structch__thread.html#a139315fc48ccccf09c3bddeb4c75fde8", null ]
+    ] ],
+    [ "ch_ready_list", "structch__ready__list.html", [
+      [ "pqueue", "structch__ready__list.html#a6134af6d5ab01ff6368cf11ff0a6b144", null ],
+      [ "current", "structch__ready__list.html#a0f3101d4b33707afc468131cf56a8955", null ]
+    ] ],
+    [ "ch_os_instance_config", "structch__os__instance__config.html", [
+      [ "name", "structch__os__instance__config.html#ada047727ca28f7f98dbcf722430c44b2", null ],
+      [ "mainthread_base", "structch__os__instance__config.html#a16ff9ab0bbf218efb13c9780ebe94c8b", null ],
+      [ "mainthread_end", "structch__os__instance__config.html#a424ac016fce2df8df03e15358246e705", null ],
+      [ "idlethread_base", "structch__os__instance__config.html#a3b341b301464c73147c2ff4287df385b", null ],
+      [ "idlethread_end", "structch__os__instance__config.html#a3ef0b5972e569d4e434252ca2eff22a9", null ]
+    ] ],
+    [ "ch_os_instance", "structch__os__instance.html", [
+      [ "rlist", "structch__os__instance.html#ae403815a1645bee86e03a79484c600f4", null ],
+      [ "vtlist", "structch__os__instance.html#a934d844582081f9b9d26666c742c2898", null ],
+      [ "reglist", "structch__os__instance.html#a4503229677a1702ac0e93b699d6d81f9", null ],
+      [ "core_id", "structch__os__instance.html#abdb08e1c050667466759ae5ebe825596", null ],
+      [ "rfcu", "structch__os__instance.html#a4d9083048b9d720cb95a55b17b895e11", null ],
+      [ "config", "structch__os__instance.html#a65de2eee8df1ee3cb48d04a39b92246c", null ],
+      [ "mainthread", "structch__os__instance.html#a8ad9db1f9cb09811c541771a52151882", null ],
+      [ "dbg", "structch__os__instance.html#ae3fcfd1eb96371051abfff7140d249b8", null ],
+      [ "trace_buffer", "structch__os__instance.html#af4c07897b351746fa5c006610a5aa07d", null ],
+      [ "kernel_stats", "structch__os__instance.html#a130ba2f2ceaa4ccc7edf9a2f46ab6308", null ]
+    ] ],
+    [ "ch_system", "structch__system.html", [
+      [ "state", "structch__system.html#aa986be4e41780e1a9d9ad1090f7d422a", null ],
+      [ "instances", "structch__system.html#a8a6075acde45d70f97865188cbc21c02", null ],
+      [ "tmc", "structch__system.html#a2e8dec0950f31e8611425a65623496fd", null ],
+      [ "reglist", "structch__system.html#ae4a36e8106857dcbd1802437a93da7a5", null ],
+      [ "rfcu", "structch__system.html#a964a6783cfd0f833eab19c763c0156e5", null ]
+    ] ],
+    [ "__CH_STRINGIFY", "group__os__structures.html#gac702c9a352a3d1070c261c9bda2af215", null ],
+    [ "__CH_OFFSETOF", "group__os__structures.html#ga15e90a06a22073c126e9f33c587f1395", null ],
+    [ "__CH_USED", "group__os__structures.html#ga4587b851ecf5feb2d6d0e0f4bdd2427d", null ],
+    [ "likely", "group__os__structures.html#ga217a0bd562b98ae8c2ffce44935351e1", null ],
+    [ "unlikely", "group__os__structures.html#gac6c45889010c1bd68631771b64f18101", null ],
+    [ "threadref", "group__os__structures.html#ga02351f8db086c607d12967369b4aecdd", null ],
+    [ "rtcnt_t", "group__os__structures.html#gab991e1c90fe992f1105c6871eab7b058", null ],
+    [ "rttime_t", "group__os__structures.html#ga6e1d711c285562872a78077cb92e8177", null ],
+    [ "syssts_t", "group__os__structures.html#ga5cfb9e335dc5738cf2b31cddfcf37fa5", null ],
+    [ "stkalign_t", "group__os__structures.html#gaeaa0d7b62523b55ba4f915800fed006b", null ],
+    [ "tmode_t", "group__os__structures.html#ga6a5d8a9ab4f4a012d6763548c3b21ec7", null ],
+    [ "tstate_t", "group__os__structures.html#ga52d7ed152360a74632afa37bbeeca7ca", null ],
+    [ "trefs_t", "group__os__structures.html#ga205898ea166481281fec650f2a7e85a3", null ],
+    [ "tslices_t", "group__os__structures.html#gaba0f430efd76bf097164ae3be7d25ba9", null ],
+    [ "tprio_t", "group__os__structures.html#ga5f2488ba73e5969cbc0f7033735374ee", null ],
+    [ "msg_t", "group__os__structures.html#ga35bcb0c321cd7bc45bf1a11fa17ebdd3", null ],
+    [ "eventid_t", "group__os__structures.html#gada5ed33935b8347e213aeb76582642e7", null ],
+    [ "eventmask_t", "group__os__structures.html#gabff0c32475baf20ea8c5c710d6e8b708", null ],
+    [ "eventflags_t", "group__os__structures.html#ga13ba2b73b1edf31a8980b77e3b32e22c", null ],
+    [ "cnt_t", "group__os__structures.html#ga090b3bab5602157ebf706a44041dc05e", null ],
+    [ "ucnt_t", "group__os__structures.html#gac8c7a7592968de0dc5a8d6ebe7fa700e", null ],
+    [ "core_id_t", "group__os__structures.html#ga373f3da80f596ac4644063253322814b", null ],
+    [ "thread_t", "group__os__structures.html#gaf01d0138673ae94162d218299408f142", null ],
+    [ "os_instance_t", "group__os__structures.html#gaada579c4e515131a7bf4def86af36d39", null ],
+    [ "virtual_timer_t", "group__os__structures.html#ga2965217464109cdd7b84a859a2248a97", null ],
+    [ "vtfunc_t", "group__os__structures.html#gacc718879a50b206b560f366668a88667", null ],
+    [ "virtual_timers_list_t", "group__os__structures.html#ga25aa7b931aaf19c23e61d2ed1a120d71", null ],
+    [ "registry_t", "group__os__structures.html#ga671db55738b4371a51f1c98f514843ac", null ],
+    [ "thread_reference_t", "group__os__structures.html#gace90c31314359540aaddee0628ec964b", null ],
+    [ "threads_queue_t", "group__os__structures.html#ga326e064663ec2ca1e1ea7de1fb5f0cb7", null ],
+    [ "ready_list_t", "group__os__structures.html#ga12610b96ee031de066d1bfaedd356073", null ],
+    [ "os_instance_config_t", "group__os__structures.html#gab50645e373bdc3f43044e02dac416467", null ],
+    [ "ch_system_t", "group__os__structures.html#ga7555e410717910f4265ec1abe2c9f427", null ],
+    [ "system_state_t", "group__os__structures.html#gaeaac97ef8a153a4e1abc636f535656eb", null ],
+    [ "chSysHalt", "group__os__structures.html#gaffab4052111407f092c7c65466a61450", null ]
+];

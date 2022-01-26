@@ -1,0 +1,5 @@
+<map id="trace_buffer_t" name="trace_buffer_t">
+<area shape="rect" id="node1" title="Trace buffer header." alt="" coords="5,528,101,609"/>
+<area shape="rect" id="node2" href="$structtrace__event__t.html" title="Trace buffer record." alt="" coords="6,267,101,456"/>
+<area shape="rect" id="node3" href="$structch__thread.html" title="Structure representing a thread." alt="" coords="7,5,100,195"/>
+</map>

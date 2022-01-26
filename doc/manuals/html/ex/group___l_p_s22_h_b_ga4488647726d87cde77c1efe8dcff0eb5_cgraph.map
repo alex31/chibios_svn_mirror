@@ -1,0 +1,4 @@
+<map id="thermo_read_raw" name="thermo_read_raw">
+<area shape="rect" id="node1" title="Retrieves raw data from the BaseThermometer." alt="" coords="5,5,121,29"/>
+<area shape="rect" id="node2" href="$group___l_p_s22_h_b.html#ga9fd14e6f0fbfc0a0c93eede60aae40a4" title="Reads registers value using I2C." alt="" coords="169,5,325,29"/>
+</map>

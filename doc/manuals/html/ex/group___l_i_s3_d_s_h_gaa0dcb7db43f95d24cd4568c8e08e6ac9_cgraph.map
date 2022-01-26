@@ -1,0 +1,5 @@
+<map id="acc_read_cooked" name="acc_read_cooked">
+<area shape="rect" id="node1" title="Retrieves cooked data from the BaseAccelerometer." alt="" coords="5,5,121,29"/>
+<area shape="rect" id="node2" href="$group___l_i_s3_d_s_h.html#gaaf84663d8ef1fb8e1e81c3520f15af40" title="Retrieves raw data from the BaseAccelerometer." alt="" coords="169,5,265,29"/>
+<area shape="rect" id="node3" href="$group___l_i_s3_d_s_h.html#ga5af4f4335bb90913e9756ac86774b751" title="Reads a generic register value using SPI." alt="" coords="313,5,464,29"/>
+</map>

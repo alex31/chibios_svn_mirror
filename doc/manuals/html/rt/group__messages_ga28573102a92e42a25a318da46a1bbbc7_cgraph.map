@@ -1,0 +1,9 @@
+<map id="chMsgReleaseS" name="chMsgReleaseS">
+<area shape="rect" id="node1" title="Releases the thread waiting on top of the messages queue." alt="" coords="5,31,113,55"/>
+<area shape="rect" id="node2" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="319,5,446,29"/>
+<area shape="rect" id="node4" href="$group__scheduler.html#ga270b083660e1f9b48a34570914bebeac" title="Wakes up a thread." alt="" coords="161,55,268,79"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="497,5,573,29"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga630797ad80fc35b3da32c5d39e172d51" title="Inserts a thread in the Ready List placing it ahead its peers." alt="" coords="319,53,446,77"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gaf6f96c0e1b6893486e5779598b7b1ceb" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="317,101,448,125"/>
+<area shape="rect" id="node7" href="$group__system.html#gaec800c510aa28cf4f0111973674d4f42" title="Notifies an OS instance to check for reschedule." alt="" coords="316,149,449,173"/>
+</map>

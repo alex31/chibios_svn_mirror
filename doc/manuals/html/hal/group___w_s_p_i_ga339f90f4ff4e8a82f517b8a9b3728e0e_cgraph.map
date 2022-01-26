@@ -1,0 +1,5 @@
+<map id="wspiInit" name="wspiInit">
+<area shape="rect" id="node1" title="WSPI Driver initialization." alt="" coords="5,5,69,29"/>
+<area shape="rect" id="node2" href="$group___w_s_p_i.html#ga02f4236960f84150bf6ef591a06ec483" title="Low level WSPI driver initialization." alt="" coords="117,5,204,29"/>
+<area shape="rect" id="node3" href="$group___w_s_p_i.html#ga02b995be7715bbb9b180fb3d8d5635e5" title="Initializes the standard part of a WSPIDriver structure." alt="" coords="252,5,351,29"/>
+</map>

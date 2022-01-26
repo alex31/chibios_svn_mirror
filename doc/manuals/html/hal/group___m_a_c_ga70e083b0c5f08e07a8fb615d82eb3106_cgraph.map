@@ -1,0 +1,5 @@
+<map id="macStart" name="macStart">
+<area shape="rect" id="node1" title="Configures and activates the MAC peripheral." alt="" coords="5,29,76,53"/>
+<area shape="rect" id="node2" href="$group___m_a_c.html#gac692ef12e2b14afd329e350501b529cb" title="Configures and activates the MAC peripheral." alt="" coords="124,5,217,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="126,53,215,77"/>
+</map>

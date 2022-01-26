@@ -1,0 +1,4 @@
+<map id="obqReleaseEmptyBufferI" name="obqReleaseEmptyBufferI">
+<area shape="rect" id="node1" title="Releases the next filled buffer back in the queue." alt="" coords="5,5,161,29"/>
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#gaf09bde5867505af235277e0a888044b8" title="Dequeues and wakes up one thread from the queue, if any." alt="" coords="209,5,371,29"/>
+</map>

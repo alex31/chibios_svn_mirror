@@ -1,0 +1,4 @@
+<map id="rtcGetAlarm" name="rtcGetAlarm">
+<area shape="rect" id="node1" title="Get current alarm." alt="" coords="5,5,92,29"/>
+<area shape="rect" id="node2" href="$group___r_t_c.html#gaef2de78e059fe2979526b18cf301f8d1" title="Get alarm time." alt="" coords="140,5,253,29"/>
+</map>

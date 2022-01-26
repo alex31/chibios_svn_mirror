@@ -1,0 +1,4 @@
+<map id="lis302dlStop" name="lis302dlStop">
+<area shape="rect" id="node1" title="Deactivates the LIS302DL Complex Driver peripheral." alt="" coords="5,5,96,29"/>
+<area shape="rect" id="node2" href="$group___l_i_s302_d_l.html#gab68cb63e3ab177443f563dba6af54737" title="Writes a value into a generic register using SPI." alt="" coords="144,5,299,29"/>
+</map>

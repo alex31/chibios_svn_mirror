@@ -1,0 +1,5 @@
+<map id="sioInit" name="sioInit">
+<area shape="rect" id="node1" title="SIO Driver initialization." alt="" coords="5,5,60,29"/>
+<area shape="rect" id="node2" href="$group___s_i_o.html#gab65f53c85dcf0b4f106bbcdfd7baea4f" title="Low level SIO driver initialization." alt="" coords="108,5,187,29"/>
+<area shape="rect" id="node3" href="$group___s_i_o.html#ga8c487e3b3c6ff916b7e65d2fbc9246c6" title="Initializes the standard part of a SIODriver structure." alt="" coords="235,5,325,29"/>
+</map>

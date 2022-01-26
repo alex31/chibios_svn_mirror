@@ -1,0 +1,6 @@
+<map id="chEvtGetAndClearEventsI" name="chEvtGetAndClearEventsI">
+<area shape="rect" id="node1" title="Clears the pending events specified in the events mask." alt="" coords="5,29,165,53"/>
+<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="213,5,336,29"/>
+<area shape="rect" id="node4" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="223,53,326,77"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="384,5,460,29"/>
+</map>

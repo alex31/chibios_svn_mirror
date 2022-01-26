@@ -1,0 +1,7 @@
+<map id="chMsgPollS" name="chMsgPollS">
+<area shape="rect" id="node1" title="Poll to check for an incoming message." alt="" coords="5,53,88,77"/>
+<area shape="rect" id="node2" href="$group__os__lists.html#gae6d0c42b828825a83e460829ac22657d" title="Removes the first&#45;out element from a queue and returns it." alt="" coords="136,5,280,29"/>
+<area shape="rect" id="node3" href="$group__messages.html#gaa2139fd65bc9a0b564fbed0acafc8a8f" title="Evaluates to true if the thread has pending messages." alt="" coords="151,53,265,77"/>
+<area shape="rect" id="node5" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="157,101,259,125"/>
+<area shape="rect" id="node4" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="328,53,451,77"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="chThdSetPriority" name="chThdSetPriority">
+<area shape="rect" id="node1" title="Changes the running thread priority level then reschedules if necessary." alt="" coords="5,181,116,205"/>
+<area shape="rect" id="node2" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable." alt="" coords="164,53,291,77"/>
+<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="188,156,267,180"/>
+<area shape="rect" id="node8" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state." alt="" coords="182,208,273,232"/>
+<area shape="rect" id="node11" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="176,256,279,280"/>
+<area shape="rect" id="node3" href="$group__scheduler.html#gaf4acc2ac7465a14dacba248c8447369a" title="Switches to the first thread on the runnable queue." alt="" coords="339,5,496,29"/>
+<area shape="rect" id="node4" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="354,53,481,77"/>
+<area shape="rect" id="node6" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="359,101,476,125"/>
+<area shape="rect" id="node7" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="346,150,489,186"/>
+<area shape="rect" id="node9" href="$group__checks__assertions.html#ga329d7f08bd28259ea79839a61abf8a7a" title="Guard code for chSysUnlock()." alt="" coords="352,211,483,235"/>
+<area shape="rect" id="node10" href="$group__statistics.html#gad42de44c4b5fabeeb849da71ee1d4b72" title="Stops the measurement of a thread critical zone." alt="" coords="347,259,488,295"/>
+</map>

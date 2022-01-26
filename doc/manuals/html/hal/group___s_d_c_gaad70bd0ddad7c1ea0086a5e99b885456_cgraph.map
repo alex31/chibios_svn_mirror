@@ -1,0 +1,4 @@
+<map id="_sdc_wait_for_transfer_state" name="_sdc_wait_for_transfer_state">
+<area shape="rect" id="node1" title="Wait for the card to complete pending operations." alt="" coords="5,5,148,41"/>
+<area shape="rect" id="node2" href="$group___s_d_c.html#ga93392c5297148eea683ec6d9bc79be3e" title="Sends an SDIO command with a short response expected and CRC." alt="" coords="196,11,369,35"/>
+</map>

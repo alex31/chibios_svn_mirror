@@ -1,0 +1,8 @@
+<map id="chThdSuspendS" name="chThdSuspendS">
+<area shape="rect" id="node1" title="Sends the current thread sleeping and sets a reference variable." alt="" coords="5,77,116,101"/>
+<area shape="rect" id="node2" href="$group__scheduler.html#ga97c1c514b755a1e71caf2f19c1ccf986" title="Puts the current thread to sleep into the specified state." alt="" coords="164,53,272,77"/>
+<area shape="rect" id="node6" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="167,101,269,125"/>
+<area shape="rect" id="node3" href="$group__os__lists.html#ga5f6eedecc4a70f35d0508d35ce480a95" title="Removes the highest priority element from a priority queue and returns it." alt="" coords="320,5,495,29"/>
+<area shape="rect" id="node4" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="344,53,471,77"/>
+<area shape="rect" id="node5" href="$group__system.html#ga3501fd75d8f47dd75ef10e782557b3fd" title="Returns a pointer to the idle thread." alt="" coords="338,101,477,125"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="chSchDoYieldS" name="chSchDoYieldS">
+<area shape="rect" id="node1" title="Yields the time slot." alt="" coords="5,77,108,101"/>
+<area shape="rect" id="node2" href="$group__scheduler.html#ga9c398aa37eeb6f2f35567be2685daa57" title="Switches to the first thread on the runnable queue." alt="" coords="156,53,316,77"/>
+<area shape="rect" id="node5" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="173,101,299,125"/>
+<area shape="rect" id="node3" href="$group__scheduler.html#gaf6f96c0e1b6893486e5779598b7b1ceb" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="386,5,517,29"/>
+<area shape="rect" id="node4" href="$group__os__lists.html#ga5f6eedecc4a70f35d0508d35ce480a95" title="Removes the highest priority element from a priority queue and returns it." alt="" coords="364,53,539,77"/>
+<area shape="rect" id="node6" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="413,101,489,125"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="chSysUnlockFromISR" name="chSysUnlockFromISR">
+<area shape="rect" id="node1" title="Leaves the kernel lock state from within an interrupt handler." alt="" coords="5,42,140,66"/>
+<area shape="rect" id="node2" href="$group__checks__assertions.html#gacf7c2a446c428c0d651ff07973ea2a00" title="Guard code for chSysUnlockFromIsr()." alt="" coords="193,5,324,41"/>
+<area shape="rect" id="node4" href="$group__statistics.html#ga05ad5403a8270f006586c76ca5f84197" title="Stops the measurement of an ISR critical zone." alt="" coords="188,65,329,101"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="419,11,495,35"/>
+<area shape="rect" id="node5" href="$group__time__measurement.html#ga6ebf4b51fdc88141754cff588c058b88" title="Stops a measurement." alt="" coords="377,71,536,95"/>
+</map>

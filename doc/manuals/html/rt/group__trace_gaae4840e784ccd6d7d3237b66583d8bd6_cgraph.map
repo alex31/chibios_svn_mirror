@@ -1,0 +1,4 @@
+<map id="trace_next" name="trace_next">
+<area shape="rect" id="node1" title="Writes a time stamp and increases the trace buffer pointer." alt="" coords="5,5,84,29"/>
+<area shape="rect" id="node2" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time." alt="" coords="132,5,273,29"/>
+</map>

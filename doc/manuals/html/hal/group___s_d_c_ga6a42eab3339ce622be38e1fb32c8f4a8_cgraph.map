@@ -1,0 +1,4 @@
+<map id="mmc_init" name="mmc_init">
+<area shape="rect" id="node1" title="Init procedure for MMC." alt="" coords="5,5,76,29"/>
+<area shape="rect" id="node2" href="$group___s_d_c.html#gac8b8ac06b196edb5734ebc9e77d09e71" title="Sends an SDIO command with a short response expected." alt="" coords="124,5,276,29"/>
+</map>

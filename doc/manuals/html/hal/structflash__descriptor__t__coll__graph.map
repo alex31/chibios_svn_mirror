@@ -1,0 +1,4 @@
+<map id="flash_descriptor_t" name="flash_descriptor_t">
+<area shape="rect" id="node1" title="Type of a flash device descriptor." alt="" coords="25,147,143,276"/>
+<area shape="rect" id="node2" href="$structflash__sector__descriptor__t.html" title="Flash sector descriptor." alt="" coords="5,5,163,87"/>
+</map>

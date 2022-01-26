@@ -1,0 +1,5 @@
+<map id="MMCConfig" name="MMCConfig">
+<area shape="rect" id="node1" title="MMC/SD over SPI driver configuration structure." alt="" coords="9,420,92,489"/>
+<area shape="rect" id="node2" href="$structhal__spi__driver.html" title="Structure representing an SPI driver." alt="" coords="5,5,144,123"/>
+<area shape="rect" id="node3" href="$structhal__spi__config.html" title="Driver configuration structure." alt="" coords="90,207,233,348"/>
+</map>

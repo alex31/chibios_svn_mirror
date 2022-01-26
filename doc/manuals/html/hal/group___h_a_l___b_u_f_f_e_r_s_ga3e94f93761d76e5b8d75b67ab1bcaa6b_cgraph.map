@@ -1,0 +1,4 @@
+<map id="ibqPostFullBufferI" name="ibqPostFullBufferI">
+<area shape="rect" id="node1" title="Posts a new filled buffer to the queue." alt="" coords="5,5,121,29"/>
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#gaf09bde5867505af235277e0a888044b8" title="Dequeues and wakes up one thread from the queue, if any." alt="" coords="169,5,331,29"/>
+</map>

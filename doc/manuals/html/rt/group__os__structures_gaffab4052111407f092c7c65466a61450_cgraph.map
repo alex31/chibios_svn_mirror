@@ -1,0 +1,4 @@
+<map id="chSysHalt" name="chSysHalt">
+<area shape="rect" id="node1" title="Halts the system." alt="" coords="5,5,81,29"/>
+<area shape="rect" id="node2" href="$group__trace.html#ga9ad72a0203214f1a191120845e9c57b0" title="Inserts in the circular debug trace buffer an halt record." alt="" coords="129,5,216,29"/>
+</map>

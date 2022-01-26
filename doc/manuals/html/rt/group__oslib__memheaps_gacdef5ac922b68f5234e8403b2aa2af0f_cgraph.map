@@ -1,0 +1,4 @@
+<map id="chHeapAlloc" name="chHeapAlloc">
+<area shape="rect" id="node1" title="Allocates a block of memory from the heap by using the first&#45;fit algorithm." alt="" coords="5,5,96,29"/>
+<area shape="rect" id="node2" href="$group__oslib__memheaps.html#gab98ee301308d5faeb08d79ac591d791a" title="Allocates a block of memory from the heap by using the first&#45;fit algorithm." alt="" coords="144,5,275,29"/>
+</map>

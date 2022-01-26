@@ -1,0 +1,4 @@
+<map id="comp_read_raw" name="comp_read_raw">
+<area shape="rect" id="node1" title="Retrieves raw data from the BaseCompass." alt="" coords="5,5,112,29"/>
+<area shape="rect" id="node2" href="$group___l_s_m303_d_l_h_c.html#ga78b13c9e32b21dec8ca0907d79ff85ba" title="Reads registers value using I2C." alt="" coords="160,5,335,29"/>
+</map>

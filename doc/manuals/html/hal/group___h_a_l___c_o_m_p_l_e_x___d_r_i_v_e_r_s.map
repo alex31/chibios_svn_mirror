@@ -1,0 +1,8 @@
+<map id="Complex Drivers" name="Complex Drivers">
+<area shape="rect" id="node1" href="$group___m_m_c___s_p_i.html" title="Generic MMC driver." alt="" coords="265,5,393,28"/>
+<area shape="rect" id="node2" href="$group___i_o.html" title="Hardware Abstraction Layer." alt="" coords="5,76,48,99"/>
+<area shape="rect" id="node6" title="HAL Complex Drivers." alt="" coords="96,76,205,99"/>
+<area shape="rect" id="node3" href="$group___h_a_l___s_e_r_i_a_l___n_o_r.html" title="Serial NOR Flash driver." alt="" coords="255,52,402,75"/>
+<area shape="rect" id="node4" href="$group___s_e_r_i_a_l___u_s_b.html" title="Serial over USB Driver." alt="" coords="259,99,399,121"/>
+<area shape="rect" id="node5" href="$group___h_a_l___m_f_s.html" title="Managed Flash Storage Driver." alt="" coords="253,146,404,181"/>
+</map>

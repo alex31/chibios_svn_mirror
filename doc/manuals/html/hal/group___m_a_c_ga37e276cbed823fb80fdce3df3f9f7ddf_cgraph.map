@@ -1,0 +1,6 @@
+<map id="mac_lld_init" name="mac_lld_init">
+<area shape="rect" id="node1" title="Low level MAC initialization." alt="" coords="5,29,91,53"/>
+<area shape="rect" id="node2" href="$group___m_a_c.html#ga34d60b00ad9794d52da6833e18c9ec70" title="Initialize the standard part of a MACDriver structure." alt="" coords="139,29,236,53"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gab8a1810d5fe09eba979d369b590fd564" title="Initializes an event source object." alt="" coords="306,5,434,29"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga345fc7214d1863e6471ae8433b995a10" title="Initializes a threads queue object." alt="" coords="284,53,456,77"/>
+</map>

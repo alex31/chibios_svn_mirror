@@ -1,0 +1,5 @@
+<map id="chSysEnable" name="chSysEnable">
+<area shape="rect" id="node1" title="Lowers the system interrupt priority mask to user level." alt="" coords="5,5,97,29"/>
+<area shape="rect" id="node2" href="$group__checks__assertions.html#gace9dc170954ae34e301a9b73923f42b7" title="Guard code for chSysEnable()." alt="" coords="145,5,279,29"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="327,5,403,29"/>
+</map>

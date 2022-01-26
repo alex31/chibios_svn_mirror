@@ -1,0 +1,4 @@
+<map id="uartStartReceiveI" name="uartStartReceiveI">
+<area shape="rect" id="node1" title="Starts a receive operation on the UART peripheral." alt="" coords="5,5,121,29"/>
+<area shape="rect" id="node2" href="$group___u_a_r_t.html#gaeeef4ed85ed76c1e916c77d4efb8b9c2" title="Starts a receive operation on the UART peripheral." alt="" coords="169,5,307,29"/>
+</map>

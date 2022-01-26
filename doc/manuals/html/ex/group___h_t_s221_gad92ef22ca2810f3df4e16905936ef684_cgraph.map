@@ -1,0 +1,5 @@
+<map id="thermo_read_cooked" name="thermo_read_cooked">
+<area shape="rect" id="node1" title="Retrieves cooked data from the BaseThermometer." alt="" coords="5,5,141,29"/>
+<area shape="rect" id="node2" href="$group___h_t_s221.html#ga4488647726d87cde77c1efe8dcff0eb5" title="Retrieves raw data from the BaseThermometer." alt="" coords="189,5,305,29"/>
+<area shape="rect" id="node3" href="$group___h_t_s221.html#ga550ff25a01365e41f583f70c7fe54c3c" title="Reads registers value using I2C." alt="" coords="353,5,504,29"/>
+</map>

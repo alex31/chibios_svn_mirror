@@ -1,0 +1,8 @@
+<map id="chSemReset" name="chSemReset">
+<area shape="rect" id="node1" title="Performs a reset operation on the semaphore." alt="" coords="5,77,96,101"/>
+<area shape="rect" id="node2" href="$group__semaphores.html#gab3b81588d62f5b8cae7d8d86d23eccd1" title="Performs a reset operation on the semaphore." alt="" coords="144,77,307,101"/>
+<area shape="rect" id="node3" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable." alt="" coords="375,5,501,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#ga761aecc362066cad4c378edb9e1e1579" title="Performs a reset operation on the semaphore." alt="" coords="355,53,521,77"/>
+<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="399,101,477,125"/>
+<area shape="rect" id="node6" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state." alt="" coords="393,149,483,173"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="baro_read_cooked" name="baro_read_cooked">
+<area shape="rect" id="node1" title="Retrieves cooked data from the BaseBarometer." alt="" coords="5,5,128,29"/>
+<area shape="rect" id="node2" href="$group___l_p_s22_h_b.html#ga0cdb4927674017eb307451658689d844" title="Retrieves raw data from the BaseBarometer." alt="" coords="176,5,279,29"/>
+<area shape="rect" id="node3" href="$group___l_p_s22_h_b.html#ga9fd14e6f0fbfc0a0c93eede60aae40a4" title="Reads registers value using I2C." alt="" coords="327,5,483,29"/>
+</map>

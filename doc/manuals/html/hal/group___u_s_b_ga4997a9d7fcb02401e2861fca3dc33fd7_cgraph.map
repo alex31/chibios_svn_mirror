@@ -1,0 +1,4 @@
+<map id="usbStallTransmitI" name="usbStallTransmitI">
+<area shape="rect" id="node1" title="Stalls an IN endpoint." alt="" coords="5,5,120,29"/>
+<area shape="rect" id="node2" href="$group___u_s_b.html#gadf46718eb0c2d0bf4982283682d64813" title="Brings an IN endpoint in the stalled state." alt="" coords="168,5,271,29"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SerialUSBConfig" name="SerialUSBConfig">
+<area shape="rect" id="node1" title="Serial over USB Driver configuration structure." alt="" coords="5,303,116,396"/>
+<area shape="rect" id="node2" href="$struct_u_s_b_driver.html" title="Structure representing an USB driver." alt="" coords="217,5,323,219"/>
+<area shape="rect" id="node3" href="$struct_u_s_b_config.html" title="Type of an USB driver configuration structure." alt="" coords="195,315,273,384"/>
+<area shape="rect" id="node4" href="$struct_u_s_b_endpoint_config.html" title="Type of an USB endpoint configuration structure." alt="" coords="318,303,446,396"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SerialUSBDriver" name="SerialUSBDriver">
+<area shape="rect" id="node1" title="Full duplex serial driver class." alt="" coords="37,240,144,309"/>
+<area shape="rect" id="node2" href="$struct_base_asynchronous_channel.html" title="Base asynchronous channel class." alt="" coords="5,123,176,192"/>
+<area shape="rect" id="node3" href="$struct_base_channel.html" title="Base channel class." alt="" coords="43,5,138,75"/>
+</map>

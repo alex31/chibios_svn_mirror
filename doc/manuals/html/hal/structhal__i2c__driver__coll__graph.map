@@ -1,0 +1,4 @@
+<map id="hal_i2c_driver" name="hal_i2c_driver">
+<area shape="rect" id="node1" title="Structure representing an I2C driver." alt="" coords="7,135,103,228"/>
+<area shape="rect" id="node2" href="$structhal__i2c__config.html" title="I2C driver configuration structure." alt="" coords="5,5,104,75"/>
+</map>

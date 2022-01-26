@@ -1,0 +1,9 @@
+<map id="chBSemWaitTimeoutS" name="chBSemWaitTimeoutS">
+<area shape="rect" id="node1" title="Wait operation on the binary semaphore." alt="" coords="5,31,147,55"/>
+<area shape="rect" id="node2" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="380,5,507,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gae5e5fa781cb1a7d870698c05640d21b4" title="Performs a wait operation on a semaphore with timeout specification." alt="" coords="195,55,329,79"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="557,5,633,29"/>
+<area shape="rect" id="node5" href="$group__os__lists.html#ga873d4136fc77c2573fb0be0b1e46097d" title="Evaluates to true if the specified queue is empty." alt="" coords="382,53,505,77"/>
+<area shape="rect" id="node6" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="377,101,509,125"/>
+<area shape="rect" id="node7" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="392,149,495,173"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gyro_read_raw" name="gyro_read_raw">
+<area shape="rect" id="node1" title="Retrieves raw data from the BaseGyroscope." alt="" coords="5,5,107,29"/>
+<area shape="rect" id="node2" href="$group___l_s_m6_d_s0.html#gafe1238ca43f8f16670374df6e4710ea5" title="Reads registers value using I2C." alt="" coords="155,5,313,29"/>
+</map>

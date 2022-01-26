@@ -1,0 +1,4 @@
+<map id="hal_i2s_config" name="hal_i2s_config">
+<area shape="rect" id="node1" title="Driver configuration structure." alt="" coords="5,5,148,111"/>
+<area shape="rect" id="node2" href="$structhal__i2s__driver.html" title="Structure representing an I2S driver." alt="" coords="7,171,146,252"/>
+</map>

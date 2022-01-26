@@ -1,0 +1,33 @@
+<map id="halInit" name="halInit">
+<area shape="rect" id="node1" title="HAL initialization." alt="" coords="5,365,61,389"/>
+<area shape="rect" id="node2" href="$group___a_d_c.html#gafd645b17cf0581bcaa22c56011c775e4" title="ADC Driver initialization." alt="" coords="119,5,178,29"/>
+<area shape="rect" id="node4" href="$group___c_a_n.html#ga2d3efc34f7704ab23c293aac2be47764" title="CAN Driver initialization." alt="" coords="119,53,178,77"/>
+<area shape="rect" id="node6" href="$group___c_r_y_p_t_o.html#gaa9c9ebf62a5bd355b439882e4297b6db" title="Cryptographic Driver initialization." alt="" coords="121,101,176,125"/>
+<area shape="rect" id="node8" href="$group___d_a_c.html#ga7fae56a03b55d070fac1592003ba9a52" title="DAC Driver initialization." alt="" coords="119,149,178,173"/>
+<area shape="rect" id="node10" href="$group___h_a_l___e_f_l.html#ga613bcba13f6d6249469363de6c3ae535" title="Embedded Flash Driver initialization." alt="" coords="122,197,175,221"/>
+<area shape="rect" id="node12" href="$group___g_p_t.html#ga4a57bda7b0af99d1b280fae5c2d7c4b3" title="GPT Driver initialization." alt="" coords="120,245,177,269"/>
+<area shape="rect" id="node14" href="$group___h_a_l.html#ga07d5821e5a06754e2ce920c97890d06f" title="Low level HAL driver initialization." alt="" coords="109,293,188,317"/>
+<area shape="rect" id="node15" href="$group___i2_c.html#ga1e0a81a1ad1fd7710ca189236e3e5476" title="I2C Driver initialization." alt="" coords="121,341,176,365"/>
+<area shape="rect" id="node17" href="$group___i2_s.html#ga11841f646a6f994e61479903247fb420" title="I2S Driver initialization." alt="" coords="121,389,176,413"/>
+<area shape="rect" id="node19" href="$group___i_c_u.html#ga28c2664fcfec4879984aa10acac57390" title="ICU Driver initialization." alt="" coords="121,437,176,461"/>
+<area shape="rect" id="node21" href="$group___m_a_c.html#ga2f76703cfc76da57feedb57e9d37c8a4" title="MAC Driver initialization." alt="" coords="117,485,180,509"/>
+<area shape="rect" id="node23" href="$group___o_s_a_l.html#ga8ca05c4188602b8f030cd9decf3468fd" title="OSAL module initialization." alt="" coords="117,533,180,557"/>
+<area shape="rect" id="node24" href="$group___p_w_m.html#ga1c8ae46921c4ae7d57bd44dd994e10bd" title="PWM Driver initialization." alt="" coords="116,581,181,605"/>
+<area shape="rect" id="node26" href="$group___s_d_c.html#ga98f72333da8e5670502db1c31fe05acf" title="SDC Driver initialization." alt="" coords="119,629,178,653"/>
+<area shape="rect" id="node28" href="$group___s_e_r_i_a_l.html#gaced9c1cfde941c7614183b1c887e862b" title="Serial Driver initialization." alt="" coords="123,677,175,701"/>
+<area shape="rect" id="node30" href="$group___s_i_o.html#ga65c772eb0d61331e95c88ab8cc68a1e4" title="SIO Driver initialization." alt="" coords="121,725,176,749"/>
+<area shape="rect" id="node3" href="$group___a_d_c.html#ga2bfcc655059180451273682ca7e0068c" title="Low level ADC driver initialization." alt="" coords="239,5,321,29"/>
+<area shape="rect" id="node5" href="$group___c_a_n.html#gaa215539c505ce7099f30c0aace00bf25" title="Low level CAN driver initialization." alt="" coords="239,53,321,77"/>
+<area shape="rect" id="node7" href="$group___c_r_y_p_t_o.html#ga685960e9271aad4127efe2115318e117" title="Low level crypto driver initialization." alt="" coords="241,101,319,125"/>
+<area shape="rect" id="node9" href="$group___d_a_c.html#ga1354d2ad5b62319b90454edd3f9047dd" title="Low level DAC driver initialization." alt="" coords="239,149,321,173"/>
+<area shape="rect" id="node11" href="$group___h_a_l___e_f_l.html#ga1a464cd1eaf14c27d36a503bfb1d7a21" title="Low level Embedded Flash driver initialization." alt="" coords="242,197,318,221"/>
+<area shape="rect" id="node13" href="$group___g_p_t.html#gab3675aa921f12032889546bb27af26b2" title="Low level GPT driver initialization." alt="" coords="240,245,320,269"/>
+<area shape="rect" id="node16" href="$group___i2_c.html#gaae1796056a2fa05caa11a243183b19c2" title="Low level I2C driver initialization." alt="" coords="241,341,319,365"/>
+<area shape="rect" id="node18" href="$group___i2_s.html#ga3fd2b5511428130331bc4ba5dd3253ee" title="Low level I2S driver initialization." alt="" coords="241,389,319,413"/>
+<area shape="rect" id="node20" href="$group___i_c_u.html#gab8192fa4d33bf467f5a599d94ed6c699" title="Low level ICU driver initialization." alt="" coords="241,437,319,461"/>
+<area shape="rect" id="node22" href="$group___m_a_c.html#ga37e276cbed823fb80fdce3df3f9f7ddf" title="Low level MAC initialization." alt="" coords="237,485,323,509"/>
+<area shape="rect" id="node25" href="$group___p_w_m.html#ga7cb5729a65c0996584808e4f93b28a0d" title="Low level PWM driver initialization." alt="" coords="236,581,324,605"/>
+<area shape="rect" id="node27" href="$group___s_d_c.html#gab67e7f85b3624c1c8fed1196b3b0a3f4" title="Low level SDC driver initialization." alt="" coords="239,629,321,653"/>
+<area shape="rect" id="node29" href="$group___s_e_r_i_a_l.html#gad05320e8f231f3e092b7042c574da015" title="Low level serial driver initialization." alt="" coords="243,677,317,701"/>
+<area shape="rect" id="node31" href="$group___s_i_o.html#gab65f53c85dcf0b4f106bbcdfd7baea4f" title="Low level SIO driver initialization." alt="" coords="241,725,319,749"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BaseCompass" name="BaseCompass">
+<area shape="rect" id="node1" title="Base compass class." alt="" coords="5,123,104,192"/>
+<area shape="rect" id="node2" href="$struct_base_sensor.html" title="Base stream class." alt="" coords="11,5,98,75"/>
+</map>

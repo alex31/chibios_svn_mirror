@@ -1,0 +1,6 @@
+<map id="usbStop" name="usbStop">
+<area shape="rect" id="node1" title="Deactivates the USB peripheral." alt="" coords="5,53,72,77"/>
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="141,5,230,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga6b620eb4daf8bd0ce536d2a9bac266f9" title="Wakes up a thread waiting on a thread reference object." alt="" coords="120,53,251,77"/>
+<area shape="rect" id="node4" href="$group___u_s_b.html#ga06bf57ec27b15511ac02c5a7016ea3e6" title="Deactivates the USB peripheral." alt="" coords="141,101,230,125"/>
+</map>

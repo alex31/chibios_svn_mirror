@@ -1,0 +1,10 @@
+<map id="ch_mutex" name="ch_mutex">
+<area shape="rect" id="node1" title="Mutex structure." alt="" coords="5,159,79,228"/>
+<area shape="rect" id="node3" href="$structch__thread.html" title="Structure representing a thread." alt="" coords="287,324,381,513"/>
+<area shape="rect" id="node2" href="$structch__queue.html" title="Structure representing a generic bidirectional linked list header and element." alt="" coords="150,5,225,75"/>
+<area shape="rect" id="node4" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="283,159,385,228"/>
+<area shape="rect" id="node6" href="$structch__os__instance.html" title="System instance data structure." alt="" coords="281,573,387,643"/>
+<area shape="rect" id="node5" href="$structch__list.html" title="Structure representing a generic single link list header and element." alt="" coords="410,159,466,228"/>
+<area shape="rect" id="node7" href="$structch__priority__queue.html" title="Structure representing a generic priority&#45;ordered bidirectional linked list header and element." alt="" coords="551,159,669,228"/>
+<area shape="rect" id="node8" href="$structtime__measurement__t.html" title="Type of a Time Measurement object." alt="" coords="754,135,890,252"/>
+</map>

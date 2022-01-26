@@ -1,0 +1,4 @@
+<map id="iqPutI" name="iqPutI">
+<area shape="rect" id="node1" title="Input queue write." alt="" coords="5,5,57,29"/>
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#gaf09bde5867505af235277e0a888044b8" title="Dequeues and wakes up one thread from the queue, if any." alt="" coords="105,5,267,29"/>
+</map>

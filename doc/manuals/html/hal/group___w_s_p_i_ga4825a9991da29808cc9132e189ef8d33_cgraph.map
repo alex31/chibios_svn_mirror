@@ -1,0 +1,5 @@
+<map id="wspiStart" name="wspiStart">
+<area shape="rect" id="node1" title="Configures and activates the WSPI peripheral." alt="" coords="5,29,79,53"/>
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="129,5,219,29"/>
+<area shape="rect" id="node3" href="$group___w_s_p_i.html#gae0f8ae2becb8896c894c353193f17060" title="Configures and activates the WSPI peripheral." alt="" coords="127,53,221,77"/>
+</map>

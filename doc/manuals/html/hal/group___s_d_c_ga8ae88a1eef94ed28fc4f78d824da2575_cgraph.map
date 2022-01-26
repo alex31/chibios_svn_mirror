@@ -1,0 +1,8 @@
+<map id="sdcDisconnect" name="sdcDisconnect">
+<area shape="rect" id="node1" title="Brings the driver in a state safe for card removal." alt="" coords="5,90,108,114"/>
+<area shape="rect" id="node2" href="$group___s_d_c.html#gaad70bd0ddad7c1ea0086a5e99b885456" title="Wait for the card to complete pending operations." alt="" coords="156,5,299,41"/>
+<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="183,66,272,90"/>
+<area shape="rect" id="node5" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context." alt="" coords="177,114,278,138"/>
+<area shape="rect" id="node6" href="$group___s_d_c.html#ga2d18c16ca9a669c73d7355b4fb3acc6b" title="Stops the SDIO clock." alt="" coords="173,162,281,186"/>
+<area shape="rect" id="node3" href="$group___s_d_c.html#ga93392c5297148eea683ec6d9bc79be3e" title="Sends an SDIO command with a short response expected and CRC." alt="" coords="347,11,520,35"/>
+</map>

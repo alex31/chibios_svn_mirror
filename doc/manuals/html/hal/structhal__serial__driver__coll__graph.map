@@ -1,0 +1,7 @@
+<map id="hal_serial_driver" name="hal_serial_driver">
+<area shape="rect" id="node1" title="Full duplex serial driver class." alt="" coords="117,264,227,333"/>
+<area shape="rect" id="node2" href="$struct_base_asynchronous_channel.html" title="Base asynchronous channel class." alt="" coords="5,135,176,204"/>
+<area shape="rect" id="node3" href="$struct_base_channel.html" title="Base channel class." alt="" coords="38,5,133,75"/>
+<area shape="rect" id="node4" href="$struct_base_asynchronous_channel_v_m_t.html" title="BaseAsynchronousChannel virtual methods table." alt="" coords="157,5,352,75"/>
+<area shape="rect" id="node5" href="$struct_serial_driver_v_m_t.html" title="SerialDriver virtual methods table." alt="" coords="201,135,309,204"/>
+</map>

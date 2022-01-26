@@ -1,0 +1,17 @@
+<map id="chSysTimerHandlerI" name="chSysTimerHandlerI">
+<area shape="rect" id="node1" title="Handles time ticks for round robin preemption and timer increments." alt="" coords="5,115,136,139"/>
+<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="344,5,467,29"/>
+<area shape="rect" id="node4" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="184,115,287,139"/>
+<area shape="rect" id="node5" href="$group__time.html#ga0f13fbe52f78e35b1d6837c1094bd326" title="Virtual timers ticker." alt="" coords="191,221,279,245"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="524,5,600,29"/>
+<area shape="rect" id="node6" href="$group__os__lists.html#ga19668144c0872d2f4b2cf608c1bd9281" title="Dequeues an element from the delta list." alt="" coords="347,53,464,77"/>
+<area shape="rect" id="node7" href="$group__os__lists.html#gae3e9ee76e96c0018fd6578c0c03e3ac5" title="Inserts an element in a delta list." alt="" coords="356,101,455,125"/>
+<area shape="rect" id="node8" href="$group__os__lists.html#gab760397c3c3f6a87fc3b81076ca8ad75" title="Evaluates to true if the specified delta list is empty." alt="" coords="350,149,461,173"/>
+<area shape="rect" id="node9" href="$group__os__lists.html#ga5bc5eee2e96ea2855a6c831930507840" title="Evaluates to true if the specified queue is not empty." alt="" coords="345,197,465,221"/>
+<area shape="rect" id="node10" href="$group__rfcu.html#ga4799c7fb305e03f4875bc2efb4b37d01" title="Adds fault flags to the current mask." alt="" coords="338,245,473,269"/>
+<area shape="rect" id="node11" href="$group__system.html#gac27f5c62e47e62fbb3585c65110addeb" title="Enters the kernel lock state from within an interrupt handler." alt="" coords="344,293,467,317"/>
+<area shape="rect" id="node12" href="$group__system.html#ga459aa0a2901f0b19c7cf1d39172e4f53" title="Leaves the kernel lock state from within an interrupt handler." alt="" coords="338,341,473,365"/>
+<area shape="rect" id="node13" href="$group__time__intervals.html#ga63f2799ab83096a112d2bbd73de8c4fc" title="Adds an interval to a system time returning a system time." alt="" coords="361,389,450,413"/>
+<area shape="rect" id="node14" href="$group__time__intervals.html#ga49404a18a4b3e9da5062d1269341c4bc" title="Subtracts two system times returning an interval." alt="" coords="362,437,449,461"/>
+<area shape="rect" id="node15" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time." alt="" coords="335,485,476,509"/>
+</map>

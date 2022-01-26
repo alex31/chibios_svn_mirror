@@ -1,0 +1,5 @@
+<map id="rtcInit" name="rtcInit">
+<area shape="rect" id="node1" title="RTC Driver initialization." alt="" coords="5,5,59,29"/>
+<area shape="rect" id="node2" href="$group___r_t_c.html#ga167649286b06b62ece09ea6857773624" title="RTC driver identifier." alt="" coords="107,5,183,29"/>
+<area shape="rect" id="node3" href="$group___r_t_c.html#gaed3c0ba431fea2baabfc9e031b1f3134" title="Initializes a generic RTC driver object." alt="" coords="231,5,319,29"/>
+</map>

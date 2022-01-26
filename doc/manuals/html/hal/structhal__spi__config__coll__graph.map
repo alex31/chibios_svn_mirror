@@ -1,0 +1,4 @@
+<map id="hal_spi_config" name="hal_spi_config">
+<area shape="rect" id="node1" title="Driver configuration structure." alt="" coords="5,5,148,147"/>
+<area shape="rect" id="node2" href="$structhal__spi__driver.html" title="Structure representing an SPI driver." alt="" coords="7,231,146,348"/>
+</map>

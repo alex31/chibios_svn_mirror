@@ -1,0 +1,4 @@
+<map id="i2cAcquireBus" name="i2cAcquireBus">
+<area shape="rect" id="node1" title="Gains exclusive access to the I2C bus." alt="" coords="5,5,104,29"/>
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga61d5ae617457911ada2c83295c597348" title="Locks the specified mutex." alt="" coords="152,5,255,29"/>
+</map>

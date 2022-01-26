@@ -1,0 +1,9 @@
+<map id="chThdCreateI" name="chThdCreateI">
+<area shape="rect" id="node1" title="Creates a new thread into a static memory area." alt="" coords="5,77,100,101"/>
+<area shape="rect" id="node2" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="181,53,273,77"/>
+<area shape="rect" id="node6" href="$group__threads.html#gaebe8fd53a7a4630249085179b5f140eb" title="Creates a new thread into a static memory area." alt="" coords="148,101,305,125"/>
+<area shape="rect" id="node3" href="$group__scheduler.html#gaf6f96c0e1b6893486e5779598b7b1ceb" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="355,5,485,29"/>
+<area shape="rect" id="node4" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="359,101,481,125"/>
+<area shape="rect" id="node5" href="$group__system.html#gaec800c510aa28cf4f0111973674d4f42" title="Notifies an OS instance to check for reschedule." alt="" coords="353,53,487,77"/>
+<area shape="rect" id="node7" href="$group__threads.html#ga5297ff4724721f088b0c0917f6930cbb" title="Initializes a thread structure." alt="" coords="365,149,475,173"/>
+</map>

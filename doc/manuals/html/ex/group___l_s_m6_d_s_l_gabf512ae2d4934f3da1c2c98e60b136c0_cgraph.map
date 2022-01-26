@@ -1,0 +1,5 @@
+<map id="gyro_sample_bias" name="gyro_sample_bias">
+<area shape="rect" id="node1" title="Samples bias values for the BaseGyroscope." alt="" coords="5,5,124,29"/>
+<area shape="rect" id="node2" href="$group___l_s_m6_d_s_l.html#ga6f0abe087a7ba5d05d809a4125b9280a" title="Retrieves raw data from the BaseGyroscope." alt="" coords="172,5,273,29"/>
+<area shape="rect" id="node3" href="$group___l_s_m6_d_s_l.html#ga94e95928e3bcdfb02510bcc0a819d747" title="Reads registers value using I2C." alt="" coords="321,5,476,29"/>
+</map>

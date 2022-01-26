@@ -1,0 +1,5 @@
+<map id="chPoolLoadArray" name="chPoolLoadArray">
+<area shape="rect" id="node1" title="Loads a memory pool with an array of static objects." alt="" coords="5,5,119,29"/>
+<area shape="rect" id="node2" href="$group__oslib__mempools.html#ga5023631c0cb2da5c412e241a2351ab68" title="Adds an object to a memory pool." alt="" coords="167,5,245,29"/>
+<area shape="rect" id="node3" href="$group__oslib__mempools.html#gaf05f38653b302ea0da0c1f7b50854a92" title="Releases an object into a memory pool." alt="" coords="293,5,375,29"/>
+</map>

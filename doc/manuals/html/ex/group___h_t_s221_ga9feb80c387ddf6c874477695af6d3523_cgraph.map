@@ -1,0 +1,5 @@
+<map id="hts221Start" name="hts221Start">
+<area shape="rect" id="node1" title="Configures and activates HTS221 Complex Driver peripheral." alt="" coords="5,5,92,29"/>
+<area shape="rect" id="node2" href="$group___h_t_s221.html#ga6915123a051871f681ffeec4814a94f6" title="Computes biases and sensitivities starting from data stored in calibration registers." alt="" coords="140,5,249,29"/>
+<area shape="rect" id="node3" href="$group___h_t_s221.html#ga550ff25a01365e41f583f70c7fe54c3c" title="Reads registers value using I2C." alt="" coords="297,5,448,29"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LIS3DSHDriver" name="LIS3DSHDriver">
+<area shape="rect" id="node1" title="LIS3DSH 3&#45;axis accelerometer class." alt="" coords="50,264,150,333"/>
+<area shape="rect" id="node2" href="$struct_l_i_s3_d_s_h_v_m_t.html" title="LIS3DSH virtual methods table." alt="" coords="5,135,96,204"/>
+<area shape="rect" id="node3" href="$struct_base_accelerometer.html" title="Base accelerometer class." alt="" coords="120,135,248,204"/>
+<area shape="rect" id="node4" href="$struct_base_sensor.html" title="Base stream class." alt="" coords="69,5,155,75"/>
+<area shape="rect" id="node5" href="$struct_base_accelerometer_v_m_t.html" title="BaseAccelerometer virtual methods table." alt="" coords="179,5,330,75"/>
+</map>

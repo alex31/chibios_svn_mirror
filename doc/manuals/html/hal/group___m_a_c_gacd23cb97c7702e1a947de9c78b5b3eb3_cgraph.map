@@ -1,0 +1,5 @@
+<map id="macWaitReceiveDescriptor" name="macWaitReceiveDescriptor">
+<area shape="rect" id="node1" title="Waits for a received frame." alt="" coords="5,39,173,63"/>
+<area shape="rect" id="node2" href="$group___m_a_c.html#gac17ca421177418f544234918cf83e409" title="Returns a receive descriptor." alt="" coords="221,5,352,41"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="242,66,331,90"/>
+</map>

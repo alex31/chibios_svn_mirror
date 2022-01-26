@@ -1,0 +1,6 @@
+<map id="snorMemoryMap" name="snorMemoryMap">
+<area shape="rect" id="node1" title="Enters the memory Mapping mode." alt="" coords="5,53,117,77"/>
+<area shape="rect" id="node2" href="$group___h_a_l___s_e_r_i_a_l___n_o_r.html#ga85d23017f8456c9a79f1b32bac863f3b" title="Bus acquisition and lock." alt="" coords="171,5,259,29"/>
+<area shape="rect" id="node3" href="$group___h_a_l___s_e_r_i_a_l___n_o_r.html#ga2ddbbb72354fe7735e30e349eee0017a" title="Bus release." alt="" coords="171,53,259,77"/>
+<area shape="rect" id="node4" href="$group___w_s_p_i.html#ga08ba3418fe653c2061f59bc093be46da" title="Maps in memory space a WSPI flash device." alt="" coords="165,101,264,125"/>
+</map>

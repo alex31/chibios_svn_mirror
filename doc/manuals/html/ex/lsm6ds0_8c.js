@@ -1,0 +1,25 @@
+var lsm6ds0_8c =
+[
+    [ "lsm6ds0I2CWriteRegister", "group___l_s_m6_d_s0.html#gaa0529eb36e525d89cee7d39e0479fa83", null ],
+    [ "lsm6ds0I2CReadRegister", "group___l_s_m6_d_s0.html#gafe1238ca43f8f16670374df6e4710ea5", null ],
+    [ "acc_get_axes_number", "group___l_s_m6_d_s0.html#ga1a92ded89a8cddeb4b945586347f87e9", null ],
+    [ "acc_read_raw", "group___l_s_m6_d_s0.html#gaaf84663d8ef1fb8e1e81c3520f15af40", null ],
+    [ "acc_read_cooked", "group___l_s_m6_d_s0.html#gaa0dcb7db43f95d24cd4568c8e08e6ac9", null ],
+    [ "acc_set_bias", "group___l_s_m6_d_s0.html#ga3f2f8f48a98b94be7fddcfddabc30eb1", null ],
+    [ "acc_reset_bias", "group___l_s_m6_d_s0.html#ga8258aaab118401a83353e0511fb31d72", null ],
+    [ "acc_set_sensivity", "group___l_s_m6_d_s0.html#ga9dfec49688c58ef793207c24e766d402", null ],
+    [ "acc_reset_sensivity", "group___l_s_m6_d_s0.html#ga32771b1ea0b3aa1b670a721537544f14", null ],
+    [ "acc_set_full_scale", "group___l_s_m6_d_s0.html#ga2e893236e93614499751b170808b2d8a", null ],
+    [ "gyro_get_axes_number", "group___l_s_m6_d_s0.html#gaa90785e8d9da8bba422f048c60109eca", null ],
+    [ "gyro_read_raw", "group___l_s_m6_d_s0.html#gafc816ce7c6fe10821e2f8c2a42d0df79", null ],
+    [ "gyro_read_cooked", "group___l_s_m6_d_s0.html#gac744d3a3f2ffbff9adbaceab724547f0", null ],
+    [ "gyro_sample_bias", "group___l_s_m6_d_s0.html#gabf512ae2d4934f3da1c2c98e60b136c0", null ],
+    [ "gyro_set_bias", "group___l_s_m6_d_s0.html#gadd60d1d9af1876b267d2b68f0caa6c15", null ],
+    [ "gyro_reset_bias", "group___l_s_m6_d_s0.html#gafbb9a76ab2c6baa89c63052932d54406", null ],
+    [ "gyro_set_sensivity", "group___l_s_m6_d_s0.html#gaa6f4f9762f175632eaaa97722a894cde", null ],
+    [ "gyro_reset_sensivity", "group___l_s_m6_d_s0.html#gaf21bdc56ba37185a3ffffef5d3afaecd", null ],
+    [ "gyro_set_full_scale", "group___l_s_m6_d_s0.html#gac0c1430d01ae8f6bfab57e6434a08a00", null ],
+    [ "lsm6ds0ObjectInit", "group___l_s_m6_d_s0.html#ga988ce9d8d7e67c0d3c660bae3d4bca62", null ],
+    [ "lsm6ds0Start", "group___l_s_m6_d_s0.html#ga2fa78a5e3d7d34ffc50a9b971fc002f6", null ],
+    [ "lsm6ds0Stop", "group___l_s_m6_d_s0.html#ga27a016222314ffc8645edebce3337c4b", null ]
+];

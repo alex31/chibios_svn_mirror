@@ -1,0 +1,5 @@
+<map id="acquire_up" name="acquire_up">
+<area shape="rect" id="node1" title="Read the uncompensated pressure from the BMP085 register." alt="" coords="5,29,88,53"/>
+<area shape="rect" id="node2" href="$group___b_m_p085.html#ga9dab0b471b0b0f90702de05eddfe3642" title="Reads registers value using I2C." alt="" coords="136,5,293,29"/>
+<area shape="rect" id="node3" href="$group___b_m_p085.html#ga4c81881868c373fb882038fd063b92e1" title="Start the pressure measurment." alt="" coords="145,53,285,77"/>
+</map>

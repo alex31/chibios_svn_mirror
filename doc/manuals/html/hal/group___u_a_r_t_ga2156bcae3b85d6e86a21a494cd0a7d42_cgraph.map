@@ -1,0 +1,4 @@
+<map id="uartStartSendI" name="uartStartSendI">
+<area shape="rect" id="node1" title="Starts a transmission on the UART peripheral." alt="" coords="5,5,107,29"/>
+<area shape="rect" id="node2" href="$group___u_a_r_t.html#ga1e25c8da94128f260d3d8683db114326" title="Starts a transmission on the UART peripheral." alt="" coords="155,5,279,29"/>
+</map>

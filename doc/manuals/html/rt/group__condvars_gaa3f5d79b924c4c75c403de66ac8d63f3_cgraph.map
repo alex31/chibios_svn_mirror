@@ -1,0 +1,10 @@
+<map id="chCondBroadcastI" name="chCondBroadcastI">
+<area shape="rect" id="node1" title="Signals all threads that are waiting on the condition variable." alt="" coords="5,79,127,103"/>
+<area shape="rect" id="node2" href="$group__os__lists.html#gae6d0c42b828825a83e460829ac22657d" title="Removes the first&#45;out element from a queue and returns it." alt="" coords="175,5,319,29"/>
+<area shape="rect" id="node3" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="181,53,313,77"/>
+<area shape="rect" id="node4" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="372,103,495,127"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="201,152,293,176"/>
+<area shape="rect" id="node5" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="548,103,624,127"/>
+<area shape="rect" id="node7" href="$group__scheduler.html#gaf6f96c0e1b6893486e5779598b7b1ceb" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="368,151,499,175"/>
+<area shape="rect" id="node8" href="$group__system.html#gaec800c510aa28cf4f0111973674d4f42" title="Notifies an OS instance to check for reschedule." alt="" coords="367,199,500,223"/>
+</map>

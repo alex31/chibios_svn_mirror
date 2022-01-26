@@ -1,0 +1,5 @@
+<map id="heap_header" name="heap_header">
+<area shape="rect" id="node1" title="Memory heap block header." alt="" coords="5,5,100,111"/>
+<area shape="rect" id="node2" href="$structmemory__heap.html" title="Structure describing a memory heap." alt="" coords="86,171,185,240"/>
+<area shape="rect" id="node3" href="$structch__mutex.html" title="Mutex structure." alt="" coords="184,23,257,93"/>
+</map>

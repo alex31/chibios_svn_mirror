@@ -1,0 +1,15 @@
+<map id="chEvtBroadcastFlags" name="chEvtBroadcastFlags">
+<area shape="rect" id="node1" title="Signals all the Event Listeners registered on the specified Event Source." alt="" coords="5,149,141,173"/>
+<area shape="rect" id="node2" href="$group__events.html#ga4d8851e56397f02cccade80aca5ab3f9" title="Signals all the Event Listeners registered on the specified Event Source." alt="" coords="189,29,328,53"/>
+<area shape="rect" id="node5" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable." alt="" coords="195,125,322,149"/>
+<area shape="rect" id="node8" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="219,173,298,197"/>
+<area shape="rect" id="node11" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state." alt="" coords="213,283,304,307"/>
+<area shape="rect" id="node3" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="581,5,704,29"/>
+<area shape="rect" id="node4" href="$group__events.html#ga0efb05e812802a0c52532fb71b56bfe3" title="Adds a set of event flags directly to the specified thread_t." alt="" coords="410,29,499,53"/>
+<area shape="rect" id="node6" href="$group__scheduler.html#gaf4acc2ac7465a14dacba248c8447369a" title="Switches to the first thread on the runnable queue." alt="" coords="376,77,533,101"/>
+<area shape="rect" id="node7" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="391,125,518,149"/>
+<area shape="rect" id="node9" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="396,173,513,197"/>
+<area shape="rect" id="node10" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="383,222,526,258"/>
+<area shape="rect" id="node12" href="$group__checks__assertions.html#ga329d7f08bd28259ea79839a61abf8a7a" title="Guard code for chSysUnlock()." alt="" coords="389,283,520,307"/>
+<area shape="rect" id="node13" href="$group__statistics.html#gad42de44c4b5fabeeb849da71ee1d4b72" title="Stops the measurement of a thread critical zone." alt="" coords="384,331,525,367"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hal_adc_driver" name="hal_adc_driver">
+<area shape="rect" id="node1" title="Structure representing an ADC driver." alt="" coords="9,135,152,264"/>
+<area shape="rect" id="node2" href="$structhal__adc__configuration__group.html" title="Conversion group configuration structure." alt="" coords="5,336,156,453"/>
+<area shape="rect" id="node3" href="$structhal__adc__config.html" title="Driver configuration structure." alt="" coords="7,5,154,75"/>
+</map>

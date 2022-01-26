@@ -1,0 +1,78 @@
+var bmp085_8h =
+[
+    [ "EX_BMP085_VERSION", "group___b_m_p085.html#ga479ff7ec5c47c7c4085fa350bcd7a9d7", null ],
+    [ "EX_BMP085_MAJOR", "group___b_m_p085.html#ga39ad798f42ad3677938a8181d414c756", null ],
+    [ "EX_BMP085_MINOR", "group___b_m_p085.html#gaf2900123dd05761fd55ad55b34c70f75", null ],
+    [ "EX_BMP085_PATCH", "group___b_m_p085.html#ga79ac3264b6512ebd544425b2fa023b5c", null ],
+    [ "BMP085_BARO_NUMBER_OF_AXES", "group___b_m_p085.html#ga1a276261db549bccb301277168e9a4cb", null ],
+    [ "BMP085_P_RES", "group___b_m_p085.html#gad2fef8ad74ebc4a761afa25f615de24f", null ],
+    [ "BMP085_THERMO_NUMBER_OF_AXES", "group___b_m_p085.html#gae10ad6bc9eb8d0e29cf32cb6334a027d", null ],
+    [ "BMP085_T_RES", "group___b_m_p085.html#gae76c8fcabe9d7b062d6628a2ab14364b", null ],
+    [ "BMP085_AD_CR", "group___b_m_p085.html#gae78a3ef1e137acaf498707382f468765", null ],
+    [ "BMP085_AD_T_DR_MSB", "group___b_m_p085.html#ga7da7389f379b0c270f048ff2718c7592", null ],
+    [ "BMP085_AD_T_DR_LSB", "group___b_m_p085.html#ga6b1bfe5c21178917fa2f5c34419d7bd6", null ],
+    [ "BMP085_AD_P_DR_MSB", "group___b_m_p085.html#gac0c797c229675e965c47852e29ac3902", null ],
+    [ "BMP085_AD_P_DR_LSB", "group___b_m_p085.html#ga332203750f8d1ce15ee9986d3cf277f9", null ],
+    [ "BMP085_AD_P_DR_XLSB", "group___b_m_p085.html#gab04d3aba6509f93049b446b104f08a2b", null ],
+    [ "BMP085_AD_CC_AC1_MSB", "group___b_m_p085.html#gab87ed944a0e6f33ac548cbf8b6f98992", null ],
+    [ "BMP085_AD_CC_AC1_LSB", "group___b_m_p085.html#ga6233e764b0f28d4df96d2514d6001f33", null ],
+    [ "BMP085_AD_CC_AC2_MSB", "group___b_m_p085.html#ga8f92689c3bbb75c8feb72cce2b78b325", null ],
+    [ "BMP085_AD_CC_AC2_LSB", "group___b_m_p085.html#ga12cb4cdc7a1679a0111c4af2f723469c", null ],
+    [ "BMP085_AD_CC_AC3_MSB", "group___b_m_p085.html#ga0d29f83842b62c3bcf2ab003b537d839", null ],
+    [ "BMP085_AD_CC_AC3_LSB", "group___b_m_p085.html#ga83a08a8c8942f323f74421acb628ceb9", null ],
+    [ "BMP085_AD_CC_AC4_MSB", "group___b_m_p085.html#ga5669d81e3707affd5910c91c7f7b08aa", null ],
+    [ "BMP085_AD_CC_AC4_LSB", "group___b_m_p085.html#ga85a5c5431279be50efca8612491bbea6", null ],
+    [ "BMP085_AD_CC_AC5_MSB", "group___b_m_p085.html#ga4801c3f8047e6890046b0b3840b79e61", null ],
+    [ "BMP085_AD_CC_AC5_LSB", "group___b_m_p085.html#ga69c0c84c67e33a4fcac28510e7ddc30c", null ],
+    [ "BMP085_AD_CC_AC6_MSB", "group___b_m_p085.html#ga5acb08bf422b208e1a25182e746ce361", null ],
+    [ "BMP085_AD_CC_AC6_LSB", "group___b_m_p085.html#ga653e7e3c6acc7e87a3f1e0a9c89583b0", null ],
+    [ "BMP085_AD_CC_B1_MSB", "group___b_m_p085.html#gad433ddf0e8c9e8f78f8b92c115af2f75", null ],
+    [ "BMP085_AD_CC_B1_LSB", "group___b_m_p085.html#ga2313e26a6a7748c0b0dac65c6582352c", null ],
+    [ "BMP085_AD_CC_B2_MSB", "group___b_m_p085.html#gab324f64dba05f6302635ba84ba4d2c5f", null ],
+    [ "BMP085_AD_CC_B2_LSB", "group___b_m_p085.html#ga3300a4a29bb5a59e501e90533fd435fe", null ],
+    [ "BMP085_AD_CC_MB_MSB", "group___b_m_p085.html#gafb44b97e50aae3f0219ca23acd49fabf", null ],
+    [ "BMP085_AD_CC_MB_LSB", "group___b_m_p085.html#ga8a462832f3f53f953bb5255396c93863", null ],
+    [ "BMP085_AD_CC_MC_MSB", "group___b_m_p085.html#ga016616df906e360b609a8c4e6c2e46d8", null ],
+    [ "BMP085_AD_CC_MC_LSB", "group___b_m_p085.html#ga4cf0c8a728acfd20ac19b8262719179c", null ],
+    [ "BMP085_AD_CC_MD_MSB", "group___b_m_p085.html#ga8c534a72f7aea3d906fbf8f90e40dbb3", null ],
+    [ "BMP085_AD_CC_MD_LSB", "group___b_m_p085.html#gaacbdca51cf6f94f44be311ad022b17b3", null ],
+    [ "BMP085_USE_I2C", "group___b_m_p085.html#gaa6819e7ba7bd5defb1a9d953321621ec", null ],
+    [ "BMP085_USE_ADVANCED", "group___b_m_p085.html#ga40e85e220db0beb405a8540926da28b8", null ],
+    [ "BMP085_SHARED_I2C", "group___b_m_p085.html#gaaed16af0b8fafbd8d8aa4597ca2a9430", null ],
+    [ "_bmp085_baro_methods", "group___b_m_p085.html#gaac2f76c4a2d0cd557d21525fa3e4c31a", null ],
+    [ "_bmp085_thermo_methods", "group___b_m_p085.html#gad89513a3363f32182624503f9d79b94a", null ],
+    [ "_bmp085_data", "group___b_m_p085.html#gab540890bc5605085deb8206e23a84af1", null ],
+    [ "BMP085Driver", "group___b_m_p085.html#ga6ba85c80e5b06e14e4dd9c61ebea6d7c", null ],
+    [ "bmp085_baro_ct_t", "group___b_m_p085.html#gad413b59f0cef0ee95e42b13161837f1a", [
+      [ "BMP085_BARO_CT_LOW", "group___b_m_p085.html#ggad413b59f0cef0ee95e42b13161837f1aa5c722a881ad67644d01567f359b9f2f9", null ],
+      [ "BMP085_BARO_CT_STD", "group___b_m_p085.html#ggad413b59f0cef0ee95e42b13161837f1aa9924bdce57d833ddf034e27a3e665d17", null ],
+      [ "BMP085_BARO_CT_HR", "group___b_m_p085.html#ggad413b59f0cef0ee95e42b13161837f1aa64c1dd25885371e4c1f337bf7d41ae8d", null ],
+      [ "BMP085_BARO_CT_LUHR", "group___b_m_p085.html#ggad413b59f0cef0ee95e42b13161837f1aa4f947b9577f57e71634d1efc998dddf8", null ]
+    ] ],
+    [ "bmp085_baro_mode_t", "group___b_m_p085.html#ga73e49043b2eb6594e4c68cc88fe01224", [
+      [ "BMP085_BARO_MODE_LOW", "group___b_m_p085.html#gga73e49043b2eb6594e4c68cc88fe01224a5cc7013fd4bc16d350da4600ae164935", null ],
+      [ "BMP085_BARO_MODE_STD", "group___b_m_p085.html#gga73e49043b2eb6594e4c68cc88fe01224a99992e820caa3e195d2b31ef6d4f5788", null ],
+      [ "BMP085_BARO_MODE_HR", "group___b_m_p085.html#gga73e49043b2eb6594e4c68cc88fe01224ad3dafafc5b22ccefc929bf348bbfba7f", null ],
+      [ "BMP085_BARO_MODE_LUHR", "group___b_m_p085.html#gga73e49043b2eb6594e4c68cc88fe01224a06a07cd9ee46485bf88896efe2652ddd", null ]
+    ] ],
+    [ "bmp085_baro_oss_t", "group___b_m_p085.html#gab4110b9caf57c6a939c132dc1d2e6bf6", [
+      [ "BMP085_BARO_OSS_0", "group___b_m_p085.html#ggab4110b9caf57c6a939c132dc1d2e6bf6a922180fb295a77ce694b03a230244cb1", null ],
+      [ "BMP085_BARO_OSS_1", "group___b_m_p085.html#ggab4110b9caf57c6a939c132dc1d2e6bf6a145fac91eeb01ad947e2e3d598e1720b", null ],
+      [ "BMP085_BARO_OSS_2", "group___b_m_p085.html#ggab4110b9caf57c6a939c132dc1d2e6bf6ac708831c6252a04a28da2f11814eaa08", null ],
+      [ "BMP085_BARO_OSS_3", "group___b_m_p085.html#ggab4110b9caf57c6a939c132dc1d2e6bf6ad43d1cacebc59124ffe97a8dbf917777", null ]
+    ] ],
+    [ "bmp085_thermo_ct_t", "group___b_m_p085.html#ga8ac2a11a51521cb035bfa021ba4138de", [
+      [ "BMP085_THERMO_CT_LOW", "group___b_m_p085.html#gga8ac2a11a51521cb035bfa021ba4138deacc616e78b3ee572a8f7e753e370c0ee9", null ],
+      [ "BMP085_THERMO_CT_STD", "group___b_m_p085.html#gga8ac2a11a51521cb035bfa021ba4138deaabec9efc98a65e7f84bf3fc9f3fce911", null ],
+      [ "BMP085_THERMO_CT_HR", "group___b_m_p085.html#gga8ac2a11a51521cb035bfa021ba4138dea24c43205ff8fccfca9bdd72ab8ff5165", null ],
+      [ "BMP085_THERMO_CT_LUHR", "group___b_m_p085.html#gga8ac2a11a51521cb035bfa021ba4138deaa98f25045dde49ade8accc6bbbf5a81b", null ]
+    ] ],
+    [ "bmp085_state_t", "group___b_m_p085.html#ga33b3ccf748b09a8fdde08c7b10b629fb", [
+      [ "BMP085_UNINIT", "group___b_m_p085.html#gga33b3ccf748b09a8fdde08c7b10b629fbaecf67169fdc60e23b2375f0e766fc4f2", null ],
+      [ "BMP085_STOP", "group___b_m_p085.html#gga33b3ccf748b09a8fdde08c7b10b629fba57989b7d136a0dbc8f584a2a3c137749", null ],
+      [ "BMP085_READY", "group___b_m_p085.html#gga33b3ccf748b09a8fdde08c7b10b629fbaa9bbb18a3470f46cb0db1f142028b80e", null ]
+    ] ],
+    [ "bmp085ObjectInit", "group___b_m_p085.html#ga350f93a8a9d5795df3ebb56f643cbc11", null ],
+    [ "bmp085Start", "group___b_m_p085.html#gaeefa853380c0db1318109eeabd8338f1", null ],
+    [ "bmp085Stop", "group___b_m_p085.html#gad431c2113c0d49d16032065f1e473bf2", null ]
+];

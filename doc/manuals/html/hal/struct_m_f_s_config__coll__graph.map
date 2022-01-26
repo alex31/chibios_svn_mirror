@@ -1,0 +1,6 @@
+<map id="MFSConfig" name="MFSConfig">
+<area shape="rect" id="node1" title="Type of a MFS configuration structure." alt="" coords="49,264,163,393"/>
+<area shape="rect" id="node2" href="$struct_base_flash.html" title="Base flash class." alt="" coords="67,135,145,204"/>
+<area shape="rect" id="node3" href="$struct_base_object.html" title="Base object class." alt="" coords="5,5,89,75"/>
+<area shape="rect" id="node4" href="$struct_base_flash_v_m_t.html" title="BaseFlash virtual methods table." alt="" coords="114,5,215,75"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="chMsgPoll" name="chMsgPoll">
+<area shape="rect" id="node1" title="Poll to check for an incoming message." alt="" coords="5,177,81,201"/>
+<area shape="rect" id="node2" href="$group__messages.html#ga954a5bcfe4048e02f646e9a0147ac6e7" title="Poll to check for an incoming message." alt="" coords="133,77,216,101"/>
+<area shape="rect" id="node6" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="135,177,214,201"/>
+<area shape="rect" id="node9" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state." alt="" coords="129,259,220,283"/>
+<area shape="rect" id="node3" href="$group__os__lists.html#gae6d0c42b828825a83e460829ac22657d" title="Removes the first&#45;out element from a queue and returns it." alt="" coords="268,5,412,29"/>
+<area shape="rect" id="node4" href="$group__messages.html#gaa2139fd65bc9a0b564fbed0acafc8a8f" title="Evaluates to true if the thread has pending messages." alt="" coords="283,53,397,77"/>
+<area shape="rect" id="node5" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="289,101,391,125"/>
+<area shape="rect" id="node7" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="281,149,399,173"/>
+<area shape="rect" id="node8" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="269,198,411,234"/>
+<area shape="rect" id="node10" href="$group__checks__assertions.html#ga329d7f08bd28259ea79839a61abf8a7a" title="Guard code for chSysUnlock()." alt="" coords="275,259,405,283"/>
+<area shape="rect" id="node11" href="$group__statistics.html#gad42de44c4b5fabeeb849da71ee1d4b72" title="Stops the measurement of a thread critical zone." alt="" coords="269,307,411,343"/>
+</map>

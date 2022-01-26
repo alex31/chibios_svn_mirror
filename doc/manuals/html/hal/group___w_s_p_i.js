@@ -1,0 +1,68 @@
+var group___w_s_p_i =
+[
+    [ "wspi_command_t", "structwspi__command__t.html", [
+      [ "cfg", "structwspi__command__t.html#a1baa10b92a82d9055096ae722a1d8aaa", null ],
+      [ "cmd", "structwspi__command__t.html#aadc51dd58e8683f7ddeeee5d3c53399c", null ],
+      [ "addr", "structwspi__command__t.html#a646c2a55d0a5dc70b38726b3c83a49eb", null ],
+      [ "alt", "structwspi__command__t.html#a1dc0405f4cddc01d3beed4c96a43824e", null ],
+      [ "dummy", "structwspi__command__t.html#a0fa2b19d2db1d65b00d21ce6af23463d", null ]
+    ] ],
+    [ "hal_wspi_config", "structhal__wspi__config.html", [
+      [ "end_cb", "structhal__wspi__config.html#ae4921555a0c2de3152ddc468967b00e6", null ],
+      [ "error_cb", "structhal__wspi__config.html#ad7234b392ebff7fc34db04ef9544bb29", null ]
+    ] ],
+    [ "hal_wspi_driver", "structhal__wspi__driver.html", [
+      [ "state", "structhal__wspi__driver.html#a71a8b0fbff019dd08055fbdb1ade5c0a", null ],
+      [ "config", "structhal__wspi__driver.html#a0cbd42eb19430cc74b08a292e2450b90", null ],
+      [ "thread", "structhal__wspi__driver.html#a268ef25379b093989655497e4224c965", null ],
+      [ "mutex", "structhal__wspi__driver.html#ac5f693a56722c54e27ee17fa821fc8b6", null ]
+    ] ],
+    [ "WSPI_USE_WAIT", "group___w_s_p_i.html#gabe2ef47cbdd6357300f07a8f534b525d", null ],
+    [ "WSPI_USE_MUTUAL_EXCLUSION", "group___w_s_p_i.html#gadf61573774e030f18f903fce854f7b1a", null ],
+    [ "wspiStartCommandI", "group___w_s_p_i.html#ga5a9789ada63bc08f3e1327b1452fd405", null ],
+    [ "wspiStartSendI", "group___w_s_p_i.html#ga13ec46bc86ba4dbfcf8388d025d35179", null ],
+    [ "wspiStartReceiveI", "group___w_s_p_i.html#ga0eb2ac9ae7cb3a784cc72a06861ecfe4", null ],
+    [ "wspiMapFlashI", "group___w_s_p_i.html#ga33183896fc0dbf896e6c6caffb894d63", null ],
+    [ "wspiUnmapFlashI", "group___w_s_p_i.html#ga67bb89fdff7a24dae61923e6a90aad0e", null ],
+    [ "_wspi_wakeup_isr", "group___w_s_p_i.html#gab908ec898f56cc4c34b97236237cee0b", null ],
+    [ "_wspi_isr_code", "group___w_s_p_i.html#ga4c4fb25baa0d54913432dcfc158c9da1", null ],
+    [ "_wspi_error_code", "group___w_s_p_i.html#ga752d8a3006289f3ecb8235e38e5b578c", null ],
+    [ "PLATFORM_WSPI_USE_WSPI1", "group___w_s_p_i.html#ga115a1ffb7550ba9894f92afa856db5b3", null ],
+    [ "wspi_lld_driver_fields", "group___w_s_p_i.html#ga012c327c2767b8f5750cf487486465bd", null ],
+    [ "wspi_lld_config_fields", "group___w_s_p_i.html#ga12c59fe908cff20a39092c716934f9e6", null ],
+    [ "WSPIDriver", "group___w_s_p_i.html#ga1304e94dced5f1b1b57e3756704e6c42", null ],
+    [ "WSPIConfig", "group___w_s_p_i.html#gae1c98018c6795dcf0a9abec67770c15d", null ],
+    [ "wspicallback_t", "group___w_s_p_i.html#gad6836c1d64cfd448c1f516e8f715347c", null ],
+    [ "wspistate_t", "group___w_s_p_i.html#ga213dbe36dd8f89df0a37f2f4f2a1f025", [
+      [ "WSPI_UNINIT", "group___w_s_p_i.html#gga213dbe36dd8f89df0a37f2f4f2a1f025a9faa12c15ba6b0b23a8ad78346702fd6", null ],
+      [ "WSPI_STOP", "group___w_s_p_i.html#gga213dbe36dd8f89df0a37f2f4f2a1f025a57b1e943a4daaf5bfb155ecab9d518a6", null ],
+      [ "WSPI_READY", "group___w_s_p_i.html#gga213dbe36dd8f89df0a37f2f4f2a1f025aa9016ce89c72de0734bdee338b3ab169", null ],
+      [ "WSPI_SEND", "group___w_s_p_i.html#gga213dbe36dd8f89df0a37f2f4f2a1f025a2b439f4ea3bbc0b36ee04d2646b5c610", null ],
+      [ "WSPI_RECEIVE", "group___w_s_p_i.html#gga213dbe36dd8f89df0a37f2f4f2a1f025aa8e25f220561791ae6dedcb26bf3c1fd", null ],
+      [ "WSPI_COMPLETE", "group___w_s_p_i.html#gga213dbe36dd8f89df0a37f2f4f2a1f025a029560d4ea3ee75acfa118bcef1e3ea2", null ],
+      [ "WSPI_MEMMAP", "group___w_s_p_i.html#gga213dbe36dd8f89df0a37f2f4f2a1f025a816640f7f61fd692e89b8ec70a7c18bb", null ]
+    ] ],
+    [ "wspiInit", "group___w_s_p_i.html#ga339f90f4ff4e8a82f517b8a9b3728e0e", null ],
+    [ "wspiObjectInit", "group___w_s_p_i.html#ga02b995be7715bbb9b180fb3d8d5635e5", null ],
+    [ "wspiStart", "group___w_s_p_i.html#ga4825a9991da29808cc9132e189ef8d33", null ],
+    [ "wspiStop", "group___w_s_p_i.html#gaf58e3d6c9b649ef7f05992875b5a08fb", null ],
+    [ "wspiStartCommand", "group___w_s_p_i.html#ga44ddcba9dfb0d510f999f12c994daae9", null ],
+    [ "wspiStartSend", "group___w_s_p_i.html#ga263392debe54b77a26b1cf81aca85a91", null ],
+    [ "wspiStartReceive", "group___w_s_p_i.html#gaef262a651e85849553f41faa462bab36", null ],
+    [ "wspiCommand", "group___w_s_p_i.html#ga9c2a19265bd2f3d4a63899b8e64a8eea", null ],
+    [ "wspiSend", "group___w_s_p_i.html#gaaf6b2438bad55aabceb265cda183a97f", null ],
+    [ "wspiReceive", "group___w_s_p_i.html#ga48391a36a1c5c208ea4fd03d5dc6cf65", null ],
+    [ "wspiMapFlash", "group___w_s_p_i.html#ga08ba3418fe653c2061f59bc093be46da", null ],
+    [ "wspiUnmapFlash", "group___w_s_p_i.html#gabd92ddbd07c1e9be7307215363d6fa3b", null ],
+    [ "wspiAcquireBus", "group___w_s_p_i.html#ga1a76c82a6b18d4619f427f0b1ca242c5", null ],
+    [ "wspiReleaseBus", "group___w_s_p_i.html#ga72cc4dda06bcc9bc3e3e3403c7ab4388", null ],
+    [ "wspi_lld_init", "group___w_s_p_i.html#ga02f4236960f84150bf6ef591a06ec483", null ],
+    [ "wspi_lld_start", "group___w_s_p_i.html#gae0f8ae2becb8896c894c353193f17060", null ],
+    [ "wspi_lld_stop", "group___w_s_p_i.html#ga5f4ef18ef56ce866a1fe1552aff6c3b5", null ],
+    [ "wspi_lld_command", "group___w_s_p_i.html#gacba53b2f6ebd4da6b6aa0aafe39f22a9", null ],
+    [ "wspi_lld_send", "group___w_s_p_i.html#gab720655fa27fdc52a7b864488fe3d959", null ],
+    [ "wspi_lld_receive", "group___w_s_p_i.html#ga3bb0b0c29b7c6c51610e3c775254bf6f", null ],
+    [ "wspi_lld_map_flash", "group___w_s_p_i.html#ga80d87f8ba2187052a86e5819b0505d7c", null ],
+    [ "wspi_lld_unmap_flash", "group___w_s_p_i.html#ga2f5037503f0ef9cf7009094fa0252d38", null ],
+    [ "WSPID1", "group___w_s_p_i.html#ga64298f9d2ddaf77f70ba8a6668db123a", null ]
+];

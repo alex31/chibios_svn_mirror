@@ -1,0 +1,9 @@
+<map id="chEvtUnregister" name="chEvtUnregister">
+<area shape="rect" id="node1" title="Unregisters an Event Listener from its Event Source." alt="" coords="5,88,115,112"/>
+<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="169,60,247,84"/>
+<area shape="rect" id="node5" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state." alt="" coords="163,115,253,139"/>
+<area shape="rect" id="node3" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="314,5,431,29"/>
+<area shape="rect" id="node4" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="301,54,444,90"/>
+<area shape="rect" id="node6" href="$group__checks__assertions.html#ga329d7f08bd28259ea79839a61abf8a7a" title="Guard code for chSysUnlock()." alt="" coords="307,115,438,139"/>
+<area shape="rect" id="node7" href="$group__statistics.html#gad42de44c4b5fabeeb849da71ee1d4b72" title="Stops the measurement of a thread critical zone." alt="" coords="302,163,443,199"/>
+</map>

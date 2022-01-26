@@ -1,0 +1,11 @@
+<map id="chMBPostAheadI" name="chMBPostAheadI">
+<area shape="rect" id="node1" title="Posts an high priority message into a mailbox." alt="" coords="5,55,117,79"/>
+<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="547,5,670,29"/>
+<area shape="rect" id="node4" href="$group__oslib__mailboxes.html#gab8460d4d099ba8df173fdd16aa289baf" title="Returns the number of free message slots into a mailbox." alt="" coords="168,55,296,79"/>
+<area shape="rect" id="node7" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any." alt="" coords="165,152,299,176"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="723,5,799,29"/>
+<area shape="rect" id="node5" href="$group__oslib__mailboxes.html#ga2d6bf9fffcebd1218a5f969aeb1b2905" title="Returns the mailbox buffer size as number of messages." alt="" coords="373,55,469,79"/>
+<area shape="rect" id="node6" href="$group__oslib__mailboxes.html#gab33c27e5b512214ba48233f6d3e01cac" title="Returns the number of used message slots into a mailbox." alt="" coords="354,103,487,127"/>
+<area shape="rect" id="node8" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="543,176,675,200"/>
+<area shape="rect" id="node9" href="$group__threads.html#ga5e3cd6454d16884663fe107971e99370" title="Dequeues and wakes up one thread from the threads queue object." alt="" coords="347,201,495,225"/>
+</map>

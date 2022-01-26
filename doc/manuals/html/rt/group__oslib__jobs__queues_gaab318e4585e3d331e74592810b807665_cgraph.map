@@ -1,0 +1,7 @@
+<map id="chJobPostAheadI" name="chJobPostAheadI">
+<area shape="rect" id="node1" title="Posts an high priority job object." alt="" coords="5,29,119,53"/>
+<area shape="rect" id="node2" href="$group__oslib__mailboxes.html#gaf4501d7dcdfa1f17a13c2662af49095a" title="Posts an high priority message into a mailbox." alt="" coords="167,29,279,53"/>
+<area shape="rect" id="node3" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="508,5,631,29"/>
+<area shape="rect" id="node4" href="$group__oslib__mailboxes.html#gab8460d4d099ba8df173fdd16aa289baf" title="Returns the number of free message slots into a mailbox." alt="" coords="329,29,457,53"/>
+<area shape="rect" id="node5" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any." alt="" coords="327,77,460,101"/>
+</map>

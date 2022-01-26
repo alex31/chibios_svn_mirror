@@ -1,0 +1,11 @@
+<map id="chPoolFree" name="chPoolFree">
+<area shape="rect" id="node1" title="Releases an object into a memory pool." alt="" coords="5,95,87,119"/>
+<area shape="rect" id="node2" href="$group__oslib__mempools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool." alt="" coords="138,20,222,44"/>
+<area shape="rect" id="node4" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="141,95,219,119"/>
+<area shape="rect" id="node7" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state." alt="" coords="135,163,225,187"/>
+<area shape="rect" id="node3" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="283,5,406,29"/>
+<area shape="rect" id="node5" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="286,53,403,77"/>
+<area shape="rect" id="node6" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="273,102,416,138"/>
+<area shape="rect" id="node8" href="$group__checks__assertions.html#ga329d7f08bd28259ea79839a61abf8a7a" title="Guard code for chSysUnlock()." alt="" coords="279,163,410,187"/>
+<area shape="rect" id="node9" href="$group__statistics.html#gad42de44c4b5fabeeb849da71ee1d4b72" title="Stops the measurement of a thread critical zone." alt="" coords="274,211,415,247"/>
+</map>

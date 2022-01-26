@@ -1,0 +1,4 @@
+<map id="usbStartReceiveI" name="usbStartReceiveI">
+<area shape="rect" id="node1" title="Starts a receive transaction on an OUT endpoint." alt="" coords="5,5,120,29"/>
+<area shape="rect" id="node2" href="$group___u_s_b.html#ga9ef9040f705088dab583a31b544abb0f" title="Starts a receive operation on an OUT endpoint." alt="" coords="168,5,281,29"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Synchronization" name="Synchronization">
+<area shape="rect" id="node1" href="$group__oslib__jobs__queues.html" title=" " alt="" coords="308,5,399,28"/>
+<area shape="rect" id="node2" title=" " alt="" coords="131,99,241,121"/>
+<area shape="rect" id="node3" href="$group__oslib__pipes.html" title=" " alt="" coords="328,52,379,75"/>
+<area shape="rect" id="node4" href="$group__oslib__binary__semaphores.html" title=" " alt="" coords="289,99,417,121"/>
+<area shape="rect" id="node6" href="$group__oslib__mailboxes.html" title=" " alt="" coords="315,145,391,168"/>
+<area shape="rect" id="node7" href="$group__oslib__delegates.html" title=" " alt="" coords="293,192,413,215"/>
+<area shape="rect" id="node5" href="$group__oslib.html" title=" " alt="" coords="5,99,83,121"/>
+</map>

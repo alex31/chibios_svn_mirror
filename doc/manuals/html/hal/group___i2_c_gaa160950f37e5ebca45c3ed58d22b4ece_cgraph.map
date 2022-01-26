@@ -1,0 +1,4 @@
+<map id="i2cReleaseBus" name="i2cReleaseBus">
+<area shape="rect" id="node1" title="Releases exclusive access to the I2C bus." alt="" coords="5,5,108,29"/>
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#gada8042421242b8adc729f25f9ba746db" title="Unlocks the specified mutex." alt="" coords="156,5,271,29"/>
+</map>

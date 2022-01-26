@@ -1,0 +1,6 @@
+<map id="BaseFlash" name="BaseFlash">
+<area shape="rect" id="node1" title="Base flash class." alt="" coords="78,264,157,333"/>
+<area shape="rect" id="node2" href="$struct_base_object.html" title="Base object class." alt="" coords="17,135,101,204"/>
+<area shape="rect" id="node3" href="$struct_base_object_v_m_t.html" title="BaseObject virtual methods table." alt="" coords="5,5,112,75"/>
+<area shape="rect" id="node4" href="$struct_base_flash_v_m_t.html" title="BaseFlash virtual methods table." alt="" coords="125,135,227,204"/>
+</map>

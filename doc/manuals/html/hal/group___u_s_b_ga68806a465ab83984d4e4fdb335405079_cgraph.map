@@ -1,0 +1,4 @@
+<map id="usbStartTransmitI" name="usbStartTransmitI">
+<area shape="rect" id="node1" title="Starts a transmit transaction on an IN endpoint." alt="" coords="5,5,123,29"/>
+<area shape="rect" id="node2" href="$group___u_s_b.html#gab03273c7bdd1779638ef66bd3b20b2b9" title="Starts a transmit operation on an IN endpoint." alt="" coords="171,5,276,29"/>
+</map>

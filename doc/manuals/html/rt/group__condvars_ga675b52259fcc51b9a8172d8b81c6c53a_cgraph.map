@@ -1,0 +1,4 @@
+<map id="chCondObjectInit" name="chCondObjectInit">
+<area shape="rect" id="node1" title="Initializes s condition_variable_t structure." alt="" coords="5,5,120,29"/>
+<area shape="rect" id="node2" href="$group__os__lists.html#ga24d4153abba7349bee36ba4d2c3de6a5" title="Queue initialization." alt="" coords="168,5,265,29"/>
+</map>

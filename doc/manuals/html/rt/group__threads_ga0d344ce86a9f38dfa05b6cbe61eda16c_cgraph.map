@@ -1,0 +1,8 @@
+<map id="chThdEnqueueTimeoutS" name="chThdEnqueueTimeoutS">
+<area shape="rect" id="node1" title="Enqueues the caller thread on a threads queue object." alt="" coords="5,53,161,77"/>
+<area shape="rect" id="node2" href="$group__os__lists.html#gab7907f85d49440e17fe4903327a0daba" title="Inserts an element into a queue." alt="" coords="230,5,341,29"/>
+<area shape="rect" id="node3" href="$group__scheduler.html#gae638842e01309c38d888bb91a4845b2b" title="Puts the current thread to sleep into the specified state with timeout specification." alt="" coords="209,53,361,77"/>
+<area shape="rect" id="node6" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="234,101,337,125"/>
+<area shape="rect" id="node4" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="409,29,536,53"/>
+<area shape="rect" id="node5" href="$group__time.html#ga1d70201287f59c1d60844859aa90a4dc" title="Enables a one&#45;shot virtual timer." alt="" coords="430,77,515,101"/>
+</map>

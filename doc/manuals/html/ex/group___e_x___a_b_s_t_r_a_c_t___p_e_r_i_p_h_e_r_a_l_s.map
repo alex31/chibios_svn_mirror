@@ -1,0 +1,13 @@
+<map id="Peripheral Interfaces" name="Peripheral Interfaces">
+<area shape="rect" id="node1" href="$group___e_x___d_i_s_p_l_a_y_s.html" title="EX Generic Display Interface." alt="" coords="284,5,443,28"/>
+<area shape="rect" id="node2" href="$group___e_x___h_y_g_r_o_m_e_t_e_r.html" title="EX Generic Hygrometer Interface." alt="" coords="298,53,429,87"/>
+<area shape="rect" id="node3" href="$group___e_x.html" title="EXternal peripherals." alt="" coords="5,212,44,235"/>
+<area shape="rect" id="node7" title="EX Abstract Peripheral Interfaces." alt="" coords="92,212,227,235"/>
+<area shape="rect" id="node4" href="$group___e_x___c_o_m_p_a_s_s.html" title="EX Generic Compass Interface." alt="" coords="279,112,448,135"/>
+<area shape="rect" id="node5" href="$group___e_x___s_e_n_s_o_r_s.html" title="EX Generic Sensor Interface." alt="" coords="285,159,442,181"/>
+<area shape="rect" id="node6" href="$group___e_x___t_h_e_r_m_o_m_e_t_e_r.html" title="EX Generic Thermometer Interface." alt="" coords="293,206,434,241"/>
+<area shape="rect" id="node8" href="$group___e_x___r_a_n_g_e_f_i_n_d_e_r.html" title="EX Generic Range Finder Interface." alt="" coords="294,265,433,299"/>
+<area shape="rect" id="node9" href="$group___e_x___b_a_r_o_m_e_t_e_r.html" title="EX Generic Barometer Interface." alt="" coords="275,324,451,347"/>
+<area shape="rect" id="node10" href="$group___e_x___a_c_c_e_l_e_r_o_m_e_t_e_r.html" title="EX Generic Accelerometer Interface." alt="" coords="290,371,437,406"/>
+<area shape="rect" id="node11" href="$group___e_x___g_y_r_o_s_c_o_p_e.html" title="EX Generic Gyroscope Interface." alt="" coords="275,431,452,453"/>
+</map>

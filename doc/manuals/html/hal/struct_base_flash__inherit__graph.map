@@ -1,0 +1,6 @@
+<map id="BaseFlash" name="BaseFlash">
+<area shape="rect" id="node1" title="Base flash class." alt="" coords="77,123,155,192"/>
+<area shape="rect" id="node3" href="$struct_s_n_o_r_driver.html" title="Type of SNOR flash class." alt="" coords="5,240,91,333"/>
+<area shape="rect" id="node4" href="$structhal__efl__driver.html" title="Structure representing an embedded flash driver." alt="" coords="115,240,253,333"/>
+<area shape="rect" id="node2" href="$struct_base_object.html" title="Base object class." alt="" coords="74,5,158,75"/>
+</map>

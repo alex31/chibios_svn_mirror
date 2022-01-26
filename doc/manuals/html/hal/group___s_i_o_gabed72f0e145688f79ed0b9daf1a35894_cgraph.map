@@ -1,0 +1,6 @@
+<map id="sioStop" name="sioStop">
+<area shape="rect" id="node1" title="Deactivates the SIO peripheral." alt="" coords="5,53,68,77"/>
+<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="122,5,211,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context." alt="" coords="116,53,217,77"/>
+<area shape="rect" id="node4" href="$group___s_i_o.html#ga9f755cb2b2ba0e48950692001c065c90" title="Deactivates the SIO peripheral." alt="" coords="124,101,209,125"/>
+</map>

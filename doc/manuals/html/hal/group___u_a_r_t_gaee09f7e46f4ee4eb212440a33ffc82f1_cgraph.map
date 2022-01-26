@@ -1,0 +1,4 @@
+<map id="uartStopReceiveI" name="uartStopReceiveI">
+<area shape="rect" id="node1" title="Stops any ongoing receive operation." alt="" coords="5,5,120,29"/>
+<area shape="rect" id="node2" href="$group___u_a_r_t.html#gaf6eeebdeb91ad7e692d73ceefa9eafb7" title="Stops any ongoing receive operation." alt="" coords="168,5,304,29"/>
+</map>

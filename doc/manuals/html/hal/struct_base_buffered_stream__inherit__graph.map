@@ -1,0 +1,6 @@
+<map id="BaseBufferedStream" name="BaseBufferedStream">
+<area shape="rect" id="node1" title="Buffered stream class." alt="" coords="11,240,146,309"/>
+<area shape="rect" id="node4" href="$struct_null_stream.html" title="Null stream object." alt="" coords="37,357,120,427"/>
+<area shape="rect" id="node2" href="$struct_base_sequential_stream.html" title="Base stream class." alt="" coords="5,123,152,192"/>
+<area shape="rect" id="node3" href="$struct_base_object.html" title="Base object class." alt="" coords="37,5,121,75"/>
+</map>

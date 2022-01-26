@@ -1,0 +1,11 @@
+<map id="ch_ready_list" name="ch_ready_list">
+<area shape="rect" id="node1" title="Type of a ready list header." alt="" coords="525,135,617,204"/>
+<area shape="rect" id="node6" href="$structch__os__instance.html" title="System instance data structure." alt="" coords="417,288,522,357"/>
+<area shape="rect" id="node2" href="$structch__thread.html" title="Structure representing a thread." alt="" coords="319,453,412,643"/>
+<area shape="rect" id="node7" href="$structch__mutex.html" title="Mutex structure." alt="" coords="249,715,322,784"/>
+<area shape="rect" id="node3" href="$structch__queue.html" title="Structure representing a generic bidirectional linked list header and element." alt="" coords="44,135,119,204"/>
+<area shape="rect" id="node4" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="30,288,133,357"/>
+<area shape="rect" id="node5" href="$structch__list.html" title="Structure representing a generic single link list header and element." alt="" coords="157,288,213,357"/>
+<area shape="rect" id="node8" href="$structch__priority__queue.html" title="Structure representing a generic priority&#45;ordered bidirectional linked list header and element." alt="" coords="637,5,755,75"/>
+<area shape="rect" id="node9" href="$structtime__measurement__t.html" title="Type of a Time Measurement object." alt="" coords="647,264,783,381"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="__factory_init" name="__factory_init">
+<area shape="rect" id="node1" title="Initializes the objects factory." alt="" coords="5,29,97,53"/>
+<area shape="rect" id="node2" href="$group__mutexes.html#gad2a9a30e775fdf81dca878810c9c52cd" title="Initializes s mutex_t structure." alt="" coords="147,5,254,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#ga6c1812ffb36357295cd22670a10ff694" title="Initializes a semaphore with the specified counter value." alt="" coords="145,53,256,77"/>
+<area shape="rect" id="node3" href="$group__os__lists.html#ga24d4153abba7349bee36ba4d2c3de6a5" title="Queue initialization." alt="" coords="304,29,401,53"/>
+</map>

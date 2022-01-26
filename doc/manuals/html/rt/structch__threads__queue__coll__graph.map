@@ -1,0 +1,4 @@
+<map id="ch_threads_queue" name="ch_threads_queue">
+<area shape="rect" id="node1" title="Type of a threads queue." alt="" coords="5,135,128,204"/>
+<area shape="rect" id="node2" href="$structch__queue.html" title="Structure representing a generic bidirectional linked list header and element." alt="" coords="29,5,104,75"/>
+</map>

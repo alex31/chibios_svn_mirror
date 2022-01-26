@@ -1,0 +1,14 @@
+<map id="BaseObject" name="BaseObject">
+<area shape="rect" id="node1" title="Base object class." alt="" coords="289,5,373,75"/>
+<area shape="rect" id="node2" href="$struct_base_block_device.html" title="Base block device class." alt="" coords="80,123,195,192"/>
+<area shape="rect" id="node4" href="$struct_base_flash.html" title="Base flash class." alt="" coords="223,123,302,192"/>
+<area shape="rect" id="node7" href="$struct_base_persistent_storage.html" title="Base persistent storage class." alt="" coords="327,123,473,192"/>
+<area shape="rect" id="node8" href="$struct_base_sequential_stream.html" title="Base stream class." alt="" coords="561,123,708,192"/>
+<area shape="rect" id="node3" href="$struct_m_m_c_s_d_block_device.html" title="MCC/SD block device class." alt="" coords="5,252,133,321"/>
+<area shape="rect" id="node5" href="$struct_s_n_o_r_driver.html" title="Type of SNOR flash class." alt="" coords="157,240,243,333"/>
+<area shape="rect" id="node6" href="$structhal__efl__driver.html" title="Structure representing an embedded flash driver." alt="" coords="267,240,405,333"/>
+<area shape="rect" id="node9" href="$struct_base_buffered_stream.html" title="Buffered stream class." alt="" coords="429,252,563,321"/>
+<area shape="rect" id="node10" href="$struct_base_channel.html" title="Base channel class." alt="" coords="587,252,682,321"/>
+<area shape="rect" id="node11" href="$struct_file_stream.html" title="Base file stream class." alt="" coords="706,252,785,321"/>
+<area shape="rect" id="node12" href="$struct_memory_stream.html" title="Memory stream object." alt="" coords="809,252,913,321"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="trace_event_t" name="trace_event_t">
+<area shape="rect" id="node1" title="Trace buffer record." alt="" coords="187,585,281,775"/>
+<area shape="rect" id="node2" href="$structch__thread.html" title="Structure representing a thread." alt="" coords="302,324,395,513"/>
+<area shape="rect" id="node6" href="$structch__os__instance.html" title="System instance data structure." alt="" coords="328,645,433,715"/>
+<area shape="rect" id="node7" href="$structch__mutex.html" title="Mutex structure." alt="" coords="520,645,593,715"/>
+<area shape="rect" id="node3" href="$structch__queue.html" title="Structure representing a generic bidirectional linked list header and element." alt="" coords="122,5,197,75"/>
+<area shape="rect" id="node4" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="108,159,211,228"/>
+<area shape="rect" id="node5" href="$structch__list.html" title="Structure representing a generic single link list header and element." alt="" coords="235,159,291,228"/>
+<area shape="rect" id="node8" href="$structch__priority__queue.html" title="Structure representing a generic priority&#45;ordered bidirectional linked list header and element." alt="" coords="376,159,495,228"/>
+<area shape="rect" id="node9" href="$structtime__measurement__t.html" title="Type of a Time Measurement object." alt="" coords="579,135,715,252"/>
+</map>

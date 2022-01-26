@@ -1,0 +1,5 @@
+<map id="wspi_lld_init" name="wspi_lld_init">
+<area shape="rect" id="node1" title="Low level WSPI driver initialization." alt="" coords="5,5,92,29"/>
+<area shape="rect" id="node2" href="$group___w_s_p_i.html#ga02b995be7715bbb9b180fb3d8d5635e5" title="Initializes the standard part of a WSPIDriver structure." alt="" coords="140,5,239,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga156fb36e0f0ea799f2bfe31970337de7" title="Initializes s mutex_t object." alt="" coords="287,5,416,29"/>
+</map>

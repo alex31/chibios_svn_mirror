@@ -1,0 +1,7 @@
+<map id="chMsgSend" name="chMsgSend">
+<area shape="rect" id="node1" title="Sends a message to the specified thread." alt="" coords="5,57,91,81"/>
+<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="151,33,229,57"/>
+<area shape="rect" id="node5" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="139,81,241,105"/>
+<area shape="rect" id="node3" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="302,5,419,29"/>
+<area shape="rect" id="node4" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="289,54,432,90"/>
+</map>

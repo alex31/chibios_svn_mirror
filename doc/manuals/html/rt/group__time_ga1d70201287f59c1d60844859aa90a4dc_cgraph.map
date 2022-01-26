@@ -1,0 +1,12 @@
+<map id="chVTDoSetI" name="chVTDoSetI">
+<area shape="rect" id="node1" title="Enables a one&#45;shot virtual timer." alt="" coords="5,128,91,152"/>
+<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="139,55,261,79"/>
+<area shape="rect" id="node4" href="$group__time.html#ga5eebb8f9f84b20dbab00eabbbd3730be" title="Enqueues a virtual timer in a virtual timers list." alt="" coords="157,152,243,176"/>
+<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="327,5,403,29"/>
+<area shape="rect" id="node5" href="$group__os__lists.html#gae3e9ee76e96c0018fd6578c0c03e3ac5" title="Inserts an element in a delta list." alt="" coords="315,200,414,224"/>
+<area shape="rect" id="node6" href="$group__os__lists.html#gab760397c3c3f6a87fc3b81076ca8ad75" title="Evaluates to true if the specified delta list is empty." alt="" coords="309,248,420,272"/>
+<area shape="rect" id="node7" href="$group__time__intervals.html#ga49404a18a4b3e9da5062d1269341c4bc" title="Subtracts two system times returning an interval." alt="" coords="495,152,582,176"/>
+<area shape="rect" id="node8" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time." alt="" coords="468,104,609,128"/>
+<area shape="rect" id="node9" href="$group__time.html#gaf718b789cd3afbf849a3b3b1b4f872a0" title="Inserts a timer as first element in a delta list." alt="" coords="317,152,412,176"/>
+<area shape="rect" id="node10" href="$group__time.html#gab203187bd9b2883da61c41bdf759229d" title="Alarm time setup." alt="" coords="319,104,410,128"/>
+</map>

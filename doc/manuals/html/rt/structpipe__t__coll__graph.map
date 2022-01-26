@@ -1,0 +1,11 @@
+<map id="pipe_t" name="pipe_t">
+<area shape="rect" id="node1" title="Structure representing a pipe object." alt="" coords="153,739,220,868"/>
+<area shape="rect" id="node2" href="$structch__thread.html" title="Structure representing a thread." alt="" coords="233,324,326,513"/>
+<area shape="rect" id="node6" href="$structch__os__instance.html" title="System instance data structure." alt="" coords="332,585,438,655"/>
+<area shape="rect" id="node7" href="$structch__mutex.html" title="Mutex structure." alt="" coords="76,585,150,655"/>
+<area shape="rect" id="node3" href="$structch__queue.html" title="Structure representing a generic bidirectional linked list header and element." alt="" coords="41,5,116,75"/>
+<area shape="rect" id="node4" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="27,159,130,228"/>
+<area shape="rect" id="node5" href="$structch__list.html" title="Structure representing a generic single link list header and element." alt="" coords="154,159,210,228"/>
+<area shape="rect" id="node8" href="$structch__priority__queue.html" title="Structure representing a generic priority&#45;ordered bidirectional linked list header and element." alt="" coords="295,159,414,228"/>
+<area shape="rect" id="node9" href="$structtime__measurement__t.html" title="Type of a Time Measurement object." alt="" coords="498,135,634,252"/>
+</map>

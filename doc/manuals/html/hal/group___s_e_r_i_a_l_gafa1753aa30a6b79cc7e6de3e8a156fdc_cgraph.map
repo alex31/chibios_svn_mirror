@@ -1,0 +1,5 @@
+<map id="sdRequestDataI" name="sdRequestDataI">
+<area shape="rect" id="node1" title="Handles outgoing data." alt="" coords="5,5,115,29"/>
+<area shape="rect" id="node2" href="$group___h_a_l___q_u_e_u_e_s.html#gae5a4cdf7820f1ab7bf554fe8cc791e9c" title="Output queue read." alt="" coords="163,5,221,29"/>
+<area shape="rect" id="node3" href="$group___o_s_a_l.html#gaf09bde5867505af235277e0a888044b8" title="Dequeues and wakes up one thread from the queue, if any." alt="" coords="269,5,431,29"/>
+</map>

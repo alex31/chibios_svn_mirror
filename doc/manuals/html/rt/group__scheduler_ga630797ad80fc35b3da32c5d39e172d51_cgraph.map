@@ -1,0 +1,5 @@
+<map id="__sch_ready_ahead" name="__sch_ready_ahead">
+<area shape="rect" id="node1" title="Inserts a thread in the Ready List placing it ahead its peers." alt="" coords="5,29,132,53"/>
+<area shape="rect" id="node2" href="$group__trace.html#ga4d897c6faeb202f8e8bf0d5b52903f32" title="Inserts in the circular debug trace buffer a ready record." alt="" coords="211,5,307,29"/>
+<area shape="rect" id="node3" href="$group__os__lists.html#ga42e37cf1054a9d3c6960aa227ad44f55" title="Inserts an element in the priority queue placing it ahead of its peers." alt="" coords="180,53,339,77"/>
+</map>

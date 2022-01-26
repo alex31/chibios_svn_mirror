@@ -1,0 +1,11 @@
+<map id="HAL" name="HAL">
+<area shape="rect" id="node1" href="$group___h_a_l___a_b_s_t_r_a_c_t___p_e_r_i_p_h_e_r_a_l_s.html" title="HAL Abstract Peripheral Interfaces." alt="" coords="102,5,237,28"/>
+<area shape="rect" id="node2" title="Hardware Abstraction Layer." alt="" coords="5,169,48,192"/>
+<area shape="rect" id="node3" href="$group___h_a_l___c_o_n_f.html" title="HAL Configuration." alt="" coords="121,52,217,75"/>
+<area shape="rect" id="node4" href="$group___h_a_l___i_n_t_e_r_f_a_c_e_s___c_l_a_s_s_e_s.html" title="HAL Interfaces and Classes." alt="" coords="96,99,243,121"/>
+<area shape="rect" id="node5" href="$group___h_a_l___n_o_r_m_a_l___d_r_i_v_e_r_s.html" title="HAL Normal Drivers." alt="" coords="118,145,221,168"/>
+<area shape="rect" id="node6" href="$group___o_s_a_l.html" title="Operating System Abstraction Layer." alt="" coords="144,192,195,215"/>
+<area shape="rect" id="node7" href="$group___h_a_l___i_n_n_e_r___c_o_d_e.html" title="HAL Inner Code." alt="" coords="129,239,210,261"/>
+<area shape="rect" id="node8" href="$group___h_a_l___c_o_m_p_l_e_x___d_r_i_v_e_r_s.html" title="HAL Complex Drivers." alt="" coords="115,285,224,308"/>
+<area shape="rect" id="node9" href="$group___h_a_l___s_u_p_p_o_r_t.html" title="HAL Support Code." alt="" coords="121,332,217,355"/>
+</map>

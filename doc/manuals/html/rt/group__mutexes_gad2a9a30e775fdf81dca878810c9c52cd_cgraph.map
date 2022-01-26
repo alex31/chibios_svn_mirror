@@ -1,0 +1,4 @@
+<map id="chMtxObjectInit" name="chMtxObjectInit">
+<area shape="rect" id="node1" title="Initializes s mutex_t structure." alt="" coords="5,5,112,29"/>
+<area shape="rect" id="node2" href="$group__os__lists.html#ga24d4153abba7349bee36ba4d2c3de6a5" title="Queue initialization." alt="" coords="160,5,257,29"/>
+</map>

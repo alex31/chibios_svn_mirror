@@ -1,0 +1,7 @@
+<map id="chFifoTakeObjectI" name="chFifoTakeObjectI">
+<area shape="rect" id="node1" title="Allocates a free object." alt="" coords="5,53,123,77"/>
+<area shape="rect" id="node2" href="$group__oslib__mempools.html#ga103973c939b37b84531d8d1fedc91579" title="Allocates an object from a guarded memory pool." alt="" coords="171,53,305,77"/>
+<area shape="rect" id="node3" href="$group__oslib__mempools.html#ga0fb08e687397c6ba657886752a032384" title="Allocates an object from a memory pool." alt="" coords="372,5,459,29"/>
+<area shape="rect" id="node4" href="$group__semaphores.html#gabf1864766da833070d61948d67a190a0" title="Decreases the semaphore counter." alt="" coords="361,53,469,77"/>
+<area shape="rect" id="node5" href="$group__semaphores.html#ga0f47e935dc651550ff52b8b20c9b9c2d" title="Returns the semaphore counter current value." alt="" coords="353,101,477,125"/>
+</map>
