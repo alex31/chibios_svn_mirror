@@ -1907,6 +1907,8 @@ os/common/utils/include/errcodes.h -text
 os/common/utils/include/oop_base_object.h -text
 os/common/utils/include/oop_referenced_object.h -text
 os/common/utils/include/oop_synchronized_object.h -text
+os/common/utils/include/paths.h -text
+os/common/utils/src/paths.c -text
 os/common/utils/utils.mk -text
 os/ex/devices/ADI/adxl355.c -text
 os/ex/devices/ADI/adxl355.h -text
@@ -3517,8 +3519,6 @@ os/sb/apps/msh/.project -text
 os/sb/apps/msh/Makefile -text
 os/sb/apps/msh/main.c -text
 os/sb/apps/msh/source/callhdr.S -text
-os/sb/apps/msh/source/paths.c -text
-os/sb/apps/msh/source/paths.h -text
 os/sb/apps/msh/source/runelf.c -text
 os/sb/common/dirent.h -text
 os/sb/common/sbhdr.h -text
@@ -3609,12 +3609,10 @@ os/vfs/include/vfschecks.h -text
 os/vfs/include/vfsdrivers.h -text
 os/vfs/include/vfsnodes.h -text
 os/vfs/include/vfsparser.h -text
-os/vfs/include/vfspaths.h -text
 os/vfs/src/vfs.c -text
 os/vfs/src/vfsbuffers.c -text
 os/vfs/src/vfsdrivers.c -text
 os/vfs/src/vfsparser.c -text
-os/vfs/src/vfspaths.c -text
 os/vfs/templates/vfsconf.h -text
 os/vfs/various/syscalls.c -text
 os/vfs/vfs.mk -text
