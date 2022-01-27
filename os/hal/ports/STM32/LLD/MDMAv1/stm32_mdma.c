@@ -68,8 +68,8 @@ static struct {
 static void mdma_serve_interrupt(const stm32_mdma_channel_t *mdmachp) {
   uint32_t flags;
 
-  flags = mdmachp->channel->CISR;
-  mdmachp->channel->CIFCR = flags;
+  flags = mdmachp->channel->CISR | (mdmachp->channel->CESR << STM32_MDMA_FLAGS_CESR_Pos);
+  mdmachp->channel->CIFCR = flags & STM32_MDMA_FLAGS_CISR_Mask;
   if (mdmachp->func != NULL) {
     mdmachp->func(mdmachp->param, flags);
   }

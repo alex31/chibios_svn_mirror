@@ -244,6 +244,13 @@
 #define STM32_MDMA_CTBR_TSEL_DBUS       (1U << 17)
 /** @} */
 
+/**
+ * @name    ISR flag packing constant
+ * @{
+ */
+#define STM32_MDMA_FLAGS_CESR_Pos      17U
+#define STM32_MDMA_FLAGS_CISR_Mask     0x1ffff;
+/** @} */
 /*===========================================================================*/
 /* Driver pre-compile time settings.                                         */
 /*===========================================================================*/
