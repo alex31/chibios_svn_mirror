@@ -3569,6 +3569,7 @@ os/various/fatfs_bindings/readme.txt -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.c -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.h -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.mk -text
+os/various/littlefs_bindings/lfs_config.h -text
 os/various/littlefs_bindings/lfs_wspi.c -text
 os/various/littlefs_bindings/lfs_wspi.h -text
 os/various/littlefs_bindings/littlefs.mk -text
