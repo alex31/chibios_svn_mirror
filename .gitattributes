@@ -3521,6 +3521,8 @@ os/sb/apps/msh/Makefile -text
 os/sb/apps/msh/main.c -text
 os/sb/apps/msh/source/callhdr.S -text
 os/sb/apps/msh/source/runelf.c -text
+os/sb/apps/msh/source/sglob.c -text
+os/sb/apps/msh/source/sglob.h -text
 os/sb/common/dirent.h -text
 os/sb/common/sbhdr.h -text
 os/sb/common/sbsysc.h -text
