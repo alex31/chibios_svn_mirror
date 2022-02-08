@@ -19,8 +19,6 @@
 #include "chprintf.h"
 #include "lis3mdl.h"
 
-#define cls(chp)  chprintf(chp, "\033[2J\033[1;1H")
-
 /*===========================================================================*/
 /* LIS3MDL related.                                                           */
 /*===========================================================================*/
@@ -36,9 +34,9 @@ static char axisID[LIS3MDL_COMP_NUMBER_OF_AXES] = {'X', 'Y', 'Z'};
 static uint32_t i;
 
 static const I2CConfig i2ccfg = {
-  OPMODE_I2C,
-  400000,
-  FAST_DUTY_CYCLE_2,
+  .op_mode          = OPMODE_I2C,
+  .clock_speed      = 400000,
+  .duty_cycle       = FAST_DUTY_CYCLE_2
 };
 
 static LIS3MDLConfig lis3mdlcfg = {
@@ -125,7 +123,6 @@ int main(void) {
       chprintf(chp, "%c-axis: %.3f\r\n", axisID[i], compcooked[i]);
     }
     chThdSleepMilliseconds(100);
-    cls(chp);
   }
   lis3mdlStop(&LIS3MDLD1);
 }

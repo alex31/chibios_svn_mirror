@@ -33,9 +33,9 @@ static char axis_id[MAX_AXIS_NUMBER] = {'X', 'Y', 'Z'};
 
 /* Generic I2C configuration for every MEMS. */
 static const I2CConfig i2ccfg = {
-  OPMODE_I2C,
-  400000,
-  FAST_DUTY_CYCLE_2,
+  .op_mode            = OPMODE_I2C,
+  .clock_speed        = 400000,
+  .duty_cycle         = FAST_DUTY_CYCLE_2
 };
 
 static uint32_t i;
@@ -49,13 +49,13 @@ static BaseSequentialStream* chp = (BaseSequentialStream*)&SD2;
 static  HTS221Driver HTS221D1;
 
 static const HTS221Config hts221cfg = {
-  &I2CD1,
-  &i2ccfg,
-  NULL,
-  NULL,
-  NULL,
-  NULL,
-  HTS221_ODR_7HZ
+  .i2cp               = &I2CD1,
+  .i2ccfg             = &i2ccfg,
+  .hygrosensitivity   = NULL,
+  .hygrobias          = NULL,
+  .thermosensitivity  = NULL,
+  .thermobias         = NULL,
+  .outputdatarate     = HTS221_ODR_7HZ
 };
 
 /*===========================================================================*/
@@ -103,17 +103,17 @@ static const LSM303AGRConfig lsm303agrcfg = {
 static  LSM6DSLDriver LSM6DSLD1;
 
 static const LSM6DSLConfig lsm6dslcfg = {
-  &I2CD1,
-  &i2ccfg,
-  LSM6DSL_SAD_VCC,
-  NULL,
-  NULL,
-  LSM6DSL_ACC_FS_2G,
-  LSM6DSL_ACC_ODR_52Hz,
-  NULL,
-  NULL,
-  LSM6DSL_GYRO_FS_250DPS,
-  LSM6DSL_GYRO_ODR_104Hz
+  .i2cp             = &I2CD1,
+  .i2ccfg           = &i2ccfg,
+  .slaveaddress     = LSM6DSL_SAD_VCC,
+  .accsensitivity   = NULL,
+  .accbias          = NULL,
+  .accfullscale     = LSM6DSL_ACC_FS_2G,
+  .accodr           = LSM6DSL_ACC_ODR_52HZ,
+  .gyrosensitivity  = NULL,
+  .gyrobias         = NULL,
+  .gyrofullscale    = LSM6DSL_GYRO_FS_250DPS,
+  .gyroodr          = LSM6DSL_GYRO_ODR_104HZ,
 };
 
 /*===========================================================================*/
@@ -225,6 +225,5 @@ int main(void) {
     }
 
     chThdSleepMilliseconds(500);
-    cls(chp);
   }
 }

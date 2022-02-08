@@ -20,8 +20,6 @@
 #include "chprintf.h"
 #include "lps25h.h"
 
-#define cls(chp)  chprintf(chp, "\033[2J\033[1;1H")
-
 /*===========================================================================*/
 /* LPS25H related.                                                           */
 /*===========================================================================*/
@@ -36,9 +34,9 @@ static float barocooked;
 static float thermocooked;
 
 static const I2CConfig i2ccfg = {
-  OPMODE_I2C,
-  400000,
-  FAST_DUTY_CYCLE_2,
+  .op_mode          = OPMODE_I2C,
+  .clock_speed      = 400000,
+  .duty_cycle       = FAST_DUTY_CYCLE_2
 };
 
 static const LPS25HConfig lps25hcfg = {
@@ -128,7 +126,6 @@ int main(void) {
     chprintf(chp, "Temp: %.2f\r\n", thermocooked);
 
     chThdSleepMilliseconds(100);
-    cls(chp);
   }
   lps25hStop(&LPS25HD1);
 }
