@@ -1,4 +1,0 @@
-<map id="BaseGyroscope" name="BaseGyroscope">
-<area shape="rect" id="node1" title="Base gyroscope class." alt="" coords="5,123,112,192"/>
-<area shape="rect" id="node2" href="$struct_base_sensor.html" title="Base stream class." alt="" coords="15,5,102,75"/>
-</map>

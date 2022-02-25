@@ -1,5 +1,0 @@
-<map id="hal_efl_driver" name="hal_efl_driver">
-<area shape="rect" id="node1" title="Structure representing an embedded flash driver." alt="" coords="5,240,143,333"/>
-<area shape="rect" id="node2" href="$struct_base_flash.html" title="Base flash class." alt="" coords="35,123,113,192"/>
-<area shape="rect" id="node3" href="$struct_base_object.html" title="Base object class." alt="" coords="32,5,116,75"/>
-</map>

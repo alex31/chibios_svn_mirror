@@ -1,4 +1,0 @@
-<map id="iqResetI" name="iqResetI">
-<area shape="rect" id="node1" title="Resets an input queue." alt="" coords="5,5,72,29"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga27a8123a61493028127897d839a4d75a" title="Dequeues and wakes up all threads from the queue." alt="" coords="120,5,271,29"/>
-</map>

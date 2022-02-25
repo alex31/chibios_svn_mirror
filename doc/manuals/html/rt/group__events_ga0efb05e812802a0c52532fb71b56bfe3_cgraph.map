@@ -1,8 +1,0 @@
-<map id="chEvtSignalI" name="chEvtSignalI">
-<area shape="rect" id="node1" title="Adds a set of event flags directly to the specified thread_t." alt="" coords="5,31,95,55"/>
-<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="288,5,411,29"/>
-<area shape="rect" id="node4" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="143,55,235,79"/>
-<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="464,5,540,29"/>
-<area shape="rect" id="node5" href="$group__scheduler.html#gaf6f96c0e1b6893486e5779598b7b1ceb" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="284,53,415,77"/>
-<area shape="rect" id="node6" href="$group__system.html#gaec800c510aa28cf4f0111973674d4f42" title="Notifies an OS instance to check for reschedule." alt="" coords="283,101,416,125"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="adxl355Stop" name="adxl355Stop">
-<area shape="rect" id="node1" title="Deactivates the ADXL355 Complex Driver peripheral." alt="" coords="5,5,96,29"/>
-<area shape="rect" id="node2" href="$group___a_d_x_l355.html#ga14e1d283489726ad60d930b68f085682" title="Writes a value into a generic register using SPI." alt="" coords="144,5,299,29"/>
-</map>

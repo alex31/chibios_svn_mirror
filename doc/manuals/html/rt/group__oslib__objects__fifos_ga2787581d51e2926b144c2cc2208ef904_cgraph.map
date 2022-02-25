@@ -1,7 +1,0 @@
-<map id="chFifoReceiveObjectI" name="chFifoReceiveObjectI">
-<area shape="rect" id="node1" title="Fetches an object." alt="" coords="5,29,140,53"/>
-<area shape="rect" id="node2" href="$group__oslib__mailboxes.html#gaeb97e4267b7c67760d56a1492725be64" title="Retrieves a message from a mailbox." alt="" coords="188,29,272,53"/>
-<area shape="rect" id="node3" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="501,5,624,29"/>
-<area shape="rect" id="node4" href="$group__oslib__mailboxes.html#gab33c27e5b512214ba48233f6d3e01cac" title="Returns the number of used message slots into a mailbox." alt="" coords="320,29,453,53"/>
-<area shape="rect" id="node5" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any." alt="" coords="320,77,453,101"/>
-</map>

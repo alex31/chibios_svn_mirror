@@ -1,6 +1,0 @@
-<map id="BaseAccelerometer" name="BaseAccelerometer">
-<area shape="rect" id="node1" title="Base accelerometer class." alt="" coords="103,264,231,333"/>
-<area shape="rect" id="node2" href="$struct_base_sensor.html" title="Base stream class." alt="" coords="17,135,104,204"/>
-<area shape="rect" id="node3" href="$struct_base_sensor_v_m_t.html" title="BaseSensor virtual methods table." alt="" coords="5,5,116,75"/>
-<area shape="rect" id="node4" href="$struct_base_accelerometer_v_m_t.html" title="BaseAccelerometer virtual methods table." alt="" coords="128,135,279,204"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="chSchRescheduleS" name="chSchRescheduleS">
-<area shape="rect" id="node1" title="Performs a reschedule if a higher priority thread is runnable." alt="" coords="5,77,132,101"/>
-<area shape="rect" id="node2" href="$group__scheduler.html#gaf4acc2ac7465a14dacba248c8447369a" title="Switches to the first thread on the runnable queue." alt="" coords="180,53,337,77"/>
-<area shape="rect" id="node5" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="195,101,322,125"/>
-<area shape="rect" id="node3" href="$group__scheduler.html#ga630797ad80fc35b3da32c5d39e172d51" title="Inserts a thread in the Ready List placing it ahead its peers." alt="" coords="409,5,536,29"/>
-<area shape="rect" id="node4" href="$group__os__lists.html#ga5f6eedecc4a70f35d0508d35ce480a95" title="Removes the highest priority element from a priority queue and returns it." alt="" coords="385,53,560,77"/>
-<area shape="rect" id="node6" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="435,101,511,125"/>
-</map>

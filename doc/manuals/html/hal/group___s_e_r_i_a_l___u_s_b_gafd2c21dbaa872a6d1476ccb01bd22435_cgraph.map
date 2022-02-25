@@ -1,6 +1,0 @@
-<map id="sduConfigureHookI" name="sduConfigureHookI">
-<area shape="rect" id="node1" title="USB device configured handler." alt="" coords="5,29,132,53"/>
-<area shape="rect" id="node2" href="$group___h_a_l___b_u_f_f_e_r_s.html#gabb11859756f526b7f2150aaef6a4667c" title="Resets an input buffers queue." alt="" coords="182,5,255,29"/>
-<area shape="rect" id="node4" href="$group___h_a_l___b_u_f_f_e_r_s.html#gaddd8be7bc7d1c4c18ca709aff412f79c" title="Resets an output buffers queue." alt="" coords="180,53,257,77"/>
-<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga27a8123a61493028127897d839a4d75a" title="Dequeues and wakes up all threads from the queue." alt="" coords="305,29,456,53"/>
-</map>

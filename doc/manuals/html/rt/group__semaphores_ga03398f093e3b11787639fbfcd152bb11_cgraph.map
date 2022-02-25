@@ -1,9 +1,0 @@
-<map id="chSemResetI" name="chSemResetI">
-<area shape="rect" id="node1" title="Performs a reset operation on the semaphore." alt="" coords="5,101,99,125"/>
-<area shape="rect" id="node2" href="$group__semaphores.html#ga761aecc362066cad4c378edb9e1e1579" title="Performs a reset operation on the semaphore." alt="" coords="147,101,313,125"/>
-<area shape="rect" id="node3" href="$group__os__lists.html#ga873d4136fc77c2573fb0be0b1e46097d" title="Evaluates to true if the specified queue is empty." alt="" coords="371,5,494,29"/>
-<area shape="rect" id="node4" href="$group__os__lists.html#gad4f8e294e0ea65fc4eba105ecd2e6f77" title="Removes the last&#45;out element from a queue and returns it." alt="" coords="361,53,504,77"/>
-<area shape="rect" id="node5" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="367,101,499,125"/>
-<area shape="rect" id="node6" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="552,176,675,200"/>
-<area shape="rect" id="node7" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="387,200,479,224"/>
-</map>

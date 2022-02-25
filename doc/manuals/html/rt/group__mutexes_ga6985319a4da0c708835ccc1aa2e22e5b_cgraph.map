@@ -1,4 +1,0 @@
-<map id="chMtxGetNextMutexX" name="chMtxGetNextMutexX">
-<area shape="rect" id="node1" title="Returns the next mutex in the mutexes stack of the current thread." alt="" coords="5,5,141,29"/>
-<area shape="rect" id="node2" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="189,5,292,29"/>
-</map>

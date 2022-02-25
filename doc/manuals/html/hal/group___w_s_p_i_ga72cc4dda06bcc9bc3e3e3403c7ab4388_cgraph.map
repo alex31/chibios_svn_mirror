@@ -1,4 +1,0 @@
-<map id="wspiReleaseBus" name="wspiReleaseBus">
-<area shape="rect" id="node1" title="Releases exclusive access to the WSPI bus." alt="" coords="5,5,116,29"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#gada8042421242b8adc729f25f9ba746db" title="Unlocks the specified mutex." alt="" coords="164,5,279,29"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="sdc_lld_init" name="sdc_lld_init">
-<area shape="rect" id="node1" title="Low level SDC driver initialization." alt="" coords="5,5,87,29"/>
-<area shape="rect" id="node2" href="$group___s_d_c.html#ga012d12a7461aa9a58f7d60c7ab18936e" title="Initializes the standard part of a SDCDriver structure." alt="" coords="135,5,228,29"/>
-</map>

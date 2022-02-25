@@ -1,5 +1,0 @@
-<map id="chSysDisable" name="chSysDisable">
-<area shape="rect" id="node1" title="Raises the system interrupt priority mask to the maximum level." alt="" coords="5,5,100,29"/>
-<area shape="rect" id="node2" href="$group__checks__assertions.html#ga178aca96cf3361833f7e171ce82bc8f7" title="Guard code for chSysDisable()." alt="" coords="148,5,283,29"/>
-<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="331,5,407,29"/>
-</map>

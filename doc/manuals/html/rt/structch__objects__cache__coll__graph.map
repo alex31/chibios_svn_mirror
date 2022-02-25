@@ -1,8 +1,0 @@
-<map id="ch_objects_cache" name="ch_objects_cache">
-<area shape="rect" id="node1" title="Structure representing a cache object." alt="" coords="72,595,191,700"/>
-<area shape="rect" id="node2" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="5,135,108,204"/>
-<area shape="rect" id="node5" href="$structch__oc__object.html" title="Structure representing a cached object." alt="" coords="93,264,185,369"/>
-<area shape="rect" id="node3" href="$structch__queue.html" title="Structure representing a generic bidirectional linked list header and element." alt="" coords="19,5,94,75"/>
-<area shape="rect" id="node4" href="$structch__oc__lru__header.html" title="Structure representing an hash table element." alt="" coords="73,465,189,535"/>
-<area shape="rect" id="node6" href="$structch__oc__hash__header.html" title="Structure representing an hash table element." alt="" coords="213,465,343,535"/>
-</map>

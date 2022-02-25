@@ -1,4 +1,0 @@
-<map id="kernel_stats_t" name="kernel_stats_t">
-<area shape="rect" id="node1" title="Type of a kernel statistics structure." alt="" coords="25,195,122,276"/>
-<area shape="rect" id="node2" href="$structtime__measurement__t.html" title="Type of a Time Measurement object." alt="" coords="5,5,141,123"/>
-</map>

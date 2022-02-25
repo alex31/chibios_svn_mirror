@@ -1,5 +1,0 @@
-<map id="canTryTransmitI" name="canTryTransmitI">
-<area shape="rect" id="node1" title="Can frame transmission attempt." alt="" coords="5,29,112,53"/>
-<area shape="rect" id="node2" href="$group___c_a_n.html#gae128d76f1601498a747c584cc49a5464" title="Determines whether a frame can be transmitted." alt="" coords="160,5,288,29"/>
-<area shape="rect" id="node3" href="$group___c_a_n.html#ga3be8997b874202eff8cca6da7c320605" title="Inserts a frame into the transmit queue." alt="" coords="169,53,279,77"/>
-</map>

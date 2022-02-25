@@ -1,6 +1,0 @@
-<map id="EX" name="EX">
-<area shape="rect" id="node1" title="EXternal peripherals." alt="" coords="5,52,44,75"/>
-<area shape="rect" id="node2" href="$group___e_x___i_n_f_o.html" title="EX information." alt="" coords="138,5,181,28"/>
-<area shape="rect" id="node3" href="$group___e_x___a_b_s_t_r_a_c_t___p_e_r_i_p_h_e_r_a_l_s.html" title="EX Abstract Peripheral Interfaces." alt="" coords="92,52,227,75"/>
-<area shape="rect" id="node4" href="$group___e_x___d_e_v_i_c_e_s.html" title="EX devices organized per vendor." alt="" coords="127,99,192,121"/>
-</map>

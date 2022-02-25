@@ -1,5 +1,0 @@
-<map id="sioSynchronizeTXEnd" name="sioSynchronizeTXEnd">
-<area shape="rect" id="node1" title="Synchronizes with TX completion." alt="" coords="5,29,145,53"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="240,5,329,29"/>
-<area shape="rect" id="node3" href="$group___o_s_a_l.html#gadd8bf7ac6d338b33b927db22aa27a43a" title="Sends the current thread sleeping and sets a reference variable." alt="" coords="193,53,376,77"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="uartReleaseBus" name="uartReleaseBus">
-<area shape="rect" id="node1" title="Releases exclusive access to the UART bus." alt="" coords="5,5,113,29"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#gada8042421242b8adc729f25f9ba746db" title="Unlocks the specified mutex." alt="" coords="161,5,276,29"/>
-</map>

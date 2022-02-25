@@ -1,7 +1,0 @@
-<map id="chThdStartI" name="chThdStartI">
-<area shape="rect" id="node1" title="Resumes a thread created with chThdCreateI()." alt="" coords="5,53,91,77"/>
-<area shape="rect" id="node2" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="139,53,231,77"/>
-<area shape="rect" id="node3" href="$group__scheduler.html#gaf6f96c0e1b6893486e5779598b7b1ceb" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="280,5,411,29"/>
-<area shape="rect" id="node4" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="284,53,407,77"/>
-<area shape="rect" id="node5" href="$group__system.html#gaec800c510aa28cf4f0111973674d4f42" title="Notifies an OS instance to check for reschedule." alt="" coords="279,101,412,125"/>
-</map>

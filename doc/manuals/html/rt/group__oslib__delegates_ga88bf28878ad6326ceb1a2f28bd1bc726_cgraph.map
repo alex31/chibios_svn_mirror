@@ -1,6 +1,0 @@
-<map id="chDelegateCallVeneer" name="chDelegateCallVeneer">
-<area shape="rect" id="node1" title="Triggers a function call on a delegate thread." alt="" coords="5,29,148,53"/>
-<area shape="rect" id="node2" href="$group__messages.html#ga7ad93f67d572b5d02d092cc79e46d366" title="Sends a message to the specified thread." alt="" coords="196,29,281,53"/>
-<area shape="rect" id="node3" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="341,5,420,29"/>
-<area shape="rect" id="node4" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="329,53,432,77"/>
-</map>

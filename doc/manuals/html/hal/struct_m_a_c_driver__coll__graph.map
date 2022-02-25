@@ -1,6 +1,0 @@
-<map id="MACDriver" name="MACDriver">
-<area shape="rect" id="node1" title="Structure representing a MAC driver." alt="" coords="191,159,269,228"/>
-<area shape="rect" id="node2" href="$structevent__source.html" title="Events source object." alt="" coords="5,5,100,87"/>
-<area shape="rect" id="node3" href="$structthreads__queue__t.html" title="Type of a thread queue." alt="" coords="173,11,287,81"/>
-<area shape="rect" id="node4" href="$struct_m_a_c_config.html" title="Driver configuration structure." alt="" coords="311,11,418,81"/>
-</map>

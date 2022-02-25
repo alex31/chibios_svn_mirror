@@ -1,7 +1,0 @@
-<map id="ch_dyn_pipe" name="ch_dyn_pipe">
-<area shape="rect" id="node1" title="Type of a dynamic pipe object." alt="" coords="50,609,139,679"/>
-<area shape="rect" id="node2" href="$structpipe__t.html" title="Structure representing a pipe object." alt="" coords="5,420,72,549"/>
-<area shape="rect" id="node3" href="$structch__thread.html" title="Structure representing a thread." alt="" coords="15,5,108,195"/>
-<area shape="rect" id="node4" href="$structch__mutex.html" title="Mutex structure." alt="" coords="69,267,142,336"/>
-<area shape="rect" id="node5" href="$structch__dyn__element.html" title="Type of a dynamic object list element." alt="" coords="97,444,207,525"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="chVTSetI" name="chVTSetI">
-<area shape="rect" id="node1" title="Enables a one&#45;shot virtual timer." alt="" coords="5,46,76,70"/>
-<area shape="rect" id="node2" href="$group__time.html#ga1d70201287f59c1d60844859aa90a4dc" title="Enables a one&#45;shot virtual timer." alt="" coords="124,22,209,46"/>
-<area shape="rect" id="node5" href="$group__time.html#ga4acd997ed4fafbeaa16bc63c2d9f5708" title="Disables a Virtual Timer." alt="" coords="125,70,208,94"/>
-<area shape="rect" id="node3" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="548,46,671,70"/>
-<area shape="rect" id="node4" href="$group__time.html#ga5eebb8f9f84b20dbab00eabbbd3730be" title="Enqueues a virtual timer in a virtual timers list." alt="" coords="263,22,350,46"/>
-<area shape="rect" id="node6" href="$group__time.html#gac9c07e9c8ba8b0128e7be6079358bb08" title="Disables a Virtual Timer." alt="" coords="257,70,356,94"/>
-<area shape="rect" id="node7" href="$group__time.html#ga4835e21a3055a578850f12d98c1a0267" title="Returns true if the specified timer is armed." alt="" coords="404,95,500,119"/>
-</map>

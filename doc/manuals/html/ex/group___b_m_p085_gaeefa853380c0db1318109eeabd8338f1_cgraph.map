@@ -1,5 +1,0 @@
-<map id="bmp085Start" name="bmp085Start">
-<area shape="rect" id="node1" title="Configures and activates BMP085 Complex Driver peripheral." alt="" coords="5,5,99,29"/>
-<area shape="rect" id="node2" href="$group___b_m_p085.html#gaf26710eacbc5b0803f923a83c2ed358f" title="Read all the calibration data from the BMP085 EEPROM." alt="" coords="147,5,300,29"/>
-<area shape="rect" id="node3" href="$group___b_m_p085.html#ga9dab0b471b0b0f90702de05eddfe3642" title="Reads registers value using I2C." alt="" coords="348,5,505,29"/>
-</map>

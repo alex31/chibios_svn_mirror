@@ -1,5 +1,0 @@
-<map id="pwmInit" name="pwmInit">
-<area shape="rect" id="node1" title="PWM Driver initialization." alt="" coords="5,5,71,29"/>
-<area shape="rect" id="node2" href="$group___p_w_m.html#ga7cb5729a65c0996584808e4f93b28a0d" title="Low level PWM driver initialization." alt="" coords="119,5,207,29"/>
-<area shape="rect" id="node3" href="$group___p_w_m.html#ga4dbf1fded2984ff6dc240afd2e1fcd74" title="Initializes the standard part of a PWMDriver structure." alt="" coords="255,5,355,29"/>
-</map>

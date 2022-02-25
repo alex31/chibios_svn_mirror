@@ -1,6 +1,0 @@
-<map id="stGetAlarm" name="stGetAlarm">
-<area shape="rect" id="node1" title="Returns the alarm zero current time." alt="" coords="5,29,88,53"/>
-<area shape="rect" id="node2" href="$group___s_t.html#ga9c3a09a9f6a8214190956d1c37721cfc" title="Returns the current alarm time." alt="" coords="136,5,245,29"/>
-<area shape="rect" id="node3" href="$group___s_t.html#ga667a5c35d5653b5101fa5f13ccb6a285" title="Determines if the alarm zero is active." alt="" coords="138,53,243,77"/>
-<area shape="rect" id="node4" href="$group___s_t.html#ga3092fee3beb683e12a1d807eb2535b9d" title="Determines if the alarm is active." alt="" coords="293,53,432,77"/>
-</map>

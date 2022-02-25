@@ -1,5 +1,0 @@
-<map id="hygro_read_cooked" name="hygro_read_cooked">
-<area shape="rect" id="node1" title="Retrieves cooked data from the BaseHygrometer." alt="" coords="5,5,133,29"/>
-<area shape="rect" id="node2" href="$group___h_t_s221.html#ga4b00c6876c57c7e00175d35ded74d8c5" title="Retrieves raw data from the BaseHygrometer." alt="" coords="181,5,289,29"/>
-<area shape="rect" id="node3" href="$group___h_t_s221.html#ga550ff25a01365e41f583f70c7fe54c3c" title="Reads registers value using I2C." alt="" coords="337,5,488,29"/>
-</map>

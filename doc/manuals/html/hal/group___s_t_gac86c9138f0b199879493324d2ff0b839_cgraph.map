@@ -1,4 +1,0 @@
-<map id="stStopAlarm" name="stStopAlarm">
-<area shape="rect" id="node1" title="Stops the alarm zero interrupt." alt="" coords="5,5,93,29"/>
-<area shape="rect" id="node2" href="$group___s_t.html#ga958bd347d187e3bba000b82604b8459a" title="Stops the alarm interrupt." alt="" coords="141,5,256,29"/>
-</map>

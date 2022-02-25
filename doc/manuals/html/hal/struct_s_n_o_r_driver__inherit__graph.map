@@ -1,5 +1,0 @@
-<map id="SNORDriver" name="SNORDriver">
-<area shape="rect" id="node1" title="Type of SNOR flash class." alt="" coords="5,240,91,333"/>
-<area shape="rect" id="node2" href="$struct_base_flash.html" title="Base flash class." alt="" coords="9,123,87,192"/>
-<area shape="rect" id="node3" href="$struct_base_object.html" title="Base object class." alt="" coords="6,5,90,75"/>
-</map>

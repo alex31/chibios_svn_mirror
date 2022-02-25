@@ -1,6 +1,0 @@
-<map id="stStartAlarm" name="stStartAlarm">
-<area shape="rect" id="node1" title="Starts the alarm zero." alt="" coords="5,29,95,53"/>
-<area shape="rect" id="node2" href="$group___s_t.html#ga5e7f490e548811987806fdff4cf71f2d" title="Starts the alarm." alt="" coords="143,5,259,29"/>
-<area shape="rect" id="node3" href="$group___s_t.html#ga667a5c35d5653b5101fa5f13ccb6a285" title="Determines if the alarm zero is active." alt="" coords="148,53,253,77"/>
-<area shape="rect" id="node4" href="$group___s_t.html#ga3092fee3beb683e12a1d807eb2535b9d" title="Determines if the alarm is active." alt="" coords="307,53,445,77"/>
-</map>

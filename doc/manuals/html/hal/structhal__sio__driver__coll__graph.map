@@ -1,7 +1,0 @@
-<map id="hal_sio_driver" name="hal_sio_driver">
-<area shape="rect" id="node1" title="Structure representing a SIO driver." alt="" coords="46,253,185,371"/>
-<area shape="rect" id="node3" href="$structhal__sio__operation.html" title="Structure representing a SIO operation." alt="" coords="56,479,175,548"/>
-<area shape="rect" id="node2" href="$structhal__sio__config.html" title="Driver configuration structure." alt="" coords="5,124,148,193"/>
-<area shape="rect" id="node4" href="$structsio__driver__vmt.html" title="SIODriver virtual methods table." alt="" coords="173,124,271,193"/>
-<area shape="rect" id="node5" href="$struct_base_channel_v_m_t.html" title="BaseChannel virtual methods table." alt="" coords="163,5,281,75"/>
-</map>

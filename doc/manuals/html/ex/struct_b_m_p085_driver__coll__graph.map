@@ -1,6 +1,0 @@
-<map id="BMP085Driver" name="BMP085Driver">
-<area shape="rect" id="node1" title="BMP085 driver structure." alt="" coords="188,135,303,204"/>
-<area shape="rect" id="node2" href="$struct_base_thermometer_v_m_t.html" title="BaseThermometer virtual methods table." alt="" coords="5,5,152,75"/>
-<area shape="rect" id="node3" href="$struct_base_barometer_v_m_t.html" title="BaseBarometer virtual methods table." alt="" coords="181,5,310,75"/>
-<area shape="rect" id="node4" href="$struct_base_sensor_v_m_t.html" title="BaseSensor virtual methods table." alt="" coords="342,5,453,75"/>
-</map>

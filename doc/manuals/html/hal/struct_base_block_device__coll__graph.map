@@ -1,6 +1,0 @@
-<map id="BaseBlockDevice" name="BaseBlockDevice">
-<area shape="rect" id="node1" title="Base block device class." alt="" coords="69,264,184,333"/>
-<area shape="rect" id="node2" href="$struct_base_object.html" title="Base object class." alt="" coords="17,135,101,204"/>
-<area shape="rect" id="node3" href="$struct_base_object_v_m_t.html" title="BaseObject virtual methods table." alt="" coords="5,5,112,75"/>
-<area shape="rect" id="node4" href="$struct_base_block_device_v_m_t.html" title="BaseBlockDevice virtual methods table." alt="" coords="125,135,264,204"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="chFactoryGetBufferSize" name="chFactoryGetBufferSize">
-<area shape="rect" id="node1" title="Returns the size of a generic dynamic buffer object." alt="" coords="5,5,153,29"/>
-<area shape="rect" id="node2" href="$group__oslib__memheaps.html#ga01b6cbd7b2608d48bf2e81abe5a72520" title="Returns the size of an allocated block." alt="" coords="201,5,308,29"/>
-</map>

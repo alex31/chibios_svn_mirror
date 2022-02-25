@@ -1,5 +1,0 @@
-<map id="acquire_ut" name="acquire_ut">
-<area shape="rect" id="node1" title="Read the uncompensated temperature from the BMP085 register." alt="" coords="5,29,84,53"/>
-<area shape="rect" id="node2" href="$group___b_m_p085.html#ga9dab0b471b0b0f90702de05eddfe3642" title="Reads registers value using I2C." alt="" coords="132,5,289,29"/>
-<area shape="rect" id="node3" href="$group___b_m_p085.html#gabfe40544a14541418eda256f080c657f" title="Start temperature measurement." alt="" coords="142,53,279,77"/>
-</map>

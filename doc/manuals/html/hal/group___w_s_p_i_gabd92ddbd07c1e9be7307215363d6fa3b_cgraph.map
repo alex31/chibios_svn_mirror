@@ -1,5 +1,0 @@
-<map id="wspiUnmapFlash" name="wspiUnmapFlash">
-<area shape="rect" id="node1" title="Unmaps from memory space a WSPI flash device." alt="" coords="5,29,120,53"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="174,5,263,29"/>
-<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context." alt="" coords="168,53,269,77"/>
-</map>

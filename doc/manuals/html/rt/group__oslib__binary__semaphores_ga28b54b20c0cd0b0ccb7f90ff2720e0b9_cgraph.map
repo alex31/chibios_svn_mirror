@@ -1,7 +1,0 @@
-<map id="chBSemResetI" name="chBSemResetI">
-<area shape="rect" id="node1" title="Reset operation on the binary semaphore." alt="" coords="5,5,105,29"/>
-<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="509,5,632,29"/>
-<area shape="rect" id="node4" href="$group__semaphores.html#ga03398f093e3b11787639fbfcd152bb11" title="Performs a reset operation on the semaphore." alt="" coords="153,29,247,53"/>
-<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="680,5,756,29"/>
-<area shape="rect" id="node5" href="$group__semaphores.html#ga761aecc362066cad4c378edb9e1e1579" title="Performs a reset operation on the semaphore." alt="" coords="295,29,461,53"/>
-</map>

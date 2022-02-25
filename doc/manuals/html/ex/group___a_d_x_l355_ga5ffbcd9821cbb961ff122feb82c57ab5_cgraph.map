@@ -1,4 +1,0 @@
-<map id="adxl355Start" name="adxl355Start">
-<area shape="rect" id="node1" title="Configures and activates ADXL355 Complex Driver peripheral." alt="" coords="5,5,97,29"/>
-<area shape="rect" id="node2" href="$group___a_d_x_l355.html#ga9eccdb7c04fd5dc88cb70aef422bdd2d" title="Reads a generic register value using SPI." alt="" coords="145,5,300,29"/>
-</map>

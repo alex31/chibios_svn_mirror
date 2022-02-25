@@ -1,4 +1,0 @@
-<map id="hal_uart_driver" name="hal_uart_driver">
-<area shape="rect" id="node1" title="Structure representing an UART driver." alt="" coords="12,5,115,147"/>
-<area shape="rect" id="node2" href="$structhal__uart__config.html" title="Driver configuration structure." alt="" coords="11,255,116,324"/>
-</map>

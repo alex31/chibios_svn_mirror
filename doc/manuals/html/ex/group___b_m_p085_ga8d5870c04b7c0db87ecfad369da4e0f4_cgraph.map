@@ -1,9 +1,0 @@
-<map id="sens_read_cooked" name="sens_read_cooked">
-<area shape="rect" id="node1" title="Read BMP085 sensor cooked data." alt="" coords="5,77,128,101"/>
-<area shape="rect" id="node2" href="$group___b_m_p085.html#gae79372532229a29b56c3a85e45bd2b57" title="Read barometer cooked data." alt="" coords="183,53,305,77"/>
-<area shape="rect" id="node5" href="$group___b_m_p085.html#gad32d30f88de83b5c73dc451e806ff0da" title="Read thermometer cooked data." alt="" coords="176,101,312,125"/>
-<area shape="rect" id="node3" href="$group___b_m_p085.html#ga0cdb4927674017eb307451658689d844" title="Read baromether raw data." alt="" coords="367,5,469,29"/>
-<area shape="rect" id="node4" href="$group___b_m_p085.html#ga833dacf6be7d61a599b867e08228a02b" title="Calcul the true pressure." alt="" coords="385,53,451,77"/>
-<area shape="rect" id="node6" href="$group___b_m_p085.html#ga74a8515d91d64125409af18f077785b3" title="Calcul the true temperature." alt="" coords="387,101,449,125"/>
-<area shape="rect" id="node7" href="$group___b_m_p085.html#ga4488647726d87cde77c1efe8dcff0eb5" title="Read thermometer raw data." alt="" coords="360,149,476,173"/>
-</map>

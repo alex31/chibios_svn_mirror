@@ -1,5 +1,0 @@
-<map id="gyro_read_cooked" name="gyro_read_cooked">
-<area shape="rect" id="node1" title="Retrieves cooked data from the BaseGyroscope." alt="" coords="5,5,127,29"/>
-<area shape="rect" id="node2" href="$group___l_s_m6_d_s_l.html#ga6f0abe087a7ba5d05d809a4125b9280a" title="Retrieves raw data from the BaseGyroscope." alt="" coords="175,5,276,29"/>
-<area shape="rect" id="node3" href="$group___l_s_m6_d_s_l.html#ga94e95928e3bcdfb02510bcc0a819d747" title="Reads registers value using I2C." alt="" coords="324,5,479,29"/>
-</map>

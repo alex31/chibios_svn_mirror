@@ -1,5 +1,0 @@
-<map id="comp_read_cooked" name="comp_read_cooked">
-<area shape="rect" id="node1" title="Retrieves cooked data from the BaseCompass." alt="" coords="5,5,132,29"/>
-<area shape="rect" id="node2" href="$group___l_i_s3_m_d_l.html#gae7ee996a94c115d584a047aa9bef2862" title="Retrieves raw data from the BaseCompass." alt="" coords="180,5,287,29"/>
-<area shape="rect" id="node3" href="$group___l_i_s3_m_d_l.html#gab99317411546344b33a830025611dfd1" title="Reads registers value using I2C." alt="" coords="335,5,485,29"/>
-</map>

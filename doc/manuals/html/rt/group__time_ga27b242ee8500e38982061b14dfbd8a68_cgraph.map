@@ -1,7 +1,0 @@
-<map id="chVTGetTimersStateI" name="chVTGetTimersStateI">
-<area shape="rect" id="node1" title="Returns the time interval until the next timer event." alt="" coords="5,53,141,77"/>
-<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="199,5,321,29"/>
-<area shape="rect" id="node4" href="$group__time__intervals.html#ga49404a18a4b3e9da5062d1269341c4bc" title="Subtracts two system times returning an interval." alt="" coords="217,53,303,77"/>
-<area shape="rect" id="node5" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time." alt="" coords="189,101,331,125"/>
-<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="379,5,455,29"/>
-</map>

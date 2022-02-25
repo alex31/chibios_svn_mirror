@@ -1,5 +1,0 @@
-<map id="SerialUSBDriverVMT" name="SerialUSBDriverVMT">
-<area shape="rect" id="node1" title="SerialDriver virtual methods table." alt="" coords="37,240,168,309"/>
-<area shape="rect" id="node2" href="$struct_base_asynchronous_channel_v_m_t.html" title="BaseAsynchronousChannel virtual methods table." alt="" coords="5,123,200,192"/>
-<area shape="rect" id="node3" href="$struct_base_channel_v_m_t.html" title="BaseChannel virtual methods table." alt="" coords="44,5,161,75"/>
-</map>

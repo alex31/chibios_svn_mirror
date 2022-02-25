@@ -1,6 +1,0 @@
-<map id="chMtxTryLockS" name="chMtxTryLockS">
-<area shape="rect" id="node1" title="Tries to lock a mutex." alt="" coords="5,29,107,53"/>
-<area shape="rect" id="node2" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="155,5,281,29"/>
-<area shape="rect" id="node4" href="$group__threads.html#ga2ab8fe216688d604f80c9ec6eddc96a5" title="Returns a pointer to the current thread_t." alt="" coords="167,53,269,77"/>
-<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="329,5,405,29"/>
-</map>

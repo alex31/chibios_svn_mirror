@@ -1,9 +1,0 @@
-<map id="chJobPostAheadS" name="chJobPostAheadS">
-<area shape="rect" id="node1" title="Posts an high priority job object." alt="" coords="5,75,123,99"/>
-<area shape="rect" id="node2" href="$group__oslib__mailboxes.html#gae68ce0e2a6177b53cf9d77d87d3a7ccf" title="Posts an high priority message into a mailbox." alt="" coords="171,75,331,99"/>
-<area shape="rect" id="node3" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="583,27,709,51"/>
-<area shape="rect" id="node4" href="$group__oslib__mailboxes.html#gab8460d4d099ba8df173fdd16aa289baf" title="Returns the number of free message slots into a mailbox." alt="" coords="393,27,521,51"/>
-<area shape="rect" id="node5" href="$group__scheduler.html#ga4e38b4bee3d2330f6a0f1cdb7660af20" title="Performs a reschedule if a higher priority thread is runnable." alt="" coords="393,75,520,99"/>
-<area shape="rect" id="node6" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any." alt="" coords="390,123,523,147"/>
-<area shape="rect" id="node7" href="$group__threads.html#ga0d344ce86a9f38dfa05b6cbe61eda16c" title="Enqueues the caller thread on a threads queue object." alt="" coords="379,171,535,195"/>
-</map>

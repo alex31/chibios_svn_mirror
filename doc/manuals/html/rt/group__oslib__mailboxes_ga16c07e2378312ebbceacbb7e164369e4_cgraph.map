@@ -1,5 +1,0 @@
-<map id="chMBObjectInit" name="chMBObjectInit">
-<area shape="rect" id="node1" title="Initializes a mailbox_t object." alt="" coords="5,5,108,29"/>
-<area shape="rect" id="node2" href="$group__threads.html#ga9be032d1807f9097361e2b2280af789b" title="Initializes a threads queue object." alt="" coords="156,5,300,29"/>
-<area shape="rect" id="node3" href="$group__os__lists.html#ga24d4153abba7349bee36ba4d2c3de6a5" title="Queue initialization." alt="" coords="348,5,445,29"/>
-</map>

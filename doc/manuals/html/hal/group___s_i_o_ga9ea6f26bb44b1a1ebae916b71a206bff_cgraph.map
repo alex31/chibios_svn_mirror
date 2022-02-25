@@ -1,5 +1,0 @@
-<map id="sioStart" name="sioStart">
-<area shape="rect" id="node1" title="Configures and activates the SIO peripheral." alt="" coords="5,29,69,53"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="117,5,207,29"/>
-<area shape="rect" id="node3" href="$group___s_i_o.html#gaf712148b656a2729b040f0977d07384a" title="Configures and activates the SIO peripheral." alt="" coords="119,53,205,77"/>
-</map>

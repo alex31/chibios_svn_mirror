@@ -1,4 +1,0 @@
-<map id="stIsAlarmActive" name="stIsAlarmActive">
-<area shape="rect" id="node1" title="Determines if the alarm zero is active." alt="" coords="5,5,111,29"/>
-<area shape="rect" id="node2" href="$group___s_t.html#ga3092fee3beb683e12a1d807eb2535b9d" title="Determines if the alarm is active." alt="" coords="159,5,297,29"/>
-</map>

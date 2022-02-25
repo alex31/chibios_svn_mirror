@@ -1,4 +1,0 @@
-<map id="__stats_ctxswc" name="__stats_ctxswc">
-<area shape="rect" id="node1" title="Updates context switch related statistics." alt="" coords="5,5,107,29"/>
-<area shape="rect" id="node2" href="$group__time__measurement.html#ga0010d7a19d583f0d3118cf94ebc20b44" title="Stops a measurement and chains to the next one using the same time stamp." alt="" coords="155,5,331,29"/>
-</map>

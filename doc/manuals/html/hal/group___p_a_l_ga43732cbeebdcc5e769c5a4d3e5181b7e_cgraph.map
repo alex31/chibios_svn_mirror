@@ -1,4 +1,0 @@
-<map id="palWaitPadTimeoutS" name="palWaitPadTimeoutS">
-<area shape="rect" id="node1" title="Waits for an edge on the specified port/pad." alt="" coords="5,5,140,29"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga04971ea0e1c6201d0ea73920520d9f2b" title="Enqueues the caller thread." alt="" coords="188,5,372,29"/>
-</map>

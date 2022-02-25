@@ -1,4 +1,0 @@
-<map id="memory_pool_t" name="memory_pool_t">
-<area shape="rect" id="node1" title="Memory pool descriptor." alt="" coords="5,135,109,228"/>
-<area shape="rect" id="node2" href="$structpool__header.html" title="Memory pool free object header." alt="" coords="12,5,103,75"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="chDelegateCallDirect2" name="chDelegateCallDirect2">
-<area shape="rect" id="node1" title="Direct call to a function with two parameters." alt="" coords="5,29,149,53"/>
-<area shape="rect" id="node2" href="$group__oslib__delegates.html#gabb1b42d0895d500d08bacff4d70c39fe" title="Veneer for functions with two parameters." alt="" coords="207,5,330,29"/>
-<area shape="rect" id="node3" href="$group__oslib__delegates.html#ga88bf28878ad6326ceb1a2f28bd1bc726" title="Triggers a function call on a delegate thread." alt="" coords="197,53,340,77"/>
-<area shape="rect" id="node4" href="$group__messages.html#ga7ad93f67d572b5d02d092cc79e46d366" title="Sends a message to the specified thread." alt="" coords="388,53,473,77"/>
-</map>

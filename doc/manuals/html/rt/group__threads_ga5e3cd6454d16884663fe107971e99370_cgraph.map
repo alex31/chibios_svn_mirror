@@ -1,9 +1,0 @@
-<map id="chThdDoDequeueNextI" name="chThdDoDequeueNextI">
-<area shape="rect" id="node1" title="Dequeues and wakes up one thread from the threads queue object." alt="" coords="5,53,153,77"/>
-<area shape="rect" id="node2" href="$group__os__lists.html#gae6d0c42b828825a83e460829ac22657d" title="Removes the first&#45;out element from a queue and returns it." alt="" coords="201,5,345,29"/>
-<area shape="rect" id="node3" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="207,53,339,77"/>
-<area shape="rect" id="node4" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="227,101,319,125"/>
-<area shape="rect" id="node5" href="$group__scheduler.html#gaf6f96c0e1b6893486e5779598b7b1ceb" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="395,53,525,77"/>
-<area shape="rect" id="node6" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="399,101,521,125"/>
-<area shape="rect" id="node7" href="$group__system.html#gaec800c510aa28cf4f0111973674d4f42" title="Notifies an OS instance to check for reschedule." alt="" coords="393,149,527,173"/>
-</map>

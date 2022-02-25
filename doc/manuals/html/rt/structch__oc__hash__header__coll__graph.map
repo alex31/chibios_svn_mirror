@@ -1,5 +1,0 @@
-<map id="ch_oc_hash_header" name="ch_oc_hash_header">
-<area shape="rect" id="node1" title="Structure representing an hash table element." alt="" coords="5,312,135,381"/>
-<area shape="rect" id="node2" href="$structch__oc__object.html" title="Structure representing a cached object." alt="" coords="24,135,116,240"/>
-<area shape="rect" id="node3" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="19,5,121,75"/>
-</map>

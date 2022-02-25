@@ -1,7 +1,0 @@
-<map id="vt_set_alarm" name="vt_set_alarm">
-<area shape="rect" id="node1" title="Alarm time setup." alt="" coords="5,77,96,101"/>
-<area shape="rect" id="node2" href="$group__rfcu.html#ga4799c7fb305e03f4875bc2efb4b37d01" title="Adds fault flags to the current mask." alt="" coords="147,5,282,29"/>
-<area shape="rect" id="node3" href="$group__time__intervals.html#ga63f2799ab83096a112d2bbd73de8c4fc" title="Adds an interval to a system time returning a system time." alt="" coords="170,53,259,77"/>
-<area shape="rect" id="node4" href="$group__time__intervals.html#ga49404a18a4b3e9da5062d1269341c4bc" title="Subtracts two system times returning an interval." alt="" coords="171,101,258,125"/>
-<area shape="rect" id="node5" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time." alt="" coords="144,149,285,173"/>
-</map>

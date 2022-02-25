@@ -1,5 +1,0 @@
-<map id="trngInit" name="trngInit">
-<area shape="rect" id="node1" title="TRNG Driver initialization." alt="" coords="5,5,67,29"/>
-<area shape="rect" id="node2" href="$group___t_r_n_g.html#ga0c7268353ba2b03e49b48a9b7aa8a1da" title="Low level TRNG driver initialization." alt="" coords="115,5,199,29"/>
-<area shape="rect" id="node3" href="$group___t_r_n_g.html#ga7e560603d25ae8f048f376511ebf7e15" title="Initializes the standard part of a TRNGDriver structure." alt="" coords="247,5,343,29"/>
-</map>

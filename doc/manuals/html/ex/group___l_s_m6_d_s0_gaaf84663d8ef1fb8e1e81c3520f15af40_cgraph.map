@@ -1,4 +1,0 @@
-<map id="acc_read_raw" name="acc_read_raw">
-<area shape="rect" id="node1" title="Retrieves raw data from the BaseAccelerometer." alt="" coords="5,5,101,29"/>
-<area shape="rect" id="node2" href="$group___l_s_m6_d_s0.html#gafe1238ca43f8f16670374df6e4710ea5" title="Reads registers value using I2C." alt="" coords="149,5,308,29"/>
-</map>

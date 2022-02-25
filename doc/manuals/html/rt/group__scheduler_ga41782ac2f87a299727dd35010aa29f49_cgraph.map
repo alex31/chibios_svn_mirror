@@ -1,7 +1,0 @@
-<map id="chSchSelectFirst" name="chSchSelectFirst">
-<area shape="rect" id="node1" title="Makes runnable the fist thread in the ready list, does not reschedule internally." alt="" coords="5,53,116,77"/>
-<area shape="rect" id="node2" href="$group__scheduler.html#ga630797ad80fc35b3da32c5d39e172d51" title="Inserts a thread in the Ready List placing it ahead its peers." alt="" coords="188,29,315,53"/>
-<area shape="rect" id="node5" href="$group__os__lists.html#ga5f6eedecc4a70f35d0508d35ce480a95" title="Removes the highest priority element from a priority queue and returns it." alt="" coords="164,77,339,101"/>
-<area shape="rect" id="node3" href="$group__trace.html#ga4d897c6faeb202f8e8bf0d5b52903f32" title="Inserts in the circular debug trace buffer a ready record." alt="" coords="418,5,514,29"/>
-<area shape="rect" id="node4" href="$group__os__lists.html#ga42e37cf1054a9d3c6960aa227ad44f55" title="Inserts an element in the priority queue placing it ahead of its peers." alt="" coords="387,53,545,77"/>
-</map>

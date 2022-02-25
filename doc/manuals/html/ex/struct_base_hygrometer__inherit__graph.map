@@ -1,4 +1,0 @@
-<map id="BaseHygrometer" name="BaseHygrometer">
-<area shape="rect" id="node1" title="Base hygrometer class." alt="" coords="5,123,119,192"/>
-<area shape="rect" id="node2" href="$struct_base_sensor.html" title="Base stream class." alt="" coords="19,5,105,75"/>
-</map>

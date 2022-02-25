@@ -1,7 +1,0 @@
-<map id="chThdDequeueNextI" name="chThdDequeueNextI">
-<area shape="rect" id="node1" title="Dequeues and wakes up one thread from the threads queue object, if any." alt="" coords="5,31,139,55"/>
-<area shape="rect" id="node2" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="389,5,521,29"/>
-<area shape="rect" id="node3" href="$group__threads.html#ga5e3cd6454d16884663fe107971e99370" title="Dequeues and wakes up one thread from the threads queue object." alt="" coords="187,55,335,79"/>
-<area shape="rect" id="node4" href="$group__os__lists.html#gae6d0c42b828825a83e460829ac22657d" title="Removes the first&#45;out element from a queue and returns it." alt="" coords="383,53,527,77"/>
-<area shape="rect" id="node5" href="$group__scheduler.html#ga74665c643003d2094a5c337a6857035e" title="Inserts a thread in the Ready List placing it behind its peers." alt="" coords="409,101,501,125"/>
-</map>

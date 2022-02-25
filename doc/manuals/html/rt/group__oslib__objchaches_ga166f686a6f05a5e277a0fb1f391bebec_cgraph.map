@@ -1,5 +1,0 @@
-<map id="chCacheObjectInit" name="chCacheObjectInit">
-<area shape="rect" id="node1" title="Initializes a objects_cache_t object." alt="" coords="5,5,127,29"/>
-<area shape="rect" id="node2" href="$group__semaphores.html#ga6c1812ffb36357295cd22670a10ff694" title="Initializes a semaphore with the specified counter value." alt="" coords="175,5,285,29"/>
-<area shape="rect" id="node3" href="$group__os__lists.html#ga24d4153abba7349bee36ba4d2c3de6a5" title="Queue initialization." alt="" coords="333,5,431,29"/>
-</map>

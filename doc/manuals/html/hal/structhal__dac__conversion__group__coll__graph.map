@@ -1,5 +1,0 @@
-<map id="hal_dac_conversion_group" name="hal_dac_conversion_group">
-<area shape="rect" id="node1" title="DAC Conversion group structure." alt="" coords="5,5,143,111"/>
-<area shape="rect" id="node2" href="$structhal__dac__driver.html" title="Structure representing a DAC driver." alt="" coords="71,183,213,312"/>
-<area shape="rect" id="node3" href="$structhal__dac__config.html" title="Driver configuration structure." alt="" coords="167,23,314,93"/>
-</map>

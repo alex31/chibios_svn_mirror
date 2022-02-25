@@ -1,5 +1,0 @@
-<map id="__dbg_check_unlock_from_isr" name="__dbg_check_unlock_from_isr">
-<area shape="rect" id="node1" title="Guard code for chSysUnlockFromIsr()." alt="" coords="5,5,136,41"/>
-<area shape="rect" id="node2" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="184,11,260,35"/>
-<area shape="rect" id="node3" href="$group__trace.html#ga9ad72a0203214f1a191120845e9c57b0" title="Inserts in the circular debug trace buffer an halt record." alt="" coords="308,11,395,35"/>
-</map>

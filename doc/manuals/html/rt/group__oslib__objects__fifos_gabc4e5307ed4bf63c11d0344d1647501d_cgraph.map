@@ -1,7 +1,0 @@
-<map id="chFifoObjectInit" name="chFifoObjectInit">
-<area shape="rect" id="node1" title="Initializes a FIFO object." alt="" coords="5,53,112,77"/>
-<area shape="rect" id="node2" href="$group__oslib__objects__fifos.html#ga88cf34ffd4b643a863f91745a03d8edd" title="Initializes a FIFO object." alt="" coords="160,53,307,77"/>
-<area shape="rect" id="node3" href="$group__oslib__mempools.html#ga953652e0bec92be1efaaa35c3d4cbd4f" title="Loads a guarded memory pool with an array of static objects." alt="" coords="374,5,534,29"/>
-<area shape="rect" id="node4" href="$group__oslib__mempools.html#ga0c777691eeabc5a25bb1b4b85015d819" title="Initializes an empty guarded memory pool." alt="" coords="355,53,553,77"/>
-<area shape="rect" id="node5" href="$group__oslib__mailboxes.html#ga16c07e2378312ebbceacbb7e164369e4" title="Initializes a mailbox_t object." alt="" coords="403,101,505,125"/>
-</map>

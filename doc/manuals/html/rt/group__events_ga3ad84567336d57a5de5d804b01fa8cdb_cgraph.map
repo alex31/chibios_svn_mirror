@@ -1,6 +1,0 @@
-<map id="chEvtBroadcastI" name="chEvtBroadcastI">
-<area shape="rect" id="node1" title="Signals all the Event Listeners registered on the specified Event Source." alt="" coords="5,5,116,29"/>
-<area shape="rect" id="node2" href="$group__events.html#ga4d8851e56397f02cccade80aca5ab3f9" title="Signals all the Event Listeners registered on the specified Event Source." alt="" coords="164,5,303,29"/>
-<area shape="rect" id="node3" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="488,5,611,29"/>
-<area shape="rect" id="node4" href="$group__events.html#ga0efb05e812802a0c52532fb71b56bfe3" title="Adds a set of event flags directly to the specified thread_t." alt="" coords="351,29,440,53"/>
-</map>

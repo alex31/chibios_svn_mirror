@@ -1,7 +1,0 @@
-<map id="__sch_reschedule_ahead" name="__sch_reschedule_ahead">
-<area shape="rect" id="node1" title="Switches to the first thread on the runnable queue." alt="" coords="5,53,163,77"/>
-<area shape="rect" id="node2" href="$group__scheduler.html#ga630797ad80fc35b3da32c5d39e172d51" title="Inserts a thread in the Ready List placing it ahead its peers." alt="" coords="235,29,361,53"/>
-<area shape="rect" id="node5" href="$group__os__lists.html#ga5f6eedecc4a70f35d0508d35ce480a95" title="Removes the highest priority element from a priority queue and returns it." alt="" coords="211,77,385,101"/>
-<area shape="rect" id="node3" href="$group__trace.html#ga4d897c6faeb202f8e8bf0d5b52903f32" title="Inserts in the circular debug trace buffer a ready record." alt="" coords="465,5,561,29"/>
-<area shape="rect" id="node4" href="$group__os__lists.html#ga42e37cf1054a9d3c6960aa227ad44f55" title="Inserts an element in the priority queue placing it ahead of its peers." alt="" coords="433,53,592,77"/>
-</map>

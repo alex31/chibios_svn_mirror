@@ -1,4 +1,0 @@
-<map id="osalSysHalt" name="osalSysHalt">
-<area shape="rect" id="node1" title="System halt with error message." alt="" coords="5,5,92,29"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga5de74d07e68ff94091ee0af8b5874cda" title="Disables interrupts globally." alt="" coords="140,5,245,29"/>
-</map>

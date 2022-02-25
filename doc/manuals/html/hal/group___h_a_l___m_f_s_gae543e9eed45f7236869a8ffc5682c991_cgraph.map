@@ -1,4 +1,0 @@
-<map id="mfs_bank_get_state" name="mfs_bank_get_state">
-<area shape="rect" id="node1" title="Determines the state of a bank." alt="" coords="5,5,136,29"/>
-<area shape="rect" id="node2" href="$group___h_a_l___m_f_s.html#gabfee0e57611e55ed09ad89610b9ffdfd" title="Flash read." alt="" coords="184,5,288,29"/>
-</map>

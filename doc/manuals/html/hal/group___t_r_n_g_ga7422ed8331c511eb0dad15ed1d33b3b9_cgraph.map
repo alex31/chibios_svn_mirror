@@ -1,5 +1,0 @@
-<map id="trngStart" name="trngStart">
-<area shape="rect" id="node1" title="Configures and activates the TRNG peripheral." alt="" coords="5,29,76,53"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="125,5,215,29"/>
-<area shape="rect" id="node3" href="$group___t_r_n_g.html#ga667f852d2985bf6a2968fea9d22e5dcd" title="Configures and activates the TRNG peripheral." alt="" coords="124,53,216,77"/>
-</map>

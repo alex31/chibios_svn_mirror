@@ -1,7 +1,0 @@
-<map id="VL53L0XDriver" name="VL53L0XDriver">
-<area shape="rect" id="node1" title="VL53L0X 2&#45;axis rangemeter/thermometer class." alt="" coords="131,264,233,333"/>
-<area shape="rect" id="node2" href="$struct_base_range_finder.html" title="Base rangefinder class." alt="" coords="58,135,175,204"/>
-<area shape="rect" id="node3" href="$struct_base_sensor.html" title="Base stream class." alt="" coords="5,5,92,75"/>
-<area shape="rect" id="node4" href="$struct_base_range_finder_v_m_t.html" title="BaseRangeFinder virtual methods table." alt="" coords="116,5,256,75"/>
-<area shape="rect" id="node5" href="$struct_v_l53_l0_x_v_m_t.html" title="VL53L0X virtual methods table." alt="" coords="200,135,292,204"/>
-</map>

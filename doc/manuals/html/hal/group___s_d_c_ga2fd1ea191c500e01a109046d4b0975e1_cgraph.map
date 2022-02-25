@@ -1,5 +1,0 @@
-<map id="sdcStart" name="sdcStart">
-<area shape="rect" id="node1" title="Configures and activates the SDC peripheral." alt="" coords="5,29,72,53"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="120,5,209,29"/>
-<area shape="rect" id="node3" href="$group___s_d_c.html#ga7a2cba8e917448ea8801127c39ff0c63" title="Configures and activates the SDC peripheral." alt="" coords="120,53,209,77"/>
-</map>

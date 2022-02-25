@@ -1,4 +1,0 @@
-<map id="chSemObjectInit" name="chSemObjectInit">
-<area shape="rect" id="node1" title="Initializes a semaphore with the specified counter value." alt="" coords="5,5,116,29"/>
-<area shape="rect" id="node2" href="$group__os__lists.html#ga24d4153abba7349bee36ba4d2c3de6a5" title="Queue initialization." alt="" coords="164,5,261,29"/>
-</map>

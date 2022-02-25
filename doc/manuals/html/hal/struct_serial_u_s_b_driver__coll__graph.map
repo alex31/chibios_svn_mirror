@@ -1,7 +1,0 @@
-<map id="SerialUSBDriver" name="SerialUSBDriver">
-<area shape="rect" id="node1" title="Full duplex serial driver class." alt="" coords="124,264,231,333"/>
-<area shape="rect" id="node2" href="$struct_base_asynchronous_channel.html" title="Base asynchronous channel class." alt="" coords="5,135,176,204"/>
-<area shape="rect" id="node3" href="$struct_base_channel.html" title="Base channel class." alt="" coords="43,5,138,75"/>
-<area shape="rect" id="node4" href="$struct_base_asynchronous_channel_v_m_t.html" title="BaseAsynchronousChannel virtual methods table." alt="" coords="165,5,360,75"/>
-<area shape="rect" id="node5" href="$struct_serial_u_s_b_driver_v_m_t.html" title="SerialDriver virtual methods table." alt="" coords="200,135,331,204"/>
-</map>

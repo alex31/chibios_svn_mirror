@@ -1,9 +1,0 @@
-<map id="chSysGetStatusAndLockX" name="chSysGetStatusAndLockX">
-<area shape="rect" id="node1" title="Returns the execution status and enters a critical zone." alt="" coords="5,88,167,112"/>
-<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="237,60,315,84"/>
-<area shape="rect" id="node5" href="$group__system.html#gac27f5c62e47e62fbb3585c65110addeb" title="Enters the kernel lock state from within an interrupt handler." alt="" coords="215,115,337,139"/>
-<area shape="rect" id="node3" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="409,5,527,29"/>
-<area shape="rect" id="node4" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="397,54,539,90"/>
-<area shape="rect" id="node6" href="$group__checks__assertions.html#gacef8313902cb865bc22df7c34a53117b" title="Guard code for chSysLockFromIsr()." alt="" coords="385,115,551,139"/>
-<area shape="rect" id="node7" href="$group__statistics.html#ga354d45c40e6aaa28d6a912181e94d0a0" title="Starts the measurement of an ISR critical zone." alt="" coords="397,163,539,199"/>
-</map>

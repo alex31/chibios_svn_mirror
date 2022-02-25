@@ -1,5 +1,0 @@
-<map id="i2sStart" name="i2sStart">
-<area shape="rect" id="node1" title="Configures and activates the I2S peripheral." alt="" coords="5,29,69,53"/>
-<area shape="rect" id="node2" href="$group___i2_s.html#gac29220167e0419922766bbeae8a8c5e6" title="Configures and activates the I2S peripheral." alt="" coords="119,5,205,29"/>
-<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="117,53,207,77"/>
-</map>

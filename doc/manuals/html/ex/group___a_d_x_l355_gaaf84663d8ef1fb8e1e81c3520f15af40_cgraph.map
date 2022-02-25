@@ -1,4 +1,0 @@
-<map id="acc_read_raw" name="acc_read_raw">
-<area shape="rect" id="node1" title="Retrieves raw data from the BaseAccelerometer." alt="" coords="5,5,101,29"/>
-<area shape="rect" id="node2" href="$group___a_d_x_l355.html#ga9eccdb7c04fd5dc88cb70aef422bdd2d" title="Reads a generic register value using SPI." alt="" coords="149,5,304,29"/>
-</map>

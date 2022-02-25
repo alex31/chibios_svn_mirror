@@ -1,4 +1,0 @@
-<map id="l3gd20Stop" name="l3gd20Stop">
-<area shape="rect" id="node1" title="Deactivates the L3GD20 Complex Driver peripheral." alt="" coords="5,5,91,29"/>
-<area shape="rect" id="node2" href="$group___l3_g_d20.html#ga2fdc38923bcf4122c9da1d1a468f1d95" title="Writes a value into a generic register using SPI." alt="" coords="139,5,288,29"/>
-</map>

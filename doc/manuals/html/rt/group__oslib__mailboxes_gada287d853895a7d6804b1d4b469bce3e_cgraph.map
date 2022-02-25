@@ -1,8 +1,0 @@
-<map id="chMBResetI" name="chMBResetI">
-<area shape="rect" id="node1" title="Resets a mailbox_t object." alt="" coords="5,31,91,55"/>
-<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="139,7,261,31"/>
-<area shape="rect" id="node4" href="$group__threads.html#gaf4a58e5226778a652b90b0dd683792cc" title="Dequeues and wakes up all threads from the threads queue object." alt="" coords="139,55,261,79"/>
-<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="345,5,421,29"/>
-<area shape="rect" id="node5" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="505,80,637,104"/>
-<area shape="rect" id="node6" href="$group__threads.html#ga5e3cd6454d16884663fe107971e99370" title="Dequeues and wakes up one thread from the threads queue object." alt="" coords="309,104,457,128"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="vt_insert_first" name="vt_insert_first">
-<area shape="rect" id="node1" title="Inserts a timer as first element in a delta list." alt="" coords="5,101,100,125"/>
-<area shape="rect" id="node2" href="$group__os__lists.html#ga496deb32fcf2605ac839a4055a073ded" title="Inserts an element after another header element." alt="" coords="153,5,284,29"/>
-<area shape="rect" id="node3" href="$group__rfcu.html#ga4799c7fb305e03f4875bc2efb4b37d01" title="Adds fault flags to the current mask." alt="" coords="151,53,286,77"/>
-<area shape="rect" id="node4" href="$group__time__intervals.html#ga63f2799ab83096a112d2bbd73de8c4fc" title="Adds an interval to a system time returning a system time." alt="" coords="174,101,263,125"/>
-<area shape="rect" id="node5" href="$group__time__intervals.html#ga49404a18a4b3e9da5062d1269341c4bc" title="Subtracts two system times returning an interval." alt="" coords="175,149,262,173"/>
-<area shape="rect" id="node6" href="$group__time.html#gadfb23801b99833f7c27c07576b28f63c" title="Current system time." alt="" coords="148,197,289,221"/>
-</map>

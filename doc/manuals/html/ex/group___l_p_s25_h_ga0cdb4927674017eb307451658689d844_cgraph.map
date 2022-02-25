@@ -1,4 +1,0 @@
-<map id="baro_read_raw" name="baro_read_raw">
-<area shape="rect" id="node1" title="Retrieves raw data from the BaseBarometer." alt="" coords="5,5,108,29"/>
-<area shape="rect" id="node2" href="$group___l_p_s25_h.html#gaecdecd1cfefd3e28a8ddb78627991af3" title="Reads registers value using I2C." alt="" coords="156,5,305,29"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="event_source" name="event_source">
-<area shape="rect" id="node1" title="Event Source structure." alt="" coords="7,408,102,477"/>
-<area shape="rect" id="node2" href="$structevent__listener.html" title="Event Listener structure." alt="" coords="5,255,104,348"/>
-<area shape="rect" id="node3" href="$structch__thread.html" title="Structure representing a thread." alt="" coords="8,5,101,195"/>
-</map>

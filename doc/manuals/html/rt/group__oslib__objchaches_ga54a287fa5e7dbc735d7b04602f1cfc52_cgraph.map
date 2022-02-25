@@ -1,7 +1,0 @@
-<map id="chCacheGetObject" name="chCacheGetObject">
-<area shape="rect" id="node1" title="Retrieves an object from the cache." alt="" coords="5,57,128,81"/>
-<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="178,33,257,57"/>
-<area shape="rect" id="node5" href="$group__oslib__objchaches.html#gaf141f01c4977b04022dc45e51d67bea3" title="Returns an object pointer from the cache, if present." alt="" coords="176,81,259,105"/>
-<area shape="rect" id="node3" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="319,5,437,29"/>
-<area shape="rect" id="node4" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="307,54,449,90"/>
-</map>

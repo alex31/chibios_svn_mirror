@@ -1,6 +1,0 @@
-<map id="ch_binary_semaphore" name="ch_binary_semaphore">
-<area shape="rect" id="node1" title="Binary semaphore type." alt="" coords="41,264,183,333"/>
-<area shape="rect" id="node2" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="5,135,99,204"/>
-<area shape="rect" id="node3" href="$structch__queue.html" title="Structure representing a generic bidirectional linked list header and element." alt="" coords="75,5,149,75"/>
-<area shape="rect" id="node4" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="123,135,226,204"/>
-</map>

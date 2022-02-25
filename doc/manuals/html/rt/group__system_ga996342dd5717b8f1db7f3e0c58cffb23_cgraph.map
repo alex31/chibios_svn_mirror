@@ -1,6 +1,0 @@
-<map id="chSysUnconditionalLock" name="chSysUnconditionalLock">
-<area shape="rect" id="node1" title="Unconditionally enters the kernel lock state." alt="" coords="5,33,160,57"/>
-<area shape="rect" id="node2" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="208,33,287,57"/>
-<area shape="rect" id="node3" href="$group__checks__assertions.html#ga794608d7f0c38eb90c3fb4b20113fe0b" title="Guard code for chSysLock()." alt="" coords="347,5,465,29"/>
-<area shape="rect" id="node4" href="$group__statistics.html#gae3916145b9c85a6866d0c4f075cb1e63" title="Starts the measurement of a thread critical zone." alt="" coords="335,54,477,90"/>
-</map>

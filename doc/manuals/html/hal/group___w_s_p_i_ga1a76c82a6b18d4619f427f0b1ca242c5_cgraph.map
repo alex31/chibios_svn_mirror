@@ -1,4 +1,0 @@
-<map id="wspiAcquireBus" name="wspiAcquireBus">
-<area shape="rect" id="node1" title="Gains exclusive access to the WSPI bus." alt="" coords="5,5,113,29"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga61d5ae617457911ada2c83295c597348" title="Locks the specified mutex." alt="" coords="161,5,264,29"/>
-</map>

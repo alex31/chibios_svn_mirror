@@ -1,5 +1,0 @@
-<map id="chPipeGetFreeCount" name="chPipeGetFreeCount">
-<area shape="rect" id="node1" title="Returns the number of free byte slots into a pipe." alt="" coords="5,29,137,53"/>
-<area shape="rect" id="node2" href="$group__oslib__pipes.html#ga7c4cafc99537138daf2992fa42ecba56" title="Returns the pipe buffer size as number of bytes." alt="" coords="204,5,304,29"/>
-<area shape="rect" id="node3" href="$group__oslib__pipes.html#ga7830878a2e96a052f179585fef2953b4" title="Returns the number of used byte slots into a pipe." alt="" coords="185,53,323,77"/>
-</map>

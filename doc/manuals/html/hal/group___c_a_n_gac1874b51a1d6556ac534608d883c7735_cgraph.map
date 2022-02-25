@@ -1,6 +1,0 @@
-<map id="canReceiveTimeout" name="canReceiveTimeout">
-<area shape="rect" id="node1" title="Can frame receive." alt="" coords="5,53,135,77"/>
-<area shape="rect" id="node2" href="$group___c_a_n.html#gae061807c8879157051859f1252494690" title="Determines whether a frame has been received." alt="" coords="200,5,349,29"/>
-<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="230,53,319,77"/>
-<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga04971ea0e1c6201d0ea73920520d9f2b" title="Enqueues the caller thread." alt="" coords="183,101,367,125"/>
-</map>

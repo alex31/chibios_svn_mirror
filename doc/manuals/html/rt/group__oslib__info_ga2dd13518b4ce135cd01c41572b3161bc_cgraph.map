@@ -1,8 +1,0 @@
-<map id="__oslib_init" name="__oslib_init">
-<area shape="rect" id="node1" title="Initialization of all library modules." alt="" coords="5,53,85,77"/>
-<area shape="rect" id="node2" href="$group__oslib__memcore.html#gaedb11208dbd74c6a59fad8421d19d6c8" title="Low level memory manager initialization." alt="" coords="140,5,219,29"/>
-<area shape="rect" id="node3" href="$group__oslib__objects__factory.html#gabe4f877fc9f5e5236dfbf70d6f97bd6d" title="Initializes the objects factory." alt="" coords="133,53,225,77"/>
-<area shape="rect" id="node6" href="$group__oslib__memheaps.html#ga2ea5389bc5960e9a68191d94dbbbf20c" title="Initializes the default heap." alt="" coords="138,101,221,125"/>
-<area shape="rect" id="node4" href="$group__mutexes.html#gad2a9a30e775fdf81dca878810c9c52cd" title="Initializes s mutex_t structure." alt="" coords="275,29,382,53"/>
-<area shape="rect" id="node5" href="$group__semaphores.html#ga6c1812ffb36357295cd22670a10ff694" title="Initializes a semaphore with the specified counter value." alt="" coords="273,77,384,101"/>
-</map>

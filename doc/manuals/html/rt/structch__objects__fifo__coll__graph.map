@@ -1,8 +1,0 @@
-<map id="ch_objects_fifo" name="ch_objects_fifo">
-<area shape="rect" id="node1" title="Type of an objects FIFO." alt="" coords="85,360,187,429"/>
-<area shape="rect" id="node2" href="$structmailbox__t.html" title="Structure representing a mailbox object." alt="" coords="30,171,103,300"/>
-<area shape="rect" id="node3" href="$structch__threads__queue.html" title="Type of a threads queue." alt="" coords="5,17,128,87"/>
-<area shape="rect" id="node4" href="$structguarded__memory__pool__t.html" title="Guarded memory pool descriptor." alt="" coords="128,201,283,270"/>
-<area shape="rect" id="node5" href="$structch__semaphore.html" title="Semaphore structure." alt="" coords="153,17,255,87"/>
-<area shape="rect" id="node6" href="$structmemory__pool__t.html" title="Memory pool descriptor." alt="" coords="280,5,384,99"/>
-</map>

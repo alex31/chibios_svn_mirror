@@ -1,6 +1,0 @@
-<map id="chMtxQueueNotEmptyS" name="chMtxQueueNotEmptyS">
-<area shape="rect" id="node1" title="Returns true if the mutex queue contains at least a waiting thread." alt="" coords="5,29,156,53"/>
-<area shape="rect" id="node2" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="204,5,336,29"/>
-<area shape="rect" id="node3" href="$group__checks__assertions.html#ga14fe880e1dbd127d46077a1d300b1167" title="S&#45;class functions context check." alt="" coords="207,53,333,77"/>
-<area shape="rect" id="node4" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="384,53,460,77"/>
-</map>

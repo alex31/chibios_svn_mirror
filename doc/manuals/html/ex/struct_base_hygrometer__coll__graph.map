@@ -1,6 +1,0 @@
-<map id="BaseHygrometer" name="BaseHygrometer">
-<area shape="rect" id="node1" title="Base hygrometer class." alt="" coords="72,264,185,333"/>
-<area shape="rect" id="node2" href="$struct_base_sensor.html" title="Base stream class." alt="" coords="17,135,104,204"/>
-<area shape="rect" id="node3" href="$struct_base_sensor_v_m_t.html" title="BaseSensor virtual methods table." alt="" coords="5,5,116,75"/>
-<area shape="rect" id="node4" href="$struct_base_hygrometer_v_m_t.html" title="BaseHygrometer virtual methods table." alt="" coords="129,135,265,204"/>
-</map>

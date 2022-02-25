@@ -1,9 +1,0 @@
-<map id="chMBFetchI" name="chMBFetchI">
-<area shape="rect" id="node1" title="Retrieves a message from a mailbox." alt="" coords="5,31,89,55"/>
-<area shape="rect" id="node2" href="$group__checks__assertions.html#ga3e4782dccbb385051e1eb01ac5b05470" title="I&#45;class functions context check." alt="" coords="331,5,454,29"/>
-<area shape="rect" id="node4" href="$group__oslib__mailboxes.html#gab33c27e5b512214ba48233f6d3e01cac" title="Returns the number of used message slots into a mailbox." alt="" coords="137,31,271,55"/>
-<area shape="rect" id="node5" href="$group__threads.html#gab8c11e97d6b021aded30e4dd6b785776" title="Dequeues and wakes up one thread from the threads queue object, if any." alt="" coords="137,79,271,103"/>
-<area shape="rect" id="node3" href="$group__system.html#gaffab4052111407f092c7c65466a61450" title="Halts the system." alt="" coords="543,5,619,29"/>
-<area shape="rect" id="node6" href="$group__os__lists.html#ga4305cb15cf8763a6b6fa6b29d881c271" title="Evaluates to true if the specified queue is not empty." alt="" coords="515,91,647,115"/>
-<area shape="rect" id="node7" href="$group__threads.html#ga5e3cd6454d16884663fe107971e99370" title="Dequeues and wakes up one thread from the threads queue object." alt="" coords="319,116,467,140"/>
-</map>

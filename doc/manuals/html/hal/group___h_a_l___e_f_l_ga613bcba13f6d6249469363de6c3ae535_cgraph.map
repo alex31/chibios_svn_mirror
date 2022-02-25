@@ -1,5 +1,0 @@
-<map id="eflInit" name="eflInit">
-<area shape="rect" id="node1" title="Embedded Flash Driver initialization." alt="" coords="5,5,59,29"/>
-<area shape="rect" id="node2" href="$group___h_a_l___e_f_l.html#ga1a464cd1eaf14c27d36a503bfb1d7a21" title="Low level Embedded Flash driver initialization." alt="" coords="107,5,183,29"/>
-<area shape="rect" id="node3" href="$group___h_a_l___e_f_l.html#ga99e1024d8274212936fbd214c9dbbee9" title="Initializes a generic EFlashDriver object." alt="" coords="231,5,319,29"/>
-</map>

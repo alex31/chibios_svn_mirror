@@ -1,9 +1,0 @@
-<map id="chThdRelease" name="chThdRelease">
-<area shape="rect" id="node1" title="Releases a reference to a thread object." alt="" coords="5,104,105,128"/>
-<area shape="rect" id="node2" href="$group__oslib__memheaps.html#ga0fc553df0138f02e0b233be91e413c79" title="Frees a previously allocated memory block." alt="" coords="185,5,272,29"/>
-<area shape="rect" id="node3" href="$group__oslib__mempools.html#gaf05f38653b302ea0da0c1f7b50854a92" title="Releases an object into a memory pool." alt="" coords="188,104,269,128"/>
-<area shape="rect" id="node5" href="$group__system.html#ga464ae8092ca266ea0abffeb4c5639c8e" title="Enters the kernel lock state." alt="" coords="358,56,437,80"/>
-<area shape="rect" id="node6" href="$group__system.html#gae3429d88fe6a75de02af1a089b9f620b" title="Leaves the kernel lock state." alt="" coords="352,152,443,176"/>
-<area shape="rect" id="node7" href="$group__threads.html#gaec1cdb96bf7415738cc56ecd6a688d5f" title="Returns the working area base of the specified thread." alt="" coords="153,203,304,227"/>
-<area shape="rect" id="node4" href="$group__oslib__mempools.html#gab854b74a424eee00fbc457af229ea670" title="Releases an object into a memory pool." alt="" coords="355,104,439,128"/>
-</map>

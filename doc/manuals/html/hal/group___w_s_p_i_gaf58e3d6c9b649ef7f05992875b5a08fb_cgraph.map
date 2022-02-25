@@ -1,6 +1,0 @@
-<map id="wspiStop" name="wspiStop">
-<area shape="rect" id="node1" title="Deactivates the WSPI peripheral." alt="" coords="5,53,77,77"/>
-<area shape="rect" id="node2" href="$group___o_s_a_l.html#ga0cb5e528b0114b4ca61c2eb65a0515fa" title="Enters a critical zone from thread context." alt="" coords="131,5,221,29"/>
-<area shape="rect" id="node3" href="$group___o_s_a_l.html#ga17dbf4a1761019b8d94f43832c506543" title="Leaves a critical zone from thread context." alt="" coords="125,53,227,77"/>
-<area shape="rect" id="node4" href="$group___w_s_p_i.html#ga5f4ef18ef56ce866a1fe1552aff6c3b5" title="Deactivates the WSPI peripheral." alt="" coords="129,101,223,125"/>
-</map>

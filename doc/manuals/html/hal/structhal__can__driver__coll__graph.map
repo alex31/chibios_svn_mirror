@@ -1,6 +1,0 @@
-<map id="hal_can_driver" name="hal_can_driver">
-<area shape="rect" id="node1" title="Structure representing an CAN driver." alt="" coords="180,195,280,264"/>
-<area shape="rect" id="node2" href="$structevent__source.html" title="Events source object." alt="" coords="5,5,100,87"/>
-<area shape="rect" id="node3" href="$structthreads__queue__t.html" title="Type of a thread queue." alt="" coords="173,11,287,81"/>
-<area shape="rect" id="node4" href="$structhal__can__config.html" title="Type of a CAN configuration structure." alt="" coords="311,11,413,81"/>
-</map>

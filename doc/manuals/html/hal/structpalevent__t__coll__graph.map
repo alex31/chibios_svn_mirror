@@ -1,4 +1,0 @@
-<map id="palevent_t" name="palevent_t">
-<area shape="rect" id="node1" title="Type of a PAL event record." alt="" coords="23,135,101,216"/>
-<area shape="rect" id="node2" href="$structthreads__queue__t.html" title="Type of a thread queue." alt="" coords="5,5,119,75"/>
-</map>

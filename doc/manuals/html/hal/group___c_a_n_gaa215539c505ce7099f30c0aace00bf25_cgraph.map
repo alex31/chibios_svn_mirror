@@ -1,6 +1,0 @@
-<map id="can_lld_init" name="can_lld_init">
-<area shape="rect" id="node1" title="Low level CAN driver initialization." alt="" coords="5,29,88,53"/>
-<area shape="rect" id="node2" href="$group___c_a_n.html#gadf8c892ca4bd2544d03be8a690885aef" title="Initializes the standard part of a CANDriver structure." alt="" coords="136,29,231,53"/>
-<area shape="rect" id="node3" href="$group___o_s_a_l.html#gab8a1810d5fe09eba979d369b590fd564" title="Initializes an event source object." alt="" coords="301,5,429,29"/>
-<area shape="rect" id="node4" href="$group___o_s_a_l.html#ga345fc7214d1863e6471ae8433b995a10" title="Initializes a threads queue object." alt="" coords="279,53,451,77"/>
-</map>

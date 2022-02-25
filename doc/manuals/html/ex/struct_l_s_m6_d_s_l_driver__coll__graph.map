@@ -1,9 +1,0 @@
-<map id="LSM6DSLDriver" name="LSM6DSLDriver">
-<area shape="rect" id="node1" title="LSM6DSL 6&#45;axis accelerometer/gyroscope class." alt="" coords="126,264,230,333"/>
-<area shape="rect" id="node2" href="$struct_l_s_m6_d_s_l_v_m_t.html" title="LSM6DSL virtual methods table." alt="" coords="5,135,100,204"/>
-<area shape="rect" id="node3" href="$struct_base_accelerometer.html" title="Base accelerometer class." alt="" coords="255,135,383,204"/>
-<area shape="rect" id="node4" href="$struct_base_sensor.html" title="Base stream class." alt="" coords="204,5,291,75"/>
-<area shape="rect" id="node6" href="$struct_base_gyroscope.html" title="Base gyroscope class." alt="" coords="125,135,231,204"/>
-<area shape="rect" id="node5" href="$struct_base_accelerometer_v_m_t.html" title="BaseAccelerometer virtual methods table." alt="" coords="315,5,465,75"/>
-<area shape="rect" id="node7" href="$struct_base_gyroscope_v_m_t.html" title="BaseGyroscope virtual methods table." alt="" coords="49,5,179,75"/>
-</map>

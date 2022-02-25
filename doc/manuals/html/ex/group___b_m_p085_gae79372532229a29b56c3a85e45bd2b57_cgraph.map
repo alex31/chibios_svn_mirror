@@ -1,6 +1,0 @@
-<map id="baro_read_cooked" name="baro_read_cooked">
-<area shape="rect" id="node1" title="Read barometer cooked data." alt="" coords="5,29,128,53"/>
-<area shape="rect" id="node2" href="$group___b_m_p085.html#ga0cdb4927674017eb307451658689d844" title="Read baromether raw data." alt="" coords="176,5,279,29"/>
-<area shape="rect" id="node4" href="$group___b_m_p085.html#ga833dacf6be7d61a599b867e08228a02b" title="Calcul the true pressure." alt="" coords="194,53,261,77"/>
-<area shape="rect" id="node3" href="$group___b_m_p085.html#ga892af3eb6aecbabacc02766f1c74c08c" title="Read the uncompensated pressure from the BMP085 register." alt="" coords="327,5,409,29"/>
-</map>
