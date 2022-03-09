@@ -816,6 +816,13 @@ demos/STM32/RT-STM32G474RE-NUCLEO64/cfg/chconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64/cfg/halconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64/cfg/mcuconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64/main.c -text
+demos/STM32/RT-STM32H723ZG-NUCLEO144/.cproject -text
+demos/STM32/RT-STM32H723ZG-NUCLEO144/.project -text
+demos/STM32/RT-STM32H723ZG-NUCLEO144/Makefile -text
+demos/STM32/RT-STM32H723ZG-NUCLEO144/cfg/chconf.h -text
+demos/STM32/RT-STM32H723ZG-NUCLEO144/cfg/halconf.h -text
+demos/STM32/RT-STM32H723ZG-NUCLEO144/cfg/mcuconf.h -text
+demos/STM32/RT-STM32H723ZG-NUCLEO144/main.c -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/.project -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/Makefile -text
@@ -1723,6 +1730,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32G071xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G0B1xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G431xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G474xE.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32H723xG_ITCM64k.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H743xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H750xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H755xI_M7.ld -text
@@ -3225,6 +3233,7 @@ os/hal/ports/STM32/STM32H7xx/hal_lld.h -text
 os/hal/ports/STM32/STM32H7xx/hal_lld_type1.h -text
 os/hal/ports/STM32/STM32H7xx/hal_lld_type2.h -text
 os/hal/ports/STM32/STM32H7xx/platform.mk -text
+os/hal/ports/STM32/STM32H7xx/platform_type2.mk -text
 os/hal/ports/STM32/STM32H7xx/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32H7xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32H7xx/stm32_isr.h -text
