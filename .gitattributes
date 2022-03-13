@@ -2885,6 +2885,11 @@ os/hal/ports/STM32/LLD/MDMAv1/stm32_mdma.h -text
 os/hal/ports/STM32/LLD/OCTOSPIv1/driver.mk -text
 os/hal/ports/STM32/LLD/OCTOSPIv1/hal_wspi_lld.c -text
 os/hal/ports/STM32/LLD/OCTOSPIv1/hal_wspi_lld.h -text
+os/hal/ports/STM32/LLD/OCTOSPIv2/driver.mk -text
+os/hal/ports/STM32/LLD/OCTOSPIv2/hal_wspi_lld.c -text
+os/hal/ports/STM32/LLD/OCTOSPIv2/hal_wspi_lld.h -text
+os/hal/ports/STM32/LLD/OCTOSPIv2/stm32_octospi1.inc -text
+os/hal/ports/STM32/LLD/OCTOSPIv2/stm32_octospi2.inc -text
 os/hal/ports/STM32/LLD/OTGv1/driver.mk -text
 os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld.c -text
 os/hal/ports/STM32/LLD/OTGv1/hal_usb_lld.h -text
@@ -5089,6 +5094,7 @@ tools/ftl/processors/conf/mcuconf_stm32g071xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32g0b1xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32g4x1xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32g4x4xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32h723xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32h743xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l05xxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l07xxx/mcuconf.h.ftl -text
@@ -5172,6 +5178,7 @@ tools/updater/update_mcuconf_stm32g071xx.sh -text
 tools/updater/update_mcuconf_stm32g0b1xx.sh -text
 tools/updater/update_mcuconf_stm32g4x1xx.sh -text
 tools/updater/update_mcuconf_stm32g4x4xx.sh -text
+tools/updater/update_mcuconf_stm32h723xx.sh -text
 tools/updater/update_mcuconf_stm32h743xx.sh -text
 tools/updater/update_mcuconf_stm32l05xxx.sh -text
 tools/updater/update_mcuconf_stm32l07xxx.sh -text
