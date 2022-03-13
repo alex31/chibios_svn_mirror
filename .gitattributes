@@ -1373,9 +1373,17 @@ os/common/ext/ST/STM32G4xx/stm32g491xx.h -text
 os/common/ext/ST/STM32G4xx/stm32g4xx.h -text
 os/common/ext/ST/STM32G4xx/stm32gbk1cb.h -text
 os/common/ext/ST/STM32G4xx/system_stm32g4xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h723xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h725xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h730xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h730xxq.h -text
+os/common/ext/ST/STM32H7xx/stm32h733xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h735xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h742xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h743xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h745xg.h -text
 os/common/ext/ST/STM32H7xx/stm32h745xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h747xg.h -text
 os/common/ext/ST/STM32H7xx/stm32h747xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h750xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h753xx.h -text
