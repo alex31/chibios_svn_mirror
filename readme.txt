@@ -74,7 +74,13 @@
 *****************************************************************************
 
 *** 21.11.2 ***
-- FIX: Reverted bug #1100.
+- NEW: Added OCTOSPIv2 driver using MDMA for STM32H7xx.
+- NEW: Added support for STM32H723/25/33/35.
+- FIX: Re-opened and fixed bug #1100.
+- FIX: Fixed invalid cumulative time stat in RT (bug #1222).
+- FIX: Fixed incorrect type cast in TIME_I2US() (bug #1221).
+- FIX: Fixed missing clock disable for STM32 OCTOSPI2 (bug #1220).
+- FIX: Fixed wrong condition in STM32 sio_lld_read() function (bug #1219).
 - FIX: Fixed clock re-initialization problem in STM32 USARTv2 and USARTv3
        drivers (bug #1217).
 - FIX: Fixed assertion on initialization of STM32H7xx (bug #1216).
