@@ -823,6 +823,13 @@ demos/STM32/RT-STM32H723ZG-NUCLEO144/cfg/chconf.h -text
 demos/STM32/RT-STM32H723ZG-NUCLEO144/cfg/halconf.h -text
 demos/STM32/RT-STM32H723ZG-NUCLEO144/cfg/mcuconf.h -text
 demos/STM32/RT-STM32H723ZG-NUCLEO144/main.c -text
+demos/STM32/RT-STM32H735IG-DISCOVERY/.cproject -text
+demos/STM32/RT-STM32H735IG-DISCOVERY/.project -text
+demos/STM32/RT-STM32H735IG-DISCOVERY/Makefile -text
+demos/STM32/RT-STM32H735IG-DISCOVERY/cfg/chconf.h -text
+demos/STM32/RT-STM32H735IG-DISCOVERY/cfg/halconf.h -text
+demos/STM32/RT-STM32H735IG-DISCOVERY/cfg/mcuconf.h -text
+demos/STM32/RT-STM32H735IG-DISCOVERY/main.c -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/.cproject -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/.project -text
 demos/STM32/RT-STM32H743ZI_REV_XY-NUCLEO144/Makefile -text
@@ -1731,6 +1738,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32G0B1xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G431xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G474xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H723xG_ITCM64k.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32H735xG_ITCM64k.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H743xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H750xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H755xI_M7.ld -text
