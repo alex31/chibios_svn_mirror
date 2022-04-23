@@ -1468,7 +1468,9 @@ os/common/ext/ST/STM32H7xx/stm32h733xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h735xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h742xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h743xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h745xg.h -text
 os/common/ext/ST/STM32H7xx/stm32h745xx.h -text
+os/common/ext/ST/STM32H7xx/stm32h747xg.h -text
 os/common/ext/ST/STM32H7xx/stm32h747xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h750xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h753xx.h -text
@@ -1751,6 +1753,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32H735xG_ITCM64k.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H743xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H750xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H755xI_M7.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32H7A3xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L011x3.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L011x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L031x4.ld -text
@@ -3259,6 +3262,7 @@ os/hal/ports/STM32/STM32H7xx/hal_lld.c -text
 os/hal/ports/STM32/STM32H7xx/hal_lld.h -text
 os/hal/ports/STM32/STM32H7xx/hal_lld_type1.h -text
 os/hal/ports/STM32/STM32H7xx/hal_lld_type2.h -text
+os/hal/ports/STM32/STM32H7xx/hal_lld_type3.h -text
 os/hal/ports/STM32/STM32H7xx/platform.mk -text
 os/hal/ports/STM32/STM32H7xx/platform_type2.mk -text
 os/hal/ports/STM32/STM32H7xx/stm32_dmamux.h -text
