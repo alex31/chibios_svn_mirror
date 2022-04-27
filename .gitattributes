@@ -4954,6 +4954,11 @@ testhal/STM32/multi/WDG/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/WSPI-MFS/.cproject -text
 testhal/STM32/multi/WSPI-MFS/.project -text
 testhal/STM32/multi/WSPI-MFS/Makefile -text
+testhal/STM32/multi/WSPI-MFS/cfg/stm32h735ig_discovery/chconf.h -text
+testhal/STM32/multi/WSPI-MFS/cfg/stm32h735ig_discovery/halconf.h -text
+testhal/STM32/multi/WSPI-MFS/cfg/stm32h735ig_discovery/mcuconf.h -text
+testhal/STM32/multi/WSPI-MFS/cfg/stm32h735ig_discovery/portab.c -text
+testhal/STM32/multi/WSPI-MFS/cfg/stm32h735ig_discovery/portab.h -text
 testhal/STM32/multi/WSPI-MFS/cfg/stm32l476_discovery/chconf.h -text
 testhal/STM32/multi/WSPI-MFS/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/WSPI-MFS/cfg/stm32l476_discovery/mcuconf.h -text
@@ -4965,6 +4970,7 @@ testhal/STM32/multi/WSPI-MFS/cfg/stm32l4r9_discovery/mcuconf.h -text
 testhal/STM32/multi/WSPI-MFS/cfg/stm32l4r9_discovery/portab.c -text
 testhal/STM32/multi/WSPI-MFS/cfg/stm32l4r9_discovery/portab.h -text
 testhal/STM32/multi/WSPI-MFS/main.c -text
+testhal/STM32/multi/WSPI-MFS/make/stm32h735ig_discovery.make -text
 testhal/STM32/multi/WSPI-MFS/make/stm32l476_discovery.make -text
 testhal/STM32/multi/WSPI-MFS/make/stm32l4r9_discovery.make -text
 testrt/FPU_STORM/.cproject -text
