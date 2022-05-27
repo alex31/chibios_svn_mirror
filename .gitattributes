@@ -1651,6 +1651,8 @@ os/common/ports/ARMv8-M-ML/chcore.c -text
 os/common/ports/ARMv8-M-ML/chcore.h -text
 os/common/ports/ARMv8-M-ML/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv8-M-ML/compilers/GCC/mk/port.mk -text
+os/common/ports/ARMvx-M-SB/compilers/GCC/mk/port.mk -text
+os/common/ports/ARMvx-M-SB/compilers/GCC/vectors.S -text
 os/common/ports/AVR/chcore.c -text
 os/common/ports/AVR/chcore.h -text
 os/common/ports/AVR/compilers/GCC/chtypes.h -text
