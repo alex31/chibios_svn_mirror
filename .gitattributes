@@ -1165,7 +1165,10 @@ demos/various/RT-Win32-Simulator/readme.txt -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/.cproject -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/.project -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/Makefile -text
+demos/various/SB-CLIENT-32k-08070000-16k-20018000/cfg/board.h -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/cfg/chconf.h -text
+demos/various/SB-CLIENT-32k-08070000-16k-20018000/cfg/halconf.h -text
+demos/various/SB-CLIENT-32k-08070000-16k-20018000/cfg/mcuconf.h -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/main.c -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/sandbox.ld -text
 demos/various/SB-CLIENT-32k-08078000-16k-2001C000/.cproject -text
@@ -3368,6 +3371,8 @@ os/hal/ports/common/ARMCMx/sau.c -text
 os/hal/ports/common/ARMCMx/sau.h -text
 os/hal/ports/sandbox/hal_lld.c -text
 os/hal/ports/sandbox/hal_lld.h -text
+os/hal/ports/sandbox/hal_st_lld.c -text
+os/hal/ports/sandbox/hal_st_lld.h -text
 os/hal/ports/sandbox/platform.mk -text
 os/hal/ports/simulator/console.c -text
 os/hal/ports/simulator/console.h -text
