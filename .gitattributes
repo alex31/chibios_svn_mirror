@@ -1165,7 +1165,6 @@ demos/various/RT-Win32-Simulator/readme.txt -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/.cproject -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/.project -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/Makefile -text
-demos/various/SB-CLIENT-32k-08070000-16k-20018000/cfg/board.h -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/cfg/chconf.h -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/cfg/halconf.h -text
 demos/various/SB-CLIENT-32k-08070000-16k-20018000/cfg/mcuconf.h -text
@@ -2131,6 +2130,9 @@ os/hal/boards/RAISONANCE_REVA_STM8S/board.h -text
 os/hal/boards/RP_PICO_RP2040/board.c -text
 os/hal/boards/RP_PICO_RP2040/board.h -text
 os/hal/boards/RP_PICO_RP2040/board.mk -text
+os/hal/boards/SB_GENERIC/board.c -text
+os/hal/boards/SB_GENERIC/board.h -text
+os/hal/boards/SB_GENERIC/board.mk -text
 os/hal/boards/SEEED_ARCH_MAX/board.c -text
 os/hal/boards/SEEED_ARCH_MAX/board.h -text
 os/hal/boards/SEEED_ARCH_MAX/board.mk -text
