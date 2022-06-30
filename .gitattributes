@@ -3622,6 +3622,8 @@ os/sb/vio/sbvio.h -text
 os/sb/vio/sbvio.mk -text
 os/sb/vio/sbvio_gpio.c -text
 os/sb/vio/sbvio_gpio.h -text
+os/sb/vio/sbvio_uart.c -text
+os/sb/vio/sbvio_uart.h -text
 os/se/include/se.h -text
 os/se/include/seloops.h -text
 os/se/include/seregs.h -text
