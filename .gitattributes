@@ -803,7 +803,7 @@ demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/halconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/mcuconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/sbconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/vfsconf.h -text
-demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/vhalconf.h -text
+demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/cfg/vioconf.h -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC/debug/RT-STM32G474RE-NUCLEO64-SB_HOST_STATIC[!!-~](build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
@@ -3617,11 +3617,11 @@ os/sb/user/lib/syscalls.h -text
 os/sb/user/sbuser.c -text
 os/sb/user/sbuser.h -text
 os/sb/user/sbuser.mk -text
-os/sb/vhal/sbvhal.c -text
-os/sb/vhal/sbvhal.h -text
-os/sb/vhal/sbvhal.mk -text
-os/sb/vhal/sbvhal_pal.c -text
-os/sb/vhal/sbvhal_pal.h -text
+os/sb/vhal/sbvio.c -text
+os/sb/vhal/sbvio.h -text
+os/sb/vhal/sbvio.mk -text
+os/sb/vhal/sbvio_gpio.c -text
+os/sb/vhal/sbvio_gpio.h -text
 os/se/include/se.h -text
 os/se/include/seloops.h -text
 os/se/include/seregs.h -text
