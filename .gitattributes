@@ -2584,6 +2584,7 @@ os/hal/dox/main.dox -text
 os/hal/hal.mk -text
 os/hal/include/hal.h -text
 os/hal/include/hal_adc.h -text
+os/hal/include/hal_buffered_serial.h -text
 os/hal/include/hal_buffers.h -text
 os/hal/include/hal_can.h -text
 os/hal/include/hal_channels.h -text
@@ -2622,6 +2623,9 @@ os/hal/include/hal_usb.h -text
 os/hal/include/hal_usb_cdc.h -text
 os/hal/include/hal_wdg.h -text
 os/hal/include/hal_wspi.h -text
+os/hal/lib/complex/buffered_sio/hal_buffered_sio.c -text
+os/hal/lib/complex/buffered_sio/hal_buffered_sio.h -text
+os/hal/lib/complex/buffered_sio/hal_buffered_sio.mk -text
 os/hal/lib/complex/mfs/hal_mfs.c -text
 os/hal/lib/complex/mfs/hal_mfs.h -text
 os/hal/lib/complex/mfs/hal_mfs.mk -text
@@ -3399,6 +3403,7 @@ os/hal/ports/simulator/win32/hal_serial_lld.h -text
 os/hal/ports/simulator/win32/platform.mk -text
 os/hal/src/hal.c -text
 os/hal/src/hal_adc.c -text
+os/hal/src/hal_buffered_serial.c -text
 os/hal/src/hal_buffers.c -text
 os/hal/src/hal_can.c -text
 os/hal/src/hal_crypto.c -text
