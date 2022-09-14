@@ -247,11 +247,14 @@ endif
 ifeq ($(USE_VERBOSE_COMPILE),yes)
 	$(OD) $(ODFLAGS) $< > $@
 	$(SZ) $<
+	$(SZ) $< -A | grep -E '\.text|\.rodata|\.data|\.bss' | perl -lanE 'say "@F[0]\t@F[1]"'
 else
 	@echo Creating $@
 	@$(OD) $(ODFLAGS) $< > $@
 	@echo
 	@$(SZ) $<
+	@echo
+	@$(SZ) $< -A | grep -E '\.text|\.rodata|\.data|\.bss' | perl -lanE 'say "@F[0]\t@F[1]"'
 endif
 
 %.list: %.elf
