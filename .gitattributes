@@ -2636,9 +2636,6 @@ os/hal/lib/complex/buffered_sio/hal_buffered_sio.mk -text
 os/hal/lib/complex/mfs/hal_mfs.c -text
 os/hal/lib/complex/mfs/hal_mfs.h -text
 os/hal/lib/complex/mfs/hal_mfs.mk -text
-os/hal/lib/complex/mmcsd_spi/hal_mmcsd_spi.c -text
-os/hal/lib/complex/mmcsd_spi/hal_mmcsd_spi.h -text
-os/hal/lib/complex/mmcsd_spi/hal_mmcsd_spi.mk -text
 os/hal/lib/complex/readme.txt -text
 os/hal/lib/complex/serial_nor/devices/macronix_mx25/hal_flash_device.c -text
 os/hal/lib/complex/serial_nor/devices/macronix_mx25/hal_flash_device.h -text
