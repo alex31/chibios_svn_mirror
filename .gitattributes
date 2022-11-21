@@ -1084,6 +1084,7 @@ demos/STM32/RT-VFS-FATFS/.cproject -text
 demos/STM32/RT-VFS-FATFS/.project -text
 demos/STM32/RT-VFS-FATFS/Makefile -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32g474re_nucleo64/chconf.h -text
+demos/STM32/RT-VFS-FATFS/cfg/stm32g474re_nucleo64/ffconf.h -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32g474re_nucleo64/halconf.h -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32g474re_nucleo64/mcuconf.h -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32g474re_nucleo64/portab.c -text
