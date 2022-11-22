@@ -70,6 +70,14 @@ demos/AVR/RT-ARDUINO-NANO/cfg/halconf.h -text
 demos/AVR/RT-ARDUINO-NANO/cfg/mcuconf.h -text
 demos/AVR/RT-ARDUINO-NANO/main.c -text
 demos/AVR/RT-ARDUINO-NANO/readme.txt -text
+demos/AVR/RT-ARDUINO-UNO-G++/Makefile -text
+demos/AVR/RT-ARDUINO-UNO-G++/cfg/chconf.h -text
+demos/AVR/RT-ARDUINO-UNO-G++/cfg/halconf.h -text
+demos/AVR/RT-ARDUINO-UNO-G++/cfg/mcuconf.h -text
+demos/AVR/RT-ARDUINO-UNO-G++/led.cpp -text
+demos/AVR/RT-ARDUINO-UNO-G++/led.hpp -text
+demos/AVR/RT-ARDUINO-UNO-G++/main.cpp -text
+demos/AVR/RT-ARDUINO-UNO-G++/readme.txt -text
 demos/AVR/RT-ARDUINO-UNO/Makefile -text
 demos/AVR/RT-ARDUINO-UNO/cfg/chconf.h -text
 demos/AVR/RT-ARDUINO-UNO/cfg/halconf.h -text
