@@ -2746,9 +2746,9 @@ os/hal/ports/AVR/TINY/ATTinyxxx/platform.mk -text
 os/hal/ports/AVR/TINY/LLD/GPIOv1/driver.mk -text
 os/hal/ports/AVR/TINY/LLD/GPIOv1/hal_pal_lld.c -text
 os/hal/ports/AVR/TINY/LLD/GPIOv1/hal_pal_lld.h -text
-os/hal/ports/AVR/TINY/LLD/TIMv1/driver.mk -text
-os/hal/ports/AVR/TINY/LLD/TIMv1/hal_st_lld.c -text
-os/hal/ports/AVR/TINY/LLD/TIMv1/hal_st_lld.h -text
+os/hal/ports/AVR/TINY/LLD/SYSTICKv1/driver.mk -text
+os/hal/ports/AVR/TINY/LLD/SYSTICKv1/hal_st_lld.c -text
+os/hal/ports/AVR/TINY/LLD/SYSTICKv1/hal_st_lld.h -text
 os/hal/ports/AVR/TINY/LLD/USARTv1/driver.mk -text
 os/hal/ports/AVR/TINY/LLD/USARTv1/hal_uart_lld.c -text
 os/hal/ports/AVR/TINY/LLD/USARTv1/hal_uart_lld.h -text
