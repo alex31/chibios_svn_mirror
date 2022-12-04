@@ -2771,9 +2771,9 @@ os/hal/ports/AVR/XMEGA/LLD/GPIOv1/hal_pal_lld.h -text
 os/hal/ports/AVR/XMEGA/LLD/SPIv1/driver.mk -text
 os/hal/ports/AVR/XMEGA/LLD/SPIv1/hal_spi_lld.c -text
 os/hal/ports/AVR/XMEGA/LLD/SPIv1/hal_spi_lld.h -text
-os/hal/ports/AVR/XMEGA/LLD/TIMv1/driver.mk -text
-os/hal/ports/AVR/XMEGA/LLD/TIMv1/hal_st_lld.c -text
-os/hal/ports/AVR/XMEGA/LLD/TIMv1/hal_st_lld.h -text
+os/hal/ports/AVR/XMEGA/LLD/SYSTICKv1/driver.mk -text
+os/hal/ports/AVR/XMEGA/LLD/SYSTICKv1/hal_st_lld.c -text
+os/hal/ports/AVR/XMEGA/LLD/SYSTICKv1/hal_st_lld.h -text
 os/hal/ports/AVR/XMEGA/LLD/USARTv1/driver.mk -text
 os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_serial_lld.c -text
 os/hal/ports/AVR/XMEGA/LLD/USARTv1/hal_serial_lld.h -text
