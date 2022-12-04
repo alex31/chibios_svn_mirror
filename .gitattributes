@@ -2724,6 +2724,9 @@ os/hal/ports/AVR/MEGA/LLD/I2Cv1/hal_i2c_lld.h -text
 os/hal/ports/AVR/MEGA/LLD/SPIv1/driver.mk -text
 os/hal/ports/AVR/MEGA/LLD/SPIv1/hal_spi_lld.c -text
 os/hal/ports/AVR/MEGA/LLD/SPIv1/hal_spi_lld.h -text
+os/hal/ports/AVR/MEGA/LLD/SYSTICKv1/driver.mk -text
+os/hal/ports/AVR/MEGA/LLD/SYSTICKv1/hal_st_lld.c -text
+os/hal/ports/AVR/MEGA/LLD/SYSTICKv1/hal_st_lld.h -text
 os/hal/ports/AVR/MEGA/LLD/TIMv1/driver.mk -text
 os/hal/ports/AVR/MEGA/LLD/TIMv1/hal_gpt_lld.c -text
 os/hal/ports/AVR/MEGA/LLD/TIMv1/hal_gpt_lld.h -text
@@ -2731,8 +2734,6 @@ os/hal/ports/AVR/MEGA/LLD/TIMv1/hal_icu_lld.c -text
 os/hal/ports/AVR/MEGA/LLD/TIMv1/hal_icu_lld.h -text
 os/hal/ports/AVR/MEGA/LLD/TIMv1/hal_pwm_lld.c -text
 os/hal/ports/AVR/MEGA/LLD/TIMv1/hal_pwm_lld.h -text
-os/hal/ports/AVR/MEGA/LLD/TIMv1/hal_st_lld.c -text
-os/hal/ports/AVR/MEGA/LLD/TIMv1/hal_st_lld.h -text
 os/hal/ports/AVR/MEGA/LLD/USARTv1/driver.mk -text
 os/hal/ports/AVR/MEGA/LLD/USARTv1/hal_serial_lld.c -text
 os/hal/ports/AVR/MEGA/LLD/USARTv1/hal_serial_lld.h -text
