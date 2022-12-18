@@ -4736,10 +4736,12 @@ testhal/STM32/multi/SDMMC/make/stm32l4r9ai_discovery.make -text
 testhal/STM32/multi/SIO/.cproject -text
 testhal/STM32/multi/SIO/.project -text
 testhal/STM32/multi/SIO/Makefile -text
+testhal/STM32/multi/SIO/cfg/stm32g474re_nucleo64/chconf.h -text
 testhal/STM32/multi/SIO/cfg/stm32g474re_nucleo64/halconf.h -text
 testhal/STM32/multi/SIO/cfg/stm32g474re_nucleo64/mcuconf.h -text
 testhal/STM32/multi/SIO/cfg/stm32g474re_nucleo64/portab.c -text
 testhal/STM32/multi/SIO/cfg/stm32g474re_nucleo64/portab.h -text
+testhal/STM32/multi/SIO/cfg/stm32l476vg_discovery/chconf.h -text
 testhal/STM32/multi/SIO/cfg/stm32l476vg_discovery/halconf.h -text
 testhal/STM32/multi/SIO/cfg/stm32l476vg_discovery/mcuconf.h -text
 testhal/STM32/multi/SIO/cfg/stm32l476vg_discovery/portab.c -text
@@ -5018,10 +5020,12 @@ testhal/STM32/multi/WDG/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/WSPI-LITTLEFS/.cproject -text
 testhal/STM32/multi/WSPI-LITTLEFS/.project -text
 testhal/STM32/multi/WSPI-LITTLEFS/Makefile -text
+testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l476vg_discovery/chconf.h -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l476vg_discovery/halconf.h -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l476vg_discovery/mcuconf.h -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l476vg_discovery/portab.c -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l476vg_discovery/portab.h -text
+testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l4r9ai_discovery/chconf.h -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l4r9ai_discovery/halconf.h -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l4r9ai_discovery/mcuconf.h -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l4r9ai_discovery/portab.c -text
