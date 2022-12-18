@@ -1880,6 +1880,13 @@ os/common/startup/e200/devices/SPC56ELxx/boot.S -text
 os/common/startup/e200/devices/SPC56ELxx/boot.h -text
 os/common/startup/e200/devices/SPC56ELxx/intc.h -text
 os/common/startup/e200/devices/SPC56ELxx/ppcparams.h -text
+os/common/utils/include/errcodes.h -text
+os/common/utils/include/oop_base_object.h -text
+os/common/utils/include/oop_referenced_object.h -text
+os/common/utils/include/oop_synchronized_object.h -text
+os/common/utils/include/paths.h -text
+os/common/utils/src/paths.c -text
+os/common/utils/utils.mk -text
 os/ex/devices/ADI/adxl355.c -text
 os/ex/devices/ADI/adxl355.h -text
 os/ex/devices/ADI/adxl355.mk -text
