@@ -1219,6 +1219,7 @@ doc/various/readme.txt -text
 doc/various/st_usb_cdc_driver.inf -text
 /documentation.html -text
 ext/fatfs-0.14b_patched.7z -text
+ext/littlefs.-2.4.1.7z -text
 ext/lwip-2.1.2.7z -text
 ext/pico-sdk[!!-~]1.1.0.7z -text
 ext/readme.txt -text
@@ -3568,6 +3569,10 @@ os/various/fatfs_bindings/readme.txt -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.c -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.h -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.mk -text
+os/various/littlefs_bindings/lfs_config.h -text
+os/various/littlefs_bindings/lfs_hal.c -text
+os/various/littlefs_bindings/lfs_hal.h -text
+os/various/littlefs_bindings/littlefs.mk -text
 os/various/lwip_bindings/arch/cc.h -text
 os/various/lwip_bindings/arch/perf.h -text
 os/various/lwip_bindings/arch/sys_arch.c -text
