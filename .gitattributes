@@ -2558,6 +2558,7 @@ os/hal/boards/simulator/board.h -text
 os/hal/boards/simulator/board.mk -text
 os/hal/dox/hal.dox -text
 os/hal/dox/hal_adc.dox -text
+os/hal/dox/hal_buffered_serial.dox -text
 os/hal/dox/hal_buffererd_sio.dox -text
 os/hal/dox/hal_buffers.dox -text
 os/hal/dox/hal_can.dox -text
