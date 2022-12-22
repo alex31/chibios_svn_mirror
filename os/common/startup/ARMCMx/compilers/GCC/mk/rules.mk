@@ -253,8 +253,11 @@ else
 	@$(OD) $(ODFLAGS) $< > $@
 	@echo
 	@$(SZ) $<
+<<<<<<< HEAD
 	@echo
 	@$(SZ) $< -A | grep -E '\.text|\.rodata|\.data|\.bss' | perl -lanE 'say "@F[0]\t@F[1]"'
+=======
+>>>>>>> stable_21.11.x
 endif
 
 %.list: %.elf
