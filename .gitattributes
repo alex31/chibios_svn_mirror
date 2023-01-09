@@ -4193,6 +4193,14 @@ testhal/AVR/MEGA/SPI/halconf.h -text
 testhal/AVR/MEGA/SPI/main.c -text
 testhal/AVR/MEGA/SPI/mcuconf.h -text
 testhal/AVR/MEGA/SPI/readme.txt -text
+testhal/AVR/XMEGA/CRC/.bloom/settings.json -text
+testhal/AVR/XMEGA/CRC/Makefile -text
+testhal/AVR/XMEGA/CRC/bloom.yaml -text
+testhal/AVR/XMEGA/CRC/chconf.h -text
+testhal/AVR/XMEGA/CRC/halconf.h -text
+testhal/AVR/XMEGA/CRC/main.c -text
+testhal/AVR/XMEGA/CRC/mcuconf.h -text
+testhal/AVR/XMEGA/CRC/readme.txt -text
 testhal/AVR/XMEGA/CRYPTO/Makefile -text
 testhal/AVR/XMEGA/CRYPTO/chconf.h -text
 testhal/AVR/XMEGA/CRYPTO/halconf.h -text
