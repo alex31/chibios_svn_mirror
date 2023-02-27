@@ -4098,6 +4098,14 @@ testex/STM32/STM32F4xx/I2C-LSM6DSL/cfg/halconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/cfg/mcuconf.h -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/main.c -text
 testex/STM32/STM32F4xx/I2C-LSM6DSL/readme.txt -text
+testex/STM32/STM32F4xx/I2C-PWM-ADXL317/.cproject -text
+testex/STM32/STM32F4xx/I2C-PWM-ADXL317/.project -text
+testex/STM32/STM32F4xx/I2C-PWM-ADXL317/Makefile -text
+testex/STM32/STM32F4xx/I2C-PWM-ADXL317/cfg/chconf.h -text
+testex/STM32/STM32F4xx/I2C-PWM-ADXL317/cfg/halconf.h -text
+testex/STM32/STM32F4xx/I2C-PWM-ADXL317/cfg/mcuconf.h -text
+testex/STM32/STM32F4xx/I2C-PWM-ADXL317/main.c -text
+testex/STM32/STM32F4xx/I2C-PWM-ADXL317/readme.txt -text
 testex/STM32/STM32F4xx/SPI-ADXL355/.cproject -text
 testex/STM32/STM32F4xx/SPI-ADXL355/.project -text
 testex/STM32/STM32F4xx/SPI-ADXL355/Makefile -text
