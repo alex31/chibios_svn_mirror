@@ -1091,6 +1091,13 @@ demos/STM32/RT-STM32WL55JC-NUCLEO64/main.c -text
 demos/STM32/RT-VFS-FATFS/.cproject -text
 demos/STM32/RT-VFS-FATFS/.project -text
 demos/STM32/RT-VFS-FATFS/Makefile -text
+demos/STM32/RT-VFS-FATFS/cfg/stm32f407zg_olimex/chconf.h -text
+demos/STM32/RT-VFS-FATFS/cfg/stm32f407zg_olimex/ffconf.h -text
+demos/STM32/RT-VFS-FATFS/cfg/stm32f407zg_olimex/halconf.h -text
+demos/STM32/RT-VFS-FATFS/cfg/stm32f407zg_olimex/mcuconf.h -text
+demos/STM32/RT-VFS-FATFS/cfg/stm32f407zg_olimex/portab.c -text
+demos/STM32/RT-VFS-FATFS/cfg/stm32f407zg_olimex/portab.h -text
+demos/STM32/RT-VFS-FATFS/cfg/stm32f407zg_olimex/vfsconf.h -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32f769ni_discovery/chconf.h -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32f769ni_discovery/ffconf.h -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32f769ni_discovery/halconf.h -text
@@ -1120,6 +1127,7 @@ demos/STM32/RT-VFS-FATFS/cfg/stm32l4r9ai_discovery/portab.c -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32l4r9ai_discovery/portab.h -text
 demos/STM32/RT-VFS-FATFS/cfg/stm32l4r9ai_discovery/vfsconf.h -text
 demos/STM32/RT-VFS-FATFS/main.c -text
+demos/STM32/RT-VFS-FATFS/make/stm32f407zg_olimex.make -text
 demos/STM32/RT-VFS-FATFS/make/stm32f769ni_discovery.make -text
 demos/STM32/RT-VFS-FATFS/make/stm32g474re_nucleo64.make -text
 demos/STM32/RT-VFS-FATFS/make/stm32h735ig_discovery.make -text
