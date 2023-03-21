@@ -1,0 +1,6 @@
+/*.o
+os/common/ext/fatfs
+os/common/ext/lwip
+os/rt/src/*.lst
+os/various/*.lst
+test/*.lst
