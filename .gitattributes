@@ -1645,6 +1645,7 @@ os/common/ext/ST/STM32WLxx/stm32wle5xx.h -text
 os/common/ext/ST/STM32WLxx/stm32wlxx.h -text
 os/common/ext/ST/STM32WLxx/system_stm32wlxx.h -text
 os/common/ext/readme.txt -text
+os/common/include/errcodes.h -text
 os/common/oop/codegen/config.fmpp -text
 os/common/oop/codegen/modules.xml -text
 os/common/oop/codegen/oop_base_interface.xml -text
@@ -3924,12 +3925,8 @@ os/xhal/ports/STM32/LLD/USART/stm32_usart3_4_lp1.inc -text
 os/xhal/ports/STM32/LLD/USART/stm32_usart4_5.inc -text
 os/xhal/ports/STM32/LLD/USART/stm32_usart6.inc -text
 os/xhal/ports/STM32/LLD/USARTv3/driver.mk -text
-os/xhal/ports/STM32/LLD/USARTv3/hal_serial_lld.c -text
-os/xhal/ports/STM32/LLD/USARTv3/hal_serial_lld.h -text
 os/xhal/ports/STM32/LLD/USARTv3/hal_sio_lld.c -text
 os/xhal/ports/STM32/LLD/USARTv3/hal_sio_lld.h -text
-os/xhal/ports/STM32/LLD/USARTv3/hal_uart_lld.c -text
-os/xhal/ports/STM32/LLD/USARTv3/hal_uart_lld.h -text
 os/xhal/ports/STM32/LLD/USARTv3/stm32_usart.h -text
 os/xhal/ports/STM32/STM32G4xx/cfg/clocktree.xml -text
 os/xhal/ports/STM32/STM32G4xx/cfg/config.fmpp -text
