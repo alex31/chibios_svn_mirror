@@ -1649,12 +1649,17 @@ os/common/include/errcodes.h -text
 os/common/lib/codegen/config.fmpp -text
 os/common/lib/codegen/memstreams.xml -text
 os/common/lib/codegen/modules.xml -text
+os/common/lib/codegen/nullstreams.xml -text
 os/common/lib/include/chprintf.h -text
+os/common/lib/include/chscanf.h -text
 os/common/lib/include/errcodes.h -text
 os/common/lib/include/memstreams.h -text
+os/common/lib/include/nullstreams.h -text
 os/common/lib/lib.mk -text
 os/common/lib/src/chprintf.c -text
+os/common/lib/src/chscanf.c -text
 os/common/lib/src/memstreams.c -text
+os/common/lib/src/nullstreams.c -text
 os/common/oop/codegen/config.fmpp -text
 os/common/oop/codegen/modules.xml -text
 os/common/oop/codegen/oop_base_interface.xml -text
