@@ -1646,6 +1646,15 @@ os/common/ext/ST/STM32WLxx/stm32wlxx.h -text
 os/common/ext/ST/STM32WLxx/system_stm32wlxx.h -text
 os/common/ext/readme.txt -text
 os/common/include/errcodes.h -text
+os/common/lib/codegen/config.fmpp -text
+os/common/lib/codegen/memstreams.xml -text
+os/common/lib/codegen/modules.xml -text
+os/common/lib/include/chprintf.h -text
+os/common/lib/include/errcodes.h -text
+os/common/lib/include/memstreams.h -text
+os/common/lib/lib.mk -text
+os/common/lib/src/chprintf.c -text
+os/common/lib/src/memstreams.c -text
 os/common/oop/codegen/config.fmpp -text
 os/common/oop/codegen/modules.xml -text
 os/common/oop/codegen/oop_base_interface.xml -text
