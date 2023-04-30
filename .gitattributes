@@ -3960,6 +3960,15 @@ os/xhal/ports/common/ARMCMx/nvic.c -text
 os/xhal/ports/common/ARMCMx/nvic.h -text
 os/xhal/ports/common/ARMCMx/sau.c -text
 os/xhal/ports/common/ARMCMx/sau.h -text
+os/xhal/ports/vio/hal_lld.c -text
+os/xhal/ports/vio/hal_lld.h -text
+os/xhal/ports/vio/hal_pal_lld.c -text
+os/xhal/ports/vio/hal_pal_lld.h -text
+os/xhal/ports/vio/hal_sio_lld.c -text
+os/xhal/ports/vio/hal_sio_lld.h -text
+os/xhal/ports/vio/hal_st_lld.c -text
+os/xhal/ports/vio/hal_st_lld.h -text
+os/xhal/ports/vio/platform.mk -text
 os/xhal/src/hal.c -text
 os/xhal/src/hal_base_driver.c -text
 os/xhal/src/hal_buffered_serial.c -text
