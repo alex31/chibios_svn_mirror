@@ -3779,7 +3779,6 @@ os/vfs/dox/vfs_arch.dox -text
 os/vfs/drivers/fatfs/drvfatfs.c -text
 os/vfs/drivers/fatfs/drvfatfs.h -text
 os/vfs/drivers/fatfs/drvfatfs_impl.inc -text
-os/vfs/drivers/fatfs/drvfatfs_impl_.inc -text
 os/vfs/drivers/overlay/drvoverlay.c -text
 os/vfs/drivers/overlay/drvoverlay.h -text
 os/vfs/drivers/overlay/drvoverlay_impl.inc -text
