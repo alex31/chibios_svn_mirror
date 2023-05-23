@@ -141,7 +141,6 @@ demos/LPC21xx/RT-LPC214x-OLIMEX/mcuconf.h -text
 demos/MAX32/RT-MAX32625-MAX32625MBED/.cproject -text
 demos/MAX32/RT-MAX32625-MAX32625MBED/.project -text
 demos/MAX32/RT-MAX32625-MAX32625MBED/Makefile -text
-demos/MAX32/RT-MAX32625-MAX32625MBED/build/ch.elf -text
 demos/MAX32/RT-MAX32625-MAX32625MBED/cfg/chconf.h -text
 demos/MAX32/RT-MAX32625-MAX32625MBED/cfg/halconf.h -text
 demos/MAX32/RT-MAX32625-MAX32625MBED/cfg/mcuconf.h -text
@@ -1389,7 +1388,6 @@ os/common/ext/ADI/MAX3262x/MAX32625/uart_regs.h -text
 os/common/ext/ADI/MAX3262x/MAX32625/usb_regs.h -text
 os/common/ext/ADI/MAX3262x/MAX32625/wdt2_regs.h -text
 os/common/ext/ADI/MAX3262x/MAX32625/wdt_regs.h -text
-os/common/ext/ADI/MAX3262x/max32625.h -text
 os/common/ext/ADI/MAX3262x/max3262x.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_armcc.h -text
 os/common/ext/ARM/CMSIS/Core/Include/cmsis_armclang.h -text
@@ -2909,8 +2907,11 @@ os/hal/ports/LPC/LPC214x/vic.c -text
 os/hal/ports/LPC/LPC214x/vic.h -text
 os/hal/ports/MAX32/MAX32625/hal_lld.c -text
 os/hal/ports/MAX32/MAX32625/hal_lld.h -text
+os/hal/ports/MAX32/MAX32625/hal_pal_lld.c -text
+os/hal/ports/MAX32/MAX32625/hal_pal_lld.h -text
 os/hal/ports/MAX32/MAX32625/hal_st_lld.c -text
 os/hal/ports/MAX32/MAX32625/hal_st_lld.h -text
+os/hal/ports/MAX32/MAX32625/max32_gpio.h -text
 os/hal/ports/MAX32/MAX32625/max32_isr.c -text
 os/hal/ports/MAX32/MAX32625/max32_isr.h -text
 os/hal/ports/MAX32/MAX32625/max32_registry.h -text
