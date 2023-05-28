@@ -3865,6 +3865,7 @@ os/vfs/vfs.mk -text
 os/vfs/vfs_syscalls.mk -text
 os/xhal/codegen/config.fmpp -text
 os/xhal/codegen/hal_base_driver.xml -text
+os/xhal/codegen/hal_block_io.xml -text
 os/xhal/codegen/hal_buffered_serial.xml -text
 os/xhal/codegen/hal_channels.xml -text
 os/xhal/codegen/hal_sio.xml -text
@@ -3873,6 +3874,7 @@ os/xhal/dox/xhal_arch.dox -text
 os/xhal/hal.mk -text
 os/xhal/include/hal.h -text
 os/xhal/include/hal_base_driver.h -text
+os/xhal/include/hal_block_io.h -text
 os/xhal/include/hal_buffered_serial.h -text
 os/xhal/include/hal_channels.h -text
 os/xhal/include/hal_pal.h -text
