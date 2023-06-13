@@ -3870,6 +3870,7 @@ os/xhal/codegen/hal_buffered_serial.xml -text
 os/xhal/codegen/hal_cb_driver.xml -text
 os/xhal/codegen/hal_channels.xml -text
 os/xhal/codegen/hal_sio.xml -text
+os/xhal/codegen/hal_spi.xml -text
 os/xhal/codegen/modules.xml -text
 os/xhal/dox/xhal_arch.dox -text
 os/xhal/hal.mk -text
@@ -3882,6 +3883,7 @@ os/xhal/include/hal_channels.h -text
 os/xhal/include/hal_pal.h -text
 os/xhal/include/hal_queues.h -text
 os/xhal/include/hal_sio.h -text
+os/xhal/include/hal_spi.h -text
 os/xhal/include/hal_st.h -text
 os/xhal/ports/STM32/LLD/DMAv1/driver.mk -text
 os/xhal/ports/STM32/LLD/DMAv1/notes.txt -text
@@ -4051,6 +4053,7 @@ os/xhal/src/hal_cb_driver.c -text
 os/xhal/src/hal_pal.c -text
 os/xhal/src/hal_queues.c -text
 os/xhal/src/hal_sio.c -text
+os/xhal/src/hal_spi.c -text
 os/xhal/src/hal_st.c -text
 /readme.txt -text
 /release_note_next.txt -text
