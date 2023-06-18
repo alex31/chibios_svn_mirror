@@ -3964,6 +3964,9 @@ os/xhal/ports/STM32/LLD/RCCv1/stm32_pll_v2.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_pllsai1.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_pllsai1_v2.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_pllsai2.inc -text
+os/xhal/ports/STM32/LLD/SPIv2/driver.mk -text
+os/xhal/ports/STM32/LLD/SPIv2/hal_spi_lld.c -text
+os/xhal/ports/STM32/LLD/SPIv2/hal_spi_lld.h -text
 os/xhal/ports/STM32/LLD/SYSTICKv1/driver.mk -text
 os/xhal/ports/STM32/LLD/SYSTICKv1/hal_st_lld.c -text
 os/xhal/ports/STM32/LLD/SYSTICKv1/hal_st_lld.h -text
