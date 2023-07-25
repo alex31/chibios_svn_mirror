@@ -273,6 +273,11 @@ demos/STM32/NASA-OSAL-STM32F746G-DISCOVERY/cfg/mcuconf.h -text
 demos/STM32/NASA-OSAL-STM32F746G-DISCOVERY/cfg/osconfig.h -text
 demos/STM32/NASA-OSAL-STM32F746G-DISCOVERY/main.c -text
 demos/STM32/NASA-OSAL-STM32F746G-DISCOVERY/readme.txt -text
+demos/STM32/NIL-STM32C031D6-NUCLEO64/.cproject -text
+demos/STM32/NIL-STM32C031D6-NUCLEO64/.project -text
+demos/STM32/NIL-STM32C031D6-NUCLEO64/Makefile -text
+demos/STM32/NIL-STM32C031D6-NUCLEO64/cfg/chconf.h -text
+demos/STM32/NIL-STM32C031D6-NUCLEO64/main.c -text
 demos/STM32/NIL-STM32F051-DISCOVERY/.cproject -text
 demos/STM32/NIL-STM32F051-DISCOVERY/.project -text
 demos/STM32/NIL-STM32F051-DISCOVERY/Makefile -text
@@ -1424,6 +1429,10 @@ os/common/ext/ARM/CMSIS/Core_A/Source/irq_ctrl_gic.c -text
 os/common/ext/ARM/CMSIS/readme.txt -text
 os/common/ext/RP/RP2040/rp2040.h -text
 os/common/ext/RP/RP2040/system_rp2040.h -text
+os/common/ext/ST/STM32C0xx/stm32c011xx.h -text
+os/common/ext/ST/STM32C0xx/stm32c031xx.h -text
+os/common/ext/ST/STM32C0xx/stm32c0xx.h -text
+os/common/ext/ST/STM32C0xx/system_stm32c0xx.h -text
 os/common/ext/ST/STM32F0xx/stm32f030x6.h -text
 os/common/ext/ST/STM32F0xx/stm32f030x8.h -text
 os/common/ext/ST/STM32F0xx/stm32f030xc.h -text
@@ -1817,6 +1826,7 @@ os/common/startup/ARMCMx/compilers/GCC/crt1.c -text
 os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/MAX32625.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_RAM.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32C031x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
@@ -1919,6 +1929,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_aducm36x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_aducm41x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_max3262x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_rp2040.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32c0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f2xx.mk -text
@@ -1949,6 +1960,7 @@ os/common/startup/ARMCMx/devices/ADUCM36x/cmparams.h -text
 os/common/startup/ARMCMx/devices/ADUCM41x/cmparams.h -text
 os/common/startup/ARMCMx/devices/MAX3262x/cmparams.h -text
 os/common/startup/ARMCMx/devices/RP2040/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32C0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F2xx/cmparams.h -text
