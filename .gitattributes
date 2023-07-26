@@ -277,6 +277,8 @@ demos/STM32/NIL-STM32C031C6-NUCLEO64/.cproject -text
 demos/STM32/NIL-STM32C031C6-NUCLEO64/.project -text
 demos/STM32/NIL-STM32C031C6-NUCLEO64/Makefile -text
 demos/STM32/NIL-STM32C031C6-NUCLEO64/cfg/chconf.h -text
+demos/STM32/NIL-STM32C031C6-NUCLEO64/cfg/halconf.h -text
+demos/STM32/NIL-STM32C031C6-NUCLEO64/cfg/mcuconf.h -text
 demos/STM32/NIL-STM32C031C6-NUCLEO64/main.c -text
 demos/STM32/NIL-STM32F051-DISCOVERY/.cproject -text
 demos/STM32/NIL-STM32F051-DISCOVERY/.project -text
@@ -5759,6 +5761,7 @@ tools/ftl/processors/clocktree/clocktree.h.ftl -text
 tools/ftl/processors/conf/chconf_nil/chconf.h.ftl -text
 tools/ftl/processors/conf/chconf_rt/chconf.h.ftl -text
 tools/ftl/processors/conf/halconf/halconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32c0x1xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32f303xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32f401xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32f407xx/mcuconf.h.ftl -text
@@ -5847,6 +5850,7 @@ tools/updater/conf.fmpp -text
 tools/updater/update_chconf_nil.sh -text
 tools/updater/update_chconf_rt.sh -text
 tools/updater/update_halconf.sh -text
+tools/updater/update_mcuconf_stm32c0x1xx.sh -text
 tools/updater/update_mcuconf_stm32f303xx.sh -text
 tools/updater/update_mcuconf_stm32f401xx.sh -text
 tools/updater/update_mcuconf_stm32f407xx.sh -text
