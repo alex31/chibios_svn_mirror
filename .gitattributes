@@ -1557,6 +1557,12 @@ os/common/ext/ST/STM32G4xx/stm32g491xx.h -text
 os/common/ext/ST/STM32G4xx/stm32g4xx.h -text
 os/common/ext/ST/STM32G4xx/stm32gbk1cb.h -text
 os/common/ext/ST/STM32G4xx/system_stm32g4xx.h -text
+os/common/ext/ST/STM32H5xx/stm32h503xx.h -text
+os/common/ext/ST/STM32H5xx/stm32h562xx.h -text
+os/common/ext/ST/STM32H5xx/stm32h563xx.h -text
+os/common/ext/ST/STM32H5xx/stm32h573xx.h -text
+os/common/ext/ST/STM32H5xx/stm32h5xx.h -text
+os/common/ext/ST/STM32H5xx/system_stm32h5xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h723xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h725xx.h -text
 os/common/ext/ST/STM32H7xx/stm32h730xx.h -text
@@ -1882,6 +1888,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32G071xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G0B1xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G431xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G474xE.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32H573xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H723xG_ITCM64k.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H723xG_ITCM64k_AXI_NC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H735xG_ITCM64k.ld -text
@@ -1971,6 +1978,7 @@ os/common/startup/ARMCMx/devices/STM32F4xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F7xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32G0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32G4xx/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32H5xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32H7xx-M4/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32H7xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L0xx/cmparams.h -text
