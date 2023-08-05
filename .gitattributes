@@ -3235,6 +3235,9 @@ os/hal/ports/STM32/LLD/RCCv1/stm32_lsi_v3.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_msi.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_msi_v2.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_pll.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_pll1.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_pll2.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_pll3.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_pll_v2.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_pllsai1.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_pllsai1_v2.inc -text
