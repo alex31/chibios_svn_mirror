@@ -3221,10 +3221,12 @@ os/hal/ports/STM32/LLD/RCCv1/stm32_apb2.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_bd.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_bd_v3.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_c2ahb.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_csi.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hse.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hse32.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hsi16.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hsi48.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_hsidiv.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_lse.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_lse_v3.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_lsi.inc -text
