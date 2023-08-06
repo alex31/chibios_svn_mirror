@@ -3218,6 +3218,7 @@ os/hal/ports/STM32/LLD/RCCv1/stm32_ahb3.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_apb.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_apb1.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_apb2.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_apb3.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_bd.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_bd_v3.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_c2ahb.inc -text
