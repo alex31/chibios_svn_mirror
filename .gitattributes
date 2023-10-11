@@ -3167,6 +3167,7 @@ os/hal/ports/STM32/LLD/FDCANv1/hal_can_lld.h -text
 os/hal/ports/STM32/LLD/FDCANv1/stm32_fdcan1.inc -text
 os/hal/ports/STM32/LLD/FDCANv1/stm32_fdcan2.inc -text
 os/hal/ports/STM32/LLD/FDCANv1/stm32_fdcan3.inc -text
+os/hal/ports/STM32/LLD/GPDMAv1/driver.mk -text
 os/hal/ports/STM32/LLD/GPDMAv1/stm32_gpdma.c -text
 os/hal/ports/STM32/LLD/GPDMAv1/stm32_gpdma.h -text
 os/hal/ports/STM32/LLD/GPIOv1/driver.mk -text
