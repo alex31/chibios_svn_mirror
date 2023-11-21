@@ -3091,6 +3091,10 @@ os/hal/ports/STM32/LLD/ADCv5/driver.mk -text
 os/hal/ports/STM32/LLD/ADCv5/hal_adc_lld.c -text
 os/hal/ports/STM32/LLD/ADCv5/hal_adc_lld.h -text
 os/hal/ports/STM32/LLD/ADCv5/notes.txt -text
+os/hal/ports/STM32/LLD/ADCv6/driver.mk -text
+os/hal/ports/STM32/LLD/ADCv6/hal_adc_lld.c -text
+os/hal/ports/STM32/LLD/ADCv6/hal_adc_lld.h -text
+os/hal/ports/STM32/LLD/ADCv6/notes.txt -text
 os/hal/ports/STM32/LLD/BDMAv1/driver.mk -text
 os/hal/ports/STM32/LLD/BDMAv1/notes.txt -text
 os/hal/ports/STM32/LLD/BDMAv1/stm32_bdma.c -text
@@ -5047,6 +5051,11 @@ testhal/STM32/multi/ADC/cfg/stm32g474re_nucleo64/halconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32g474re_nucleo64/mcuconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32g474re_nucleo64/portab.c -text
 testhal/STM32/multi/ADC/cfg/stm32g474re_nucleo64/portab.h -text
+testhal/STM32/multi/ADC/cfg/stm32h563zi_nucleo144/chconf.h -text
+testhal/STM32/multi/ADC/cfg/stm32h563zi_nucleo144/halconf.h -text
+testhal/STM32/multi/ADC/cfg/stm32h563zi_nucleo144/mcuconf.h -text
+testhal/STM32/multi/ADC/cfg/stm32h563zi_nucleo144/portab.c -text
+testhal/STM32/multi/ADC/cfg/stm32h563zi_nucleo144/portab.h -text
 testhal/STM32/multi/ADC/cfg/stm32h743zi_nucleo144/chconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32h743zi_nucleo144/halconf.h -text
 testhal/STM32/multi/ADC/cfg/stm32h743zi_nucleo144/mcuconf.h -text
@@ -5080,6 +5089,7 @@ testhal/STM32/multi/ADC/cfg/stm32wl55jc_nucleo64/portab.h -text
 testhal/STM32/multi/ADC/main.c -text
 testhal/STM32/multi/ADC/make/stm32g071rb_nucleo64.make -text
 testhal/STM32/multi/ADC/make/stm32g474re_nucleo64.make -text
+testhal/STM32/multi/ADC/make/stm32h563zi_nucleo144.make -text
 testhal/STM32/multi/ADC/make/stm32h743zi_nucleo144.make -text
 testhal/STM32/multi/ADC/make/stm32l053r8_nucleo64.make -text
 testhal/STM32/multi/ADC/make/stm32l476_discovery.make -text
