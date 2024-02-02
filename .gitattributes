@@ -2025,6 +2025,7 @@ os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L4xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L5xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32MP1xx/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32U5xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WBxx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WLxx-M0PLUS/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WLxx/cmparams.h -text
