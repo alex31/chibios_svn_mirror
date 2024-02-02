@@ -430,8 +430,10 @@ demos/STM32/RT-STM32-SHELL/cfg/stm32h563zi_nucleo144/mcuconf.h -text
 demos/STM32/RT-STM32-SHELL/cfg/stm32h563zi_nucleo144/portab.c -text
 demos/STM32/RT-STM32-SHELL/cfg/stm32h563zi_nucleo144/portab.h -text
 demos/STM32/RT-STM32-SHELL/main.c -text
+demos/STM32/RT-STM32-SHELL/main_naked.c -text
 demos/STM32/RT-STM32-SHELL/make/stm32g474re_nucleo64.make -text
 demos/STM32/RT-STM32-SHELL/make/stm32h563zi_nucleo144.make -text
+demos/STM32/RT-STM32-SHELL/make/stm32u575zi_nucleo144.make -text
 demos/STM32/RT-STM32F030R8-NUCLEO64/.cproject -text
 demos/STM32/RT-STM32F030R8-NUCLEO64/.project -text
 demos/STM32/RT-STM32F030R8-NUCLEO64/Makefile -text
@@ -1960,6 +1962,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R9xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE_TZ.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32MP15yx_RAM.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32U575xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32WB55xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32WLxxx8.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32WLxxxB.ld -text
@@ -1993,6 +1996,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l5xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32mp1xx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32u5xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wbxx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wlxx-m0plus.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wlxx.mk -text
