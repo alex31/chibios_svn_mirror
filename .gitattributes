@@ -5777,6 +5777,11 @@ testrt/VT_STORM/cfg/stm32g474re_nucleo64/halconf.h -text
 testrt/VT_STORM/cfg/stm32g474re_nucleo64/mcuconf.h -text
 testrt/VT_STORM/cfg/stm32g474re_nucleo64/portab.c -text
 testrt/VT_STORM/cfg/stm32g474re_nucleo64/portab.h -text
+testrt/VT_STORM/cfg/stm32h563zi_nucleo144/chconf.h -text
+testrt/VT_STORM/cfg/stm32h563zi_nucleo144/halconf.h -text
+testrt/VT_STORM/cfg/stm32h563zi_nucleo144/mcuconf.h -text
+testrt/VT_STORM/cfg/stm32h563zi_nucleo144/portab.c -text
+testrt/VT_STORM/cfg/stm32h563zi_nucleo144/portab.h -text
 testrt/VT_STORM/cfg/stm32wl55jc_nucleo64/chconf.h -text
 testrt/VT_STORM/cfg/stm32wl55jc_nucleo64/halconf.h -text
 testrt/VT_STORM/cfg/stm32wl55jc_nucleo64/mcuconf.h -text
@@ -5789,6 +5794,7 @@ testrt/VT_STORM/cfg/stm32wl55jc_nucleo64_v2/portab.c -text
 testrt/VT_STORM/cfg/stm32wl55jc_nucleo64_v2/portab.h -text
 testrt/VT_STORM/main.c -text
 testrt/VT_STORM/make/stm32g474re_nucleo64.make -text
+testrt/VT_STORM/make/stm32h563zi_nucleo144.make -text
 testrt/VT_STORM/make/stm32wl55jc_nucleo64.make -text
 testrt/VT_STORM/make/stm32wl55jc_nucleo64_v2.make -text
 testrt/VT_STORM/source/vt_storm.c -text
