@@ -3843,6 +3843,7 @@ os/rt/src/chsem.c -text
 os/rt/src/chstats.c -text
 os/rt/src/chsys.c -text
 os/rt/src/chthreads.c -text
+os/rt/src/chthreads2.c -text
 os/rt/src/chtm.c -text
 os/rt/src/chtrace.c -text
 os/rt/src/chvt.c -text
