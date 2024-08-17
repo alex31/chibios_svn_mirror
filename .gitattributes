@@ -1937,6 +1937,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32H563xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H723xG_ITCM64k.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H723xG_ITCM64k_AXI_NC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H735xG_ITCM64k.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32H735xG_ITCM64k_AXI_NC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H743xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H750xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32H755xI_M7.ld -text
