@@ -3961,6 +3961,11 @@ os/various/wolfssl_bindings/user_settings.h -text
 os/various/wolfssl_bindings/wolfssl.mk -text
 os/various/wolfssl_bindings/wolfssl_chibios.c -text
 os/various/wolfssl_bindings/wolfssl_chibios.h -text
+os/various/xshell/xshell.c -text
+os/various/xshell/xshell.h -text
+os/various/xshell/xshell.mk -text
+os/various/xshell/xshell_cmd.c -text
+os/various/xshell/xshell_cmd.h -text
 os/vfs/codegen/config.fmpp -text
 os/vfs/codegen/modules.xml -text
 os/vfs/codegen/vfs_driver_fatfs.xml -text
