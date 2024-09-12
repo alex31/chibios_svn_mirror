@@ -640,6 +640,14 @@ demos/STM32/RT-STM32F401C-DISCOVERY/cfg/halconf.h -text
 demos/STM32/RT-STM32F401C-DISCOVERY/cfg/mcuconf.h -text
 demos/STM32/RT-STM32F401C-DISCOVERY/main.c -text
 demos/STM32/RT-STM32F401C-DISCOVERY/readme.txt -text
+demos/STM32/RT-STM32F401D-BLACK-PILL/.cproject -text
+demos/STM32/RT-STM32F401D-BLACK-PILL/.project -text
+demos/STM32/RT-STM32F401D-BLACK-PILL/Makefile -text
+demos/STM32/RT-STM32F401D-BLACK-PILL/cfg/chconf.h -text
+demos/STM32/RT-STM32F401D-BLACK-PILL/cfg/halconf.h -text
+demos/STM32/RT-STM32F401D-BLACK-PILL/cfg/mcuconf.h -text
+demos/STM32/RT-STM32F401D-BLACK-PILL/main.c -text
+demos/STM32/RT-STM32F401D-BLACK-PILL/readme.txt -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/.cproject -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/.project -text
 demos/STM32/RT-STM32F401RE-NUCLEO64/Makefile -text
@@ -1905,7 +1913,9 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F303xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F303xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F334x8.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F373xC.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F401xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F401xC.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32F401xD.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F401xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F405xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F407xE.ld -text
@@ -2335,6 +2345,11 @@ os/hal/boards/SPARKFUN_PRO_MICRO/board.mk -text
 os/hal/boards/STM32F103C8_MINIMAL/board.c -text
 os/hal/boards/STM32F103C8_MINIMAL/board.h -text
 os/hal/boards/STM32F103C8_MINIMAL/board.mk -text
+os/hal/boards/STM32F401_MINIMAL/board.c -text
+os/hal/boards/STM32F401_MINIMAL/board.h -text
+os/hal/boards/STM32F401_MINIMAL/board.mk -text
+os/hal/boards/STM32F401_MINIMAL/cfg/board.chcfg -text
+os/hal/boards/STM32F401_MINIMAL/cfg/board.fmpp -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.c -text
 os/hal/boards/STUDIEL_AT91SAM7A3_EK/board.h -text
 os/hal/boards/ST_EVALKITST7580_1/board.c -text
