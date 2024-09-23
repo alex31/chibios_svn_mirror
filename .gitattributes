@@ -2866,6 +2866,7 @@ os/hal/lib/complex/snor/devices/template/hal_snor_device_template.h -text
 os/hal/lib/complex/snor/dox/snor_arch.dox -text
 os/hal/lib/complex/snor/include/hal_flash_interface.h -text
 os/hal/lib/complex/snor/include/hal_snor_base.h -text
+os/hal/lib/complex/snor/readme.txt -text
 os/hal/lib/complex/snor/src/hal_snor_base.c -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.c -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.h -text
