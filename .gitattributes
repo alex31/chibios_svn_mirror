@@ -2944,6 +2944,7 @@ os/hal/ports/STM32/LLD/EXTIv1/stm32_exti9.inc -text
 os/hal/ports/STM32/LLD/FDCANv1/driver.mk -text
 os/hal/ports/STM32/LLD/FDCANv1/hal_can_lld.c -text
 os/hal/ports/STM32/LLD/FDCANv1/hal_can_lld.h -text
+os/hal/ports/STM32/LLD/FDCANv1/stm32_fdcan.h -text
 os/hal/ports/STM32/LLD/FDCANv1/stm32_fdcan1.inc -text
 os/hal/ports/STM32/LLD/FDCANv1/stm32_fdcan2.inc -text
 os/hal/ports/STM32/LLD/FDCANv1/stm32_fdcan3.inc -text
@@ -4410,6 +4411,14 @@ testhal/STM32/STM32F7xx/USB_RAW/mcuconf.h -text
 testhal/STM32/STM32F7xx/USB_RAW/readme.txt -text
 testhal/STM32/STM32F7xx/USB_RAW/usbcfg.c -text
 testhal/STM32/STM32F7xx/USB_RAW/usbcfg.h -text
+testhal/STM32/STM32G4xx/CAN/.cproject -text
+testhal/STM32/STM32G4xx/CAN/.project -text
+testhal/STM32/STM32G4xx/CAN/Makefile -text
+testhal/STM32/STM32G4xx/CAN/cfg/chconf.h -text
+testhal/STM32/STM32G4xx/CAN/cfg/halconf.h -text
+testhal/STM32/STM32G4xx/CAN/cfg/mcuconf.h -text
+testhal/STM32/STM32G4xx/CAN/main.c -text
+testhal/STM32/STM32G4xx/CAN/readme.txt -text
 testhal/STM32/STM32H7xx/CAN/.cproject -text
 testhal/STM32/STM32H7xx/CAN/.project -text
 testhal/STM32/STM32H7xx/CAN/Makefile -text
