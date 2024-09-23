@@ -2857,11 +2857,14 @@ os/hal/lib/complex/serial_nor/hal_serial_nor.h -text
 os/hal/lib/complex/snor/codegen/config.fmpp -text
 os/hal/lib/complex/snor/codegen/hal_flash_interface.xml -text
 os/hal/lib/complex/snor/codegen/hal_snor_base.xml -text
+os/hal/lib/complex/snor/codegen/hal_snor_device_template.xml -text
 os/hal/lib/complex/snor/codegen/modules.xml -text
 os/hal/lib/complex/snor/dox/snor_arch.dox -text
 os/hal/lib/complex/snor/include/hal_flash_interface.h -text
 os/hal/lib/complex/snor/include/hal_snor_base.h -text
+os/hal/lib/complex/snor/include/hal_snor_device_template.h -text
 os/hal/lib/complex/snor/src/hal_snor_base.c -text
+os/hal/lib/complex/snor/src/hal_snor_device_template.c -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.c -text
 os/hal/lib/fallback/I2C/hal_i2c_lld.h -text
 os/hal/lib/streams/bufstreams.c -text
