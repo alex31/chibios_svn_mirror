@@ -5069,6 +5069,14 @@ testhal/STM32/STM32F7xx/USB_RAW/mcuconf.h -text
 testhal/STM32/STM32F7xx/USB_RAW/readme.txt -text
 testhal/STM32/STM32F7xx/USB_RAW/usbcfg.c -text
 testhal/STM32/STM32F7xx/USB_RAW/usbcfg.h -text
+testhal/STM32/STM32G4xx/CAN/.cproject -text
+testhal/STM32/STM32G4xx/CAN/.project -text
+testhal/STM32/STM32G4xx/CAN/Makefile -text
+testhal/STM32/STM32G4xx/CAN/cfg/chconf.h -text
+testhal/STM32/STM32G4xx/CAN/cfg/halconf.h -text
+testhal/STM32/STM32G4xx/CAN/cfg/mcuconf.h -text
+testhal/STM32/STM32G4xx/CAN/main.c -text
+testhal/STM32/STM32G4xx/CAN/readme.txt -text
 testhal/STM32/STM32H7xx/CAN/.cproject -text
 testhal/STM32/STM32H7xx/CAN/.project -text
 testhal/STM32/STM32H7xx/CAN/Makefile -text
