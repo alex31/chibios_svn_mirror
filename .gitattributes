@@ -2858,8 +2858,13 @@ os/hal/lib/complex/snor/codegen/config.fmpp -text
 os/hal/lib/complex/snor/codegen/hal_flash_interface.xml -text
 os/hal/lib/complex/snor/codegen/hal_snor_base.xml -text
 os/hal/lib/complex/snor/codegen/hal_snor_device_template.xml -text
+os/hal/lib/complex/snor/codegen/hal_snor_macronix_mx25.xml -text
 os/hal/lib/complex/snor/codegen/hal_snor_micron_n25q.xml -text
 os/hal/lib/complex/snor/codegen/modules.xml -text
+os/hal/lib/complex/snor/devices/macronix_mx25/hal_snor_macronix_mx25.c -text
+os/hal/lib/complex/snor/devices/macronix_mx25/hal_snor_macronix_mx25.h -text
+os/hal/lib/complex/snor/devices/macronix_mx25/hal_snor_macronix_mx25_impl.inc -text
+os/hal/lib/complex/snor/devices/macronix_mx25/hal_snor_micron_n25q.mk -text
 os/hal/lib/complex/snor/devices/micron_n25q/hal_snor_micron_n25q.c -text
 os/hal/lib/complex/snor/devices/micron_n25q/hal_snor_micron_n25q.h -text
 os/hal/lib/complex/snor/devices/micron_n25q/hal_snor_micron_n25q.mk -text
