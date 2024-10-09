@@ -5763,6 +5763,7 @@ testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l4r9ai_discovery/mcuconf.h -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l4r9ai_discovery/portab.c -text
 testhal/STM32/multi/WSPI-LITTLEFS/cfg/stm32l4r9ai_discovery/portab.h -text
 testhal/STM32/multi/WSPI-LITTLEFS/main.c -text
+testhal/STM32/multi/WSPI-LITTLEFS/make/stm32l476vg_discovery.make -text
 testhal/STM32/multi/WSPI-LITTLEFS/make/stm32l4r9ai_discovery.make -text
 testhal/STM32/multi/WSPI-MFS/.cproject -text
 testhal/STM32/multi/WSPI-MFS/.project -text
