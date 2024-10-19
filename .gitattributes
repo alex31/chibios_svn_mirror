@@ -1185,8 +1185,8 @@ demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/.cproject -text
 demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/.project -text
 demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/Makefile -text
 demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/cfg/chconf.h -text
-demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/cfg/halconf.h -text
-demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/cfg/mcuconf.h -text
+demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/cfg/xhalconf.h -text
+demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/cfg/xmcuconf.h -text
 demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/main.c -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
@@ -4055,7 +4055,6 @@ os/xhal/codegen/hal_spi.xml -text
 os/xhal/codegen/modules.xml -text
 os/xhal/concepts.txt -text
 os/xhal/dox/xhal_arch.dox -text
-os/xhal/hal.mk -text
 os/xhal/include/hal.h -text
 os/xhal/include/hal_base_driver.h -text
 os/xhal/include/hal_block_io.h -text
@@ -4242,6 +4241,7 @@ os/xhal/src/hal_queues.c -text
 os/xhal/src/hal_sio.c -text
 os/xhal/src/hal_spi.c -text
 os/xhal/src/hal_st.c -text
+os/xhal/xhal.mk -text
 /readme.txt -text
 /release_note_next.txt -text
 test/corebmk/config.fmpp -text
