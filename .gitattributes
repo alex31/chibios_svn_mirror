@@ -4008,6 +4008,7 @@ os/various/xshell/xshell_cmd.h -text
 os/vfs/codegen/config.fmpp -text
 os/vfs/codegen/modules.xml -text
 os/vfs/codegen/vfs_driver_fatfs.xml -text
+os/vfs/codegen/vfs_driver_littlefs.xml -text
 os/vfs/codegen/vfs_driver_overlay.xml -text
 os/vfs/codegen/vfs_driver_streams.xml -text
 os/vfs/codegen/vfs_driver_template.xml -text
@@ -4017,6 +4018,9 @@ os/vfs/dox/vfs_arch.dox -text
 os/vfs/drivers/fatfs/drvfatfs.c -text
 os/vfs/drivers/fatfs/drvfatfs.h -text
 os/vfs/drivers/fatfs/drvfatfs_impl.inc -text
+os/vfs/drivers/littlefs/drvlittlefs.c -text
+os/vfs/drivers/littlefs/drvlittlefs.h -text
+os/vfs/drivers/littlefs/drvlittlefs_impl.inc -text
 os/vfs/drivers/overlay/drvoverlay.c -text
 os/vfs/drivers/overlay/drvoverlay.h -text
 os/vfs/drivers/overlay/drvoverlay_impl.inc -text
