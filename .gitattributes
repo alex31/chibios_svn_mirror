@@ -4029,8 +4029,9 @@ os/vfs/drivers/sfs/drvsfs.h -text
 os/vfs/drivers/streams/drvstreams.c -text
 os/vfs/drivers/streams/drvstreams.h -text
 os/vfs/drivers/streams/drvstreams_impl.inc -text
-os/vfs/drivers/template/drvtemplate.c -text
-os/vfs/drivers/template/drvtemplate.h -text
+os/vfs/drivers/tmplfs/drvtmplfs.c -text
+os/vfs/drivers/tmplfs/drvtmplfs.h -text
+os/vfs/drivers/tmplfs/drvtmplfs_impl.inc -text
 os/vfs/include/vfs.h -text
 os/vfs/include/vfsbuffers.h -text
 os/vfs/include/vfschecks.h -text
