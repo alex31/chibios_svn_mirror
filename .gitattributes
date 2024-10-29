@@ -1821,6 +1821,10 @@ os/common/ports/ARMv7-M/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv7-M/compilers/IAR/chcoreasm.s -text
 os/common/ports/ARMv7-M/compilers/RVCT/chcoreasm.s -text
 os/common/ports/ARMv7-M/mpu.h -text
+os/common/ports/ARMv8-M-ML-ALT/chcore.c -text
+os/common/ports/ARMv8-M-ML-ALT/chcore.h -text
+os/common/ports/ARMv8-M-ML-ALT/compilers/GCC/chcoreasm.S -text
+os/common/ports/ARMv8-M-ML-ALT/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv8-M-ML-TZ/chcore.c -text
 os/common/ports/ARMv8-M-ML-TZ/chcore.h -text
 os/common/ports/ARMv8-M-ML-TZ/compilers/GCC/chcoreasm.S -text
