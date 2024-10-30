@@ -1790,7 +1790,9 @@ os/common/portability/GCC/ccportab.h -text
 os/common/portability/GHS/ccportab.h -text
 os/common/portability/IAR/ccportab.h -text
 os/common/portability/Keil/ccportab.h -text
-os/common/ports/ARM-common/chtypes.h -text
+os/common/ports/ARM-common/arm-common.mk -text
+os/common/ports/ARM-common/include/chtypes.h -text
+os/common/ports/ARM-common/include/mpu_v8m.h -text
 os/common/ports/ARM/chcore.c -text
 os/common/ports/ARM/chcore.h -text
 os/common/ports/ARM/compilers/GCC/chcoreasm.S -text
