@@ -1793,6 +1793,7 @@ os/common/portability/IAR/ccportab.h -text
 os/common/portability/Keil/ccportab.h -text
 os/common/ports/ARM-common/arm-common.mk -text
 os/common/ports/ARM-common/include/chtypes.h -text
+os/common/ports/ARM-common/include/mpu_v7m.h -text
 os/common/ports/ARM-common/include/mpu_v8m.h -text
 os/common/ports/ARM/chcore.c -text
 os/common/ports/ARM/chcore.h -text
@@ -1815,7 +1816,6 @@ os/common/ports/ARMv7-M-ALT/chcoreapi.c -text
 os/common/ports/ARMv7-M-ALT/chcoreapi.h -text
 os/common/ports/ARMv7-M-ALT/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv7-M-ALT/compilers/GCC/mk/port.mk -text
-os/common/ports/ARMv7-M-ALT/mpu.h -text
 os/common/ports/ARMv7-M/chcore.c -text
 os/common/ports/ARMv7-M/chcore.h -text
 os/common/ports/ARMv7-M/compilers/ARMC6/chcoreasm.S -text
@@ -1823,7 +1823,6 @@ os/common/ports/ARMv7-M/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv7-M/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv7-M/compilers/IAR/chcoreasm.s -text
 os/common/ports/ARMv7-M/compilers/RVCT/chcoreasm.s -text
-os/common/ports/ARMv7-M/mpu.h -text
 os/common/ports/ARMv8-M-ML-ALT/chcore.c -text
 os/common/ports/ARMv8-M-ML-ALT/chcore.h -text
 os/common/ports/ARMv8-M-ML-ALT/compilers/GCC/chcoreasm.S -text
