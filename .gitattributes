@@ -1348,6 +1348,7 @@ doc/quality/rt/unittest/rt-stm32g0-64mhz-gcc.txt -text
 doc/quality/rt/unittest/rt-stm32g4-170mhz-gcc-alt.txt -text
 doc/quality/rt/unittest/rt-stm32g4-170mhz-gcc-fpu-alt.txt -text
 doc/quality/rt/unittest/rt-stm32g4-170mhz-gcc-fpu.txt -text
+doc/quality/rt/unittest/rt-stm32g4-170mhz-gcc-mpu-alt.txt -text
 doc/quality/rt/unittest/rt-stm32g4-170mhz-gcc.txt -text
 doc/quality/rt/unittest/rt-stm32h7-480mhz-gcc-alt.txt -text
 doc/quality/rt/unittest/rt-stm32h7-480mhz-gcc-fpu-alt.txt -text
