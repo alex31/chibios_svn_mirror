@@ -1791,6 +1791,7 @@ os/common/oop/src/oop_synchronized_object.c -text
 os/common/portability/ARMC6/ccportab.h -text
 os/common/portability/CW/ccportab.h -text
 os/common/portability/GCC/ccportab.h -text
+os/common/portability/GCC/ccportab.mk -text
 os/common/portability/GHS/ccportab.h -text
 os/common/portability/IAR/ccportab.h -text
 os/common/portability/Keil/ccportab.h -text
