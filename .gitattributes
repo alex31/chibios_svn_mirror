@@ -4147,10 +4147,15 @@ os/xhal/ports/STM32/LLD/EXTIv1/stm32_exti6.inc -text
 os/xhal/ports/STM32/LLD/EXTIv1/stm32_exti7.inc -text
 os/xhal/ports/STM32/LLD/EXTIv1/stm32_exti8.inc -text
 os/xhal/ports/STM32/LLD/EXTIv1/stm32_exti9.inc -text
+os/xhal/ports/STM32/LLD/GPDMAv1/driver.mk -text
+os/xhal/ports/STM32/LLD/GPDMAv1/stm32_gpdma.c -text
+os/xhal/ports/STM32/LLD/GPDMAv1/stm32_gpdma.h -text
 os/xhal/ports/STM32/LLD/GPIOv2/driver.mk -text
 os/xhal/ports/STM32/LLD/GPIOv2/hal_pal_lld.c -text
 os/xhal/ports/STM32/LLD/GPIOv2/hal_pal_lld.h -text
 os/xhal/ports/STM32/LLD/GPIOv2/stm32_gpio.h -text
+os/xhal/ports/STM32/LLD/ICACHEv1/driver.mk -text
+os/xhal/ports/STM32/LLD/ICACHEv1/stm32_icache.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/driver.mk -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_ahb.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_ahb3.inc -text
