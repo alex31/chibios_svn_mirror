@@ -3952,6 +3952,7 @@ os/sb/host/sbposix.c -text
 os/sb/host/sbposix.h -text
 os/sb/host/sbvrq.c -text
 os/sb/host/sbvrq.h -text
+os/sb/notes.txt -text
 os/sb/user/lib/libdir.c -text
 os/sb/user/lib/syscalls.c -text
 os/sb/user/lib/syscalls.h -text
