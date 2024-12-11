@@ -1838,8 +1838,6 @@ os/common/ports/ARMv7-M/compilers/IAR/chcoreasm.s -text
 os/common/ports/ARMv7-M/compilers/RVCT/chcoreasm.s -text
 os/common/ports/ARMv8-M-ML-ALT/chcore.c -text
 os/common/ports/ARMv8-M-ML-ALT/chcore.h -text
-os/common/ports/ARMv8-M-ML-ALT/chcoreapi.c -text
-os/common/ports/ARMv8-M-ML-ALT/chcoreapi.h -text
 os/common/ports/ARMv8-M-ML-ALT/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv8-M-ML-ALT/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv8-M-ML-TZ/chcore.c -text
@@ -3946,7 +3944,6 @@ os/sb/host/sbelf.c -text
 os/sb/host/sbelf.h -text
 os/sb/host/sbhost.c -text
 os/sb/host/sbhost.h -text
-os/sb/host/sbhost_old.c -text
 os/sb/host/sbposix.c -text
 os/sb/host/sbposix.h -text
 os/sb/host/sbvrq.c -text
