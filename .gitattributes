@@ -3956,6 +3956,8 @@ os/sb/host/sbhost.c -text
 os/sb/host/sbhost.h -text
 os/sb/host/sbposix.c -text
 os/sb/host/sbposix.h -text
+os/sb/host/sbsyscall.c -text
+os/sb/host/sbsyscall.h -text
 os/sb/host/sbvrq.c -text
 os/sb/host/sbvrq.h -text
 os/sb/notes.txt -text
