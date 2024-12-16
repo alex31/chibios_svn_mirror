@@ -357,6 +357,14 @@ demos/STM32/NIL-STM32L476-DISCOVERY/cfg/chconf.h -text
 demos/STM32/NIL-STM32L476-DISCOVERY/cfg/halconf.h -text
 demos/STM32/NIL-STM32L476-DISCOVERY/cfg/mcuconf.h -text
 demos/STM32/NIL-STM32L476-DISCOVERY/main.c -text
+demos/STM32/RT-RUST-STM32G474RE-NUCLEO64/.cproject -text
+demos/STM32/RT-RUST-STM32G474RE-NUCLEO64/.project -text
+demos/STM32/RT-RUST-STM32G474RE-NUCLEO64/Makefile -text
+demos/STM32/RT-RUST-STM32G474RE-NUCLEO64/cfg/chconf.h -text
+demos/STM32/RT-RUST-STM32G474RE-NUCLEO64/cfg/halconf.h -text
+demos/STM32/RT-RUST-STM32G474RE-NUCLEO64/cfg/mcuconf.h -text
+demos/STM32/RT-RUST-STM32G474RE-NUCLEO64/hello.rs -text
+demos/STM32/RT-RUST-STM32G474RE-NUCLEO64/main.c -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/.cproject -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/.project -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB-HTTPS/Makefile -text
@@ -2021,6 +2029,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/rules_stacks.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/rules_stacks_c1.ld -text
 os/common/startup/ARMCMx/compilers/GCC/mk/arm-none-eabi.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/rules.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/rustc.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_aducm36x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_aducm41x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_max3262x.mk -text
