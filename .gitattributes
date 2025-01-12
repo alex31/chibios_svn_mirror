@@ -3510,6 +3510,7 @@ os/hal/ports/STM32/LLD/USART/stm32_usart10.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart2.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart2_lp2.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart3.inc -text
+os/hal/ports/STM32/LLD/USART/stm32_usart3_4_5_6.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart3_4_5_6_lp1.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart3_4_lp1.inc -text
 os/hal/ports/STM32/LLD/USART/stm32_usart4_5.inc -text
