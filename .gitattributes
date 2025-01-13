@@ -3958,6 +3958,7 @@ os/rt/templates/meta/module.h -text
 os/sb/apps/ls/.cproject -text
 os/sb/apps/ls/.project -text
 os/sb/apps/ls/Makefile -text
+os/sb/apps/ls/Makefile_MinGW -text
 os/sb/apps/ls/main.c -text
 os/sb/apps/ls/main_old.c -text
 os/sb/apps/msh/.cproject -text
