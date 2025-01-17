@@ -2237,7 +2237,9 @@ os/common/startup/e200/devices/SPC56ELxx/intc.h -text
 os/common/startup/e200/devices/SPC56ELxx/ppcparams.h -text
 os/common/utils/include/errcodes.h -text
 os/common/utils/include/paths.h -text
+os/common/utils/include/sglob.h -text
 os/common/utils/src/paths.c -text
+os/common/utils/src/sglob.c -text
 os/common/utils/utils.mk -text
 os/ex/devices/ADI/adxl317.c -text
 os/ex/devices/ADI/adxl317.h -text
@@ -4016,8 +4018,6 @@ os/sb/apps/msh/make/msh-32k-081F8000-128k-20080000.make -text
 os/sb/apps/msh/make/msh-ram.make -text
 os/sb/apps/msh/source/callhdr.S -text
 os/sb/apps/msh/source/runelf.c -text
-os/sb/apps/msh/source/sglob.c -text
-os/sb/apps/msh/source/sglob.h -text
 os/sb/common/dirent.h -text
 os/sb/common/sbhdr.h -text
 os/sb/common/sbsysc.h -text
