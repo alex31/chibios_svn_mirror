@@ -3998,10 +3998,11 @@ os/sb/apps/ls/.cproject -text
 os/sb/apps/ls/.project -text
 os/sb/apps/ls/Makefile -text
 os/sb/apps/ls/Makefile_MinGW -text
-os/sb/apps/ls/Makefile_Posix_x86 -text
 os/sb/apps/ls/main.c -text
 os/sb/apps/ls/main_mini.c -text
 os/sb/apps/ls/main_old.c -text
+os/sb/apps/ls/make/ls-posix-x86-debug.make -text
+os/sb/apps/ls/make/ls-rambox-deploy.make -text
 os/sb/apps/msh/.cproject -text
 os/sb/apps/msh/.project -text
 os/sb/apps/msh/Makefile -text
