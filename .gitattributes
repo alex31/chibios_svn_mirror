@@ -1067,8 +1067,6 @@ demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/cfg/halconf.h -text
 demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/cfg/mcuconf.h -text
 demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/cfg/sbconf.h -text
 demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/cfg/vfsconf.h -text
-demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/debug/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
-demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/debug/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/debug/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX[!!-~](build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/debug/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX[!!-~](build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32L4R9-DISCOVERY-SB_HOST_DYNAMIC_RAMBOX/main.c -text
@@ -4013,6 +4011,8 @@ os/sb/apps/msh/main.c -text
 os/sb/apps/msh/make/msh-32k-081F0000-128k-20060000.make -text
 os/sb/apps/msh/make/msh-32k-081F8000-128k-20080000.make -text
 os/sb/apps/msh/make/msh-ram.make -text
+os/sb/apps/msh/make/msh-rambox-debug.make -text
+os/sb/apps/msh/make/msh-rambox-deploy.make -text
 os/sb/apps/msh/source/callhdr.S -text
 os/sb/apps/msh/source/runelf.c -text
 os/sb/common/dirent.h -text
