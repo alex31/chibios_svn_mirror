@@ -4010,7 +4010,6 @@ os/sb/apps/msh/cfg/msh-32k-081F8000-128k-20080000/sandbox.ld -text
 os/sb/apps/msh/main.c -text
 os/sb/apps/msh/make/msh-32k-081F0000-128k-20060000.make -text
 os/sb/apps/msh/make/msh-32k-081F8000-128k-20080000.make -text
-os/sb/apps/msh/make/msh-ram.make -text
 os/sb/apps/msh/make/msh-rambox-debug.make -text
 os/sb/apps/msh/make/msh-rambox-deploy.make -text
 os/sb/apps/msh/source/callhdr.S -text
