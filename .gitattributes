@@ -5616,6 +5616,11 @@ testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/halconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/mcuconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/portab.c -text
 testhal/STM32/multi/SPI/cfg/stm32f746ng_discovery/portab.h -text
+testhal/STM32/multi/SPI/cfg/stm32g431rb_nucleo64/chconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32g431rb_nucleo64/halconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32g431rb_nucleo64/mcuconf.h -text
+testhal/STM32/multi/SPI/cfg/stm32g431rb_nucleo64/portab.c -text
+testhal/STM32/multi/SPI/cfg/stm32g431rb_nucleo64/portab.h -text
 testhal/STM32/multi/SPI/cfg/stm32g474re_nucleo64/chconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32g474re_nucleo64/halconf.h -text
 testhal/STM32/multi/SPI/cfg/stm32g474re_nucleo64/mcuconf.h -text
@@ -5668,6 +5673,7 @@ testhal/STM32/multi/SPI/make/stm32f303_discovery.make -text
 testhal/STM32/multi/SPI/make/stm32f373vc_eval.make -text
 testhal/STM32/multi/SPI/make/stm32f407_discovery.make -text
 testhal/STM32/multi/SPI/make/stm32f746ng_discovery.make -text
+testhal/STM32/multi/SPI/make/stm32g431rb_nucleo64.make -text
 testhal/STM32/multi/SPI/make/stm32g474re_nucleo64.make -text
 testhal/STM32/multi/SPI/make/stm32h563zi_nucleo144.make -text
 testhal/STM32/multi/SPI/make/stm32h743_nucleo144.make -text
