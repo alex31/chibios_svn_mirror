@@ -5367,6 +5367,11 @@ testhal/STM32/multi/DAC/cfg/stm32g474re_nucleo64/halconf.h -text
 testhal/STM32/multi/DAC/cfg/stm32g474re_nucleo64/mcuconf.h -text
 testhal/STM32/multi/DAC/cfg/stm32g474re_nucleo64/portab.c -text
 testhal/STM32/multi/DAC/cfg/stm32g474re_nucleo64/portab.h -text
+testhal/STM32/multi/DAC/cfg/stm32h563zi_nucleo144/chconf.h -text
+testhal/STM32/multi/DAC/cfg/stm32h563zi_nucleo144/halconf.h -text
+testhal/STM32/multi/DAC/cfg/stm32h563zi_nucleo144/mcuconf.h -text
+testhal/STM32/multi/DAC/cfg/stm32h563zi_nucleo144/portab.c -text
+testhal/STM32/multi/DAC/cfg/stm32h563zi_nucleo144/portab.h -text
 testhal/STM32/multi/DAC/cfg/stm32h743zi_nucleo144/chconf.h -text
 testhal/STM32/multi/DAC/cfg/stm32h743zi_nucleo144/halconf.h -text
 testhal/STM32/multi/DAC/cfg/stm32h743zi_nucleo144/mcuconf.h -text
@@ -5389,6 +5394,7 @@ testhal/STM32/multi/DAC/cfg/stm32wl55jc_nucleo64/portab.c -text
 testhal/STM32/multi/DAC/cfg/stm32wl55jc_nucleo64/portab.h -text
 testhal/STM32/multi/DAC/main.c -text
 testhal/STM32/multi/DAC/make/stm32g474re_nucleo64.make -text
+testhal/STM32/multi/DAC/make/stm32h563zi_nucleo144.make -text
 testhal/STM32/multi/DAC/make/stm32h743zi_nucleo144.make -text
 testhal/STM32/multi/DAC/make/stm32l476_discovery.make -text
 testhal/STM32/multi/DAC/make/stm32l4r5zi_nucleo144.make -text
