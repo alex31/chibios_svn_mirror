@@ -4174,6 +4174,7 @@ os/xhal/codegen/hal_block_io.xml -text
 os/xhal/codegen/hal_buffered_serial.xml -text
 os/xhal/codegen/hal_cb_driver.xml -text
 os/xhal/codegen/hal_channels.xml -text
+os/xhal/codegen/hal_frame_io.xml -text
 os/xhal/codegen/hal_sio.xml -text
 os/xhal/codegen/hal_spi.xml -text
 os/xhal/codegen/modules.xml -text
@@ -4185,6 +4186,7 @@ os/xhal/include/hal_block_io.h -text
 os/xhal/include/hal_buffered_serial.h -text
 os/xhal/include/hal_cb_driver.h -text
 os/xhal/include/hal_channels.h -text
+os/xhal/include/hal_frame_io.h -text
 os/xhal/include/hal_pal.h -text
 os/xhal/include/hal_queues.h -text
 os/xhal/include/hal_sio.h -text
