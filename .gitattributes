@@ -1278,6 +1278,13 @@ demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/cfg/chconf.h -text
 demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/cfg/xhalconf.h -text
 demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/cfg/xmcuconf.h -text
 demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/main.c -text
+demos/STM32/RT-XHAL-STM32H563ZI-NUCLEO144/.cproject -text
+demos/STM32/RT-XHAL-STM32H563ZI-NUCLEO144/.project -text
+demos/STM32/RT-XHAL-STM32H563ZI-NUCLEO144/Makefile -text
+demos/STM32/RT-XHAL-STM32H563ZI-NUCLEO144/cfg/chconf.h -text
+demos/STM32/RT-XHAL-STM32H563ZI-NUCLEO144/cfg/xhalconf.h -text
+demos/STM32/RT-XHAL-STM32H563ZI-NUCLEO144/cfg/xmcuconf.h -text
+demos/STM32/RT-XHAL-STM32H563ZI-NUCLEO144/main.c -text
 demos/various/NIL-ARMCM0-GENERIC/.cproject -text
 demos/various/NIL-ARMCM0-GENERIC/.project -text
 demos/various/NIL-ARMCM0-GENERIC/Makefile -text
