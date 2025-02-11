@@ -4181,6 +4181,7 @@ os/xhal/codegen/hal_block_io.xml -text
 os/xhal/codegen/hal_buffered_serial.xml -text
 os/xhal/codegen/hal_cb_driver.xml -text
 os/xhal/codegen/hal_channels.xml -text
+os/xhal/codegen/hal_eth.xml -text
 os/xhal/codegen/hal_frame_io.xml -text
 os/xhal/codegen/hal_sio.xml -text
 os/xhal/codegen/hal_spi.xml -text
@@ -4193,6 +4194,7 @@ os/xhal/include/hal_block_io.h -text
 os/xhal/include/hal_buffered_serial.h -text
 os/xhal/include/hal_cb_driver.h -text
 os/xhal/include/hal_channels.h -text
+os/xhal/include/hal_eth.h -text
 os/xhal/include/hal_frame_io.h -text
 os/xhal/include/hal_pal.h -text
 os/xhal/include/hal_queues.h -text
@@ -4208,6 +4210,9 @@ os/xhal/ports/STM32/LLD/DMAv1/stm32_dma1_ch23.inc -text
 os/xhal/ports/STM32/LLD/DMAv1/stm32_dma1_ch4567.inc -text
 os/xhal/ports/STM32/LLD/DMAv1/stm32_dma1_ch4567_dma2_ch12345.inc -text
 os/xhal/ports/STM32/LLD/DMAv1/stm32_dma2_ch1-7.inc -text
+os/xhal/ports/STM32/LLD/ETHv2/driver.mk -text
+os/xhal/ports/STM32/LLD/ETHv2/hal_eth_lld.c -text
+os/xhal/ports/STM32/LLD/ETHv2/hal_eth_lld.h -text
 os/xhal/ports/STM32/LLD/EXTIv1/driver.mk -text
 os/xhal/ports/STM32/LLD/EXTIv1/notes.txt -text
 os/xhal/ports/STM32/LLD/EXTIv1/stm32_exti.c -text
@@ -4363,6 +4368,8 @@ os/xhal/ports/common/ARMCMx/nvic.c -text
 os/xhal/ports/common/ARMCMx/nvic.h -text
 os/xhal/ports/common/ARMCMx/sau.c -text
 os/xhal/ports/common/ARMCMx/sau.h -text
+os/xhal/ports/templates/hal_eth_lld.c -text
+os/xhal/ports/templates/hal_eth_lld.h -text
 os/xhal/ports/vio/hal_lld.c -text
 os/xhal/ports/vio/hal_lld.h -text
 os/xhal/ports/vio/hal_pal_lld.c -text
@@ -4378,6 +4385,7 @@ os/xhal/src/hal.c -text
 os/xhal/src/hal_base_driver.c -text
 os/xhal/src/hal_buffered_serial.c -text
 os/xhal/src/hal_cb_driver.c -text
+os/xhal/src/hal_eth.c -text
 os/xhal/src/hal_pal.c -text
 os/xhal/src/hal_queues.c -text
 os/xhal/src/hal_sio.c -text
