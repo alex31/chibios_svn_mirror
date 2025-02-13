@@ -4194,6 +4194,7 @@ os/xhal/include/hal_buffered_serial.h -text
 os/xhal/include/hal_cb_driver.h -text
 os/xhal/include/hal_channels.h -text
 os/xhal/include/hal_eth.h -text
+os/xhal/include/hal_mii.h -text
 os/xhal/include/hal_pal.h -text
 os/xhal/include/hal_queues.h -text
 os/xhal/include/hal_sio.h -text
