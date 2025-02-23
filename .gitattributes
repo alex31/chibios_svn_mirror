@@ -1576,6 +1576,10 @@ os/common/ext/RP/RP2040/rp2040.h -text
 os/common/ext/RP/RP2040/system_rp2040.h -text
 os/common/ext/ST/STM32C0xx/stm32c011xx.h -text
 os/common/ext/ST/STM32C0xx/stm32c031xx.h -text
+os/common/ext/ST/STM32C0xx/stm32c051xx.h -text
+os/common/ext/ST/STM32C0xx/stm32c071xx.h -text
+os/common/ext/ST/STM32C0xx/stm32c091xx.h -text
+os/common/ext/ST/STM32C0xx/stm32c092xx.h -text
 os/common/ext/ST/STM32C0xx/stm32c0xx.h -text
 os/common/ext/ST/STM32C0xx/system_stm32c0xx.h -text
 os/common/ext/ST/STM32F0xx/stm32f030x6.h -text
@@ -1998,6 +2002,9 @@ os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/MAX32625.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_RAM.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C031x6.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32C051x8.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32C071xB.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32C092xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x8.ld -text
