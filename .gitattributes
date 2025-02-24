@@ -3460,6 +3460,7 @@ os/hal/ports/STM32/LLD/RCCv1/stm32_hse32.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hsi16.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hsi48.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_hsidiv.inc -text
+os/hal/ports/STM32/LLD/RCCv1/stm32_hsiusb48.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_lse.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_lse_v3.inc -text
 os/hal/ports/STM32/LLD/RCCv1/stm32_lsi.inc -text
