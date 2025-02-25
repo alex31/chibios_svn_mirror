@@ -2008,9 +2008,12 @@ os/common/startup/ARMCMx/compilers/GCC/crt1.c -text
 os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/MAX32625.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_RAM.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32C011x4.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32C011x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C031x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C051x8.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C071xB.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32C091xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C092xC.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F030x6.ld -text
