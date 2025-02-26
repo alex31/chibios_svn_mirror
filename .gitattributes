@@ -2653,6 +2653,11 @@ os/hal/boards/ST_NUCLEO64_C031C6/board.h -text
 os/hal/boards/ST_NUCLEO64_C031C6/board.mk -text
 os/hal/boards/ST_NUCLEO64_C031C6/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_C031C6/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO64_C071RB/board.c -text
+os/hal/boards/ST_NUCLEO64_C071RB/board.h -text
+os/hal/boards/ST_NUCLEO64_C071RB/board.mk -text
+os/hal/boards/ST_NUCLEO64_C071RB/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_C071RB/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO64_F030R8/board.c -text
 os/hal/boards/ST_NUCLEO64_F030R8/board.h -text
 os/hal/boards/ST_NUCLEO64_F030R8/board.mk -text
