@@ -3327,6 +3327,9 @@ os/hal/ports/STM32/LLD/DACv1/hal_dac_lld.h -text
 os/hal/ports/STM32/LLD/DACv2/driver.mk -text
 os/hal/ports/STM32/LLD/DACv2/hal_dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv2/hal_dac_lld.h -text
+os/hal/ports/STM32/LLD/DMA3v1/driver.mk -text
+os/hal/ports/STM32/LLD/DMA3v1/stm32_dma3.c -text
+os/hal/ports/STM32/LLD/DMA3v1/stm32_dma3.h -text
 os/hal/ports/STM32/LLD/DMAv1/driver.mk -text
 os/hal/ports/STM32/LLD/DMAv1/notes.txt -text
 os/hal/ports/STM32/LLD/DMAv1/stm32_dma.c -text
