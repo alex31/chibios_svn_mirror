@@ -3415,6 +3415,10 @@ os/hal/ports/STM32/LLD/GPIOv3/driver.mk -text
 os/hal/ports/STM32/LLD/GPIOv3/hal_pal_lld.c -text
 os/hal/ports/STM32/LLD/GPIOv3/hal_pal_lld.h -text
 os/hal/ports/STM32/LLD/GPIOv3/stm32_gpio.h -text
+os/hal/ports/STM32/LLD/I2C/stm32_i2c1.inc -text
+os/hal/ports/STM32/LLD/I2C/stm32_i2c2.inc -text
+os/hal/ports/STM32/LLD/I2C/stm32_i2c3.inc -text
+os/hal/ports/STM32/LLD/I2C/stm32_i2c4.inc -text
 os/hal/ports/STM32/LLD/I2Cv1/driver.mk -text
 os/hal/ports/STM32/LLD/I2Cv1/hal_i2c_lld.c -text
 os/hal/ports/STM32/LLD/I2Cv1/hal_i2c_lld.h -text
@@ -3427,10 +3431,6 @@ os/hal/ports/STM32/LLD/I2Cv3/hal_i2c_lld.h -text
 os/hal/ports/STM32/LLD/I2Cv4/driver.mk -text
 os/hal/ports/STM32/LLD/I2Cv4/hal_i2c_lld.c -text
 os/hal/ports/STM32/LLD/I2Cv4/hal_i2c_lld.h -text
-os/hal/ports/STM32/LLD/I2Cv4/stm32_i2c1.inc -text
-os/hal/ports/STM32/LLD/I2Cv4/stm32_i2c2.inc -text
-os/hal/ports/STM32/LLD/I2Cv4/stm32_i2c3.inc -text
-os/hal/ports/STM32/LLD/I2Cv4/stm32_i2c4.inc -text
 os/hal/ports/STM32/LLD/ICACHEv1/driver.mk -text
 os/hal/ports/STM32/LLD/ICACHEv1/stm32_icache.inc -text
 os/hal/ports/STM32/LLD/MACv1/driver.mk -text
