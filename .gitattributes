@@ -3696,6 +3696,8 @@ os/hal/ports/STM32/STM32F4xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32F4xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32F4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32F4xx/stm32_registry.h -text
+os/hal/ports/STM32/STM32F7xx/hal_efl_lld.c -text
+os/hal/ports/STM32/STM32F7xx/hal_efl_lld.h -text
 os/hal/ports/STM32/STM32F7xx/hal_lld.c -text
 os/hal/ports/STM32/STM32F7xx/hal_lld.h -text
 os/hal/ports/STM32/STM32F7xx/platform.mk -text
@@ -5456,6 +5458,11 @@ testhal/STM32/multi/EFL-MFS/cfg/stm32f302r8_nucleo64/halconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32f302r8_nucleo64/mcuconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32f302r8_nucleo64/portab.c -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32f302r8_nucleo64/portab.h -text
+testhal/STM32/multi/EFL-MFS/cfg/stm32f767zi_nucleo144/chconf.h -text
+testhal/STM32/multi/EFL-MFS/cfg/stm32f767zi_nucleo144/halconf.h -text
+testhal/STM32/multi/EFL-MFS/cfg/stm32f767zi_nucleo144/mcuconf.h -text
+testhal/STM32/multi/EFL-MFS/cfg/stm32f767zi_nucleo144/portab.c -text
+testhal/STM32/multi/EFL-MFS/cfg/stm32f767zi_nucleo144/portab.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/chconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/halconf.h -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32l476_discovery/mcuconf.h -text
@@ -5468,6 +5475,7 @@ testhal/STM32/multi/EFL-MFS/cfg/stm32wl55jc_nucleo64/portab.c -text
 testhal/STM32/multi/EFL-MFS/cfg/stm32wl55jc_nucleo64/portab.h -text
 testhal/STM32/multi/EFL-MFS/main.c -text
 testhal/STM32/multi/EFL-MFS/make/stm32f302r8_nucleo64.make -text
+testhal/STM32/multi/EFL-MFS/make/stm32f767zi_nucleo144.make -text
 testhal/STM32/multi/EFL-MFS/make/stm32l476_discovery.make -text
 testhal/STM32/multi/EFL-MFS/make/stm32wl55jc_nucleo64.make -text
 testhal/STM32/multi/I2C-MASTER_SLAVE/.cproject -text
