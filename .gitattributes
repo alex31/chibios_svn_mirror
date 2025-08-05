@@ -4604,6 +4604,7 @@ test/rt-ports/testbuild/.project -text
 test/rt-ports/testbuild/Makefile -text
 test/rt-ports/testbuild/cfg/chconf.h -text
 test/rt-ports/testbuild/main.c -text
+test/rt-ports/testbuild/make/ARMv7-M-ALT.make -text
 test/rt-ports/testbuild/make/ARMv7-M.make -text
 test/rt-ports/testbuild/pclint/au-misra3.lnt -text
 test/rt-ports/testbuild/pclint/co-gcc.h -text
