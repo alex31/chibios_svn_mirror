@@ -3927,7 +3927,6 @@ test/hal/testbuild/.cproject -text
 test/hal/testbuild/.project -text
 test/hal/testbuild/Makefile -text
 test/hal/testbuild/main.c -text
-test/hal/testbuild/misra.txt -text
 test/hal/testbuild/pclint/au-misra3.lnt -text
 test/hal/testbuild/pclint/co-gcc.h -text
 test/hal/testbuild/pclint/co-gcc.lnt -text
