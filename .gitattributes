@@ -3006,7 +3006,10 @@ os/hal/lib/complex/xsnor/devices/micron_n25q/hal_xsnor_micron_n25q.mk -text
 os/hal/lib/complex/xsnor/devices/micron_n25q/hal_xsnor_micron_n25q_impl.inc -text
 os/hal/lib/complex/xsnor/devices/template/hal_xsnor_device_template.c -text
 os/hal/lib/complex/xsnor/devices/template/hal_xsnor_device_template.h -text
+os/hal/lib/complex/xsnor/dox/xsnor.dox -text
 os/hal/lib/complex/xsnor/dox/xsnor_arch.dox -text
+os/hal/lib/complex/xsnor/dox/xsnor_macronix_mx25.dox -text
+os/hal/lib/complex/xsnor/dox/xsnor_micron_n25q.dox -text
 os/hal/lib/complex/xsnor/hal_xsnor.mk -text
 os/hal/lib/complex/xsnor/include/hal_flash_interface.h -text
 os/hal/lib/complex/xsnor/include/hal_xsnor_base.h -text
