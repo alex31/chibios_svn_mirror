@@ -1406,10 +1406,6 @@ doc/build/full_rm/rsc/workspace.eps -text
 doc/build/full_rm/rsc/workspace.png -text
 doc/build/full_rm/rsc/workspace.svg -text
 doc/build/full_rm/src/main.dox -text
-doc/build/hal-stm32f3/Doxyfile_html -text
-doc/build/hal-stm32f3/makehtml.bat -text
-doc/build/hal-stm32f3/makehtml.sh -text
-doc/build/hal-stm32f3/src/main.dox -text
 doc/build/hal/Doxyfile_chm -text
 doc/build/hal/Doxyfile_html -text
 doc/build/hal/makechm.bat -text
