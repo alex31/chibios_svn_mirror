@@ -1182,6 +1182,7 @@ doc/build/nil/rsc/workspace.png -text
 doc/build/nil/rsc/workspace.svg -text
 doc/build/nil/src/main.dox -text
 doc/build/readme.txt -text
+doc/build/rsync_chibiforge.sh -text
 doc/build/rt/Doxyfile_chm -text
 doc/build/rt/Doxyfile_html -text
 doc/build/rt/makechm.bat -text
