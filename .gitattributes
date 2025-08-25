@@ -1154,6 +1154,7 @@ doc/build/common/rsc/layout.xml -text
 doc/build/common/rsc/logo.png -text
 doc/build/common/rsc/logo_small.png -text
 doc/build/common/src/concepts.dox -text
+doc/build/common/tex/Makefile -text
 doc/build/common/tex/chibios.sty -text
 doc/build/common/tex/front.tex -text
 doc/build/ex/Doxyfile_chm -text
