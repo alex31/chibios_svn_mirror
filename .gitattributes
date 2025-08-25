@@ -1152,7 +1152,10 @@ doc/build/common/rsc/header_chm.html -text
 doc/build/common/rsc/header_html.html -text
 doc/build/common/rsc/layout.xml -text
 doc/build/common/rsc/logo.png -text
+doc/build/common/rsc/logo_small.png -text
 doc/build/common/src/concepts.dox -text
+doc/build/common/tex/chibios.sty -text
+doc/build/common/tex/front.tex -text
 doc/build/ex/Doxyfile_chm -text
 doc/build/ex/Doxyfile_html -text
 doc/build/ex/makechm.bat -text
@@ -1185,6 +1188,7 @@ doc/build/readme.txt -text
 doc/build/rsync_chibiforge.sh -text
 doc/build/rt/Doxyfile_chm -text
 doc/build/rt/Doxyfile_html -text
+doc/build/rt/Doxyfile_pdf -text
 doc/build/rt/makechm.bat -text
 doc/build/rt/makehtml.bat -text
 doc/build/rt/makehtml.sh -text
