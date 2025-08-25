@@ -1176,6 +1176,7 @@ doc/build/hal/makechm.bat -text
 doc/build/hal/makehtml.bat -text
 doc/build/hal/makehtml.sh -text
 doc/build/hal/src/main.dox -text
+doc/build/makepdf.sh -text
 doc/build/nil/Doxyfile_chm -text
 doc/build/nil/Doxyfile_html -text
 doc/build/nil/makechm.bat -text
