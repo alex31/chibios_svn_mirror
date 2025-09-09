@@ -1448,11 +1448,11 @@ doc/quality/nil/unittest/nil-stm32h7-480mhz-gcc.txt -text
 doc/quality/rt/coverage.7z -text
 doc/quality/rt/stresstest/rt-flyback-stm32g4-170mhz-gcc-alt.txt -text
 doc/quality/rt/stresstest/rt-flyback-stm32g4-170mhz-gcc.txt -text
-doc/quality/rt/stresstest/rt-fpustorm-stm32g4-a70mhz-gcc-alt.txt -text
-doc/quality/rt/stresstest/rt-fpustorm-stm32g4-a70mhz-gcc.txt -text
-doc/quality/rt/stresstest/rt-irqstorm-stm32g4-a70mhz-gcc-alt.txt -text
-doc/quality/rt/stresstest/rt-irqstorm-stm32g4-a70mhz-gcc.txt -text
-doc/quality/rt/stresstest/rt-vtstorm-stm32g4-a70mhz-gcc.txt -text
+doc/quality/rt/stresstest/rt-fpustorm-stm32g4-170mhz-gcc-alt.txt -text
+doc/quality/rt/stresstest/rt-fpustorm-stm32g4-170mhz-gcc.txt -text
+doc/quality/rt/stresstest/rt-irqstorm-stm32g4-170mhz-gcc-alt.txt -text
+doc/quality/rt/stresstest/rt-irqstorm-stm32g4-170mhz-gcc.txt -text
+doc/quality/rt/stresstest/rt-vtstorm-stm32g4-170mhz-gcc.txt -text
 doc/quality/rt/unittest/rt-rp2040-125mhz-gcc.txt -text
 doc/quality/rt/unittest/rt-stm32f3-72mhz-gcc-fpu.txt -text
 doc/quality/rt/unittest/rt-stm32f3-72mhz-gcc.txt -text
