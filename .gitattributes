@@ -2796,6 +2796,11 @@ os/hal/boards/ST_STM32373C_EVAL/board.h -text
 os/hal/boards/ST_STM32373C_EVAL/board.mk -text
 os/hal/boards/ST_STM32373C_EVAL/cfg/board.chcfg -text
 os/hal/boards/ST_STM32373C_EVAL/cfg/board.fmpp -text
+os/hal/boards/ST_STM32C011F6_DISCOVERY/board.c -text
+os/hal/boards/ST_STM32C011F6_DISCOVERY/board.h -text
+os/hal/boards/ST_STM32C011F6_DISCOVERY/board.mk -text
+os/hal/boards/ST_STM32C011F6_DISCOVERY/cfg/board.chcfg -text
+os/hal/boards/ST_STM32C011F6_DISCOVERY/cfg/board.fmpp -text
 os/hal/boards/ST_STM32F072B_DISCOVERY/board.c -text
 os/hal/boards/ST_STM32F072B_DISCOVERY/board.h -text
 os/hal/boards/ST_STM32F072B_DISCOVERY/board.mk -text
