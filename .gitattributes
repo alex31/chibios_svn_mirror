@@ -4028,6 +4028,7 @@ os/rt/include/chearly.h -text
 os/rt/include/chevents.h -text
 os/rt/include/chinstances.h -text
 os/rt/include/chlists.h -text
+os/rt/include/chmem.h -text
 os/rt/include/chmsg.h -text
 os/rt/include/chmtx.h -text
 os/rt/include/chobjects.h -text
