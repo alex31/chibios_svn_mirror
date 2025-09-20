@@ -446,9 +446,15 @@ demos/STM32/RT-STM32-MULTI/cfg/stm32c031c6_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32c031c6_nucleo64/mcuconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32c031c6_nucleo64/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32c031c6_nucleo64/portab.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/chconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/halconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/mcuconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/portab.c -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/portab.h -text
 demos/STM32/RT-STM32-MULTI/main.c -text
 demos/STM32/RT-STM32-MULTI/make/stm32c011f6_discovery.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32c031c6_nucleo64.make -text
+demos/STM32/RT-STM32-MULTI/make/stm32h503rb_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/.cproject -text
 demos/STM32/RT-STM32-XSHELL/.project -text
 demos/STM32/RT-STM32-XSHELL/Makefile -text
@@ -2747,6 +2753,11 @@ os/hal/boards/ST_NUCLEO64_G474RE/board.h -text
 os/hal/boards/ST_NUCLEO64_G474RE/board.mk -text
 os/hal/boards/ST_NUCLEO64_G474RE/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_G474RE/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO64_H503RB/board.c -text
+os/hal/boards/ST_NUCLEO64_H503RB/board.h -text
+os/hal/boards/ST_NUCLEO64_H503RB/board.mk -text
+os/hal/boards/ST_NUCLEO64_H503RB/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_H503RB/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.c -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.h -text
 os/hal/boards/ST_NUCLEO64_L053R8/board.mk -text
