@@ -4048,6 +4048,7 @@ os/rt/include/chport.h -text
 os/rt/include/chregistry.h -text
 os/rt/include/chrestrictions.h -text
 os/rt/include/chrfcu.h -text
+os/rt/include/chsafety.h -text
 os/rt/include/chschd.h -text
 os/rt/include/chsem.h -text
 os/rt/include/chstats.h -text
