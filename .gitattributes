@@ -4068,6 +4068,7 @@ os/rt/src/chmsg.c -text
 os/rt/src/chmtx.c -text
 os/rt/src/chregistry.c -text
 os/rt/src/chrfcu.c -text
+os/rt/src/chsafety.c -text
 os/rt/src/chschd.c -text
 os/rt/src/chsem.c -text
 os/rt/src/chstats.c -text
