@@ -3107,6 +3107,11 @@ os/hal/ports/AVR/MEGA/LLD/EXTv1/hal_ext_lld.h -text
 os/hal/ports/AVR/MEGA/LLD/GPIOv1/driver.mk -text
 os/hal/ports/AVR/MEGA/LLD/GPIOv1/hal_pal_lld.c -text
 os/hal/ports/AVR/MEGA/LLD/GPIOv1/hal_pal_lld.h -text
+os/hal/ports/AVR/MEGA/LLD/GPIOv2/avr_int.h -text
+os/hal/ports/AVR/MEGA/LLD/GPIOv2/avr_pcint.h -text
+os/hal/ports/AVR/MEGA/LLD/GPIOv2/driver.mk -text
+os/hal/ports/AVR/MEGA/LLD/GPIOv2/hal_pal_lld.c -text
+os/hal/ports/AVR/MEGA/LLD/GPIOv2/hal_pal_lld.h -text
 os/hal/ports/AVR/MEGA/LLD/I2Cv1/driver.mk -text
 os/hal/ports/AVR/MEGA/LLD/I2Cv1/hal_i2c_lld.c -text
 os/hal/ports/AVR/MEGA/LLD/I2Cv1/hal_i2c_lld.h -text
