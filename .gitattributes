@@ -1868,6 +1868,11 @@ os/common/ext/ST/STM32MP1xx/stm32mp157fxx_ca7.h -text
 os/common/ext/ST/STM32MP1xx/stm32mp157fxx_cm4.h -text
 os/common/ext/ST/STM32MP1xx/stm32mp1xx.h -text
 os/common/ext/ST/STM32MP1xx/system_stm32mp1xx.h -text
+os/common/ext/ST/STM32U0xx/stm32u031xx.h -text
+os/common/ext/ST/STM32U0xx/stm32u073xx.h -text
+os/common/ext/ST/STM32U0xx/stm32u083xx.h -text
+os/common/ext/ST/STM32U0xx/stm32u0xx.h -text
+os/common/ext/ST/STM32U0xx/system_stm32u0xx.h -text
 os/common/ext/ST/STM32U3xx/partition_stm32u3xx.h -text
 os/common/ext/ST/STM32U3xx/stm32u375xx.h -text
 os/common/ext/ST/STM32U3xx/stm32u385xx.h -text
