@@ -2128,6 +2128,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32L4R9xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32L552xE_TZ.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32MP15yx_RAM.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32U385xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32U575xI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32WB55xG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32WLxxx8.ld -text
@@ -2163,6 +2164,7 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l1xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l4xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32l5xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32mp1xx.mk -text
+os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32u3xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32u5xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wbxx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32wlxx-m0plus.mk -text
@@ -2196,6 +2198,7 @@ os/common/startup/ARMCMx/devices/STM32L1xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L4xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32L5xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32MP1xx/cmparams.h -text
+os/common/startup/ARMCMx/devices/STM32U3xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32U5xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WBxx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WLxx-M0PLUS/cmparams.h -text
