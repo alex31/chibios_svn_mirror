@@ -453,6 +453,9 @@ demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/portab.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u083rc_nucleo64/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u083rc_nucleo64/portab.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/chconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/halconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/mcuconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/portab.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/portab.c -text
