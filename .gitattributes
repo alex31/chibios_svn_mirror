@@ -6450,6 +6450,7 @@ tools/ftl/processors/conf/mcuconf_stm32l476xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l496xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l4rxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l5x2xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32u375xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32wb55xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32wlxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/notes.txt -text
@@ -6553,6 +6554,7 @@ tools/updater/update_mcuconf_stm32l476xx.sh -text
 tools/updater/update_mcuconf_stm32l496xx.sh -text
 tools/updater/update_mcuconf_stm32l4rxxx.sh -text
 tools/updater/update_mcuconf_stm32l5x2xx.sh -text
+tools/updater/update_mcuconf_stm32u375xx.sh -text
 tools/updater/update_mcuconf_stm32wb55xx.sh -text
 tools/updater/update_mcuconf_stm32wlxx.sh -text
 tools/updater/update_sbconf.sh -text
