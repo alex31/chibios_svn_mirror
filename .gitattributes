@@ -3595,6 +3595,12 @@ os/hal/ports/STM32/LLD/SDMMCv2/hal_sdc_lld.c -text
 os/hal/ports/STM32/LLD/SDMMCv2/hal_sdc_lld.h -text
 os/hal/ports/STM32/LLD/SDMMCv2/stm32_sdmmc1.inc -text
 os/hal/ports/STM32/LLD/SDMMCv2/stm32_sdmmc2.inc -text
+os/hal/ports/STM32/LLD/SPI/stm32_spi1.inc -text
+os/hal/ports/STM32/LLD/SPI/stm32_spi2.inc -text
+os/hal/ports/STM32/LLD/SPI/stm32_spi3.inc -text
+os/hal/ports/STM32/LLD/SPI/stm32_spi4.inc -text
+os/hal/ports/STM32/LLD/SPI/stm32_spi5.inc -text
+os/hal/ports/STM32/LLD/SPI/stm32_spi6.inc -text
 os/hal/ports/STM32/LLD/SPIv1/driver.mk -text
 os/hal/ports/STM32/LLD/SPIv1/driver_v2.mk -text
 os/hal/ports/STM32/LLD/SPIv1/hal_i2s_lld.c -text
