@@ -3704,6 +3704,7 @@ os/hal/ports/STM32/LLD/USARTv3/hal_sio_lld.h -text
 os/hal/ports/STM32/LLD/USARTv3/hal_uart_lld.c -text
 os/hal/ports/STM32/LLD/USARTv3/hal_uart_lld.h -text
 os/hal/ports/STM32/LLD/USARTv3/stm32_usart.h -text
+os/hal/ports/STM32/LLD/USB/stm32_usb1.inc -text
 os/hal/ports/STM32/LLD/USBv1/driver.mk -text
 os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.c -text
 os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.h -text
