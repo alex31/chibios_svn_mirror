@@ -6027,6 +6027,11 @@ testhal/STM32/multi/USB_CDC/cfg/stm32l4r5zi_nucleo144/halconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32l4r5zi_nucleo144/mcuconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32l4r5zi_nucleo144/portab.c -text
 testhal/STM32/multi/USB_CDC/cfg/stm32l4r5zi_nucleo144/portab.h -text
+testhal/STM32/multi/USB_CDC/cfg/stm32u385rg_nucleo64/chconf.h -text
+testhal/STM32/multi/USB_CDC/cfg/stm32u385rg_nucleo64/halconf.h -text
+testhal/STM32/multi/USB_CDC/cfg/stm32u385rg_nucleo64/mcuconf.h -text
+testhal/STM32/multi/USB_CDC/cfg/stm32u385rg_nucleo64/portab.c -text
+testhal/STM32/multi/USB_CDC/cfg/stm32u385rg_nucleo64/portab.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32wb55cg_nucleo48/chconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32wb55cg_nucleo48/halconf.h -text
 testhal/STM32/multi/USB_CDC/cfg/stm32wb55cg_nucleo48/mcuconf.h -text
@@ -6052,6 +6057,7 @@ testhal/STM32/multi/USB_CDC/make/stm32h755zi_nucleo144.make -text
 testhal/STM32/multi/USB_CDC/make/stm32l073rz_nucleo64.make -text
 testhal/STM32/multi/USB_CDC/make/stm32l476_discovery.make -text
 testhal/STM32/multi/USB_CDC/make/stm32l4r5zi_nucleo144.make -text
+testhal/STM32/multi/USB_CDC/make/stm32u385rg_nucleo64.make -text
 testhal/STM32/multi/USB_CDC/make/stm32wb55cg_nucleo48.make -text
 testhal/STM32/multi/USB_CDC/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/USB_CDC/source/usbcfg.c -text
