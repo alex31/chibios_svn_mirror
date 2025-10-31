@@ -3391,6 +3391,8 @@ os/hal/ports/STM32/LLD/CANv1/hal_can_lld.h -text
 os/hal/ports/STM32/LLD/CRYPv1/driver.mk -text
 os/hal/ports/STM32/LLD/CRYPv1/hal_crypto_lld.c -text
 os/hal/ports/STM32/LLD/CRYPv1/hal_crypto_lld.h -text
+os/hal/ports/STM32/LLD/DAC/stm32_dac1.inc -text
+os/hal/ports/STM32/LLD/DAC/stm32_dac2.inc -text
 os/hal/ports/STM32/LLD/DACv1/driver.mk -text
 os/hal/ports/STM32/LLD/DACv1/hal_dac_lld.c -text
 os/hal/ports/STM32/LLD/DACv1/hal_dac_lld.h -text
