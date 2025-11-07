@@ -486,6 +486,8 @@ demos/STM32/RT-STM32-XSHELL/main_naked.c -text
 demos/STM32/RT-STM32-XSHELL/make/stm32g474re_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32h563zi_nucleo144.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32u575zi_nucleo144.make -text
+demos/STM32/RT-STM32-XSHELL/source/clock_cmds.c -text
+demos/STM32/RT-STM32-XSHELL/source/clock_cmds.h -text
 demos/STM32/RT-STM32C071RB-NUCLEO64/.cproject -text
 demos/STM32/RT-STM32C071RB-NUCLEO64/.project -text
 demos/STM32/RT-STM32C071RB-NUCLEO64/Makefile -text
