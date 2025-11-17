@@ -2821,6 +2821,11 @@ os/hal/boards/ST_NUCLEO64_L476RG/board.h -text
 os/hal/boards/ST_NUCLEO64_L476RG/board.mk -text
 os/hal/boards/ST_NUCLEO64_L476RG/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_L476RG/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO64_U083RC/board.c -text
+os/hal/boards/ST_NUCLEO64_U083RC/board.h -text
+os/hal/boards/ST_NUCLEO64_U083RC/board.mk -text
+os/hal/boards/ST_NUCLEO64_U083RC/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_U083RC/cfg/board.fmpp -text
 os/hal/boards/ST_NUCLEO64_U385RG_Q/board.c -text
 os/hal/boards/ST_NUCLEO64_U385RG_Q/board.h -text
 os/hal/boards/ST_NUCLEO64_U385RG_Q/board.mk -text
