@@ -3035,6 +3035,7 @@ os/hal/include/hal_persistent.h -text
 os/hal/include/hal_pwm.h -text
 os/hal/include/hal_queues.h -text
 os/hal/include/hal_rtc.h -text
+os/hal/include/hal_safety.h -text
 os/hal/include/hal_sdc.h -text
 os/hal/include/hal_serial.h -text
 os/hal/include/hal_serial_usb.h -text
