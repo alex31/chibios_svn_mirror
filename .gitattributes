@@ -3906,7 +3906,9 @@ os/hal/ports/STM32/STM32MP1xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32MP1xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32MP1xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32MP1xx/stm32_registry.h -text
+os/hal/ports/STM32/STM32U0xx/hal_lld.c -text
 os/hal/ports/STM32/STM32U0xx/hal_lld.h -text
+os/hal/ports/STM32/STM32U0xx/platform.mk -text
 os/hal/ports/STM32/STM32U0xx/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32U0xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32U0xx/stm32_isr.h -text
