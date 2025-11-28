@@ -484,6 +484,11 @@ demos/STM32/RT-STM32-XSHELL/cfg/stm32h563zi_nucleo144/halconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32h563zi_nucleo144/mcuconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32h563zi_nucleo144/portab.c -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32h563zi_nucleo144/portab.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32u083rc_nucleo64/chconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32u083rc_nucleo64/halconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32u083rc_nucleo64/mcuconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32u083rc_nucleo64/portab.c -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32u083rc_nucleo64/portab.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32u385rg_nucleo64/chconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32u385rg_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32u385rg_nucleo64/mcuconf.h -text
@@ -493,6 +498,7 @@ demos/STM32/RT-STM32-XSHELL/main.c -text
 demos/STM32/RT-STM32-XSHELL/main_naked.c -text
 demos/STM32/RT-STM32-XSHELL/make/stm32g474re_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32h563zi_nucleo144.make -text
+demos/STM32/RT-STM32-XSHELL/make/stm32u083rc_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32u385rg_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32u575zi_nucleo144.make -text
 demos/STM32/RT-STM32-XSHELL/source/clock_cmds.c -text
