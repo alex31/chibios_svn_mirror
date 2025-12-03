@@ -577,6 +577,11 @@ demos/STM32/RT-STM32-MULTI/make/stm32u575zi_nucleo144.make -text
 demos/STM32/RT-STM32-XSHELL/.cproject -text
 demos/STM32/RT-STM32-XSHELL/.project -text
 demos/STM32/RT-STM32-XSHELL/Makefile -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32c031c6_nucleo64/chconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32c031c6_nucleo64/halconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32c031c6_nucleo64/mcuconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32c031c6_nucleo64/portab.c -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32c031c6_nucleo64/portab.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32c071rb_nucleo64/chconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32c071rb_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32c071rb_nucleo64/mcuconf.h -text
@@ -604,6 +609,7 @@ demos/STM32/RT-STM32-XSHELL/cfg/stm32u385rg_nucleo64/portab.c -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32u385rg_nucleo64/portab.h -text
 demos/STM32/RT-STM32-XSHELL/main.c -text
 demos/STM32/RT-STM32-XSHELL/main_naked.c -text
+demos/STM32/RT-STM32-XSHELL/make/stm32c031c6_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32c071rb_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32g474re_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32h563zi_nucleo144.make -text
