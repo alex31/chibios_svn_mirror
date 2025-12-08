@@ -6696,6 +6696,13 @@ tools/ftl/xml/stm32u3board.xml -text
 tools/ftl/xml/stm32wbboard.xml -text
 tools/ftl/xml/stm32wlboard.xml -text
 tools/mk/autobuild.mk -text
+tools/style/py_style_avr_demos.sh -text
+tools/style/py_style_avr_lld.sh -text
+tools/style/py_style_avr_testhal.sh -text
+tools/style/py_style_ex.sh -text
+tools/style/py_style_hal.sh -text
+tools/style/py_style_nil.sh -text
+tools/style/py_style_rt.sh -text
 tools/style/style_avr_demos.sh -text
 tools/style/style_avr_lld.sh -text
 tools/style/style_avr_testhal.sh -text
@@ -6704,6 +6711,7 @@ tools/style/style_hal.sh -text
 tools/style/style_nil.sh -text
 tools/style/style_rt.sh -text
 tools/style/stylecheck.pl -text
+tools/style/stylecheck.py -text
 tools/style/test.c -text
 tools/style/test_negatives.txt -text
 tools/style/test_positives.txt -text
