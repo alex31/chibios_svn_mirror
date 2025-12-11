@@ -3316,12 +3316,6 @@ os/hal/ports/AVR/TINY/LLD/avr_timers.h -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/hal_lld.c -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/hal_lld.h -text
 os/hal/ports/AVR/XMEGA/ATXMEGAxxxA4U/platform.mk -text
-os/hal/ports/AVR/XMEGA/LLD/CRCv1/driver.mk -text
-os/hal/ports/AVR/XMEGA/LLD/CRCv1/hal_crc.c -text
-os/hal/ports/AVR/XMEGA/LLD/CRCv1/hal_crc.h -text
-os/hal/ports/AVR/XMEGA/LLD/CRCv1/hal_crc_lld.c -text
-os/hal/ports/AVR/XMEGA/LLD/CRCv1/hal_crc_lld.h -text
-os/hal/ports/AVR/XMEGA/LLD/CRCv1/xmega_crc.h -text
 os/hal/ports/AVR/XMEGA/LLD/CRYPv1/driver.mk -text
 os/hal/ports/AVR/XMEGA/LLD/CRYPv1/hal_crypto_lld.c -text
 os/hal/ports/AVR/XMEGA/LLD/CRYPv1/hal_crypto_lld.h -text
@@ -5156,14 +5150,6 @@ testhal/AVR/MEGA/SPI/cfg/halconf.h -text
 testhal/AVR/MEGA/SPI/cfg/mcuconf.h -text
 testhal/AVR/MEGA/SPI/main.c -text
 testhal/AVR/MEGA/SPI/readme.txt -text
-testhal/AVR/XMEGA/CRC/.bloom/settings.json -text
-testhal/AVR/XMEGA/CRC/Makefile -text
-testhal/AVR/XMEGA/CRC/cfg/bloom.yaml -text
-testhal/AVR/XMEGA/CRC/cfg/chconf.h -text
-testhal/AVR/XMEGA/CRC/cfg/halconf.h -text
-testhal/AVR/XMEGA/CRC/cfg/mcuconf.h -text
-testhal/AVR/XMEGA/CRC/main.c -text
-testhal/AVR/XMEGA/CRC/readme.txt -text
 testhal/AVR/XMEGA/CRYPTO/Makefile -text
 testhal/AVR/XMEGA/CRYPTO/cfg/chconf.h -text
 testhal/AVR/XMEGA/CRYPTO/cfg/halconf.h -text
