@@ -1990,8 +1990,10 @@ os/common/ports/ARMv6-M/chcore.c -text
 os/common/ports/ARMv6-M/chcore.h -text
 os/common/ports/ARMv6-M/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv6-M/compilers/GCC/mk/port.mk -text
+os/common/ports/ARMv6-M/compilers/GCC/mk/port_rp2.mk -text
 os/common/ports/ARMv6-M/compilers/IAR/chcoreasm.s -text
 os/common/ports/ARMv6-M/compilers/RVCT/chcoreasm.s -text
+os/common/ports/ARMv6-M/smp/rp2/chcoresmp.h -text
 os/common/ports/ARMv7-M-ALT/chcore.c -text
 os/common/ports/ARMv7-M-ALT/chcore.h -text
 os/common/ports/ARMv7-M-ALT/compilers/GCC/chcoreasm.S -text
