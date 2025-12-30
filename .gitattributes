@@ -2031,6 +2031,10 @@ os/common/ports/SIMIA32/chcore.c -text
 os/common/ports/SIMIA32/chcore.h -text
 os/common/ports/SIMIA32/compilers/GCC/chtypes.h -text
 os/common/ports/SIMIA32/compilers/GCC/port.mk -text
+os/common/ports/SIMX86_64/chcore.c -text
+os/common/ports/SIMX86_64/chcore.h -text
+os/common/ports/SIMX86_64/compilers/GCC/chtypes.h -text
+os/common/ports/SIMX86_64/compilers/GCC/port.mk -text
 os/common/ports/e200/chcore.c -text
 os/common/ports/e200/chcore.h -text
 os/common/ports/e200/compilers/CW/chcoreasm.s -text
@@ -2255,6 +2259,7 @@ os/common/startup/ARMCMx/devices/STM32WBxx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WLxx-M0PLUS/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32WLxx/cmparams.h -text
 os/common/startup/SIMIA32/compilers/GCC/rules.mk -text
+os/common/startup/SIMX86_64/compilers/GCC/rules.mk -text
 os/common/startup/e200/compilers/CW/crt0.s -text
 os/common/startup/e200/compilers/CW/unhandled.s -text
 os/common/startup/e200/compilers/CW/vectors.h -text
