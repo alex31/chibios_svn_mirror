@@ -3991,6 +3991,8 @@ os/hal/ports/sandbox/hal_st_lld.h -text
 os/hal/ports/sandbox/platform.mk -text
 os/hal/ports/simulator/console.c -text
 os/hal/ports/simulator/console.h -text
+os/hal/ports/simulator/hal_efl_lld.c -text
+os/hal/ports/simulator/hal_efl_lld.h -text
 os/hal/ports/simulator/hal_pal_lld.c -text
 os/hal/ports/simulator/hal_pal_lld.h -text
 os/hal/ports/simulator/hal_st_lld.c -text
@@ -6293,6 +6295,13 @@ testhal/STM32/multi/WSPI-MFS/main.c -text
 testhal/STM32/multi/WSPI-MFS/make/stm32h735ig_discovery.make -text
 testhal/STM32/multi/WSPI-MFS/make/stm32l476_discovery.make -text
 testhal/STM32/multi/WSPI-MFS/make/stm32l4r9_discovery.make -text
+testhal/simulator/EFL-MFS/Makefile -text
+testhal/simulator/EFL-MFS/Makefile_x86 -text
+testhal/simulator/EFL-MFS/cfg/chconf.h -text
+testhal/simulator/EFL-MFS/cfg/halconf.h -text
+testhal/simulator/EFL-MFS/cfg/mcuconf.h -text
+testhal/simulator/EFL-MFS/cfg/mfsconf.h -text
+testhal/simulator/EFL-MFS/main.c -text
 testrt/FPU_STORM/.cproject -text
 testrt/FPU_STORM/.project -text
 testrt/FPU_STORM/Makefile -text
