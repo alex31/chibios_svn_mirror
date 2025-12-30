@@ -1401,6 +1401,7 @@ demos/various/RT-ARMCM4-USELIB/rt/libch.a -text
 demos/various/RT-Posix-Simulator/.cproject -text
 demos/various/RT-Posix-Simulator/.project -text
 demos/various/RT-Posix-Simulator/Makefile -text
+demos/various/RT-Posix-Simulator/Makefile_x86 -text
 demos/various/RT-Posix-Simulator/cfg/chconf.h -text
 demos/various/RT-Posix-Simulator/cfg/halconf.h -text
 demos/various/RT-Posix-Simulator/cfg/mcuconf.h -text
@@ -4808,6 +4809,7 @@ test/rt/specgen/rsc/custom.css -text
 test/rt/specgen/rsc/footer_chm.html -text
 test/rt/specgen/rsc/header_chm.html -text
 test/rt/testbuild/Makefile -text
+test/rt/testbuild/Makefile_x86 -text
 test/rt/testbuild/chconf.h -text
 test/rt/testbuild/go.sh -text
 test/rt/testbuild/halconf.h -text
