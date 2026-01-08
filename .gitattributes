@@ -3306,6 +3306,8 @@ os/hal/ports/RP/LLD/WDGv1/hal_wdg_lld.h -text
 os/hal/ports/RP/RP2040/hal_lld.c -text
 os/hal/ports/RP/RP2040/hal_lld.h -text
 os/hal/ports/RP/RP2040/platform.mk -text
+os/hal/ports/RP/RP2040/rp_clocks.c -text
+os/hal/ports/RP/RP2040/rp_clocks.h -text
 os/hal/ports/RP/RP2040/rp_fifo.h -text
 os/hal/ports/RP/RP2040/rp_isr.c -text
 os/hal/ports/RP/RP2040/rp_isr.h -text
