@@ -1532,8 +1532,6 @@ doc/various/st_usb_cdc_driver.inf -text
 ext/fatfs-0.14b_patched.7z -text
 ext/littlefs-2.10.1.7z -text
 ext/lwip-2.1.2.7z -text
-ext/pico-sdk[!!-~]1.1.0.7z -text
-ext/pico-sdk[!!-~]2.2.0.7z -text
 ext/readme.txt -text
 ext/wolfssl-4.0.0.7z -text
 /license.txt -text
@@ -4295,9 +4293,6 @@ os/various/lwip_bindings/readme.txt -text
 os/various/lwip_bindings/static_lwipopts.h -text
 os/various/newlib_bindings/newlib.mk -text
 os/various/newlib_bindings/syscalls.c -text
-os/various/pico_bindings/dumb/include/pico/config_autogen.h -text
-os/various/pico_bindings/dumb/include/pico/version.h -text
-os/various/pico_bindings/pico-sdk.mk -text
 os/various/shell/shell.c -text
 os/various/shell/shell.h -text
 os/various/shell/shell.mk -text
