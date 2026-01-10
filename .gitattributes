@@ -2236,6 +2236,8 @@ os/common/startup/ARMCMx/devices/ADUCM41x/cmparams.h -text
 os/common/startup/ARMCMx/devices/MAX3262x/cmparams.h -text
 os/common/startup/ARMCMx/devices/RP2040/bs2_default_padded_checksummed.S -text
 os/common/startup/ARMCMx/devices/RP2040/cmparams.h -text
+os/common/startup/ARMCMx/devices/RP2350/cmparams.h -text
+os/common/startup/ARMCMx/devices/RP2350/rp2350_imagedef.S -text
 os/common/startup/ARMCMx/devices/STM32C0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F1xx/cmparams.h -text
