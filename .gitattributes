@@ -2081,6 +2081,8 @@ os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/MAX32625.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_FLASH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_RAM.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/RP2350_FLASH.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/RP2350_RAM.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C011x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C011x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C031x6.ld -text
