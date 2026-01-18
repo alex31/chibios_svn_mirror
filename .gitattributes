@@ -3313,6 +3313,10 @@ os/hal/ports/RP/LLD/UARTv1/hal_sio_lld.c -text
 os/hal/ports/RP/LLD/UARTv1/hal_sio_lld.h -text
 os/hal/ports/RP/LLD/UARTv1/rp_uart0.inc -text
 os/hal/ports/RP/LLD/UARTv1/rp_uart1.inc -text
+os/hal/ports/RP/LLD/USBv1/driver.mk -text
+os/hal/ports/RP/LLD/USBv1/hal_usb_lld.c -text
+os/hal/ports/RP/LLD/USBv1/hal_usb_lld.h -text
+os/hal/ports/RP/LLD/USBv1/rp_usb.h -text
 os/hal/ports/RP/LLD/WDGv1/driver.mk -text
 os/hal/ports/RP/LLD/WDGv1/hal_wdg_lld.c -text
 os/hal/ports/RP/LLD/WDGv1/hal_wdg_lld.h -text
