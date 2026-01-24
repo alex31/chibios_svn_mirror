@@ -1,5 +1,6 @@
 * text=auto !eol
 /.project -text
+/chibios[!!-~]21.11.x.spdx -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/.cproject -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/.project -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/Makefile -text
