@@ -3320,6 +3320,8 @@ os/hal/ports/RP/LLD/USBv1/rp_usb.h -text
 os/hal/ports/RP/LLD/WDGv1/driver.mk -text
 os/hal/ports/RP/LLD/WDGv1/hal_wdg_lld.c -text
 os/hal/ports/RP/LLD/WDGv1/hal_wdg_lld.h -text
+os/hal/ports/RP/RP2040/hal_efl_lld.c -text
+os/hal/ports/RP/RP2040/hal_efl_lld.h -text
 os/hal/ports/RP/RP2040/hal_lld.c -text
 os/hal/ports/RP/RP2040/hal_lld.h -text
 os/hal/ports/RP/RP2040/platform.mk -text
@@ -3333,6 +3335,8 @@ os/hal/ports/RP/RP2040/rp_pll.h -text
 os/hal/ports/RP/RP2040/rp_registry.h -text
 os/hal/ports/RP/RP2040/rp_xosc.c -text
 os/hal/ports/RP/RP2040/rp_xosc.h -text
+os/hal/ports/RP/RP2350/hal_efl_lld.c -text
+os/hal/ports/RP/RP2350/hal_efl_lld.h -text
 os/hal/ports/RP/RP2350/hal_lld.c -text
 os/hal/ports/RP/RP2350/hal_lld.h -text
 os/hal/ports/RP/RP2350/platform.mk -text
