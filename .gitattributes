@@ -471,6 +471,11 @@ demos/STM32/RT-STM32-MULTI/cfg/stm32g071rb_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g071rb_nucleo64/mcuconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g071rb_nucleo64/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g071rb_nucleo64/portab.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g0b0re_nucleo64/chconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g0b0re_nucleo64/halconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g0b0re_nucleo64/mcuconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g0b0re_nucleo64/portab.c -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g0b0re_nucleo64/portab.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g0b1re_nucleo64/chconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g0b1re_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g0b1re_nucleo64/mcuconf.h -text
@@ -566,6 +571,7 @@ demos/STM32/RT-STM32-MULTI/make/stm32c031c6_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32c071rb_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g031k8_nucleo32.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g071rb_nucleo64.make -text
+demos/STM32/RT-STM32-MULTI/make/stm32g0b0re_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g0b1re_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g431rb_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g474re_nucleo64.make -text
@@ -2152,6 +2158,7 @@ os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxG.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32F76xxI.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G031x8.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G071xB.ld -text
+os/common/startup/ARMCMx/compilers/GCC/ld/STM32G0B0xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G0B1xE.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G431xB.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32G474xE.ld -text
@@ -2821,6 +2828,12 @@ os/hal/boards/ST_NUCLEO64_G071RB/board.h -text
 os/hal/boards/ST_NUCLEO64_G071RB/board.mk -text
 os/hal/boards/ST_NUCLEO64_G071RB/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO64_G071RB/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO64_G0B0RE/board.c -text
+os/hal/boards/ST_NUCLEO64_G0B0RE/board.h -text
+os/hal/boards/ST_NUCLEO64_G0B0RE/board.mk -text
+os/hal/boards/ST_NUCLEO64_G0B0RE/cfg/board.chcfg -text
+os/hal/boards/ST_NUCLEO64_G0B0RE/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO64_G0B0RE/readme.txt -text
 os/hal/boards/ST_NUCLEO64_G0B1RE/board.c -text
 os/hal/boards/ST_NUCLEO64_G0B1RE/board.h -text
 os/hal/boards/ST_NUCLEO64_G0B1RE/board.mk -text
