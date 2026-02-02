@@ -6723,6 +6723,7 @@ tools/updater/update_mcuconf_stm32f746xx.sh -text
 tools/updater/update_mcuconf_stm32f76xxx.sh -text
 tools/updater/update_mcuconf_stm32g031xx.sh -text
 tools/updater/update_mcuconf_stm32g071xx.sh -text
+tools/updater/update_mcuconf_stm32g0b0xx.sh -text
 tools/updater/update_mcuconf_stm32g0b1xx.sh -text
 tools/updater/update_mcuconf_stm32g4x1xx.sh -text
 tools/updater/update_mcuconf_stm32g4x4xx.sh -text
