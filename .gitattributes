@@ -413,6 +413,11 @@ demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32f769_discovery/halconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32f769_discovery/mcuconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32f769_discovery/portab.c -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32f769_discovery/portab.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32h563zi_nucleo144/chconf.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32h563zi_nucleo144/halconf.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32h563zi_nucleo144/mcuconf.h -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32h563zi_nucleo144/portab.c -text
+demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32h563zi_nucleo144/portab.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32h735ig_discovery/chconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32h735ig_discovery/halconf.h -text
 demos/STM32/RT-STM32-LWIP-FATFS-USB/cfg/stm32h735ig_discovery/mcuconf.h -text
