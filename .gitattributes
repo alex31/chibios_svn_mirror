@@ -3922,6 +3922,16 @@ os/hal/ports/STM32/STM32G4xx/stm32_isr.c -text
 os/hal/ports/STM32/STM32G4xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_registry.h -text
+os/hal/ports/STM32/STM32G4xx_ALT/hal_efl_lld.c -text
+os/hal/ports/STM32/STM32G4xx_ALT/hal_efl_lld.h -text
+os/hal/ports/STM32/STM32G4xx_ALT/hal_lld.c -text
+os/hal/ports/STM32/STM32G4xx_ALT/hal_lld.h -text
+os/hal/ports/STM32/STM32G4xx_ALT/platform.mk -text
+os/hal/ports/STM32/STM32G4xx_ALT/stm32_dmamux.h -text
+os/hal/ports/STM32/STM32G4xx_ALT/stm32_isr.c -text
+os/hal/ports/STM32/STM32G4xx_ALT/stm32_isr.h -text
+os/hal/ports/STM32/STM32G4xx_ALT/stm32_rcc.h -text
+os/hal/ports/STM32/STM32G4xx_ALT/stm32_registry.h -text
 os/hal/ports/STM32/STM32H5xx/hal_lld.c -text
 os/hal/ports/STM32/STM32H5xx/hal_lld.h -text
 os/hal/ports/STM32/STM32H5xx/platform.mk -text
