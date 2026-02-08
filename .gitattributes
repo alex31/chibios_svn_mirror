@@ -642,6 +642,7 @@ demos/STM32/RT-STM32-XSHELL/make/stm32c071rb_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32g0b0re_nucleo64_alt.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32g0b1re_nucleo64_alt.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32g474re_nucleo64.make -text
+demos/STM32/RT-STM32-XSHELL/make/stm32g474re_nucleo64_alt.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32h563zi_nucleo144.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32u083rc_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32u385rg_nucleo64.make -text
@@ -3944,6 +3945,7 @@ os/hal/ports/STM32/STM32G4xx_ALT/platform.mk -text
 os/hal/ports/STM32/STM32G4xx_ALT/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32G4xx_ALT/stm32_isr.c -text
 os/hal/ports/STM32/STM32G4xx_ALT/stm32_isr.h -text
+os/hal/ports/STM32/STM32G4xx_ALT/stm32_limits.h -text
 os/hal/ports/STM32/STM32G4xx_ALT/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G4xx_ALT/stm32_registry.h -text
 os/hal/ports/STM32/STM32H5xx/hal_lld.c -text
