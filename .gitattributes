@@ -576,6 +576,7 @@ demos/STM32/RT-STM32-MULTI/make/stm32g0b0re_nucleo64_alt.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g0b1re_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g431rb_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g474re_nucleo64.make -text
+demos/STM32/RT-STM32-MULTI/make/stm32g474re_nucleo64_alt.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32h503rb_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32h563zi_nucleo144.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32h723zg_nucleo144.make -text
@@ -604,6 +605,16 @@ demos/STM32/RT-STM32-XSHELL/cfg/stm32c071rb_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32c071rb_nucleo64/mcuconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32c071rb_nucleo64/portab.c -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32c071rb_nucleo64/portab.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b0re_nucleo64/chconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b0re_nucleo64/halconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b0re_nucleo64/mcuconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b0re_nucleo64/portab.c -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b0re_nucleo64/portab.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b1re_nucleo64/chconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b1re_nucleo64/halconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b1re_nucleo64/mcuconf.h -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b1re_nucleo64/portab.c -text
+demos/STM32/RT-STM32-XSHELL/cfg/stm32g0b1re_nucleo64/portab.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32g474re_nucleo64/chconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32g474re_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-XSHELL/cfg/stm32g474re_nucleo64/mcuconf.h -text
@@ -628,6 +639,8 @@ demos/STM32/RT-STM32-XSHELL/main.c -text
 demos/STM32/RT-STM32-XSHELL/main_naked.c -text
 demos/STM32/RT-STM32-XSHELL/make/stm32c031c6_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32c071rb_nucleo64.make -text
+demos/STM32/RT-STM32-XSHELL/make/stm32g0b0re_nucleo64_alt.make -text
+demos/STM32/RT-STM32-XSHELL/make/stm32g0b1re_nucleo64_alt.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32g474re_nucleo64.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32h563zi_nucleo144.make -text
 demos/STM32/RT-STM32-XSHELL/make/stm32u083rc_nucleo64.make -text
