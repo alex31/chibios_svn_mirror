@@ -3908,6 +3908,7 @@ os/hal/ports/STM32/STM32G0xx_ALT/platform.mk -text
 os/hal/ports/STM32/STM32G0xx_ALT/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32G0xx_ALT/stm32_isr.c -text
 os/hal/ports/STM32/STM32G0xx_ALT/stm32_isr.h -text
+os/hal/ports/STM32/STM32G0xx_ALT/stm32_limits.h -text
 os/hal/ports/STM32/STM32G0xx_ALT/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G0xx_ALT/stm32_registry.h -text
 os/hal/ports/STM32/STM32G4xx/cfg/clocktree.xml -text
