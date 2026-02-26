@@ -1,5 +1,6 @@
 * text=auto !eol
 /.project -text
+/AGENTS.md -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/.cproject -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/.project -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/Makefile -text
