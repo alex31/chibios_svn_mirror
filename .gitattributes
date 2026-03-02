@@ -157,11 +157,12 @@ demos/RP/RT-RP2040-PICO/cfg/mcuconf.h -text
 demos/RP/RT-RP2040-PICO/debug/RT-RP2040-PICO[!!-~](build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/RP/RT-RP2040-PICO/debug/RT-RP2040-PICO[!!-~](build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/RP/RT-RP2040-PICO/main.c -text
-demos/RP/RT-RP2350-BLINK/Makefile -text
-demos/RP/RT-RP2350-BLINK/cfg/chconf.h -text
-demos/RP/RT-RP2350-BLINK/cfg/halconf.h -text
-demos/RP/RT-RP2350-BLINK/cfg/mcuconf.h -text
-demos/RP/RT-RP2350-BLINK/main.c -text
+demos/RP/RT-RP2350-PICO2/Makefile -text
+demos/RP/RT-RP2350-PICO2/c1_main.c -text
+demos/RP/RT-RP2350-PICO2/cfg/chconf.h -text
+demos/RP/RT-RP2350-PICO2/cfg/halconf.h -text
+demos/RP/RT-RP2350-PICO2/cfg/mcuconf.h -text
+demos/RP/RT-RP2350-PICO2/main.c -text
 demos/SPC5/NIL-SPC560D-EVB/.cproject -text
 demos/SPC5/NIL-SPC560D-EVB/.project -text
 demos/SPC5/NIL-SPC560D-EVB/Makefile -text
