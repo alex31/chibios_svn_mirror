@@ -5771,10 +5771,6 @@ tools/ftl/processors/conf/notes.txt -text
 tools/ftl/processors/conf/vfsconf/vfsconf.h.ftl -text
 tools/ftl/processors/conf/xhalconf/xhalconf.h.ftl -text
 tools/ftl/processors/processors.xml -text
-tools/ftl/processors/unittest/test/test_root.c.ftl -text
-tools/ftl/processors/unittest/test/test_root.h.ftl -text
-tools/ftl/processors/unittest/test/test_sequence.c.ftl -text
-tools/ftl/processors/unittest/test/test_sequence.h.ftl -text
 tools/ftl/schema/boards/abstract_board.xsd -text
 tools/ftl/schema/boards/stm32c0xx_board.xsd -text
 tools/ftl/schema/boards/stm32f0xx_board.xsd -text
