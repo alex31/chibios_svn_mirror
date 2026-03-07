@@ -2049,9 +2049,6 @@ os/common/ports/ARMv8-M-ML/chcore.h -text
 os/common/ports/ARMv8-M-ML/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv8-M-ML/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv8-M-ML/compilers/GCC/mk/port_rp2.mk -text
-os/common/ports/ARMv8-M-ML/smp/rp2/chcoresmp.c -text
-os/common/ports/ARMv8-M-ML/smp/rp2/chcoresmp.h -text
-os/common/ports/ARMv8-M-ML/smp/rp2/chcoresmp_timer.h -text
 os/common/ports/ARMvx-M-SB/chcore.c -text
 os/common/ports/ARMvx-M-SB/chcore.h -text
 os/common/ports/ARMvx-M-SB/compilers/GCC/chcoreasm.S -text
