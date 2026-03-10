@@ -3336,6 +3336,9 @@ os/hal/ports/RP/LLD/GPIOv1/hal_pal_lld.h -text
 os/hal/ports/RP/LLD/I2Cv1/driver.mk -text
 os/hal/ports/RP/LLD/I2Cv1/hal_i2c_lld.c -text
 os/hal/ports/RP/LLD/I2Cv1/hal_i2c_lld.h -text
+os/hal/ports/RP/LLD/PIOv1/driver.mk -text
+os/hal/ports/RP/LLD/PIOv1/rp_pio.c -text
+os/hal/ports/RP/LLD/PIOv1/rp_pio.h -text
 os/hal/ports/RP/LLD/PWMv1/driver.mk -text
 os/hal/ports/RP/LLD/PWMv1/hal_pwm_lld.c -text
 os/hal/ports/RP/LLD/PWMv1/hal_pwm_lld.h -text
