@@ -1,5 +1,6 @@
 * text=auto !eol
 /.project -text
+/AGENTS.md -text
 /chibios[!!-~]21.11.x.spdx -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/.cproject -text
 demos/ADUCM/RT-ADUCM360-ADICUP360/.project -text
@@ -5909,6 +5910,12 @@ tools/ftl/processors/boards/stm32l4xx/templates/board.mk.ftl -text
 tools/ftl/processors/boards/stm32l5xx/templates/board.c.ftl -text
 tools/ftl/processors/boards/stm32l5xx/templates/board.h.ftl -text
 tools/ftl/processors/boards/stm32l5xx/templates/board.mk.ftl -text
+tools/ftl/processors/boards/stm32u0xx/templates/board.c.ftl -text
+tools/ftl/processors/boards/stm32u0xx/templates/board.h.ftl -text
+tools/ftl/processors/boards/stm32u0xx/templates/board.mk.ftl -text
+tools/ftl/processors/boards/stm32u3xx/templates/board.c.ftl -text
+tools/ftl/processors/boards/stm32u3xx/templates/board.h.ftl -text
+tools/ftl/processors/boards/stm32u3xx/templates/board.mk.ftl -text
 tools/ftl/processors/boards/stm32wbxx/templates/board.c.ftl -text
 tools/ftl/processors/boards/stm32wbxx/templates/board.h.ftl -text
 tools/ftl/processors/boards/stm32wbxx/templates/board.mk.ftl -text
@@ -5979,6 +5986,8 @@ tools/ftl/schema/boards/stm32l0xx_board.xsd -text
 tools/ftl/schema/boards/stm32l1xx_board.xsd -text
 tools/ftl/schema/boards/stm32l4xx_board.xsd -text
 tools/ftl/schema/boards/stm32l5xx_board.xsd -text
+tools/ftl/schema/boards/stm32u0xx_board.xsd -text
+tools/ftl/schema/boards/stm32u3xx_board.xsd -text
 tools/ftl/schema/boards/stm32wbxx_board.xsd -text
 tools/ftl/schema/boards/stm32wlxx_board.xsd -text
 tools/ftl/schema/ccode/modules.xsd -text
@@ -6001,6 +6010,8 @@ tools/ftl/xml/stm32l0board.xml -text
 tools/ftl/xml/stm32l1board.xml -text
 tools/ftl/xml/stm32l4board.xml -text
 tools/ftl/xml/stm32l5board.xml -text
+tools/ftl/xml/stm32u0board.xml -text
+tools/ftl/xml/stm32u3board.xml -text
 tools/ftl/xml/stm32wbboard.xml -text
 tools/ftl/xml/stm32wlboard.xml -text
 tools/mk/autobuild.mk -text
@@ -6036,9 +6047,11 @@ tools/updater/update_mcuconf_stm32f746xx.sh -text
 tools/updater/update_mcuconf_stm32f76xxx.sh -text
 tools/updater/update_mcuconf_stm32g031xx.sh -text
 tools/updater/update_mcuconf_stm32g071xx.sh -text
+tools/updater/update_mcuconf_stm32g0b0xx.sh -text
 tools/updater/update_mcuconf_stm32g0b1xx.sh -text
 tools/updater/update_mcuconf_stm32g4x1xx.sh -text
 tools/updater/update_mcuconf_stm32g4x4xx.sh -text
+tools/updater/update_mcuconf_stm32h503xx.sh -text
 tools/updater/update_mcuconf_stm32h563xx.sh -text
 tools/updater/update_mcuconf_stm32h723xx.sh -text
 tools/updater/update_mcuconf_stm32h743xx.sh -text
@@ -6052,6 +6065,8 @@ tools/updater/update_mcuconf_stm32l476xx.sh -text
 tools/updater/update_mcuconf_stm32l496xx.sh -text
 tools/updater/update_mcuconf_stm32l4rxxx.sh -text
 tools/updater/update_mcuconf_stm32l5x2xx.sh -text
+tools/updater/update_mcuconf_stm32u073xx.sh -text
+tools/updater/update_mcuconf_stm32u375xx.sh -text
 tools/updater/update_mcuconf_stm32wb55xx.sh -text
 tools/updater/update_mcuconf_stm32wlxx.sh -text
 tools/updater/update_vfsconf.sh -text
