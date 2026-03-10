@@ -5943,6 +5943,7 @@ tools/ftl/processors/conf/mcuconf_stm32g0b0xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32g0b1xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32g4x1xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32g4x4xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32h503xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32h563xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32h723xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32h743xx/mcuconf.h.ftl -text
@@ -5957,11 +5958,12 @@ tools/ftl/processors/conf/mcuconf_stm32l496xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l4pxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l4rxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l5x2xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32u073xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32u375xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32wb55xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32wlxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/notes.txt -text
 tools/ftl/processors/conf/vfsconf/vfsconf.h.ftl -text
-tools/ftl/processors/conf/xhalconf/xhalconf.h.ftl -text
 tools/ftl/processors/processors.xml -text
 tools/ftl/schema/boards/abstract_board.xsd -text
 tools/ftl/schema/boards/stm32c0xx_board.xsd -text
