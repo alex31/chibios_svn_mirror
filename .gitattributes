@@ -1795,7 +1795,6 @@ os/common/startup/ARMCMx/compilers/GCC/crt0_v8m-ml.S -text
 os/common/startup/ARMCMx/compilers/GCC/crt1.c -text
 os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/MAX32625.ld -text
-os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_FLASH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_RAM.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C011x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C011x6.ld -text
@@ -1951,7 +1950,6 @@ os/common/startup/ARMCMx/compilers/RVCT/vectors.s -text
 os/common/startup/ARMCMx/devices/ADUCM36x/cmparams.h -text
 os/common/startup/ARMCMx/devices/ADUCM41x/cmparams.h -text
 os/common/startup/ARMCMx/devices/MAX3262x/cmparams.h -text
-os/common/startup/ARMCMx/devices/RP2040/bs2_default_padded_checksummed.S -text
 os/common/startup/ARMCMx/devices/RP2040/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32C0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F0xx/cmparams.h -text
