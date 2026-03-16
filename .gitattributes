@@ -443,8 +443,14 @@ demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144/halconf.h -text
 demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144/mcuconf.h -text
 demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144/portab.c -text
 demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144/portab.h -text
+demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/chconf.h -text
+demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/portab.c -text
+demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/portab.h -text
+demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/xhalconf.h -text
+demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/xmcuconf.h -text
 demos/STM32/RT-STM32-LWIP/main.c -text
 demos/STM32/RT-STM32-LWIP/make/stm32h563zi_nucleo144.make -text
+demos/STM32/RT-STM32-LWIP/make/stm32h563zi_nucleo144_xhal.make -text
 demos/STM32/RT-STM32-MULTI/.cproject -text
 demos/STM32/RT-STM32-MULTI/.project -text
 demos/STM32/RT-STM32-MULTI/Makefile -text
