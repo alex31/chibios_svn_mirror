@@ -4421,6 +4421,7 @@ os/vfs/codegen/vfs_driver_streams.xml -text
 os/vfs/codegen/vfs_driver_template.xml -text
 os/vfs/codegen/vfs_drivers.xml -text
 os/vfs/codegen/vfs_nodes.xml -text
+os/vfs/codegen/vfs_romfiles.xml -text
 os/vfs/dox/vfs_arch.dox -text
 os/vfs/drivers/chfs/drvchfs.c -text
 os/vfs/drivers/chfs/drvchfs.h -text
@@ -4434,6 +4435,9 @@ os/vfs/drivers/littlefs/drvlittlefs_impl.inc -text
 os/vfs/drivers/overlay/drvoverlay.c -text
 os/vfs/drivers/overlay/drvoverlay.h -text
 os/vfs/drivers/overlay/drvoverlay_impl.inc -text
+os/vfs/drivers/romfiles/drvromfile.c -text
+os/vfs/drivers/romfiles/drvromfile.h -text
+os/vfs/drivers/romfiles/drvromfile_impl.inc -text
 os/vfs/drivers/streams/drvstreams.c -text
 os/vfs/drivers/streams/drvstreams.h -text
 os/vfs/drivers/streams/drvstreams_impl.inc -text
