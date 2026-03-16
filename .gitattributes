@@ -1982,6 +1982,7 @@ os/common/oop/codegen/oop_base_object.xml -text
 os/common/oop/codegen/oop_block_io_interface.xml -text
 os/common/oop/codegen/oop_memstreams.xml -text
 os/common/oop/codegen/oop_nullstreams.xml -text
+os/common/oop/codegen/oop_random_stream.xml -text
 os/common/oop/codegen/oop_referenced_object.xml -text
 os/common/oop/codegen/oop_sequential_stream.xml -text
 os/common/oop/codegen/oop_synchronized_object.xml -text
@@ -1992,6 +1993,7 @@ os/common/oop/include/oop_chprintf.h -text
 os/common/oop/include/oop_chscanf.h -text
 os/common/oop/include/oop_memstreams.h -text
 os/common/oop/include/oop_nullstreams.h -text
+os/common/oop/include/oop_random_stream.h -text
 os/common/oop/include/oop_referenced_object.h -text
 os/common/oop/include/oop_sequential_stream.h -text
 os/common/oop/include/oop_synchronized_object.h -text
