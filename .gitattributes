@@ -4305,6 +4305,7 @@ os/sb/apps/ls/Makefile -text
 os/sb/apps/ls/Makefile_MinGW -text
 os/sb/apps/ls/main.c -text
 os/sb/apps/ls/main_mini.c -text
+os/sb/apps/ls/main_new.c -text
 os/sb/apps/ls/main_old.c -text
 os/sb/apps/ls/make/ls-posix-x86-debug.make -text
 os/sb/apps/ls/make/ls-rambox-deploy.make -text
@@ -4350,6 +4351,8 @@ os/sb/user/sbuser.mk -text
 os/sb/vio/sbvio.c -text
 os/sb/vio/sbvio.h -text
 os/sb/vio/sbvio.mk -text
+os/sb/vio/sbvio_eth.c -text
+os/sb/vio/sbvio_eth.h -text
 os/sb/vio/sbvio_gpio.c -text
 os/sb/vio/sbvio_gpio.h -text
 os/sb/vio/sbvio_spi.c -text
