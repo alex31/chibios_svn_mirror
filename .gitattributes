@@ -1673,6 +1673,7 @@ os/common/ext/RP/RP2040/rp2040.h -text
 os/common/ext/RP/RP2040/system_rp2040.h -text
 os/common/ext/RP/RP2350/rp2350.h -text
 os/common/ext/RP/RP2350/system_rp2350.h -text
+os/common/ext/RP/rp_pico_sdk_compat.h -text
 os/common/ext/ST/STM32C0xx/stm32c011xx.h -text
 os/common/ext/ST/STM32C0xx/stm32c031xx.h -text
 os/common/ext/ST/STM32C0xx/stm32c051xx.h -text
