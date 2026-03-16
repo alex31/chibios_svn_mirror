@@ -1797,8 +1797,6 @@ os/common/startup/ARMCMx/compilers/GCC/ld/ADUCM360.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/MAX32625.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_FLASH.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/RP2040_RAM.ld -text
-os/common/startup/ARMCMx/compilers/GCC/ld/RP2350_FLASH.ld -text
-os/common/startup/ARMCMx/compilers/GCC/ld/RP2350_RAM.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C011x4.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C011x6.ld -text
 os/common/startup/ARMCMx/compilers/GCC/ld/STM32C031x6.ld -text
@@ -1919,7 +1917,6 @@ os/common/startup/ARMCMx/compilers/GCC/mk/startup_aducm36x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_aducm41x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_max3262x.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_rp2040.mk -text
-os/common/startup/ARMCMx/compilers/GCC/mk/startup_rp2350.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32c0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f0xx.mk -text
 os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f1xx.mk -text
@@ -1956,8 +1953,6 @@ os/common/startup/ARMCMx/devices/ADUCM41x/cmparams.h -text
 os/common/startup/ARMCMx/devices/MAX3262x/cmparams.h -text
 os/common/startup/ARMCMx/devices/RP2040/bs2_default_padded_checksummed.S -text
 os/common/startup/ARMCMx/devices/RP2040/cmparams.h -text
-os/common/startup/ARMCMx/devices/RP2350/cmparams.h -text
-os/common/startup/ARMCMx/devices/RP2350/rp2350_imagedef.S -text
 os/common/startup/ARMCMx/devices/STM32C0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F0xx/cmparams.h -text
 os/common/startup/ARMCMx/devices/STM32F1xx/cmparams.h -text
@@ -2266,9 +2261,6 @@ os/hal/boards/PJRC_TEENSY_2PLUSPLUS/board.h -text
 os/hal/boards/PJRC_TEENSY_2PLUSPLUS/board.mk -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.c -text
 os/hal/boards/RAISONANCE_REVA_STM8S/board.h -text
-os/hal/boards/RP_PICO2_RP2350/board.c -text
-os/hal/boards/RP_PICO2_RP2350/board.h -text
-os/hal/boards/RP_PICO2_RP2350/board.mk -text
 os/hal/boards/RP_PICO_RP2040/board.c -text
 os/hal/boards/RP_PICO_RP2040/board.h -text
 os/hal/boards/RP_PICO_RP2040/board.mk -text
