@@ -4670,6 +4670,8 @@ os/xhal/ports/common/ARMCMx/sau.c -text
 os/xhal/ports/common/ARMCMx/sau.h -text
 os/xhal/ports/templates/hal_eth_lld.c -text
 os/xhal/ports/templates/hal_eth_lld.h -text
+os/xhal/ports/vio/hal_eth_lld.c -text
+os/xhal/ports/vio/hal_eth_lld.h -text
 os/xhal/ports/vio/hal_lld.c -text
 os/xhal/ports/vio/hal_lld.h -text
 os/xhal/ports/vio/hal_pal_lld.c -text
