@@ -1459,6 +1459,16 @@ demos/various/SB-CLIENT-BARE-METAL/ld/128k-081E0000-16k-20004000.ld -text
 demos/various/SB-CLIENT-BARE-METAL/main.c -text
 demos/various/SB-CLIENT-BARE-METAL/make/128k-08060000-16k-2001C000.make -text
 demos/various/SB-CLIENT-BARE-METAL/make/128k-081E0000-16k-20004000.make -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/.cproject -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/.project -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/Makefile -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/cfg/chconf.h -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/cfg/lwipopts.h -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/cfg/xhalconf.h -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/cfg/xmcuconf.h -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/ld/128k-081C0000-16k-20000000.ld -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/main.c -text
+demos/various/SB-CLIENT-RT-XHAL-LWIP-HTTP/make/128k-081C0000-16k-20000000.make -text
 demos/various/SB-CLIENT-RT-XHAL-XSHELL/.cproject -text
 demos/various/SB-CLIENT-RT-XHAL-XSHELL/.project -text
 demos/various/SB-CLIENT-RT-XHAL-XSHELL/Makefile -text
