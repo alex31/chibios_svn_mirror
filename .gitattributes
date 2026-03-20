@@ -4401,8 +4401,13 @@ os/various/lwip_bindings/arch/perf.h -text
 os/various/lwip_bindings/arch/sys_arch.c -text
 os/various/lwip_bindings/arch/sys_arch.h -text
 os/various/lwip_bindings/lwip.mk -text
+os/various/lwip_bindings/lwip_common.mk -text
+os/various/lwip_bindings/lwip_hal.mk -text
+os/various/lwip_bindings/lwip_xhal.mk -text
 os/various/lwip_bindings/lwipthread.c -text
 os/various/lwip_bindings/lwipthread.h -text
+os/various/lwip_bindings/lwipthread_hal.c -text
+os/various/lwip_bindings/lwipthread_xhal.c -text
 os/various/lwip_bindings/readme.txt -text
 os/various/lwip_bindings/static_lwipopts.h -text
 os/various/newlib_bindings/newlib.mk -text
