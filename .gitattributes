@@ -1358,6 +1358,12 @@ demos/STM32/RT-VFS-FATFS/make/stm32l4r9ai_discovery.make -text
 demos/STM32/RT-VFS-LITTLEFS/.cproject -text
 demos/STM32/RT-VFS-LITTLEFS/.project -text
 demos/STM32/RT-VFS-LITTLEFS/Makefile -text
+demos/STM32/RT-VFS-LITTLEFS/cfg/simulator/chconf.h -text
+demos/STM32/RT-VFS-LITTLEFS/cfg/simulator/halconf.h -text
+demos/STM32/RT-VFS-LITTLEFS/cfg/simulator/mcuconf.h -text
+demos/STM32/RT-VFS-LITTLEFS/cfg/simulator/portab.c -text
+demos/STM32/RT-VFS-LITTLEFS/cfg/simulator/portab.h -text
+demos/STM32/RT-VFS-LITTLEFS/cfg/simulator/vfsconf.h -text
 demos/STM32/RT-VFS-LITTLEFS/cfg/stm32l476vg_discovery/chconf.h -text
 demos/STM32/RT-VFS-LITTLEFS/cfg/stm32l476vg_discovery/halconf.h -text
 demos/STM32/RT-VFS-LITTLEFS/cfg/stm32l476vg_discovery/mcuconf.h -text
@@ -1371,6 +1377,8 @@ demos/STM32/RT-VFS-LITTLEFS/cfg/stm32l4r9ai_discovery/portab.c -text
 demos/STM32/RT-VFS-LITTLEFS/cfg/stm32l4r9ai_discovery/portab.h -text
 demos/STM32/RT-VFS-LITTLEFS/cfg/stm32l4r9ai_discovery/vfsconf.h -text
 demos/STM32/RT-VFS-LITTLEFS/main.c -text
+demos/STM32/RT-VFS-LITTLEFS/main_sim.c -text
+demos/STM32/RT-VFS-LITTLEFS/make/simulator.make -text
 demos/STM32/RT-VFS-LITTLEFS/make/stm32l476vg_discovery.make -text
 demos/STM32/RT-VFS-LITTLEFS/make/stm32l4r9ai_discovery.make -text
 demos/STM32/RT-XHAL-STM32G474RE-NUCLEO64/.cproject -text
