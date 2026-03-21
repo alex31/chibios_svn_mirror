@@ -4352,6 +4352,7 @@ os/sb/host/sbsyscall.h -text
 os/sb/host/sbvrq.c -text
 os/sb/host/sbvrq.h -text
 os/sb/notes.txt -text
+os/sb/open_points.md -text
 os/sb/user/lib/libdir.c -text
 os/sb/user/lib/syscalls.c -text
 os/sb/user/lib/syscalls.h -text
