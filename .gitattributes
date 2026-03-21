@@ -4478,6 +4478,7 @@ os/vfs/include/vfsdrivers.h -text
 os/vfs/include/vfsnodes.h -text
 os/vfs/include/vfsparser.h -text
 os/vfs/include/vfspaths.h -text
+os/vfs/open_points.md -text
 os/vfs/src/vfs.c -text
 os/vfs/src/vfsbuffers.c -text
 os/vfs/src/vfsdrivers.c -text
