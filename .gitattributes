@@ -4428,7 +4428,6 @@ os/various/shell/shell.h -text
 os/various/shell/shell.mk -text
 os/various/shell/shell_cmd.c -text
 os/various/shell/shell_cmd.h -text
-os/various/syscalls_to_be_removed.c -text
 os/various/various.dox -text
 os/various/wolfssl_bindings/hwrng.c -text
 os/various/wolfssl_bindings/user_settings.h -text
@@ -4446,11 +4445,11 @@ os/vfs/codegen/vfs_driver_chfs.xml -text
 os/vfs/codegen/vfs_driver_fatfs.xml -text
 os/vfs/codegen/vfs_driver_littlefs.xml -text
 os/vfs/codegen/vfs_driver_overlay.xml -text
+os/vfs/codegen/vfs_driver_romfs.xml -text
 os/vfs/codegen/vfs_driver_streams.xml -text
 os/vfs/codegen/vfs_driver_template.xml -text
 os/vfs/codegen/vfs_drivers.xml -text
 os/vfs/codegen/vfs_nodes.xml -text
-os/vfs/codegen/vfs_romfiles.xml -text
 os/vfs/dox/vfs_arch.dox -text
 os/vfs/drivers/chfs/drvchfs.c -text
 os/vfs/drivers/chfs/drvchfs.h -text
@@ -4464,9 +4463,9 @@ os/vfs/drivers/littlefs/drvlittlefs_impl.inc -text
 os/vfs/drivers/overlay/drvoverlay.c -text
 os/vfs/drivers/overlay/drvoverlay.h -text
 os/vfs/drivers/overlay/drvoverlay_impl.inc -text
-os/vfs/drivers/romfiles/drvromfile.c -text
-os/vfs/drivers/romfiles/drvromfile.h -text
-os/vfs/drivers/romfiles/drvromfile_impl.inc -text
+os/vfs/drivers/romfs/drvromfs.c -text
+os/vfs/drivers/romfs/drvromfs.h -text
+os/vfs/drivers/romfs/drvromfs_impl.inc -text
 os/vfs/drivers/streams/drvstreams.c -text
 os/vfs/drivers/streams/drvstreams.h -text
 os/vfs/drivers/streams/drvstreams_impl.inc -text
@@ -4488,7 +4487,6 @@ os/vfs/src/vfsnodes.c -text
 os/vfs/src/vfsparser.c -text
 os/vfs/src/vfspaths.c -text
 os/vfs/templates/vfsconf.h -text
-os/vfs/various/syscalls_to_be_removed.c -text
 os/vfs/vfs.mk -text
 os/vfs/vfs_syscalls.mk -text
 os/xhal/codegen/config.fmpp -text
@@ -6762,6 +6760,8 @@ tools/ftl/xml/stm32u3board.xml -text
 tools/ftl/xml/stm32wbboard.xml -text
 tools/ftl/xml/stm32wlboard.xml -text
 tools/mk/autobuild.mk -text
+tools/mkromfs/mkromfs.py -text
+tools/mkromfs/mkromfs.sh -text
 tools/style/py_style_avr_demos.sh -text
 tools/style/py_style_avr_lld.sh -text
 tools/style/py_style_avr_testhal.sh -text
