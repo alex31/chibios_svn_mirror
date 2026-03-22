@@ -1080,7 +1080,14 @@ demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/debug/RT-STM32H563ZI-NUCLE
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/debug/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED[!!-~](SB1)(build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/debug/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED[!!-~](build-ch.elf)(OpenOCD,[!!-~]Flash[!!-~]and[!!-~]Run).launch -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/debug/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED[!!-~](build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
+demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/components.html -text
+demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/files.html -text
+demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/index.html -text
+demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/layout.html -text
+demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/style.css -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/main.c -text
+demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/source/http_romfs.c -text
+demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/source/http_romfs.h -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/.cproject -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/.project -text
 demos/STM32/RT-STM32L031K6-NUCLEO32/Makefile -text
@@ -4411,6 +4418,9 @@ os/various/fatfs_bindings/readme.txt -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.c -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.h -text
 os/various/httpd_fatfs_bindings/httpd_fatfs.mk -text
+os/various/httpd_posix_bindings/httpd_posix.c -text
+os/various/httpd_posix_bindings/httpd_posix.h -text
+os/various/httpd_posix_bindings/httpd_posix.mk -text
 os/various/httpd_vfs_bindings/httpd_vfs.c -text
 os/various/httpd_vfs_bindings/httpd_vfs.h -text
 os/various/httpd_vfs_bindings/httpd_vfs.mk -text
