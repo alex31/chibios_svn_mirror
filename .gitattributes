@@ -448,9 +448,17 @@ demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/portab.c -text
 demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/portab.h -text
 demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/xhalconf.h -text
 demos/STM32/RT-STM32-LWIP/cfg/stm32h563zi_nucleo144_xhal/xmcuconf.h -text
+demos/STM32/RT-STM32-LWIP/cfg/vfsconf.h -text
+demos/STM32/RT-STM32-LWIP/http/components.html -text
+demos/STM32/RT-STM32-LWIP/http/features.html -text
+demos/STM32/RT-STM32-LWIP/http/index.html -text
+demos/STM32/RT-STM32-LWIP/http/romfs.html -text
+demos/STM32/RT-STM32-LWIP/http/style.css -text
 demos/STM32/RT-STM32-LWIP/main.c -text
 demos/STM32/RT-STM32-LWIP/make/stm32h563zi_nucleo144.make -text
 demos/STM32/RT-STM32-LWIP/make/stm32h563zi_nucleo144_xhal.make -text
+demos/STM32/RT-STM32-LWIP/source/http_romfs.c -text
+demos/STM32/RT-STM32-LWIP/source/http_romfs.h -text
 demos/STM32/RT-STM32-MULTI/.cproject -text
 demos/STM32/RT-STM32-MULTI/.project -text
 demos/STM32/RT-STM32-MULTI/Makefile -text
