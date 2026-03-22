@@ -4488,6 +4488,7 @@ os/vfs/drivers/overlay/drvoverlay_impl.inc -text
 os/vfs/drivers/romfs/drvromfs.c -text
 os/vfs/drivers/romfs/drvromfs.h -text
 os/vfs/drivers/romfs/drvromfs_impl.inc -text
+os/vfs/drivers/romfs_notes.txt -text
 os/vfs/drivers/streams/drvstreams.c -text
 os/vfs/drivers/streams/drvstreams.h -text
 os/vfs/drivers/streams/drvstreams_impl.inc -text
