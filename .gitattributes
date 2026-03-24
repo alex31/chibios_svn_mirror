@@ -3438,8 +3438,6 @@ os/hal/ports/RP/RP2350/rp_xosc.c -text
 os/hal/ports/RP/RP2350/rp_xosc.h -text
 os/hal/ports/RP/rp_bootrom.c -text
 os/hal/ports/RP/rp_bootrom.h -text
-os/hal/ports/RP/rp_flash_lockout.c -text
-os/hal/ports/RP/rp_flash_lockout.h -text
 os/hal/ports/SPC5/LLD/DSPI_v1/cfg/hal_spi_lld_cfg.c.ftl -text
 os/hal/ports/SPC5/LLD/DSPI_v1/cfg/hal_spi_lld_cfg.h.ftl -text
 os/hal/ports/SPC5/LLD/DSPI_v1/hal_spi_lld.c -text
