@@ -3414,6 +3414,7 @@ os/hal/ports/RP/RP2040/rp_clocks.h -text
 os/hal/ports/RP/RP2040/rp_fifo.h -text
 os/hal/ports/RP/RP2040/rp_isr.c -text
 os/hal/ports/RP/RP2040/rp_isr.h -text
+os/hal/ports/RP/RP2040/rp_pal_lld.h -text
 os/hal/ports/RP/RP2040/rp_pll.c -text
 os/hal/ports/RP/RP2040/rp_pll.h -text
 os/hal/ports/RP/RP2040/rp_registry.h -text
@@ -3429,6 +3430,7 @@ os/hal/ports/RP/RP2350/rp_clocks.h -text
 os/hal/ports/RP/RP2350/rp_fifo.h -text
 os/hal/ports/RP/RP2350/rp_isr.c -text
 os/hal/ports/RP/RP2350/rp_isr.h -text
+os/hal/ports/RP/RP2350/rp_pal_lld.h -text
 os/hal/ports/RP/RP2350/rp_pll.c -text
 os/hal/ports/RP/RP2350/rp_pll.h -text
 os/hal/ports/RP/RP2350/rp_registry.h -text
