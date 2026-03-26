@@ -3758,6 +3758,9 @@ os/hal/ports/STM32/LLD/RTCv2/hal_rtc_lld.h -text
 os/hal/ports/STM32/LLD/RTCv3/driver.mk -text
 os/hal/ports/STM32/LLD/RTCv3/hal_rtc_lld.c -text
 os/hal/ports/STM32/LLD/RTCv3/hal_rtc_lld.h -text
+os/hal/ports/STM32/LLD/RTCv4/driver.mk -text
+os/hal/ports/STM32/LLD/RTCv4/hal_rtc_lld.c -text
+os/hal/ports/STM32/LLD/RTCv4/hal_rtc_lld.h -text
 os/hal/ports/STM32/LLD/SDIOv1/driver.mk -text
 os/hal/ports/STM32/LLD/SDIOv1/hal_sdc_lld.c -text
 os/hal/ports/STM32/LLD/SDIOv1/hal_sdc_lld.h -text
@@ -5916,6 +5919,11 @@ testhal/STM32/multi/PAL/make/stm32wl55jc_nucleo64.make -text
 testhal/STM32/multi/RTC/.cproject -text
 testhal/STM32/multi/RTC/.project -text
 testhal/STM32/multi/RTC/Makefile -text
+testhal/STM32/multi/RTC/cfg/stm32c031c6_nucleo64/chconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32c031c6_nucleo64/halconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32c031c6_nucleo64/mcuconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32c031c6_nucleo64/portab.c -text
+testhal/STM32/multi/RTC/cfg/stm32c031c6_nucleo64/portab.h -text
 testhal/STM32/multi/RTC/cfg/stm32f051_discovery/chconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32f051_discovery/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32f051_discovery/mcuconf.h -text
@@ -5967,6 +5975,7 @@ testhal/STM32/multi/RTC/cfg/stm32wb55rg_nucleo68/mcuconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32wb55rg_nucleo68/portab.c -text
 testhal/STM32/multi/RTC/cfg/stm32wb55rg_nucleo68/portab.h -text
 testhal/STM32/multi/RTC/main.c -text
+testhal/STM32/multi/RTC/make/stm32c031c6_nucleo64.make -text
 testhal/STM32/multi/RTC/make/stm32f051_discovery.make -text
 testhal/STM32/multi/RTC/make/stm32f303_discovery.make -text
 testhal/STM32/multi/RTC/make/stm32f407_discovery.make -text
