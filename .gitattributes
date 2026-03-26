@@ -5969,6 +5969,11 @@ testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/mcuconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/portab.c -text
 testhal/STM32/multi/RTC/cfg/stm32l4r5_nucleo144/portab.h -text
+testhal/STM32/multi/RTC/cfg/stm32u083rc_nucleo64/chconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32u083rc_nucleo64/halconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32u083rc_nucleo64/mcuconf.h -text
+testhal/STM32/multi/RTC/cfg/stm32u083rc_nucleo64/portab.c -text
+testhal/STM32/multi/RTC/cfg/stm32u083rc_nucleo64/portab.h -text
 testhal/STM32/multi/RTC/cfg/stm32wb55rg_nucleo68/chconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32wb55rg_nucleo68/halconf.h -text
 testhal/STM32/multi/RTC/cfg/stm32wb55rg_nucleo68/mcuconf.h -text
@@ -5985,6 +5990,7 @@ testhal/STM32/multi/RTC/make/stm32g474re_nucleo64.make -text
 testhal/STM32/multi/RTC/make/stm32l053_discovery.make -text
 testhal/STM32/multi/RTC/make/stm32l476_discovery.make -text
 testhal/STM32/multi/RTC/make/stm32l4r5_nucleo144.make -text
+testhal/STM32/multi/RTC/make/stm32u083rc_nucleo64.make -text
 testhal/STM32/multi/RTC/make/stm32wb55rg_nucleo68.make -text
 testhal/STM32/multi/SDMMC-FATFS/.cproject -text
 testhal/STM32/multi/SDMMC-FATFS/.project -text
