@@ -4752,6 +4752,7 @@ os/xhal/src/hal_st.c -text
 os/xhal/xhal.mk -text
 /readme.txt -text
 /release_note_next.txt -text
+/test.tmp -text
 test/corebmk/config.fmpp -text
 test/corebmk/configuration.xml -text
 test/corebmk/corebmk_test.mk -text
