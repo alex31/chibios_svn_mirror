@@ -3364,6 +3364,9 @@ os/hal/ports/STM32/LLD/RTCv2/hal_rtc_lld.h -text
 os/hal/ports/STM32/LLD/RTCv3/driver.mk -text
 os/hal/ports/STM32/LLD/RTCv3/hal_rtc_lld.c -text
 os/hal/ports/STM32/LLD/RTCv3/hal_rtc_lld.h -text
+os/hal/ports/STM32/LLD/RTCv4/driver.mk -text
+os/hal/ports/STM32/LLD/RTCv4/hal_rtc_lld.c -text
+os/hal/ports/STM32/LLD/RTCv4/hal_rtc_lld.h -text
 os/hal/ports/STM32/LLD/SDIOv1/driver.mk -text
 os/hal/ports/STM32/LLD/SDIOv1/hal_sdc_lld.c -text
 os/hal/ports/STM32/LLD/SDIOv1/hal_sdc_lld.h -text
@@ -3589,9 +3592,6 @@ os/hal/ports/STM32/STM32G0xx_OLD/stm32_isr.c -text
 os/hal/ports/STM32/STM32G0xx_OLD/stm32_isr.h -text
 os/hal/ports/STM32/STM32G0xx_OLD/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G0xx_OLD/stm32_registry.h -text
-os/hal/ports/STM32/STM32G4xx/cfg/clocktree.txt -text
-os/hal/ports/STM32/STM32G4xx/cfg/clocktree.xml -text
-os/hal/ports/STM32/STM32G4xx/cfg/config.fmpp -text
 os/hal/ports/STM32/STM32G4xx/hal_efl_lld.c -text
 os/hal/ports/STM32/STM32G4xx/hal_efl_lld.h -text
 os/hal/ports/STM32/STM32G4xx/hal_lld.c -text
@@ -3603,8 +3603,6 @@ os/hal/ports/STM32/STM32G4xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_limits.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G4xx/stm32_registry.h -text
-os/hal/ports/STM32/STM32G4xx_OLD/cfg/clocktree.xml -text
-os/hal/ports/STM32/STM32G4xx_OLD/cfg/config.fmpp -text
 os/hal/ports/STM32/STM32G4xx_OLD/hal_efl_lld.c -text
 os/hal/ports/STM32/STM32G4xx_OLD/hal_efl_lld.h -text
 os/hal/ports/STM32/STM32G4xx_OLD/hal_lld.c -text
