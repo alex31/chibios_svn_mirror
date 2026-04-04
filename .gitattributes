@@ -6756,6 +6756,7 @@ tools/ftl/processors/conf/mcuconf_stm32l432xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l452xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l476xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l496xx/mcuconf.h.ftl -text
+tools/ftl/processors/conf/mcuconf_stm32l4pxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l4rxxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32l5x2xx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/mcuconf_stm32u073xx/mcuconf.h.ftl -text
