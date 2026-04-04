@@ -5300,6 +5300,11 @@ testhal/RP/RP2040/XIP-VALIDATION/cfg/chconf.h -text
 testhal/RP/RP2040/XIP-VALIDATION/cfg/halconf.h -text
 testhal/RP/RP2040/XIP-VALIDATION/cfg/mcuconf.h -text
 testhal/RP/RP2040/XIP-VALIDATION/main.c -text
+testhal/RP/RP2350/XIP-VALIDATION/Makefile -text
+testhal/RP/RP2350/XIP-VALIDATION/cfg/chconf.h -text
+testhal/RP/RP2350/XIP-VALIDATION/cfg/halconf.h -text
+testhal/RP/RP2350/XIP-VALIDATION/cfg/mcuconf.h -text
+testhal/RP/RP2350/XIP-VALIDATION/main.c -text
 testhal/RP/multi/EFL-MFS/Makefile -text
 testhal/RP/multi/EFL-MFS/cfg/rp2040_pico/chconf.h -text
 testhal/RP/multi/EFL-MFS/cfg/rp2040_pico/halconf.h -text
