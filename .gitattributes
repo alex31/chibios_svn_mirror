@@ -5029,7 +5029,6 @@ test/rt/variant/make/cfg6/Makefile -text
 test/rt/variant/make/cfg7/Makefile -text
 test/rt/variant/make/cfg8/Makefile -text
 test/rt/variant/make/cfg9/Makefile -text
-/test_file.txt -text
 testex/ADUCM/SPI-ADXL355/.cproject -text
 testex/ADUCM/SPI-ADXL355/.project -text
 testex/ADUCM/SPI-ADXL355/Makefile -text
