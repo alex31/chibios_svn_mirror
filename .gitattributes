@@ -3131,6 +3131,7 @@ os/hal/include/hal_can.h -text
 os/hal/include/hal_channels.h -text
 os/hal/include/hal_crypto.h -text
 os/hal/include/hal_dac.h -text
+os/hal/include/hal_dspl.h -text
 os/hal/include/hal_efl.h -text
 os/hal/include/hal_files.h -text
 os/hal/include/hal_flash.h -text
@@ -4163,6 +4164,7 @@ os/hal/src/hal_buffers.c -text
 os/hal/src/hal_can.c -text
 os/hal/src/hal_crypto.c -text
 os/hal/src/hal_dac.c -text
+os/hal/src/hal_dspl.c -text
 os/hal/src/hal_efl.c -text
 os/hal/src/hal_flash.c -text
 os/hal/src/hal_gpt.c -text
@@ -4201,6 +4203,8 @@ os/hal/templates/hal_crypto_lld.c -text
 os/hal/templates/hal_crypto_lld.h -text
 os/hal/templates/hal_dac_lld.c -text
 os/hal/templates/hal_dac_lld.h -text
+os/hal/templates/hal_dspl_lld.c -text
+os/hal/templates/hal_dspl_lld.h -text
 os/hal/templates/hal_efl_lld.c -text
 os/hal/templates/hal_efl_lld.h -text
 os/hal/templates/hal_gpt_lld.c -text
