@@ -4524,6 +4524,7 @@ os/vfs/templates/vfsconf.h -text
 os/vfs/vfs.mk -text
 os/vfs/vfs_syscalls.mk -text
 os/xhal/codegen/config.fmpp -text
+os/xhal/codegen/hal_adc.xml -text
 os/xhal/codegen/hal_base_driver.xml -text
 os/xhal/codegen/hal_block_io.xml -text
 os/xhal/codegen/hal_buffered_serial.xml -text
@@ -4537,6 +4538,7 @@ os/xhal/codegen/modules.xml -text
 os/xhal/concepts.txt -text
 os/xhal/dox/xhal_arch.dox -text
 os/xhal/include/hal.h -text
+os/xhal/include/hal_adc.h -text
 os/xhal/include/hal_base_driver.h -text
 os/xhal/include/hal_block_io.h -text
 os/xhal/include/hal_buffered_serial.h -text
@@ -4736,6 +4738,8 @@ os/xhal/ports/common/ARMCMx/sau.c -text
 os/xhal/ports/common/ARMCMx/sau.h -text
 os/xhal/ports/templates/hal_eth_lld.c -text
 os/xhal/ports/templates/hal_eth_lld.h -text
+os/xhal/ports/vio/hal_adc_lld.c -text
+os/xhal/ports/vio/hal_adc_lld.h -text
 os/xhal/ports/vio/hal_eth_lld.c -text
 os/xhal/ports/vio/hal_eth_lld.h -text
 os/xhal/ports/vio/hal_lld.c -text
@@ -4752,6 +4756,7 @@ os/xhal/ports/vio/hal_st_lld.c -text
 os/xhal/ports/vio/hal_st_lld.h -text
 os/xhal/ports/vio/platform.mk -text
 os/xhal/src/hal.c -text
+os/xhal/src/hal_adc.c -text
 os/xhal/src/hal_base_driver.c -text
 os/xhal/src/hal_buffered_serial.c -text
 os/xhal/src/hal_cb_driver.c -text
