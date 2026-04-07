@@ -6681,6 +6681,16 @@ testrt/WKP_STORM/make/stm32l552ze_nucleo144.make -text
 testrt/WKP_STORM/make/stm32l552ze_nucleo144_alt.make -text
 testrt/WKP_STORM/make/stm32u385rg_nucleo64.make -text
 testrt/WKP_STORM/make/stm32u385rg_nucleo64_alt.make -text
+testxhal/RTC/.cproject -text
+testxhal/RTC/.project -text
+testxhal/RTC/Makefile -text
+testxhal/RTC/cfg/stm32g474re_nucleo64/chconf.h -text
+testxhal/RTC/cfg/stm32g474re_nucleo64/portab.c -text
+testxhal/RTC/cfg/stm32g474re_nucleo64/portab.h -text
+testxhal/RTC/cfg/stm32g474re_nucleo64/xhalconf.h -text
+testxhal/RTC/cfg/stm32g474re_nucleo64/xmcuconf.h -text
+testxhal/RTC/main.c -text
+testxhal/RTC/make/stm32g474re_nucleo64.make -text
 testxhal/SPI/.cproject -text
 testxhal/SPI/.project -text
 testxhal/SPI/Makefile -text
