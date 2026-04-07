@@ -4553,6 +4553,12 @@ os/xhal/include/hal_safety.h -text
 os/xhal/include/hal_sio.h -text
 os/xhal/include/hal_spi.h -text
 os/xhal/include/hal_st.h -text
+os/xhal/ports/STM32/LLD/ADCv3/driver.mk -text
+os/xhal/ports/STM32/LLD/ADCv3/hal_adc_lld.c -text
+os/xhal/ports/STM32/LLD/ADCv3/hal_adc_lld.h -text
+os/xhal/ports/STM32/LLD/ADCv6/driver.mk -text
+os/xhal/ports/STM32/LLD/ADCv6/hal_adc_lld.c -text
+os/xhal/ports/STM32/LLD/ADCv6/hal_adc_lld.h -text
 os/xhal/ports/STM32/LLD/DMA3v1/driver.mk -text
 os/xhal/ports/STM32/LLD/DMA3v1/stm32_dma3.c -text
 os/xhal/ports/STM32/LLD/DMA3v1/stm32_dma3.h -text
