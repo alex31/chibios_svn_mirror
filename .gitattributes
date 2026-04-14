@@ -4540,6 +4540,7 @@ os/xhal/codegen/hal_gpt.xml -text
 os/xhal/codegen/hal_rtc.xml -text
 os/xhal/codegen/hal_sio.xml -text
 os/xhal/codegen/hal_spi.xml -text
+os/xhal/codegen/hal_wspi.xml -text
 os/xhal/codegen/modules.xml -text
 os/xhal/concepts.txt -text
 os/xhal/dox/xhal_arch.dox -text
@@ -4560,6 +4561,7 @@ os/xhal/include/hal_safety.h -text
 os/xhal/include/hal_sio.h -text
 os/xhal/include/hal_spi.h -text
 os/xhal/include/hal_st.h -text
+os/xhal/include/hal_wspi.h -text
 os/xhal/ports/STM32/LLD/ADC/stm32_adc1.inc -text
 os/xhal/ports/STM32/LLD/ADC/stm32_adc1_2.inc -text
 os/xhal/ports/STM32/LLD/ADC/stm32_adc2.inc -text
@@ -4638,6 +4640,9 @@ os/xhal/ports/STM32/LLD/GPIOv2/hal_pal_lld.h -text
 os/xhal/ports/STM32/LLD/GPIOv2/stm32_gpio.h -text
 os/xhal/ports/STM32/LLD/ICACHEv1/driver.mk -text
 os/xhal/ports/STM32/LLD/ICACHEv1/stm32_icache.inc -text
+os/xhal/ports/STM32/LLD/QUADSPIv1/driver.mk -text
+os/xhal/ports/STM32/LLD/QUADSPIv1/hal_wspi_lld.c -text
+os/xhal/ports/STM32/LLD/QUADSPIv1/hal_wspi_lld.h -text
 os/xhal/ports/STM32/LLD/RCCv1/driver.mk -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_ahb.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_ahb3.inc -text
@@ -4734,6 +4739,7 @@ os/xhal/ports/STM32/LLD/USARTv3/driver.mk -text
 os/xhal/ports/STM32/LLD/USARTv3/hal_sio_lld.c -text
 os/xhal/ports/STM32/LLD/USARTv3/hal_sio_lld.h -text
 os/xhal/ports/STM32/LLD/USARTv3/stm32_usart.h -text
+os/xhal/ports/STM32/LLD/WSPI/stm32_quadspi1.inc -text
 os/xhal/ports/STM32/STM32G4xx/hal_lld.c -text
 os/xhal/ports/STM32/STM32G4xx/hal_lld.h -text
 os/xhal/ports/STM32/STM32G4xx/platform.mk -text
@@ -4789,6 +4795,7 @@ os/xhal/src/hal_safety.c -text
 os/xhal/src/hal_sio.c -text
 os/xhal/src/hal_spi.c -text
 os/xhal/src/hal_st.c -text
+os/xhal/src/hal_wspi.c -text
 os/xhal/xhal.mk -text
 /readme.txt -text
 /release_note_next.txt -text
