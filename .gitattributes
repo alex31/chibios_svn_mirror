@@ -4640,6 +4640,9 @@ os/xhal/ports/STM32/LLD/GPIOv2/hal_pal_lld.h -text
 os/xhal/ports/STM32/LLD/GPIOv2/stm32_gpio.h -text
 os/xhal/ports/STM32/LLD/ICACHEv1/driver.mk -text
 os/xhal/ports/STM32/LLD/ICACHEv1/stm32_icache.inc -text
+os/xhal/ports/STM32/LLD/OCTOSPIv2/driver.mk -text
+os/xhal/ports/STM32/LLD/OCTOSPIv2/hal_wspi_lld.c -text
+os/xhal/ports/STM32/LLD/OCTOSPIv2/hal_wspi_lld.h -text
 os/xhal/ports/STM32/LLD/QUADSPIv1/driver.mk -text
 os/xhal/ports/STM32/LLD/QUADSPIv1/hal_wspi_lld.c -text
 os/xhal/ports/STM32/LLD/QUADSPIv1/hal_wspi_lld.h -text
@@ -4739,6 +4742,7 @@ os/xhal/ports/STM32/LLD/USARTv3/driver.mk -text
 os/xhal/ports/STM32/LLD/USARTv3/hal_sio_lld.c -text
 os/xhal/ports/STM32/LLD/USARTv3/hal_sio_lld.h -text
 os/xhal/ports/STM32/LLD/USARTv3/stm32_usart.h -text
+os/xhal/ports/STM32/LLD/WSPI/stm32_octospi1.inc -text
 os/xhal/ports/STM32/LLD/WSPI/stm32_quadspi1.inc -text
 os/xhal/ports/STM32/STM32G4xx/hal_lld.c -text
 os/xhal/ports/STM32/STM32G4xx/hal_lld.h -text
