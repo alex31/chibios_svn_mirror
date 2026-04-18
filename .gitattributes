@@ -6925,6 +6925,7 @@ tools/ftl/xml/stm32wlboard.xml -text
 tools/mk/autobuild.mk -text
 tools/mkromfs/mkromfs.py -text
 tools/mkromfs/mkromfs.sh -text
+tools/mkromfs/readme.txt -text
 tools/style/py_style_avr_demos.sh -text
 tools/style/py_style_avr_lld.sh -text
 tools/style/py_style_avr_testhal.sh -text
