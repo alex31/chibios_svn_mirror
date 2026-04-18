@@ -2425,8 +2425,10 @@ os/common/startup/e200/devices/SPC56ELxx/boot.h -text
 os/common/startup/e200/devices/SPC56ELxx/intc.h -text
 os/common/startup/e200/devices/SPC56ELxx/ppcparams.h -text
 os/common/utils/include/errcodes.h -text
+os/common/utils/include/packbits.h -text
 os/common/utils/include/paths.h -text
 os/common/utils/include/sglob.h -text
+os/common/utils/src/packbits.c -text
 os/common/utils/src/paths.c -text
 os/common/utils/src/sglob.c -text
 os/common/utils/utils.mk -text
