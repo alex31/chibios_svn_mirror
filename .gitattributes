@@ -578,6 +578,9 @@ demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/mcuconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/portab.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/chconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/halconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/mcuconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/portab.h -text
 demos/STM32/RT-STM32-MULTI/main.c -text
@@ -1084,6 +1087,7 @@ demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/components.html -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/files.html -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/index.html -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/layout.html -text
+demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/romfs_settings.json -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/http/style.css -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/main.c -text
 demos/STM32/RT-STM32H563ZI-NUCLEO144-SB_HOST_SWITCHED/source/http_romfs.c -text
