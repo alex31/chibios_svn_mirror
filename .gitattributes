@@ -2777,6 +2777,9 @@ os/hal/boards/ST_NUCLEO144_L552ZE/board.h -text
 os/hal/boards/ST_NUCLEO144_L552ZE/board.mk -text
 os/hal/boards/ST_NUCLEO144_L552ZE/cfg/board.chcfg -text
 os/hal/boards/ST_NUCLEO144_L552ZE/cfg/board.fmpp -text
+os/hal/boards/ST_NUCLEO144_U575ZI_Q/board.c -text
+os/hal/boards/ST_NUCLEO144_U575ZI_Q/board.h -text
+os/hal/boards/ST_NUCLEO144_U575ZI_Q/board.mk -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.c -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.h -text
 os/hal/boards/ST_NUCLEO32_F031K6/board.mk -text
@@ -4109,6 +4112,13 @@ os/hal/ports/STM32/STM32U3xx/stm32_isr.h -text
 os/hal/ports/STM32/STM32U3xx/stm32_limits.h -text
 os/hal/ports/STM32/STM32U3xx/stm32_rcc.h -text
 os/hal/ports/STM32/STM32U3xx/stm32_registry.h -text
+os/hal/ports/STM32/STM32U5xx/hal_lld.c -text
+os/hal/ports/STM32/STM32U5xx/hal_lld.h -text
+os/hal/ports/STM32/STM32U5xx/platform.mk -text
+os/hal/ports/STM32/STM32U5xx/stm32_isr.c -text
+os/hal/ports/STM32/STM32U5xx/stm32_isr.h -text
+os/hal/ports/STM32/STM32U5xx/stm32_rcc.h -text
+os/hal/ports/STM32/STM32U5xx/stm32_registry.h -text
 os/hal/ports/STM32/STM32WBxx/hal_lld.c -text
 os/hal/ports/STM32/STM32WBxx/hal_lld.h -text
 os/hal/ports/STM32/STM32WBxx/platform.mk -text
