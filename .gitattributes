@@ -4545,6 +4545,7 @@ os/xhal/codegen/hal_cb_driver.xml -text
 os/xhal/codegen/hal_channels.xml -text
 os/xhal/codegen/hal_eth.xml -text
 os/xhal/codegen/hal_gpt.xml -text
+os/xhal/codegen/hal_icu.xml -text
 os/xhal/codegen/hal_pwm.xml -text
 os/xhal/codegen/hal_rtc.xml -text
 os/xhal/codegen/hal_sio.xml -text
@@ -4562,6 +4563,7 @@ os/xhal/include/hal_cb_driver.h -text
 os/xhal/include/hal_channels.h -text
 os/xhal/include/hal_eth.h -text
 os/xhal/include/hal_gpt.h -text
+os/xhal/include/hal_icu.h -text
 os/xhal/include/hal_mii.h -text
 os/xhal/include/hal_pal.h -text
 os/xhal/include/hal_pwm.h -text
@@ -4802,6 +4804,7 @@ os/xhal/src/hal_buffered_serial.c -text
 os/xhal/src/hal_cb_driver.c -text
 os/xhal/src/hal_eth.c -text
 os/xhal/src/hal_gpt.c -text
+os/xhal/src/hal_icu.c -text
 os/xhal/src/hal_pal.c -text
 os/xhal/src/hal_pwm.c -text
 os/xhal/src/hal_queues.c -text
