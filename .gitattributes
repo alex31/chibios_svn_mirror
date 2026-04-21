@@ -4550,6 +4550,7 @@ os/xhal/codegen/hal_i2c.xml -text
 os/xhal/codegen/hal_icu.xml -text
 os/xhal/codegen/hal_pwm.xml -text
 os/xhal/codegen/hal_rtc.xml -text
+os/xhal/codegen/hal_sdc.xml -text
 os/xhal/codegen/hal_sio.xml -text
 os/xhal/codegen/hal_spi.xml -text
 os/xhal/codegen/hal_wspi.xml -text
@@ -4574,6 +4575,7 @@ os/xhal/include/hal_pwm.h -text
 os/xhal/include/hal_queues.h -text
 os/xhal/include/hal_rtc.h -text
 os/xhal/include/hal_safety.h -text
+os/xhal/include/hal_sdc.h -text
 os/xhal/include/hal_sio.h -text
 os/xhal/include/hal_spi.h -text
 os/xhal/include/hal_st.h -text
@@ -4705,6 +4707,11 @@ os/xhal/ports/STM32/LLD/RTCv4/hal_rtc_lld.c -text
 os/xhal/ports/STM32/LLD/RTCv4/hal_rtc_lld.h -text
 os/xhal/ports/STM32/LLD/RTCv4/stm32_rtc_g4.inc -text
 os/xhal/ports/STM32/LLD/RTCv4/stm32_rtc_h5.inc -text
+os/xhal/ports/STM32/LLD/SDMMCv2/driver.mk -text
+os/xhal/ports/STM32/LLD/SDMMCv2/hal_sdc_lld.c -text
+os/xhal/ports/STM32/LLD/SDMMCv2/hal_sdc_lld.h -text
+os/xhal/ports/STM32/LLD/SDMMCv2/stm32_sdmmc1.inc -text
+os/xhal/ports/STM32/LLD/SDMMCv2/stm32_sdmmc2.inc -text
 os/xhal/ports/STM32/LLD/SPI/stm32_spi1.inc -text
 os/xhal/ports/STM32/LLD/SPI/stm32_spi2.inc -text
 os/xhal/ports/STM32/LLD/SPI/stm32_spi3.inc -text
@@ -4832,6 +4839,7 @@ os/xhal/src/hal_pwm.c -text
 os/xhal/src/hal_queues.c -text
 os/xhal/src/hal_rtc.c -text
 os/xhal/src/hal_safety.c -text
+os/xhal/src/hal_sdc.c -text
 os/xhal/src/hal_sio.c -text
 os/xhal/src/hal_spi.c -text
 os/xhal/src/hal_st.c -text
