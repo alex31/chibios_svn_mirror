@@ -4582,6 +4582,9 @@ os/xhal/include/hal_spi.h -text
 os/xhal/include/hal_st.h -text
 os/xhal/include/hal_usb.h -text
 os/xhal/include/hal_wspi.h -text
+os/xhal/lib/complex/mmc-spi/hal_mmc_spi.c -text
+os/xhal/lib/complex/mmc-spi/hal_mmc_spi.h -text
+os/xhal/lib/complex/mmc-spi/hal_mmc_spi.mk -text
 os/xhal/ports/STM32/LLD/ADC/stm32_adc1.inc -text
 os/xhal/ports/STM32/LLD/ADC/stm32_adc1_2.inc -text
 os/xhal/ports/STM32/LLD/ADC/stm32_adc2.inc -text
@@ -6775,6 +6778,14 @@ testxhal/ADC-GPT/cfg/stm32g474re_nucleo64/xhalconf.h -text
 testxhal/ADC-GPT/cfg/stm32g474re_nucleo64/xmcuconf.h -text
 testxhal/ADC-GPT/main.c -text
 testxhal/ADC-GPT/make/stm32g474re_nucleo64.make -text
+testxhal/MMC-SPI/Makefile -text
+testxhal/MMC-SPI/cfg/stm32g474re_nucleo64/chconf.h -text
+testxhal/MMC-SPI/cfg/stm32g474re_nucleo64/portab.c -text
+testxhal/MMC-SPI/cfg/stm32g474re_nucleo64/portab.h -text
+testxhal/MMC-SPI/cfg/stm32g474re_nucleo64/xhalconf.h -text
+testxhal/MMC-SPI/cfg/stm32g474re_nucleo64/xmcuconf.h -text
+testxhal/MMC-SPI/main.c -text
+testxhal/MMC-SPI/make/stm32g474re_nucleo64.make -text
 testxhal/RTC/.cproject -text
 testxhal/RTC/.project -text
 testxhal/RTC/Makefile -text
