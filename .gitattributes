@@ -6836,6 +6836,9 @@ testxhal/DAC-GPT/cfg/stm32h563zi_nucleo144/xmcuconf.h -text
 testxhal/DAC-GPT/main.c -text
 testxhal/DAC-GPT/make/stm32g474re_nucleo64.make -text
 testxhal/DAC-GPT/make/stm32h563zi_nucleo144.make -text
+testxhal/EFL-MFS/.cproject -text
+testxhal/EFL-MFS/.project -text
+testxhal/EFL-MFS/Makefile -text
 testxhal/EFL-MFS/cfg/stm32g474re_nucleo64/chconf.h -text
 testxhal/EFL-MFS/cfg/stm32g474re_nucleo64/portab.c -text
 testxhal/EFL-MFS/cfg/stm32g474re_nucleo64/portab.h -text
