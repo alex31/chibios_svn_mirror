@@ -4771,7 +4771,9 @@ os/xhal/ports/STM32/LLD/TIMv1/stm32_tim3_4.inc -text
 os/xhal/ports/STM32/LLD/TIMv1/stm32_tim4.inc -text
 os/xhal/ports/STM32/LLD/TIMv1/stm32_tim5.inc -text
 os/xhal/ports/STM32/LLD/TIMv1/stm32_tim6.inc -text
+os/xhal/ports/STM32/LLD/TIMv1/stm32_tim6_dac.inc -text
 os/xhal/ports/STM32/LLD/TIMv1/stm32_tim7.inc -text
+os/xhal/ports/STM32/LLD/TIMv1/stm32_tim7_dac.inc -text
 os/xhal/ports/STM32/LLD/TIMv1/stm32_tim8.inc -text
 os/xhal/ports/STM32/LLD/TIMv1/stm32_tim8_12_13_14.inc -text
 os/xhal/ports/STM32/LLD/TIMv1/tim_irq_mapping.txt -text
