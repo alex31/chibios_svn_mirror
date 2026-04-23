@@ -4548,6 +4548,7 @@ os/xhal/codegen/hal_dac.xml -text
 os/xhal/codegen/hal_eth.xml -text
 os/xhal/codegen/hal_gpt.xml -text
 os/xhal/codegen/hal_i2c.xml -text
+os/xhal/codegen/hal_i2s.xml -text
 os/xhal/codegen/hal_icu.xml -text
 os/xhal/codegen/hal_pwm.xml -text
 os/xhal/codegen/hal_rtc.xml -text
@@ -4571,6 +4572,7 @@ os/xhal/include/hal_dac.h -text
 os/xhal/include/hal_eth.h -text
 os/xhal/include/hal_gpt.h -text
 os/xhal/include/hal_i2c.h -text
+os/xhal/include/hal_i2s.h -text
 os/xhal/include/hal_icu.h -text
 os/xhal/include/hal_mii.h -text
 os/xhal/include/hal_pal.h -text
@@ -4583,8 +4585,6 @@ os/xhal/include/hal_sio.h -text
 os/xhal/include/hal_spi.h -text
 os/xhal/include/hal_st.h -text
 os/xhal/include/hal_usb.h -text
-os/xhal/include/hal_usb_binder.h -text
-os/xhal/include/hal_usb_service.h -text
 os/xhal/include/hal_wspi.h -text
 os/xhal/lib/complex/mmc-spi/hal_mmc_spi.c -text
 os/xhal/lib/complex/mmc-spi/hal_mmc_spi.h -text
@@ -4738,6 +4738,8 @@ os/xhal/ports/STM32/LLD/SPI/stm32_spi4.inc -text
 os/xhal/ports/STM32/LLD/SPI/stm32_spi5.inc -text
 os/xhal/ports/STM32/LLD/SPI/stm32_spi6.inc -text
 os/xhal/ports/STM32/LLD/SPIv2/driver.mk -text
+os/xhal/ports/STM32/LLD/SPIv2/hal_i2s_lld.c -text
+os/xhal/ports/STM32/LLD/SPIv2/hal_i2s_lld.h -text
 os/xhal/ports/STM32/LLD/SPIv2/hal_spi_lld.c -text
 os/xhal/ports/STM32/LLD/SPIv2/hal_spi_lld.h -text
 os/xhal/ports/STM32/LLD/SYSTICKv1/driver.mk -text
@@ -4860,6 +4862,7 @@ os/xhal/src/hal_dac.c -text
 os/xhal/src/hal_eth.c -text
 os/xhal/src/hal_gpt.c -text
 os/xhal/src/hal_i2c.c -text
+os/xhal/src/hal_i2s.c -text
 os/xhal/src/hal_icu.c -text
 os/xhal/src/hal_pal.c -text
 os/xhal/src/hal_pwm.c -text
@@ -4871,8 +4874,6 @@ os/xhal/src/hal_sio.c -text
 os/xhal/src/hal_spi.c -text
 os/xhal/src/hal_st.c -text
 os/xhal/src/hal_usb.c -text
-os/xhal/src/hal_usb_binder.c -text
-os/xhal/src/hal_usb_service.c -text
 os/xhal/src/hal_wspi.c -text
 os/xhal/xhal.mk -text
 /readme.txt -text
