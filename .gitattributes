@@ -4544,6 +4544,7 @@ os/xhal/codegen/hal_buffered_serial.xml -text
 os/xhal/codegen/hal_can.xml -text
 os/xhal/codegen/hal_cb_driver.xml -text
 os/xhal/codegen/hal_channels.xml -text
+os/xhal/codegen/hal_dac.xml -text
 os/xhal/codegen/hal_eth.xml -text
 os/xhal/codegen/hal_gpt.xml -text
 os/xhal/codegen/hal_i2c.xml -text
@@ -4566,6 +4567,7 @@ os/xhal/include/hal_buffered_serial.h -text
 os/xhal/include/hal_can.h -text
 os/xhal/include/hal_cb_driver.h -text
 os/xhal/include/hal_channels.h -text
+os/xhal/include/hal_dac.h -text
 os/xhal/include/hal_eth.h -text
 os/xhal/include/hal_gpt.h -text
 os/xhal/include/hal_i2c.h -text
@@ -4603,6 +4605,13 @@ os/xhal/ports/STM32/LLD/ADCv3/hal_adc_lld.h -text
 os/xhal/ports/STM32/LLD/ADCv6/driver.mk -text
 os/xhal/ports/STM32/LLD/ADCv6/hal_adc_lld.c -text
 os/xhal/ports/STM32/LLD/ADCv6/hal_adc_lld.h -text
+os/xhal/ports/STM32/LLD/DAC/stm32_dac1.inc -text
+os/xhal/ports/STM32/LLD/DACv1/driver.mk -text
+os/xhal/ports/STM32/LLD/DACv1/hal_dac_lld.c -text
+os/xhal/ports/STM32/LLD/DACv1/hal_dac_lld.h -text
+os/xhal/ports/STM32/LLD/DACv2/driver.mk -text
+os/xhal/ports/STM32/LLD/DACv2/hal_dac_lld.c -text
+os/xhal/ports/STM32/LLD/DACv2/hal_dac_lld.h -text
 os/xhal/ports/STM32/LLD/DMA3v1/driver.mk -text
 os/xhal/ports/STM32/LLD/DMA3v1/stm32_dma3.c -text
 os/xhal/ports/STM32/LLD/DMA3v1/stm32_dma3.h -text
@@ -4845,6 +4854,7 @@ os/xhal/src/hal_base_driver.c -text
 os/xhal/src/hal_buffered_serial.c -text
 os/xhal/src/hal_can.c -text
 os/xhal/src/hal_cb_driver.c -text
+os/xhal/src/hal_dac.c -text
 os/xhal/src/hal_eth.c -text
 os/xhal/src/hal_gpt.c -text
 os/xhal/src/hal_i2c.c -text
