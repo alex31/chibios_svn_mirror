@@ -4545,6 +4545,7 @@ os/xhal/codegen/hal_can.xml -text
 os/xhal/codegen/hal_cb_driver.xml -text
 os/xhal/codegen/hal_channels.xml -text
 os/xhal/codegen/hal_dac.xml -text
+os/xhal/codegen/hal_efl.xml -text
 os/xhal/codegen/hal_eth.xml -text
 os/xhal/codegen/hal_flash_base.xml -text
 os/xhal/codegen/hal_flash_interface.xml -text
@@ -4571,6 +4572,7 @@ os/xhal/include/hal_can.h -text
 os/xhal/include/hal_cb_driver.h -text
 os/xhal/include/hal_channels.h -text
 os/xhal/include/hal_dac.h -text
+os/xhal/include/hal_efl.h -text
 os/xhal/include/hal_eth.h -text
 os/xhal/include/hal_flash_base.h -text
 os/xhal/include/hal_flash_interface.h -text
@@ -4818,6 +4820,8 @@ os/xhal/ports/STM32/LLD/USBv1/hal_usb_lld.h -text
 os/xhal/ports/STM32/LLD/USBv1/stm32_usb.h -text
 os/xhal/ports/STM32/LLD/WSPI/stm32_octospi1.inc -text
 os/xhal/ports/STM32/LLD/WSPI/stm32_quadspi1.inc -text
+os/xhal/ports/STM32/STM32G4xx/hal_efl_lld.c -text
+os/xhal/ports/STM32/STM32G4xx/hal_efl_lld.h -text
 os/xhal/ports/STM32/STM32G4xx/hal_lld.c -text
 os/xhal/ports/STM32/STM32G4xx/hal_lld.h -text
 os/xhal/ports/STM32/STM32G4xx/platform.mk -text
@@ -4866,6 +4870,7 @@ os/xhal/src/hal_buffered_serial.c -text
 os/xhal/src/hal_can.c -text
 os/xhal/src/hal_cb_driver.c -text
 os/xhal/src/hal_dac.c -text
+os/xhal/src/hal_efl.c -text
 os/xhal/src/hal_eth.c -text
 os/xhal/src/hal_flash_base.c -text
 os/xhal/src/hal_gpt.c -text
