@@ -4575,6 +4575,7 @@ os/xhal/include/hal_channels.h -text
 os/xhal/include/hal_dac.h -text
 os/xhal/include/hal_efl.h -text
 os/xhal/include/hal_eth.h -text
+os/xhal/include/hal_flash.h -text
 os/xhal/include/hal_flash_base.h -text
 os/xhal/include/hal_flash_interface.h -text
 os/xhal/include/hal_gpt.h -text
@@ -6835,6 +6836,13 @@ testxhal/DAC-GPT/cfg/stm32h563zi_nucleo144/xmcuconf.h -text
 testxhal/DAC-GPT/main.c -text
 testxhal/DAC-GPT/make/stm32g474re_nucleo64.make -text
 testxhal/DAC-GPT/make/stm32h563zi_nucleo144.make -text
+testxhal/EFL-MFS/cfg/stm32g474re_nucleo64/chconf.h -text
+testxhal/EFL-MFS/cfg/stm32g474re_nucleo64/portab.c -text
+testxhal/EFL-MFS/cfg/stm32g474re_nucleo64/portab.h -text
+testxhal/EFL-MFS/cfg/stm32g474re_nucleo64/xhalconf.h -text
+testxhal/EFL-MFS/cfg/stm32g474re_nucleo64/xmcuconf.h -text
+testxhal/EFL-MFS/main.c -text
+testxhal/EFL-MFS/make/stm32g474re_nucleo64.make -text
 testxhal/I2S/.cproject -text
 testxhal/I2S/.project -text
 testxhal/I2S/Makefile -text
