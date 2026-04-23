@@ -4546,6 +4546,8 @@ os/xhal/codegen/hal_cb_driver.xml -text
 os/xhal/codegen/hal_channels.xml -text
 os/xhal/codegen/hal_dac.xml -text
 os/xhal/codegen/hal_eth.xml -text
+os/xhal/codegen/hal_flash_base.xml -text
+os/xhal/codegen/hal_flash_interface.xml -text
 os/xhal/codegen/hal_gpt.xml -text
 os/xhal/codegen/hal_i2c.xml -text
 os/xhal/codegen/hal_i2s.xml -text
@@ -4570,6 +4572,8 @@ os/xhal/include/hal_cb_driver.h -text
 os/xhal/include/hal_channels.h -text
 os/xhal/include/hal_dac.h -text
 os/xhal/include/hal_eth.h -text
+os/xhal/include/hal_flash_base.h -text
+os/xhal/include/hal_flash_interface.h -text
 os/xhal/include/hal_gpt.h -text
 os/xhal/include/hal_i2c.h -text
 os/xhal/include/hal_i2s.h -text
@@ -4589,6 +4593,9 @@ os/xhal/include/hal_wspi.h -text
 os/xhal/lib/complex/mmc-spi/hal_mmc_spi.c -text
 os/xhal/lib/complex/mmc-spi/hal_mmc_spi.h -text
 os/xhal/lib/complex/mmc-spi/hal_mmc_spi.mk -text
+os/xhal/lib/complex/serial-usb/codegen/config.fmpp -text
+os/xhal/lib/complex/serial-usb/codegen/hal_serial_usb.xml -text
+os/xhal/lib/complex/serial-usb/codegen/modules.xml -text
 os/xhal/lib/complex/serial-usb/hal_serial_usb.c -text
 os/xhal/lib/complex/serial-usb/hal_serial_usb.h -text
 os/xhal/lib/complex/serial-usb/hal_serial_usb.mk -text
@@ -4860,6 +4867,7 @@ os/xhal/src/hal_can.c -text
 os/xhal/src/hal_cb_driver.c -text
 os/xhal/src/hal_dac.c -text
 os/xhal/src/hal_eth.c -text
+os/xhal/src/hal_flash_base.c -text
 os/xhal/src/hal_gpt.c -text
 os/xhal/src/hal_i2c.c -text
 os/xhal/src/hal_i2s.c -text
