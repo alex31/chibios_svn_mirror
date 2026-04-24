@@ -4540,7 +4540,6 @@ os/xhal/codegen/config.fmpp -text
 os/xhal/codegen/hal_adc.xml -text
 os/xhal/codegen/hal_base_driver.xml -text
 os/xhal/codegen/hal_block_io.xml -text
-os/xhal/codegen/hal_buffered_serial.xml -text
 os/xhal/codegen/hal_can.xml -text
 os/xhal/codegen/hal_cb_driver.xml -text
 os/xhal/codegen/hal_channels.xml -text
@@ -4569,7 +4568,6 @@ os/xhal/include/hal.h -text
 os/xhal/include/hal_adc.h -text
 os/xhal/include/hal_base_driver.h -text
 os/xhal/include/hal_block_io.h -text
-os/xhal/include/hal_buffered_serial.h -text
 os/xhal/include/hal_can.h -text
 os/xhal/include/hal_cb_driver.h -text
 os/xhal/include/hal_channels.h -text
@@ -4898,7 +4896,6 @@ os/xhal/ports/vio/platform.mk -text
 os/xhal/src/hal.c -text
 os/xhal/src/hal_adc.c -text
 os/xhal/src/hal_base_driver.c -text
-os/xhal/src/hal_buffered_serial.c -text
 os/xhal/src/hal_can.c -text
 os/xhal/src/hal_cb_driver.c -text
 os/xhal/src/hal_dac.c -text
