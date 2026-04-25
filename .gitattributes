@@ -4558,6 +4558,7 @@ os/xhal/codegen/hal_rtc.xml -text
 os/xhal/codegen/hal_sdc.xml -text
 os/xhal/codegen/hal_sio.xml -text
 os/xhal/codegen/hal_spi.xml -text
+os/xhal/codegen/hal_trng.xml -text
 os/xhal/codegen/hal_usb.xml -text
 os/xhal/codegen/hal_usb_cdc.xml -text
 os/xhal/codegen/hal_wdg.xml -text
@@ -4592,6 +4593,7 @@ os/xhal/include/hal_sdc.h -text
 os/xhal/include/hal_sio.h -text
 os/xhal/include/hal_spi.h -text
 os/xhal/include/hal_st.h -text
+os/xhal/include/hal_trng.h -text
 os/xhal/include/hal_usb.h -text
 os/xhal/include/hal_usb_cdc.h -text
 os/xhal/include/hal_wdg.h -text
@@ -4758,6 +4760,9 @@ os/xhal/ports/STM32/LLD/RCCv1/stm32_pll_v2.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_pllsai1.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_pllsai1_v2.inc -text
 os/xhal/ports/STM32/LLD/RCCv1/stm32_pllsai2.inc -text
+os/xhal/ports/STM32/LLD/RNGv1/driver.mk -text
+os/xhal/ports/STM32/LLD/RNGv1/hal_trng_lld.c -text
+os/xhal/ports/STM32/LLD/RNGv1/hal_trng_lld.h -text
 os/xhal/ports/STM32/LLD/RTCv4/driver.mk -text
 os/xhal/ports/STM32/LLD/RTCv4/hal_rtc_lld.c -text
 os/xhal/ports/STM32/LLD/RTCv4/hal_rtc_lld.h -text
@@ -4916,6 +4921,7 @@ os/xhal/src/hal_sdc.c -text
 os/xhal/src/hal_sio.c -text
 os/xhal/src/hal_spi.c -text
 os/xhal/src/hal_st.c -text
+os/xhal/src/hal_trng.c -text
 os/xhal/src/hal_usb.c -text
 os/xhal/src/hal_usb_cdc.c -text
 os/xhal/src/hal_wdg.c -text
@@ -6912,6 +6918,22 @@ testxhal/SPI/cfg/stm32g474re_nucleo64/xhalconf.h -text
 testxhal/SPI/cfg/stm32g474re_nucleo64/xmcuconf.h -text
 testxhal/SPI/main.c -text
 testxhal/SPI/make/stm32g474re_nucleo64.make -text
+testxhal/TRNG/.cproject -text
+testxhal/TRNG/.project -text
+testxhal/TRNG/Makefile -text
+testxhal/TRNG/cfg/stm32g474re_nucleo64/chconf.h -text
+testxhal/TRNG/cfg/stm32g474re_nucleo64/portab.c -text
+testxhal/TRNG/cfg/stm32g474re_nucleo64/portab.h -text
+testxhal/TRNG/cfg/stm32g474re_nucleo64/xhalconf.h -text
+testxhal/TRNG/cfg/stm32g474re_nucleo64/xmcuconf.h -text
+testxhal/TRNG/cfg/stm32h563zi_nucleo144/chconf.h -text
+testxhal/TRNG/cfg/stm32h563zi_nucleo144/portab.c -text
+testxhal/TRNG/cfg/stm32h563zi_nucleo144/portab.h -text
+testxhal/TRNG/cfg/stm32h563zi_nucleo144/xhalconf.h -text
+testxhal/TRNG/cfg/stm32h563zi_nucleo144/xmcuconf.h -text
+testxhal/TRNG/main.c -text
+testxhal/TRNG/make/stm32g474re_nucleo64.make -text
+testxhal/TRNG/make/stm32h563zi_nucleo144.make -text
 testxhal/USB_CDC/.cproject -text
 testxhal/USB_CDC/.project -text
 testxhal/USB_CDC/Makefile -text
