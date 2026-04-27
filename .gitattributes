@@ -4460,10 +4460,14 @@ os/sb/user/sbuser.mk -text
 os/sb/vio/sbvio.c -text
 os/sb/vio/sbvio.h -text
 os/sb/vio/sbvio.mk -text
+os/sb/vio/sbvio_adc.c -text
+os/sb/vio/sbvio_adc.h -text
 os/sb/vio/sbvio_eth.c -text
 os/sb/vio/sbvio_eth.h -text
 os/sb/vio/sbvio_gpio.c -text
 os/sb/vio/sbvio_gpio.h -text
+os/sb/vio/sbvio_gpt.c -text
+os/sb/vio/sbvio_gpt.h -text
 os/sb/vio/sbvio_spi.c -text
 os/sb/vio/sbvio_spi.h -text
 os/sb/vio/sbvio_uart.c -text
@@ -5024,6 +5028,8 @@ os/xhal/ports/vio/hal_adc_lld.c -text
 os/xhal/ports/vio/hal_adc_lld.h -text
 os/xhal/ports/vio/hal_eth_lld.c -text
 os/xhal/ports/vio/hal_eth_lld.h -text
+os/xhal/ports/vio/hal_gpt_lld.c -text
+os/xhal/ports/vio/hal_gpt_lld.h -text
 os/xhal/ports/vio/hal_lld.c -text
 os/xhal/ports/vio/hal_lld.h -text
 os/xhal/ports/vio/hal_pal_lld.c -text
