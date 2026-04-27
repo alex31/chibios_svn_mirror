@@ -4468,6 +4468,8 @@ os/sb/vio/sbvio_gpio.c -text
 os/sb/vio/sbvio_gpio.h -text
 os/sb/vio/sbvio_gpt.c -text
 os/sb/vio/sbvio_gpt.h -text
+os/sb/vio/sbvio_i2c.c -text
+os/sb/vio/sbvio_i2c.h -text
 os/sb/vio/sbvio_spi.c -text
 os/sb/vio/sbvio_spi.h -text
 os/sb/vio/sbvio_uart.c -text
@@ -5030,6 +5032,8 @@ os/xhal/ports/vio/hal_eth_lld.c -text
 os/xhal/ports/vio/hal_eth_lld.h -text
 os/xhal/ports/vio/hal_gpt_lld.c -text
 os/xhal/ports/vio/hal_gpt_lld.h -text
+os/xhal/ports/vio/hal_i2c_lld.c -text
+os/xhal/ports/vio/hal_i2c_lld.h -text
 os/xhal/ports/vio/hal_lld.c -text
 os/xhal/ports/vio/hal_lld.h -text
 os/xhal/ports/vio/hal_pal_lld.c -text
@@ -7249,6 +7253,7 @@ tools/ftl/processors/conf/mcuconf_stm32wlxx/mcuconf.h.ftl -text
 tools/ftl/processors/conf/notes.txt -text
 tools/ftl/processors/conf/sbconf/sbconf.h.ftl -text
 tools/ftl/processors/conf/vfsconf/vfsconf.h.ftl -text
+tools/ftl/processors/conf/vioconf/vioconf.h.ftl -text
 tools/ftl/processors/conf/xhalconf/xhalconf.h.ftl -text
 tools/ftl/processors/conf/xmcuconf_stm32c071xx/xmcuconf.h.ftl -text
 tools/ftl/processors/conf/xmcuconf_stm32c0x1xx/xmcuconf.h.ftl -text
@@ -7376,6 +7381,7 @@ tools/updater/update_mcuconf_stm32wb55xx.sh -text
 tools/updater/update_mcuconf_stm32wlxx.sh -text
 tools/updater/update_sbconf.sh -text
 tools/updater/update_vfsconf.sh -text
+tools/updater/update_vioconf.sh -text
 tools/updater/update_xhalconf.sh -text
 tools/updater/update_xmcuconf_stm32c071xx.sh -text
 tools/updater/update_xmcuconf_stm32c0x1xx.sh -text
