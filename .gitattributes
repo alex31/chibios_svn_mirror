@@ -7012,6 +7012,15 @@ testsb/SB_VIO-STM32G474RE-NUCLEO64-HOST/debug_win/Win[!!-~]SB_VIO-STM32G474RE-NU
 testsb/SB_VIO-STM32G474RE-NUCLEO64-HOST/debug_win/Win[!!-~]SB_VIO-STM32G474RE-NUCLEO64-HOST[!!-~](build-ch.elf)(OpenOCD,[!!-~]Just[!!-~]Run).launch -text
 testsb/SB_VIO-STM32G474RE-NUCLEO64-HOST/main.c -text
 testsb/SB_VIO-STM32G474RE-NUCLEO64-HOST/readme_debug.txt -text
+testsb/SB_VIO-XSHELL-CLIENT/.cproject -text
+testsb/SB_VIO-XSHELL-CLIENT/.project -text
+testsb/SB_VIO-XSHELL-CLIENT/Makefile -text
+testsb/SB_VIO-XSHELL-CLIENT/cfg/chconf.h -text
+testsb/SB_VIO-XSHELL-CLIENT/cfg/xhalconf.h -text
+testsb/SB_VIO-XSHELL-CLIENT/cfg/xmcuconf.h -text
+testsb/SB_VIO-XSHELL-CLIENT/ld/256k-08040000-32k-20018000.ld -text
+testsb/SB_VIO-XSHELL-CLIENT/main.c -text
+testsb/SB_VIO-XSHELL-CLIENT/make/256k-08040000-32k-20018000.make -text
 testxhal/ADC-GPT/.cproject -text
 testxhal/ADC-GPT/.project -text
 testxhal/ADC-GPT/Makefile -text
