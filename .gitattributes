@@ -4753,6 +4753,7 @@ os/xhal/ports/STM32/LLD/ADC/stm32_adc5.inc -text
 os/xhal/ports/STM32/LLD/ADCv3/driver.mk -text
 os/xhal/ports/STM32/LLD/ADCv3/hal_adc_lld.c -text
 os/xhal/ports/STM32/LLD/ADCv3/hal_adc_lld.h -text
+os/xhal/ports/STM32/LLD/ADCv3/notes.txt -text
 os/xhal/ports/STM32/LLD/ADCv6/driver.mk -text
 os/xhal/ports/STM32/LLD/ADCv6/hal_adc_lld.c -text
 os/xhal/ports/STM32/LLD/ADCv6/hal_adc_lld.h -text
