@@ -4128,6 +4128,9 @@ os/hal/ports/STM32/STM32G4xx_OLD/stm32_isr.c -text
 os/hal/ports/STM32/STM32G4xx_OLD/stm32_isr.h -text
 os/hal/ports/STM32/STM32G4xx_OLD/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G4xx_OLD/stm32_registry.h -text
+os/hal/ports/STM32/STM32G4xx_TEST/cfg/clocktree.xml -text
+os/hal/ports/STM32/STM32G4xx_TEST/cfg/config.fmpp -text
+os/hal/ports/STM32/STM32G4xx_TEST/clocktree.h -text
 os/hal/ports/STM32/STM32H5xx/hal_lld.c -text
 os/hal/ports/STM32/STM32H5xx/hal_lld.h -text
 os/hal/ports/STM32/STM32H5xx/platform.mk -text
