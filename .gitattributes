@@ -7377,6 +7377,7 @@ tools/ftl/schema/boards/stm32u3xx_board.xsd -text
 tools/ftl/schema/boards/stm32wbxx_board.xsd -text
 tools/ftl/schema/boards/stm32wlxx_board.xsd -text
 tools/ftl/schema/ccode/modules.xsd -text
+tools/ftl/schema/clocks/clocktree.xsd -text
 tools/ftl/schema/common/code_snippets.xsd -text
 tools/ftl/schema/common/config_settings.xsd -text
 tools/ftl/schema/common/doc.xsd -text
