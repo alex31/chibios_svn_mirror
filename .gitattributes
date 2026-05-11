@@ -1703,9 +1703,6 @@ doc/quality/rt/unittest/rt-stm32h7-480mhz-gcc-alt.txt -text
 doc/quality/rt/unittest/rt-stm32h7-480mhz-gcc-fpu-alt.txt -text
 doc/quality/rt/unittest/rt-stm32h7-480mhz-gcc-fpu.txt -text
 doc/quality/rt/unittest/rt-stm32h7-480mhz-gcc.txt -text
-doc/specs/clockgen_v1.md -text
-doc/specs/clockgen_v1.xsd -text
-doc/specs/stm32h5_clocktree.xml -text
 doc/various/chibios_c.xml -text
 doc/various/chibios_java.xml -text
 doc/various/readme.txt -text
