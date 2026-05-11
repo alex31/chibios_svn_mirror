@@ -7229,6 +7229,7 @@ tools/ftl/libs/libcclasses.ftl -text
 tools/ftl/libs/libcclasses.ftlc -text
 tools/ftl/libs/libccode.ftl -text
 tools/ftl/libs/libccode.ftlc -text
+tools/ftl/libs/libclocks.ftlc -text
 tools/ftl/libs/libcode.ftl -text
 tools/ftl/libs/libcode.ftlc -text
 tools/ftl/libs/libdoxygen.ftl -text
