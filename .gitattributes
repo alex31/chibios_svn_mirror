@@ -594,6 +594,7 @@ demos/STM32/RT-STM32-MULTI/make/stm32g0b0re_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g0b1re_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g431rb_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32g474re_nucleo64.make -text
+demos/STM32/RT-STM32-MULTI/make/stm32g474re_nucleo64_clocktree.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32h503rb_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32h563zi_nucleo144.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32h723zg_nucleo144.make -text
@@ -4128,6 +4129,17 @@ os/hal/ports/STM32/STM32G4xx_OLD/stm32_registry.h -text
 os/hal/ports/STM32/STM32G4xx_TEST/cfg/clocktree.xml -text
 os/hal/ports/STM32/STM32G4xx_TEST/cfg/config.fmpp -text
 os/hal/ports/STM32/STM32G4xx_TEST/clocktree.h -text
+os/hal/ports/STM32/STM32G4xx_TEST/hal_efl_lld.c -text
+os/hal/ports/STM32/STM32G4xx_TEST/hal_efl_lld.h -text
+os/hal/ports/STM32/STM32G4xx_TEST/hal_lld.c -text
+os/hal/ports/STM32/STM32G4xx_TEST/hal_lld.h -text
+os/hal/ports/STM32/STM32G4xx_TEST/platform.mk -text
+os/hal/ports/STM32/STM32G4xx_TEST/stm32_dmamux.h -text
+os/hal/ports/STM32/STM32G4xx_TEST/stm32_isr.c -text
+os/hal/ports/STM32/STM32G4xx_TEST/stm32_isr.h -text
+os/hal/ports/STM32/STM32G4xx_TEST/stm32_limits.h -text
+os/hal/ports/STM32/STM32G4xx_TEST/stm32_rcc.h -text
+os/hal/ports/STM32/STM32G4xx_TEST/stm32_registry.h -text
 os/hal/ports/STM32/STM32H5xx/hal_lld.c -text
 os/hal/ports/STM32/STM32H5xx/hal_lld.h -text
 os/hal/ports/STM32/STM32H5xx/platform.mk -text
