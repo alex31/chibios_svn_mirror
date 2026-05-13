@@ -7306,6 +7306,7 @@ tools/ftl/processors/boards/stm32wlxx/templates/board.mk.ftl -text
 tools/ftl/processors/ccode/module.c.ftl -text
 tools/ftl/processors/ccode/module.h.ftl -text
 tools/ftl/processors/ccode/module_impl.inc.ftl -text
+tools/ftl/processors/clocktree/README.md -text
 tools/ftl/processors/clocktree/clocktree.h.ftl -text
 tools/ftl/processors/conf/chconf_nil/chconf.h.ftl -text
 tools/ftl/processors/conf/chconf_rt/chconf.h.ftl -text
