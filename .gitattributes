@@ -4137,7 +4137,6 @@ os/hal/ports/STM32/STM32G4xx_TEST/platform.mk -text
 os/hal/ports/STM32/STM32G4xx_TEST/stm32_dmamux.h -text
 os/hal/ports/STM32/STM32G4xx_TEST/stm32_isr.c -text
 os/hal/ports/STM32/STM32G4xx_TEST/stm32_isr.h -text
-os/hal/ports/STM32/STM32G4xx_TEST/stm32_limits.h -text
 os/hal/ports/STM32/STM32G4xx_TEST/stm32_rcc.h -text
 os/hal/ports/STM32/STM32G4xx_TEST/stm32_registry.h -text
 os/hal/ports/STM32/STM32H5xx/hal_lld.c -text
