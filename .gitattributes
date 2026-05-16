@@ -7397,6 +7397,14 @@ tools/ftl/schema/common/doc.xsd -text
 tools/ftl/schema/common/stm32/stm32_gpiov2_port.xsd -text
 tools/ftl/schema/common/stm32/stm32_gpiov2a_port.xsd -text
 tools/ftl/schema/common/stm32/stm32_gpiov3_port.xsd -text
+tools/ftl/tests/clocktree/README.md -text
+tools/ftl/tests/clocktree/run.sh -text
+tools/ftl/tests/clocktree/valid/consumers_auto_enable.xml -text
+tools/ftl/tests/clocktree/valid/dividers_and_multipliers.xml -text
+tools/ftl/tests/clocktree/valid/dynamic_runtime_mux_inputs.xml -text
+tools/ftl/tests/clocktree/valid/limits_with_conditional_states.xml -text
+tools/ftl/tests/clocktree/valid/manual_sources_and_bits.xml -text
+tools/ftl/tests/clocktree/valid/mux_default_and_disabled_bits.xml -text
 tools/ftl/xml/stm32c0board.xml -text
 tools/ftl/xml/stm32f0board.xml -text
 tools/ftl/xml/stm32f3board.xml -text
