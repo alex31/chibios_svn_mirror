@@ -7258,6 +7258,7 @@ tools/ftl/libs/libdoxygen.ftl -text
 tools/ftl/libs/libdoxygen.ftlc -text
 tools/ftl/libs/liblicense.ftl -text
 tools/ftl/libs/liblicense.ftlc -text
+tools/ftl/libs/libpp.ftlc -text
 tools/ftl/libs/libsnippets.ftl -text
 tools/ftl/libs/libsnippets.ftlc -text
 tools/ftl/libs/libutils.ftl -text
