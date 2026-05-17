@@ -583,6 +583,11 @@ demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/mcuconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64/portab.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64_clocktree/chconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64_clocktree/halconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64_clocktree/mcuconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64_clocktree/portab.c -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32u385rg_nucleo64_clocktree/portab.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/chconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/halconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32u575zi_nucleo144/mcuconf.h -text
@@ -614,6 +619,7 @@ demos/STM32/RT-STM32-MULTI/make/stm32l4r5zi_nucleo144.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32l4r9_discovery.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32u083rc_nucleo64.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32u385rg_nucleo64.make -text
+demos/STM32/RT-STM32-MULTI/make/stm32u385rg_nucleo64_clocktree.make -text
 demos/STM32/RT-STM32-MULTI/make/stm32u575zi_nucleo144.make -text
 demos/STM32/RT-STM32-XSHELL/.cproject -text
 demos/STM32/RT-STM32-XSHELL/.project -text
