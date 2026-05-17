@@ -507,6 +507,11 @@ demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64/mcuconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64/portab.c -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64/portab.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64_clocktree/chconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64_clocktree/halconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64_clocktree/mcuconf.h -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64_clocktree/portab.c -text
+demos/STM32/RT-STM32-MULTI/cfg/stm32g474re_nucleo64_clocktree/portab.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/chconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/halconf.h -text
 demos/STM32/RT-STM32-MULTI/cfg/stm32h503rb_nucleo64/mcuconf.h -text
@@ -7449,6 +7454,7 @@ tools/ftl/tests/clocktree/valid/derived_frequency_table.xml -text
 tools/ftl/tests/clocktree/valid/derived_frequency_table.xml.checks -text
 tools/ftl/tests/clocktree/valid/dividers_and_multipliers.xml -text
 tools/ftl/tests/clocktree/valid/dynamic_runtime_mux_inputs.xml -text
+tools/ftl/tests/clocktree/valid/dynamic_runtime_mux_inputs.xml.checks -text
 tools/ftl/tests/clocktree/valid/enable_emission_cleanup.xml -text
 tools/ftl/tests/clocktree/valid/enable_emission_cleanup.xml.checks -text
 tools/ftl/tests/clocktree/valid/limits_with_conditional_states.xml -text
