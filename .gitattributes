@@ -7444,6 +7444,8 @@ tools/ftl/tests/clocktree/valid/derived_frequency_table.xml -text
 tools/ftl/tests/clocktree/valid/derived_frequency_table.xml.checks -text
 tools/ftl/tests/clocktree/valid/dividers_and_multipliers.xml -text
 tools/ftl/tests/clocktree/valid/dynamic_runtime_mux_inputs.xml -text
+tools/ftl/tests/clocktree/valid/enable_emission_cleanup.xml -text
+tools/ftl/tests/clocktree/valid/enable_emission_cleanup.xml.checks -text
 tools/ftl/tests/clocktree/valid/limits_with_conditional_states.xml -text
 tools/ftl/tests/clocktree/valid/manual_sources_and_bits.xml -text
 tools/ftl/tests/clocktree/valid/manual_sources_and_bits.xml.checks -text
