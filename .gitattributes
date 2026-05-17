@@ -7419,6 +7419,7 @@ tools/ftl/tests/clocktree/invalid/generator/divider_missing_default_boundary.xml
 tools/ftl/tests/clocktree/invalid/generator/duplicate_bits_target.xml -text
 tools/ftl/tests/clocktree/invalid/generator/duplicate_config_role.xml -text
 tools/ftl/tests/clocktree/invalid/generator/duplicate_sink_name.xml -text
+tools/ftl/tests/clocktree/invalid/generator/enable_default_on_auto_clock.xml -text
 tools/ftl/tests/clocktree/invalid/generator/incomplete_limit_model.xml -text
 tools/ftl/tests/clocktree/invalid/generator/limit_missing_maximum_boundary.xml -text
 tools/ftl/tests/clocktree/invalid/generator/limit_unexpected_minimum_boundary.xml -text
