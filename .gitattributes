@@ -1579,6 +1579,8 @@ demos/various/RT-ARMCM4-USELIB/main.c -text
 demos/various/RT-ARMCM4-USELIB/readme.txt -text
 demos/various/RT-ARMCM4-USELIB/rt/ch.h -text
 demos/various/RT-ARMCM4-USELIB/rt/libch.a -text
+demos/various/RT-ARMCR8-GENERIC/.cproject -text
+demos/various/RT-ARMCR8-GENERIC/.project -text
 demos/various/RT-ARMCR8-GENERIC/Makefile -text
 demos/various/RT-ARMCR8-GENERIC/main.c -text
 demos/various/RT-ARMCR8-GENERIC/readme.txt -text
@@ -2265,6 +2267,10 @@ os/common/ports/ARMv7-M/compilers/GCC/chcoreasm.S -text
 os/common/ports/ARMv7-M/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv7-M/compilers/IAR/chcoreasm.s -text
 os/common/ports/ARMv7-M/compilers/RVCT/chcoreasm.s -text
+os/common/ports/ARMv7-R/chcore.c -text
+os/common/ports/ARMv7-R/chcore.h -text
+os/common/ports/ARMv7-R/compilers/GCC/chcoreasm.S -text
+os/common/ports/ARMv7-R/compilers/GCC/mk/port.mk -text
 os/common/ports/ARMv8-M-ML-ALT/chcore.c -text
 os/common/ports/ARMv8-M-ML-ALT/chcore.h -text
 os/common/ports/ARMv8-M-ML-ALT/compilers/GCC/chcoreasm.S -text
