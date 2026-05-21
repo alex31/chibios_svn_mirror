@@ -1585,6 +1585,7 @@ demos/various/RT-ARMCR8-GENERIC/Makefile -text
 demos/various/RT-ARMCR8-GENERIC/cfg/chconf.h -text
 demos/various/RT-ARMCR8-GENERIC/main.c -text
 demos/various/RT-ARMCR8-GENERIC/readme.txt -text
+demos/various/RT-ARMCR8-GENERIC/renode.resc -text
 demos/various/RT-Posix-Simulator/.cproject -text
 demos/various/RT-Posix-Simulator/.project -text
 demos/various/RT-Posix-Simulator/Makefile -text
