@@ -2243,6 +2243,7 @@ os/common/portability/Keil/ccportab.h -text
 os/common/ports/ARM-common/arm-common.mk -text
 os/common/ports/ARM-common/include/chtypes.h -text
 os/common/ports/ARM-common/include/mpu_v7m.h -text
+os/common/ports/ARM-common/include/mpu_v7r.h -text
 os/common/ports/ARM-common/include/mpu_v8m.h -text
 os/common/ports/ARM/chcore.c -text
 os/common/ports/ARM/chcore.h -text
