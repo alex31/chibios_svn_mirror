@@ -7562,6 +7562,8 @@ tools/ftl/tests/clocktree/valid/bits_mask_merge.xml -text
 tools/ftl/tests/clocktree/valid/bits_mask_merge.xml.checks -text
 tools/ftl/tests/clocktree/valid/definitions.xml -text
 tools/ftl/tests/clocktree/valid/definitions.xml.checks -text
+tools/ftl/tests/clocktree/valid/derived_config_settings.xml -text
+tools/ftl/tests/clocktree/valid/derived_config_settings.xml.checks -text
 tools/ftl/tests/clocktree/valid/derived_frequency_table.xml -text
 tools/ftl/tests/clocktree/valid/derived_frequency_table.xml.checks -text
 tools/ftl/tests/clocktree/valid/divider_generated_selectors.xml -text
