@@ -7525,6 +7525,7 @@ tools/ftl/tests/clocktree/invalid/generator/divider_generated_selector_missing_s
 tools/ftl/tests/clocktree/invalid/generator/divider_missing_default_boundary.xml -text
 tools/ftl/tests/clocktree/invalid/generator/duplicate_bits_target.xml -text
 tools/ftl/tests/clocktree/invalid/generator/duplicate_config_role.xml -text
+tools/ftl/tests/clocktree/invalid/generator/duplicate_enum_item.xml -text
 tools/ftl/tests/clocktree/invalid/generator/duplicate_sink_name.xml -text
 tools/ftl/tests/clocktree/invalid/generator/enable_default_on_auto_clock.xml -text
 tools/ftl/tests/clocktree/invalid/generator/incomplete_limit_model.xml -text
@@ -7540,6 +7541,8 @@ tools/ftl/tests/clocktree/invalid/generator/mux_targeted_selection_bits.xml -tex
 tools/ftl/tests/clocktree/invalid/generator/mux_unknown_input.xml -text
 tools/ftl/tests/clocktree/invalid/generator/set_config_default_not_in_values.xml -text
 tools/ftl/tests/clocktree/invalid/schema/duplicate_clock_point.xml -text
+tools/ftl/tests/clocktree/invalid/schema/duplicate_definition.xml -text
+tools/ftl/tests/clocktree/invalid/schema/duplicate_enum.xml -text
 tools/ftl/tests/clocktree/invalid/schema/duplicate_source_clock_point.xml -text
 tools/ftl/tests/clocktree/invalid/schema/invalid_clock_enable_mode.xml -text
 tools/ftl/tests/clocktree/invalid/schema/missing_dynamic_attribute.xml -text
@@ -7554,6 +7557,8 @@ tools/ftl/tests/clocktree/invalid/schema/unknown_limit_reference.xml -text
 tools/ftl/tests/clocktree/run.sh -text
 tools/ftl/tests/clocktree/valid/bits_mask_merge.xml -text
 tools/ftl/tests/clocktree/valid/bits_mask_merge.xml.checks -text
+tools/ftl/tests/clocktree/valid/definitions.xml -text
+tools/ftl/tests/clocktree/valid/definitions.xml.checks -text
 tools/ftl/tests/clocktree/valid/derived_frequency_table.xml -text
 tools/ftl/tests/clocktree/valid/derived_frequency_table.xml.checks -text
 tools/ftl/tests/clocktree/valid/divider_generated_selectors.xml -text
