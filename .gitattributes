@@ -7521,6 +7521,7 @@ tools/ftl/tests/clocktree/invalid/generator/conditional_limit_mixes_direct_value
 tools/ftl/tests/clocktree/invalid/generator/derived_missing_frequency_definition.xml -text
 tools/ftl/tests/clocktree/invalid/generator/derived_mixes_fixed_and_table_frequencies.xml -text
 tools/ftl/tests/clocktree/invalid/generator/derived_unknown_input.xml -text
+tools/ftl/tests/clocktree/invalid/generator/divider_generated_selector_missing_selector.xml -text
 tools/ftl/tests/clocktree/invalid/generator/divider_missing_default_boundary.xml -text
 tools/ftl/tests/clocktree/invalid/generator/duplicate_bits_target.xml -text
 tools/ftl/tests/clocktree/invalid/generator/duplicate_config_role.xml -text
@@ -7532,6 +7533,8 @@ tools/ftl/tests/clocktree/invalid/generator/limit_unexpected_minimum_boundary.xm
 tools/ftl/tests/clocktree/invalid/generator/manual_clock_missing_bits.xml -text
 tools/ftl/tests/clocktree/invalid/generator/missing_dynamic_mode_role.xml -text
 tools/ftl/tests/clocktree/invalid/generator/mux_duplicate_inactive_selector.xml -text
+tools/ftl/tests/clocktree/invalid/generator/mux_generated_inactive_selector_missing_selector.xml -text
+tools/ftl/tests/clocktree/invalid/generator/mux_generated_selector_missing_value.xml -text
 tools/ftl/tests/clocktree/invalid/generator/mux_missing_default_input.xml -text
 tools/ftl/tests/clocktree/invalid/generator/mux_targeted_selection_bits.xml -text
 tools/ftl/tests/clocktree/invalid/generator/mux_unknown_input.xml -text
@@ -7553,6 +7556,8 @@ tools/ftl/tests/clocktree/valid/bits_mask_merge.xml -text
 tools/ftl/tests/clocktree/valid/bits_mask_merge.xml.checks -text
 tools/ftl/tests/clocktree/valid/derived_frequency_table.xml -text
 tools/ftl/tests/clocktree/valid/derived_frequency_table.xml.checks -text
+tools/ftl/tests/clocktree/valid/divider_generated_selectors.xml -text
+tools/ftl/tests/clocktree/valid/divider_generated_selectors.xml.checks -text
 tools/ftl/tests/clocktree/valid/dividers_and_multipliers.xml -text
 tools/ftl/tests/clocktree/valid/dynamic_runtime_mux_inputs.xml -text
 tools/ftl/tests/clocktree/valid/dynamic_runtime_mux_inputs.xml.checks -text
@@ -7562,6 +7567,10 @@ tools/ftl/tests/clocktree/valid/limits_with_conditional_states.xml -text
 tools/ftl/tests/clocktree/valid/manual_sources_and_bits.xml -text
 tools/ftl/tests/clocktree/valid/manual_sources_and_bits.xml.checks -text
 tools/ftl/tests/clocktree/valid/mux_default_and_disabled_bits.xml -text
+tools/ftl/tests/clocktree/valid/mux_generated_inactive_selector.xml -text
+tools/ftl/tests/clocktree/valid/mux_generated_inactive_selector.xml.checks -text
+tools/ftl/tests/clocktree/valid/mux_generated_selectors.xml -text
+tools/ftl/tests/clocktree/valid/mux_generated_selectors.xml.checks -text
 tools/ftl/tests/clocktree/valid/mux_inactive_selector.xml -text
 tools/ftl/tests/clocktree/valid/mux_inactive_selector.xml.checks -text
 tools/ftl/tests/clocktree/valid/sink_limits.xml -text
