@@ -4347,6 +4347,9 @@ os/hal/ports/STM32/STM32U3xx_TEST/stm32_isr.h -text
 os/hal/ports/STM32/STM32U3xx_TEST/stm32_limits.h -text
 os/hal/ports/STM32/STM32U3xx_TEST/stm32_rcc.h -text
 os/hal/ports/STM32/STM32U3xx_TEST/stm32_registry.h -text
+os/hal/ports/STM32/STM32U5xx/cfg/clocktree.xml -text
+os/hal/ports/STM32/STM32U5xx/cfg/config.fmpp -text
+os/hal/ports/STM32/STM32U5xx/clocktree.h -text
 os/hal/ports/STM32/STM32U5xx/hal_lld.c -text
 os/hal/ports/STM32/STM32U5xx/hal_lld.h -text
 os/hal/ports/STM32/STM32U5xx/platform.mk -text
