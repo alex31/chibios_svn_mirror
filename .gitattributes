@@ -7531,6 +7531,7 @@ tools/ftl/tests/clocktree/invalid/generator/limit_missing_maximum_boundary.xml -
 tools/ftl/tests/clocktree/invalid/generator/limit_unexpected_minimum_boundary.xml -text
 tools/ftl/tests/clocktree/invalid/generator/manual_clock_missing_bits.xml -text
 tools/ftl/tests/clocktree/invalid/generator/missing_dynamic_mode_role.xml -text
+tools/ftl/tests/clocktree/invalid/generator/mux_duplicate_inactive_selector.xml -text
 tools/ftl/tests/clocktree/invalid/generator/mux_missing_default_input.xml -text
 tools/ftl/tests/clocktree/invalid/generator/mux_targeted_selection_bits.xml -text
 tools/ftl/tests/clocktree/invalid/generator/mux_unknown_input.xml -text
@@ -7539,6 +7540,7 @@ tools/ftl/tests/clocktree/invalid/schema/duplicate_clock_point.xml -text
 tools/ftl/tests/clocktree/invalid/schema/duplicate_source_clock_point.xml -text
 tools/ftl/tests/clocktree/invalid/schema/invalid_clock_enable_mode.xml -text
 tools/ftl/tests/clocktree/invalid/schema/missing_dynamic_attribute.xml -text
+tools/ftl/tests/clocktree/invalid/schema/mux_inactive_missing_condition.xml -text
 tools/ftl/tests/clocktree/invalid/schema/old_clock_source_element.xml -text
 tools/ftl/tests/clocktree/invalid/schema/old_complex_element.xml -text
 tools/ftl/tests/clocktree/invalid/schema/old_consumers_element.xml -text
@@ -7560,6 +7562,8 @@ tools/ftl/tests/clocktree/valid/limits_with_conditional_states.xml -text
 tools/ftl/tests/clocktree/valid/manual_sources_and_bits.xml -text
 tools/ftl/tests/clocktree/valid/manual_sources_and_bits.xml.checks -text
 tools/ftl/tests/clocktree/valid/mux_default_and_disabled_bits.xml -text
+tools/ftl/tests/clocktree/valid/mux_inactive_selector.xml -text
+tools/ftl/tests/clocktree/valid/mux_inactive_selector.xml.checks -text
 tools/ftl/tests/clocktree/valid/sink_limits.xml -text
 tools/ftl/tests/clocktree/valid/sink_limits.xml.checks -text
 tools/ftl/tests/clocktree/valid/sinks_auto_enable.xml -text
